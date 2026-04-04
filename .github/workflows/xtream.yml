@@ -26,7 +26,7 @@ jobs:
 
       - name: Clone Private Py Repo
         run: |
-          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/tumsistem.git private_py
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
 
       - name: Install Shared Dependencies
         run: |
@@ -74,7 +74,7 @@ jobs:
 
       - name: Clone Private Py Repo
         run: |
-          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/tumsistem.git private_py
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
 
       - name: Install Shared Dependencies
         run: |
@@ -113,7 +113,7 @@ jobs:
 
       - name: Clone Private Py Repo
         run: |
-          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/tumsistem.git private_py
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
 
       - name: Install Shared Dependencies
         run: |
@@ -136,7 +136,7 @@ jobs:
 
       - name: Sync Outputs to Private Repos
         run: |
-          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/yabancidiziler.git private_yabancidiziler
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/yabancidiziler.git private_yabancidiziler
           rsync -a yabancidiziler/ private_yabancidiziler/
           cd private_yabancidiziler
           git config user.name "GitHub Actions"
@@ -165,7 +165,7 @@ jobs:
           python-version: '3.10'
 
       - name: Clone Private Py Repo
-        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/tumsistem.git private_py
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
 
       - name: Install Shared Dependencies
         run: |
@@ -178,7 +178,7 @@ jobs:
       - name: Sync Outputs to Private Repos
         run: |
           # Dizigom
-          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/dizigom.git private_dizigom
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/dizigom.git private_dizigom
           rsync -a dizigom/ private_dizigom/
           cd private_dizigom
           git config user.name "GitHub Actions"
@@ -207,7 +207,7 @@ jobs:
           python-version: '3.10'
 
       - name: Clone Private Py Repo
-        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/tumsistem.git private_py
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
 
       - name: Install Shared Dependencies
         run: |
@@ -220,7 +220,7 @@ jobs:
       - name: Sync Outputs to Private Repos
         run: |
           # Diziyoso
-          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/diziyoso.git private_diziyoso
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/diziyoso.git private_diziyoso
           rsync -a diziyoso/ private_diziyoso/
           cd private_diziyoso
           git config user.name "GitHub Actions"
@@ -249,7 +249,7 @@ jobs:
           python-version: '3.10'
 
       - name: Clone Private Py Repo
-        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/tumsistem.git private_py
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
 
       - name: Install Shared Dependencies
         run: |
@@ -262,7 +262,7 @@ jobs:
       - name: Sync Outputs to Private Repos
         run: |
           # Sezonlukdizi
-          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/sezonlukdizi.git private_sezonlukdizi
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/sezonlukdizi.git private_sezonlukdizi
           rsync -a sdizi/ private_sezonlukdizi/
           cd private_sezonlukdizi
           git config user.name "GitHub Actions"
@@ -291,7 +291,7 @@ jobs:
           python-version: '3.10'
 
       - name: Clone Private Py Repo
-        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/tumsistem.git private_py
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
 
       - name: Install Shared Dependencies
         run: |
@@ -304,7 +304,7 @@ jobs:
       - name: Sync Outputs to Private Repos
         run: |
           # AnimeHeaven
-          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/animeheaven.git private_animeheaven
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/animeheaven.git private_animeheaven
           rsync -a animeheaven/ private_animeheaven/
           cd private_animeheaven
           git config user.name "GitHub Actions"
@@ -333,7 +333,7 @@ jobs:
           python-version: '3.10'
 
       - name: Clone Private Py Repo
-        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/tumsistem.git private_py
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
 
       - name: Install Shared Dependencies
         run: |
@@ -371,7 +371,7 @@ jobs:
           python-version: '3.10'
 
       - name: Clone Private Py Repo
-        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/tumsistem.git private_py
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
 
       - name: Install Shared Dependencies
         run: |
@@ -399,7 +399,7 @@ jobs:
 
       - name: Sync M3U outputs to private repo
         run: |
-          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/m3ufile.git privaate_m3u8file
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/m3ufile.git privaate_m3u8file
 
           cp v/vavoo.m3u privaate_m3u8file/vavoo.m3u || echo "v/vavoo.m3u bulunamadı"
           cp sinewix_filmler.m3u privaate_m3u8file/sinewix_filmler.m3u || echo "sinewix_filmler bulunamadı"
@@ -446,7 +446,7 @@ jobs:
           python-version: '3.10'
 
       - name: Clone Private Py Repo
-        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/tumsistem.git private_py
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
 
       - name: Install Shared Dependencies
         run: |
@@ -458,7 +458,7 @@ jobs:
 
       - name: Sync JSON outputs to private repo
         run: |
-          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/m3ufile.git privaate_m3ufilee
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/m3ufile.git privaate_m3ufilee
           
           cp dizigom.m3u privaate_m3ufilee/dizigom.m3u || echo "dizigom.m3u bulunamadı"
           cp diziyoso.m3u privaate_m3ufilee/diziyoso.m3u || echo "diziyoso.m3u bulunamadı"
@@ -496,7 +496,7 @@ jobs:
           python-version: '3.10'
 
       - name: Clone Private Py Repo
-        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/tumsistem.git private_py
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
 
       - name: Install Shared Dependencies
         run: |
@@ -522,7 +522,7 @@ jobs:
             
 #      - name: Sync JSON outputs to private repo
 #        run: |
-#          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/xtreamjson.git privaate_xtreamjson
+#          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/xtreamjson.git privaate_xtreamjson
 
 #          cp xtream/live.json privaate_xtreamjson/live.json || echo "live.json bulunamadı"
 #          cp xtream/series.json privaate_xtreamjson/series.json || echo "series.json bulunamadı"
