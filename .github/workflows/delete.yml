@@ -1,0 +1,77 @@
+name: Delete Old Workflow Runs
+
+on:
+#  schedule:
+#    - cron: "0 0 * * *"  # Her gün gece 00:00'da çalışır (24 saatte bir)
+  workflow_dispatch:
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Python kurulumu
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Gerekli modülleri kur
+        run: pip install requests
+
+      - name: Eski workflow runlarını sil
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO_OWNER: ${{ github.repository_owner }}
+          REPO_NAME: ${{ github.event.repository.name }}
+        run: |
+          python - <<'EOF'
+          import requests
+          import os
+          import sys
+          import time
+
+          token = os.environ['GITHUB_TOKEN']
+          owner = os.environ['REPO_OWNER']
+          repo = os.environ['REPO_NAME']
+
+          headers = {
+              'Authorization': f'Bearer {token}',
+              'Accept': 'application/vnd.github.v3+json'
+          }
+
+          def get_runs():
+              runs = []
+              page = 1
+              while True:
+                  url = f'https://api.github.com/repos/{owner}/{repo}/actions/runs?page={page}&per_page=100'
+                  r = requests.get(url, headers=headers)
+                  if r.status_code != 200:
+                      print(f"Hata: {r.status_code} — {r.text}", flush=True)
+                      break
+                  data = r.json()
+                  if not data.get('workflow_runs'):
+                      break
+                  runs.extend(data['workflow_runs'])
+                  page += 1
+              return runs
+
+          def delete_run(run):
+              run_id = run['id']
+              name = run.get('name', 'Bilinmiyor')
+              status = run.get('status', 'N/A')
+              created = run.get('created_at', 'N/A')
+              url = f'https://api.github.com/repos/{owner}/{repo}/actions/runs/{run_id}'
+              r = requests.delete(url, headers=headers)
+              if r.status_code == 204:
+                  print(f"✅ Silindi: {name} | Durum: {status} | Tarih: {created} | ID: {run_id}", flush=True)
+              else:
+                  print(f"❌ Silinemedi: {name} ({run_id}) — {r.status_code} — {r.text}", flush=True)
+
+          runs = get_runs()
+          print(f"{len(runs)} adet run bulundu.", flush=True)
+          print("=" * 60, flush=True)
+
+          for run in runs:
+              delete_run(run)
+              time.sleep(0.2)  # GitHub API'ye aşırı yüklenmemek için hafif gecikme
+          EOF
