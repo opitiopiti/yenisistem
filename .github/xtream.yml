@@ -1,0 +1,560 @@
+name: FULL XTREAM SISTEMI
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */5 * * *'
+    
+jobs:
+  part1:
+    name: Json Olusturma
+    runs-on: ubuntu-latest
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: |
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/tumsistem.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp
+
+      - name: Run Dizigom JSON Script
+        run: python private_py/dizigom/dizigomjson.py || true
+
+      - name: Run Diziyoso JSON Script
+        run: python private_py/diziyoso/diziyosojson.py || true
+
+      - name: Run Sezonlukdizi JSON Script
+        run: python private_py/sezonlukdizi/sezonlukdizijson.py || true
+
+      - name: Run YabanciDiziler JSON Script
+        run: python private_py/yabancidiziler/yabancidizilerjson.py || true
+
+      - name: Commit and Push All JSONs to public repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add **/*.json || echo "No dizigom files"
+          git commit -m "ANA JSON güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+  part2:
+    name: Kategori Sistemi
+    runs-on: ubuntu-latest
+    needs: part1
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: |
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/tumsistem.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp
+
+      - name: Run series_kategori_guncelleme Script
+        run: python private_py/genelkodlar/category.py || true
+
+      - name: Commit and Push Ana JSONs to public repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add xtream/series_category.json || echo "No files"
+          git commit -m "Series Category JSON güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+  part3:
+    name: yabancidiziler - epg
+    runs-on: ubuntu-latest
+    needs: part2
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: |
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/tumsistem.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv httpx
+
+      - name: Run yabancidizileryenibolumler.py Script
+        run: python private_py/yabancidiziler/yabancidizileryenibolumler.py || true
+
+      - name: Run epg.py Script
+        run: python private_py/genelkodlar/gunlukepg.py || true
+
+      - name: Commit and Push EPG to public repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add xtream/tum_kanallar.xml xtream/tum_kanallar.gz yabancidiziler/*.json || echo "No files"
+          git commit -m "Günlük EPG ve Json güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+      - name: Sync Outputs to Private Repos
+        run: |
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/yabancidiziler.git private_yabancidiziler
+          rsync -a yabancidiziler/ private_yabancidiziler/
+          cd private_yabancidiziler
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "Yabancidiziler çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+          
+  part4:
+    name: dizigom
+    runs-on: ubuntu-latest
+    needs: part2
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+      
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/tumsistem.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv httpx
+          
+      - name: Run dizigomyenibolumler.py Script
+        run: python private_py/dizigom/dizigomyenibolumler.py || true
+
+      - name: Sync Outputs to Private Repos
+        run: |
+          # Dizigom
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/dizigom.git private_dizigom
+          rsync -a dizigom/ private_dizigom/
+          cd private_dizigom
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "Dizigom çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+  part5:
+    name: diziyoso
+    runs-on: ubuntu-latest
+    needs: part2
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+      
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/tumsistem.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv httpx
+          
+      - name: Run diziyosoyenibolumler.py Script
+        run: python private_py/diziyoso/diziyosoyenibolumler.py || true
+
+      - name: Sync Outputs to Private Repos
+        run: |
+          # Diziyoso
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/diziyoso.git private_diziyoso
+          rsync -a diziyoso/ private_diziyoso/
+          cd private_diziyoso
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "Diziyoso çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+  part6:
+    name: sezonlukdizi
+    runs-on: ubuntu-latest
+    needs: part2
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+      
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/tumsistem.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv httpx
+          
+      - name: Run sezonlukdiziyenibolumler.py Script
+        run: python private_py/sezonlukdizi/sezonlukdiziyenibolumler.py || true
+
+      - name: Sync Outputs to Private Repos
+        run: |
+          # Sezonlukdizi
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/sezonlukdizi.git private_sezonlukdizi
+          rsync -a sdizi/ private_sezonlukdizi/
+          cd private_sezonlukdizi
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "Sezonlukdizi çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+          
+  part7:
+    name: animeheaven
+    runs-on: ubuntu-latest
+    needs: part2
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+      
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/tumsistem.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv httpx
+          
+      - name: Run animeheavenyenibolumler.py Script
+        run: python private_py/animeheaven/yenibolumler.py || true
+
+      - name: Sync Outputs to Private Repos
+        run: |
+          # AnimeHeaven
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/animeheaven.git private_animeheaven
+          rsync -a animeheaven/ private_animeheaven/
+          cd private_animeheaven
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "AnimeHeaven çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+          
+  part8:
+    name: yenibolumdenanajsona 
+    runs-on: ubuntu-latest
+    needs: part3
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+      
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/tumsistem.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv httpx
+          
+      - name: Run yenibolumlerdenanajsona.py Script
+        run: python private_py/genelkodlar/yenibolumdenanajsona.py || true
+
+      - name: Commit and Push Ana JSONs to public repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add */*.json || echo "No files"
+          git commit -m "All Ana JSON güncellendi [auto]" || echo "No changes"
+          git push origin main
+          
+  part9:
+    name: vavoo - dizigomfilmler - sinewix
+    runs-on: ubuntu-latest
+    needs: part2
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+      
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/tumsistem.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv httpx
+          
+      - name: Run vavoo.py Script
+        run: python private_py/genelkodlar/vavoo.py || true
+
+      - name: Run sinewixanime.py Script
+        run: python private_py/sinewix/sinewixanimeler.py || true
+
+      - name: Run sinewixfilmler.py Script
+        run: python private_py/sinewix/sinewixfilmler.py || true
+        
+      - name: Run sinewixseries.py Script
+        run: python private_py/sinewix/sinewixseries.py || true
+        
+      - name: Run dizigomfilmler.py Script
+        run: python private_py/dizigom/dizigomfilmler.py || true
+
+      - name: Run dizibolyerli.py Script
+        run: python private_py/dizibol/yenibolumler.py || true
+
+
+      - name: Sync M3U outputs to private repo
+        run: |
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/m3ufile.git privaate_m3u8file
+
+          cp v/vavoo.m3u privaate_m3u8file/vavoo.m3u || echo "v/vavoo.m3u bulunamadı"
+          cp sinewix_filmler.m3u privaate_m3u8file/sinewix_filmler.m3u || echo "sinewix_filmler bulunamadı"
+          cp sinewix_animeler.m3u privaate_m3u8file/sinewix_animeler.m3u || echo "sinewix_animeler bulunamadı"
+          cp sinewix_diziler.m3u privaate_m3u8file/sinewix_diziler.m3u || echo "sinewix_diziler bulunamadı"
+          cp dizigomfilmler.m3u privaate_m3u8file/dizigomfilmler.m3u || echo "dizigomfilmler bulunamadı"
+          cp dizibolyerli.m3u privaate_m3u8file/dizibolyerli.m3u || echo "dizibolyerl bulunamadi"
+          
+          cd privaate_m3u8file
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Auto playlist update" || echo "No changes"
+          git push origin main
+          
+  part10:
+    name: xtreamsistemigecis
+    runs-on: ubuntu-latest
+    needs: [part1, part2, part3, part4 , part5 , part6, part7, part8, part9]  # Tüm partların tamamlanmasını bekle
+    steps:
+      - name: Wait and Transition to Python Code
+        run: |
+          echo "Waiting for 10 seconds..."
+          sleep 10
+          echo "Xtream sistem python kodlarına geçiş yapılıyor"
+          
+  part11:
+    name: tekm3uyapma
+    runs-on: ubuntu-latest
+    needs: part10
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+      
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/tumsistem.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv httpx
+          
+      - name: Run tekrepoyapma.py Script
+        run: python private_py/genelkodlar/repotekyapma.py || true
+
+      - name: Sync JSON outputs to private repo
+        run: |
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/m3ufile.git privaate_m3ufilee
+          
+          cp dizigom.m3u privaate_m3ufilee/dizigom.m3u || echo "dizigom.m3u bulunamadı"
+          cp diziyoso.m3u privaate_m3ufilee/diziyoso.m3u || echo "diziyoso.m3u bulunamadı"
+          cp sezonlukdizi.m3u privaate_m3ufilee/sezonlukdizi.m3u || echo "sezonlukdizi.m3u bulunamadı"
+          cp animeheaven.m3u privaate_m3ufilee/animeheaven.m3u || echo "animeheaven.m3u bulunamadi"
+          cp yabancidiziler.m3u privaate_m3ufilee/yabancidiziler.m3u || echo "yabancidiziler.m3u bulunamadi"     
+          
+          cd privaate_m3ufilee
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add *.m3u
+          git commit -m "Auto M3U playlist update" || echo "No changes"
+          git push origin main
+          
+  part12:
+    name: xtreamsistemijson
+    runs-on: ubuntu-latest
+    needs: part11
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+      R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
+      R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+      
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/tumsistem.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv httpx
+          
+      - name: Run livejson.py Script
+        run: python private_py/xtreamjson/livejsonmaker.py || true
+
+      - name: Run seriesjson.py Script
+        run: python private_py/xtreamjson/seriesjson.py || true
+
+      - name: Run vodjson.py Script
+        run: python private_py/xtreamjson/vodjsonmaker.py || true
+
+      - name: Commit and Push XTREAM numarasi JSONs to public repo
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add xtream/channel_id.json xtream/series_id.json xtream/vod_id.json || echo "No files"
+          git commit -m "All XTREAM JSON numaralari güncellendi [auto]" || echo "No changes"
+          git push origin main
+            
+#      - name: Sync JSON outputs to private repo
+#        run: |
+#          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/MDuymaz/xtreamjson.git privaate_xtreamjson
+
+#          cp xtream/live.json privaate_xtreamjson/live.json || echo "live.json bulunamadı"
+#          cp xtream/series.json privaate_xtreamjson/series.json || echo "series.json bulunamadı"
+#          cp xtream/vod.json privaate_xtreamjson/vod.json || echo "vod.json bulunamadı"
+          
+#          cd privaate_xtreamjson
+#          git config user.name "GitHub Actions"
+#          git config user.email "actions@github.com"
+#          git add .
+#          git commit -m "Auto JSON playlist update" || echo "No changes"
+#          git push origin main
+
+      - name: Install AWS CLI
+        run: |
+          pip install awscli
+
+      - name: Configure AWS for Cloudflare R2
+        run: |
+          aws configure set aws_access_key_id ${{ secrets.R2_ACCESS_KEY_ID }}
+          aws configure set aws_secret_access_key ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          aws configure set default.region auto
+
+      - name: Upload JSON files to Cloudflare R2
+        run: |
+          aws s3 cp xtream/live.json s3://iptv/live.json \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --content-type "application/json; charset=utf-8"
+
+          aws s3 cp xtream/series.json s3://iptv/series.json \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --content-type "application/json; charset=utf-8"
+      
+          aws s3 cp xtream/vod.json s3://iptv/vod.json \
+            --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
+            --content-type "application/json; charset=utf-8"
