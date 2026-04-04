@@ -1,4 +1,10 @@
 {
+  "/diziler/your-friends-neighbors.html": {
+    "group": "YOUR FRIENDS & NEIGHBORS",
+    "year": "2025",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg"
+  },
   "/diziler/to-your-eternity.html": {
     "group": "TO YOUR ETERNITY",
     "year": "2021",
@@ -76,11 +82,5 @@
     "year": "2025",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/12ybD4BvgSpmhSjknFPvf1Nu7CC.jpg"
-  },
-  "/diziler/dr-stone.html": {
-    "group": "DR. STONE",
-    "year": "2019",
-    "imdb": "8.2",
-    "poster": "https://image.tmdb.org/t/p/w500/ve1Sv3sVArmE0nlFjzadcNv1G8r.jpg"
   }
 }
