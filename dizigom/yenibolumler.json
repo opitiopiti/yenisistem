@@ -1,0 +1,44 @@
+{
+  "/dizi-izle/agent-from-above": {
+    "group": "AGENT FROM ABOVE",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/ShizRVGvyFCmGqv7tFA0hxzQ8E.jpg",
+    "imdb": 7.8
+  },
+  "/dizi-izle/high-tides": {
+    "group": "HIGH TIDES",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/aH4pbrLQJbjWytHOFhHlAi97zcu.jpg",
+    "imdb": 6.9
+  },
+  "/dizi-izle/sins-of-kujo": {
+    "group": "SINS OF KUJO",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/jgmYNLdKLNBN5p2vPKuqlpLfeDS.jpg",
+    "imdb": 6.0
+  },
+  "/dizi-izle/bloodhounds": {
+    "group": "BLOODHOUNDS",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/yLQQoseay2JXHZO9UVGA53i1HQ.jpg",
+    "imdb": 8.3
+  },
+  "/dizi-izle/gangs-of-galicia": {
+    "group": "GANGS OF GALICIA",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/yAltqHzzA1WhrN5HWCPbAgfI9xR.jpg",
+    "imdb": 6.892
+  },
+  "/dizi-izle/xo-kitty": {
+    "group": "XO, KITTY",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/hxvTdKAwv27PUfpXOQp6AwWr6V.jpg",
+    "imdb": 8.1
+  },
+  "/dizi-izle/the-bad-guys-the-series": {
+    "group": "THE BAD GUYS: THE SERIES",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/12ybD4BvgSpmhSjknFPvf1Nu7CC.jpg",
+    "imdb": 6.6
+  }
+}
