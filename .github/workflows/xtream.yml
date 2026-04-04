@@ -558,3 +558,21 @@ jobs:
           aws s3 cp xtream/vod.json s3://iptv/vod.json \
             --endpoint-url https://${{ secrets.R2_ACCOUNT_ID }}.r2.cloudflarestorage.com \
             --content-type "application/json; charset=utf-8"
+            
+  part13:
+   name: cachetemizlik-telegram
+   runs-on: ubuntu-latest
+   needs: part12
+   steps:
+    - name: Wait, Clean Cache and Transition
+      env:
+        CLEAN_CACHE: ${{ secrets.CLEAN_CACHE }}  # veya vars ise ${{ vars.CLEAN_CACHE }}
+      run: |
+      
+        echo "Cache temizleme isteği atılıyor..."
+        if [ -n "$CLEAN_CACHE" ]; then
+          curl -s -o /dev/null -w "%{http_code}" "$CLEAN_CACHE"
+          echo " -> Cache temizleme isteği gönderildi"
+        else
+          echo "CLEAN_CACHE tanımlı değil, atlanıyor"
+        fi
