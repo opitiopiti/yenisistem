@@ -1,4 +1,16 @@
 {
+  "/diziler/to-your-eternity.html": {
+    "group": "TO YOUR ETERNITY",
+    "year": "2021",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/lA2jRBubr2OLOlbkJXuBXYqv4A9.jpg"
+  },
+  "/diziler/phantom-lawyer.html": {
+    "group": "PHANTOM LAWYER",
+    "year": "2026",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg"
+  },
   "/diziler/gangs-of-galicia.html": {
     "group": "GANGS OF GALICIA",
     "year": "2024",
@@ -10,12 +22,6 @@
     "year": "2023",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/yLQQoseay2JXHZO9UVGA53i1HQ.jpg"
-  },
-  "/diziler/phantom-lawyer.html": {
-    "group": "PHANTOM LAWYER",
-    "year": "2026",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg"
   },
   "/diziler/ninjago-dragons-rising.html": {
     "group": "NINJAGO: DRAGONS RISING",
@@ -76,17 +82,5 @@
     "year": "2019",
     "imdb": "8.2",
     "poster": "https://image.tmdb.org/t/p/w500/ve1Sv3sVArmE0nlFjzadcNv1G8r.jpg"
-  },
-  "/diziler/xo-kitty.html": {
-    "group": "XO, KITTY",
-    "year": "2023",
-    "imdb": "6.8",
-    "poster": "https://image.tmdb.org/t/p/w500/hxvTdKAwv27PUfpXOQp6AwWr6V.jpg"
-  },
-  "/diziler/imperfect-women.html": {
-    "group": "IMPERFECT WOMEN",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg"
   }
 }
