@@ -1,4 +1,10 @@
 {
+  "/diziler/one-piece-izle.html": {
+    "group": "ONE PIECE",
+    "year": "1999",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
+  },
   "/diziler/girl-from-nowhere-the-reset.html": {
     "group": "GIRL FROM NOWHERE: THE RESET",
     "year": "2026",
@@ -76,11 +82,5 @@
     "year": "2024",
     "imdb": "7.6",
     "poster": "https://image.tmdb.org/t/p/w500/7lnNSbT90qwtrn1h9TvEkVFMz2P.jpg"
-  },
-  "/diziler/fire-country.html": {
-    "group": "FIRE COUNTRY",
-    "year": "2022",
-    "imdb": "7.2",
-    "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg"
   }
 }

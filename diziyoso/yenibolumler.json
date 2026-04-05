@@ -167,6 +167,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/58QebCJChV8FWXOEucf7PWsHyVz.jpg",
     "imdb": 6.7
   },
+  "/dizi/big-mistakes/": {
+    "group": "Big Mistakes",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/oJl0ymkX9mIECJOMU9ZmItfC0vC.jpg",
+    "imdb": 0.0
+  },
   "/dizi/alef/": {
     "group": "Alef",
     "year": 2020,
@@ -328,11 +334,5 @@
     "year": "2022",
     "poster": "https://image.tmdb.org/t/p/w500/jFXSdUd12KzpIKixEmTL0P7osxP.jpg",
     "imdb": 7.608
-  },
-  "/dizi/sin-i-rang-beom-nyul-sa-mu-so/": {
-    "group": "Sin-i-rang Beom-nyul-sa-mu-so",
-    "year": "2026",
-    "poster": "https://dzycdn.com/img/t/294x441/sin-i-rang-beom-nyul-sa-mu-so-2026.webp",
-    "imdb": 7.6
   }
 }

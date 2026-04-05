@@ -29368,5 +29368,11 @@
     "year": 2013,
     "poster": "https://image.tmdb.org/t/p/w500/qfPL2eOCO5aUsmxy2dYiEjT92nc.jpg",
     "imdb": 7.1
+  },
+  "/dizi/big-mistakes/": {
+    "group": "Big Mistakes",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/oJl0ymkX9mIECJOMU9ZmItfC0vC.jpg",
+    "imdb": 0.0
   }
 }
