@@ -244,8 +244,8 @@
   },
   "/dizi/beyond-paradise": {
     "group": "Beyond Paradise",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 2,
     "start_episode": 1,
     "year": "2023",
     "imdb": "7.3",
@@ -254,7 +254,7 @@
   "/dizi/boston-blue": {
     "group": "Boston Blue",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1,
     "year": "2025",
     "imdb": "6.9",
@@ -262,8 +262,8 @@
   },
   "/dizi/fire-country": {
     "group": "Fire Country",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 13,
     "start_episode": 1,
     "year": "2022",
     "imdb": "7.1",
@@ -272,7 +272,7 @@
   "/dizi/girl-from-nowhere-the-reset": {
     "group": "Girl from Nowhere: The Reset",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.4",
@@ -280,8 +280,8 @@
   },
   "/dizi/going-dutch": {
     "group": "Going Dutch",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 9,
     "start_episode": 1,
     "year": "2025",
     "imdb": "5.2",
@@ -289,8 +289,8 @@
   },
   "/dizi/happy-s-place": {
     "group": "Happy’s Place",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 14,
     "start_episode": 1,
     "year": "2024",
     "imdb": "5.3",
@@ -299,7 +299,7 @@
   "/dizi/sheriff-country": {
     "group": "Sheriff Country",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 13,
     "start_episode": 1,
     "year": "2025",
     "imdb": "7.2",
