@@ -1328,8 +1328,8 @@
   "3221": {
     "name": "STILL SHINING(2026) ALTYAZI",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1775260588
+    "last_episode": 10,
+    "last_modified": 1775373188
   },
   "3222": {
     "name": "STOVE LEAGUE(2019) ALTYAZI",
@@ -9800,8 +9800,8 @@
   "4633": {
     "name": "GIRL FROM NOWHERE: THE RESET(2026) ALTYAZI",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1775260588
+    "last_episode": 5,
+    "last_modified": 1775373188
   },
   "4634": {
     "name": "GLASS HEART(2025) ALTYAZI",
@@ -12008,8 +12008,8 @@
   "5001": {
     "name": "WOMEN'S HELL(2026) ALTYAZI",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1775260588
+    "last_episode": 5,
+    "last_modified": 1775373188
   },
   "5002": {
     "name": "WONDERBOYS: THE SECRET TREASURE OF NAPLES(2024) ALTYAZI",
@@ -43004,8 +43004,8 @@
   "10167": {
     "name": "DIGIMON BEATBREAK(2025) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 24,
-    "last_modified": 1775260588
+    "last_episode": 25,
+    "last_modified": 1775373188
   },
   "10168": {
     "name": "DOROHEDORO 2(2026) İNGİLİZCE",
@@ -45316,5 +45316,59 @@
     "last_season": 1,
     "last_episode": 13,
     "last_modified": 1775339408
+  },
+  "10553": {
+    "name": "ALEF(2020) YERLİ DİZİ",
+    "last_season": 2,
+    "last_episode": 8,
+    "last_modified": 1775373188
+  },
+  "10554": {
+    "name": "CHI SHEN(2026) ALTYAZI",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1775373188
+  },
+  "10555": {
+    "name": "COOP & CAMI ASK THE WORLD(2018) ALTYAZI",
+    "last_season": 2,
+    "last_episode": 28,
+    "last_modified": 1775373188
+  },
+  "10556": {
+    "name": "DAEBAKBUDONGSAN(2021) ALTYAZI",
+    "last_season": 1,
+    "last_episode": 16,
+    "last_modified": 1775373188
+  },
+  "10557": {
+    "name": "GEOMSANAEJEON(2019) ALTYAZI",
+    "last_season": 1,
+    "last_episode": 16,
+    "last_modified": 1775373188
+  },
+  "10558": {
+    "name": "JOOGOONUI TAEYANG(2013) ALTYAZI",
+    "last_season": 1,
+    "last_episode": 17,
+    "last_modified": 1775373188
+  },
+  "10559": {
+    "name": "KING FISHERS(2013) ALTYAZI",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1775373188
+  },
+  "10560": {
+    "name": "THE MUPPETS MAYHEM(2023) ALTYAZI",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1775373188
+  },
+  "10561": {
+    "name": "THE MUPPETS(2015) ALTYAZI",
+    "last_season": 1,
+    "last_episode": 16,
+    "last_modified": 1775373188
   }
 }
