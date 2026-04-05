@@ -1,4 +1,10 @@
 {
+  "/diziler/girl-from-nowhere-the-reset.html": {
+    "group": "GIRL FROM NOWHERE: THE RESET",
+    "year": "2026",
+    "imdb": "6.3",
+    "poster": "https://image.tmdb.org/t/p/w500/bRMEjZHvES9XLKSFVCtveFGdOHC.jpg"
+  },
   "/diziler/your-friends-neighbors.html": {
     "group": "YOUR FRIENDS & NEIGHBORS",
     "year": "2025",
@@ -76,11 +82,5 @@
     "year": "2022",
     "imdb": "7.2",
     "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg"
-  },
-  "/diziler/the-bad-guys-breaking-in.html": {
-    "group": "THE BAD GUYS: BREAKING IN",
-    "year": "2025",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/12ybD4BvgSpmhSjknFPvf1Nu7CC.jpg"
   }
 }

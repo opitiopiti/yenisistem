@@ -1,155 +1,65 @@
 {
-  "/dizi/9-1-1-nashville": {
-    "group": "9-1-1: Nashville",
+  "/dizi/beyond-paradise": {
+    "group": "Beyond Paradise",
     "last_season": 1,
-    "last_episode": 16,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/7zwbypEzcjOyNuTLSD43fTB9kR8.jpg"
+  },
+  "/dizi/boston-blue": {
+    "group": "Boston Blue",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1,
     "year": "2025",
-    "imdb": "5.6",
-    "poster": "https://image.tmdb.org/t/p/w500/4Dl0LysUOEWOhitzAfrKFkBeefu.jpg"
-  },
-  "/dizi/animal-control": {
-    "group": "Animal Control",
-    "last_season": 4,
-    "last_episode": 9,
-    "start_episode": 1,
-    "year": "2023",
-    "imdb": "6.6",
-    "poster": "https://image.tmdb.org/t/p/w500/h2dXm0CXMkycA9LrZbXMUD8SuTL.jpg"
-  },
-  "/dizi/clanes": {
-    "group": "Clanes",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2024",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/yAltqHzzA1WhrN5HWCPbAgfI9xR.jpg"
-  },
-  "/dizi/elsbeth": {
-    "group": "Elsbeth",
-    "last_season": 3,
-    "last_episode": 14,
-    "start_episode": 1,
-    "year": "2024",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/7lnNSbT90qwtrn1h9TvEkVFMz2P.jpg"
-  },
-  "/dizi/for-all-mankind": {
-    "group": "For All Mankind",
-    "last_season": 5,
-    "last_episode": 2,
-    "start_episode": 1,
-    "year": "2019",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
-  },
-  "/dizi/georgie-and-mandy-s-first-marriage": {
-    "group": "Georgie and Mandy’s First Marriage",
-    "last_season": 2,
-    "last_episode": 14,
-    "start_episode": 1,
-    "year": "2024",
-    "imdb": "7.1",
-    "poster": "https://image.tmdb.org/t/p/w500/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg"
-  },
-  "/dizi/jury-duty": {
-    "group": "Jury Duty",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "8.2",
-    "poster": "https://image.tmdb.org/t/p/w500/3CRKP1KJvloaUB89eDOAdFv3Tok.jpg"
-  },
-  "/dizi/knokke-off": {
-    "group": "Knokke Off",
-    "last_season": 3,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2023",
-    "imdb": "7.5",
-    "poster": "https://image.tmdb.org/t/p/w500/aH4pbrLQJbjWytHOFhHlAi97zcu.jpg"
-  },
-  "/dizi/maamla-legal-hai": {
-    "group": "Maamla Legal Hai",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2024",
-    "imdb": "8.9",
-    "poster": "https://image.tmdb.org/t/p/w500/tDP5vC5wxSpHKx88RdyRpdaSo2u.jpg"
-  },
-  "/dizi/matlock": {
-    "group": "Matlock",
-    "last_season": 2,
-    "last_episode": 12,
-    "start_episode": 1,
-    "year": "2024",
     "imdb": "6.9",
-    "poster": "https://image.tmdb.org/t/p/w500/6kEAVyhalzv4HCAfnLfXUcF3nQZ.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/8pyxutHxpgBt8ZwbIG2TZWCW394.jpg"
   },
-  "/dizi/monarch-legacy-of-monsters": {
-    "group": "Monarch: Legacy of Monsters",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2023",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg"
-  },
-  "/dizi/outlander": {
-    "group": "Outlander",
-    "last_season": 8,
-    "last_episode": 5,
-    "start_episode": 1,
-    "year": "2014",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/bxBmfyzK0ARF9hqf2pbFWsddH14.jpg"
-  },
-  "/dizi/piek-o-kobiet": {
-    "group": "Piekło Kobiet",
+  "/dizi/fire-country": {
+    "group": "Fire Country",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2022",
+    "imdb": "7.1",
+    "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg"
+  },
+  "/dizi/girl-from-nowhere-the-reset": {
+    "group": "Girl from Nowhere: The Reset",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1,
     "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/pWS7yvwCFQAgsQE1IjZMKTxe0wx.jpg"
+    "imdb": "6.4",
+    "poster": "https://image.tmdb.org/t/p/w500/bRMEjZHvES9XLKSFVCtveFGdOHC.jpg"
   },
-  "/dizi/privileges": {
-    "group": "Privilèges",
+  "/dizi/going-dutch": {
+    "group": "Going Dutch",
     "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/bFmWIfzkcuiDZ4WqkOfVaHb4pR8.jpg"
-  },
-  "/dizi/the-hunting-party": {
-    "group": "The Hunting Party",
-    "last_season": 2,
-    "last_episode": 8,
+    "last_episode": 0,
     "start_episode": 1,
     "year": "2025",
-    "imdb": "6.2",
-    "poster": "https://image.tmdb.org/t/p/w500/mjJMOLr966Q78YUPu0pVA0ydBIP.jpg"
+    "imdb": "5.2",
+    "poster": "https://image.tmdb.org/t/p/w500/jq0sB0UMVjRnAfYDQ9Wd1i4vt1L.jpg"
   },
-  "/dizi/the-last-thing-he-told-me": {
-    "group": "The Last Thing He Told Me",
-    "last_season": 2,
-    "last_episode": 7,
+  "/dizi/happy-s-place": {
+    "group": "Happy’s Place",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1,
-    "year": "2023",
-    "imdb": "6.6",
-    "poster": "https://image.tmdb.org/t/p/w500/sxRBl0zPdevzruEoIbsL2MMDkFN.jpg"
+    "year": "2024",
+    "imdb": "5.3",
+    "poster": "https://image.tmdb.org/t/p/w500/3dehoKPCwLwKTWATfzGqoJ2Psdl.jpg"
   },
-  "/dizi/your-friends-neighbors": {
-    "group": "Your Friends & Neighbors",
-    "last_season": 2,
-    "last_episode": 1,
+  "/dizi/sheriff-country": {
+    "group": "Sheriff Country",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1,
     "year": "2025",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/lxmNQ1392ClqU56W0kx2h2ONF4V.jpg"
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg"
   }
 }
