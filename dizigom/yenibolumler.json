@@ -1,21 +1,15 @@
 {
-  "/dizi-izle/womens-hell": {
-    "group": "WOMEN'S HELL",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/pWS7yvwCFQAgsQE1IjZMKTxe0wx.jpg",
-    "imdb": 7.0
+  "/dizi-izle/the-pitt": {
+    "group": "THE PITT",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+    "imdb": 8.693
   },
-  "/dizi-izle/still-shining": {
-    "group": "STILL SHINING",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/tVOq3YkCTnbrycnXHmth9f6qYs7.jpg",
-    "imdb": 7.8
-  },
-  "/dizi-izle/agent-from-above": {
-    "group": "AGENT FROM ABOVE",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/ShizRVGvyFCmGqv7tFA0hxzQ8E.jpg",
-    "imdb": 7.8
+  "/dizi-izle/bloodhounds": {
+    "group": "BLOODHOUNDS",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/yLQQoseay2JXHZO9UVGA53i1HQ.jpg",
+    "imdb": 8.3
   },
   "/dizi-izle/high-tides": {
     "group": "HIGH TIDES",
@@ -29,47 +23,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/bRMEjZHvES9XLKSFVCtveFGdOHC.jpg",
     "imdb": 8.7
   },
-  "/dizi-izle/bloodhounds": {
-    "group": "BLOODHOUNDS",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/yLQQoseay2JXHZO9UVGA53i1HQ.jpg",
-    "imdb": 8.3
-  },
-  "/dizi-izle/gangs-of-galicia": {
-    "group": "GANGS OF GALICIA",
-    "year": "2024",
-    "poster": "https://image.tmdb.org/t/p/w500/yAltqHzzA1WhrN5HWCPbAgfI9xR.jpg",
-    "imdb": 6.892
-  },
-  "/dizi-izle/jury-duty": {
-    "group": "JURY DUTY",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/ipiqT5uHeJudWy9ICSvuCby7NeI.jpg",
-    "imdb": 7.628
-  },
-  "/dizi-izle/the-pitt": {
-    "group": "THE PITT",
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-    "imdb": 8.693
-  },
   "/dizi-izle/privileges": {
     "group": "PRIVILEGES",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/bFmWIfzkcuiDZ4WqkOfVaHb4pR8.jpg",
     "imdb": 7.25
   },
-  "/dizi-izle/the-bad-guys-the-series": {
-    "group": "THE BAD GUYS: THE SERIES",
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/12ybD4BvgSpmhSjknFPvf1Nu7CC.jpg",
-    "imdb": 6.6
-  },
-  "/dizi-izle/sins-of-kujo": {
-    "group": "SINS OF KUJO",
+  "/dizi-izle/womens-hell": {
+    "group": "WOMEN'S HELL",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/jgmYNLdKLNBN5p2vPKuqlpLfeDS.jpg",
-    "imdb": 6.0
+    "poster": "https://image.tmdb.org/t/p/w500/pWS7yvwCFQAgsQE1IjZMKTxe0wx.jpg",
+    "imdb": 7.0
   },
   "/dizi-izle/phantom-lawyer": {
     "group": "PHANTOM LAWYER",
@@ -77,10 +41,46 @@
     "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg",
     "imdb": 7.5
   },
+  "/dizi-izle/gangs-of-galicia": {
+    "group": "GANGS OF GALICIA",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/yAltqHzzA1WhrN5HWCPbAgfI9xR.jpg",
+    "imdb": 6.892
+  },
+  "/dizi-izle/agent-from-above": {
+    "group": "AGENT FROM ABOVE",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/ShizRVGvyFCmGqv7tFA0hxzQ8E.jpg",
+    "imdb": 7.8
+  },
+  "/dizi-izle/jury-duty": {
+    "group": "JURY DUTY",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/ipiqT5uHeJudWy9ICSvuCby7NeI.jpg",
+    "imdb": 7.628
+  },
+  "/dizi-izle/the-bad-guys-the-series": {
+    "group": "THE BAD GUYS: THE SERIES",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/12ybD4BvgSpmhSjknFPvf1Nu7CC.jpg",
+    "imdb": 6.6
+  },
+  "/dizi-izle/still-shining": {
+    "group": "STILL SHINING",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/tVOq3YkCTnbrycnXHmth9f6qYs7.jpg",
+    "imdb": 7.8
+  },
   "/dizi-izle/xo-kitty": {
     "group": "XO, KITTY",
     "year": "2023",
     "poster": "https://image.tmdb.org/t/p/w500/hxvTdKAwv27PUfpXOQp6AwWr6V.jpg",
     "imdb": 8.1
+  },
+  "/dizi-izle/sins-of-kujo": {
+    "group": "SINS OF KUJO",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/jgmYNLdKLNBN5p2vPKuqlpLfeDS.jpg",
+    "imdb": 6.0
   }
 }
