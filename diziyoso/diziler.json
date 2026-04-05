@@ -39,7 +39,7 @@
     "group": "Sin-i-rang Beom-nyul-sa-mu-so",
     "year": "2026",
     "poster": "https://dzycdn.com/img/t/294x441/sin-i-rang-beom-nyul-sa-mu-so-2026.webp",
-    "imdb": 0.0
+    "imdb": 7.6
   },
   "/dizi/privileges/": {
     "group": "Privilèges",
@@ -29242,5 +29242,131 @@
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/aH4pbrLQJbjWytHOFhHlAi97zcu.jpg",
     "imdb": 6.8
+  },
+  "/dizi/alef/": {
+    "group": "Alef",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/k8kkhYmrbg8Mw6CWGfZmZwYQF3J.jpg",
+    "imdb": 7.8
+  },
+  "/dizi/raising-chelsea/": {
+    "group": "Raising Chelsea",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/t2PQBdA7nS7FLdl3l5ug2KymL99.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/alkhalati-the-series/": {
+    "group": "Alkhalati+: The Séries",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/163x245/alkhalati-the-series-2026.webp",
+    "imdb": 0.0
+  },
+  "/dizi/kujo-no-taizai/": {
+    "group": "Kujô no Taizai",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/jgmYNLdKLNBN5p2vPKuqlpLfeDS.jpg",
+    "imdb": 6.0
+  },
+  "/dizi/soy-luna/": {
+    "group": "Soy Luna",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/4JDmIzhNF7aMsDGlxVwkQ9kv9E6.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/dorohedoro/": {
+    "group": "Dorohedoro",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg",
+    "imdb": 8.0
+  },
+  "/dizi/call-it-love/": {
+    "group": "Call It Love",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/m7xiLb8mLyHHgThJICIPCsSq1qR.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/coop-cami-ask-the-world/": {
+    "group": "Coop & Cami Ask the World",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/kjognbnGtCQLDVz8XRdp06RmSOn.jpg",
+    "imdb": 5.8
+  },
+  "/dizi/the-muppets-mayhem/": {
+    "group": "The Muppets Mayhem",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/fxJrS7cXn5hK09xDuqp7isQOFXX.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/the-villains-of-valley-view/": {
+    "group": "The Villains of Valley View",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/7Q4QWFm2SOyjeJniHi8ncTRc2iU.jpg",
+    "imdb": 5.9
+  },
+  "/dizi/counterpart/": {
+    "group": "Counterpart",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/fVTpkoTkl7LJSoVCnuoHRPJvS4o.jpg",
+    "imdb": 8.0
+  },
+  "/dizi/the-miniature-wife/": {
+    "group": "The Miniature Wife",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/99SkFAS3S3iOtnplwH0byFUMiHK.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/unchosen/": {
+    "group": "Unchosen",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/6WXvDEJktEWfc4NqdxtjO8j4wT1.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/the-audacity/": {
+    "group": "The Audacity",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/the-muppets/": {
+    "group": "The Muppets",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/hFivVcGlNe99L4Zj6aGVB0iuE6t.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/geomsanaejeon/": {
+    "group": "Geomsanaejeon",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/smVnwTqUfdjDCySFOdRd99eXp7p.jpg",
+    "imdb": 8.0
+  },
+  "/dizi/ghost-doctor/": {
+    "group": "Ghost Doctor",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/1TWwuZR398ytSZX0RdsOyECu9sC.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/hyena/": {
+    "group": "Hyena",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/u6iQysC0Vl3SW4G6x9NjL9pfieD.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/daebakbudongsan/": {
+    "group": "Daebakbudongsan",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/iHjLfJScdNrFWXd15nZfsqHgkNx.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/joogoonui-taeyang/": {
+    "group": "Joogoonui Taeyang",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/8dNQTTHAirWwCpQM85amONPcZSA.jpg",
+    "imdb": 8.0
+  },
+  "/dizi/king-fishers/": {
+    "group": "King Fishers",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/qfPL2eOCO5aUsmxy2dYiEjT92nc.jpg",
+    "imdb": 7.1
   }
 }
