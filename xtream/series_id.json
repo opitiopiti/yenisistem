@@ -122,8 +122,8 @@
   "3020": {
     "name": "AMERICAN CLASSIC(2026) ALTYAZI",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1775260588
+    "last_episode": 7,
+    "last_modified": 1775425603
   },
   "3021": {
     "name": "AMERICA’S NATIONAL PARKS (KLASIK)(2015) ALTYAZI",
@@ -43166,8 +43166,8 @@
   "10194": {
     "name": "OEDO FIRE SLAYER: THE LEGEND OF PHOENIX(2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1775260588
+    "last_episode": 12,
+    "last_modified": 1775425603
   },
   "10195": {
     "name": "PETALS OF REINCARNATION(2026) İNGİLİZCE",
@@ -45224,8 +45224,8 @@
   "10537": {
     "name": "ONE PIECE(1999) ALTYAZI",
     "last_season": 21,
-    "last_episode": 1007,
-    "last_modified": 1775280460
+    "last_episode": 1156,
+    "last_modified": 1775425603
   },
   "10538": {
     "name": "BORUTO: NARUTO NEXT GENERATIONS(2017) ALTYAZI",
@@ -45382,5 +45382,35 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1775410072
+  },
+  "10564": {
+    "name": "ANONYMOUS NOISE(2017) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1775425603
+  },
+  "10565": {
+    "name": "GHOST CONCERT: MISSING SONGS(2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1775425603
+  },
+  "10566": {
+    "name": "INGOKU DANCHI: DEVIANT'S APARTMENT COMPLEX(2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1775425603
+  },
+  "10567": {
+    "name": "ONE PIECE(1999) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1156,
+    "last_modified": 1775425603
+  },
+  "10568": {
+    "name": "NIPPON SANGOKU(2026) ALTYAZI",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1775425603
   }
 }
