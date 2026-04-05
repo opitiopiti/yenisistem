@@ -2109,7 +2109,9 @@
     {"name": "AGENT FROM ABOVE", "year": "2026"},
     {"name": "KUJÔ NO TAIZAI", "year": "2026"},
     {"name": "ALKHALLAT+: THE SERIES", "year": "2026"},
-    {"name": "KUJO NO TAIZAI", "year": "2026"}
+    {"name": "KUJO NO TAIZAI", "year": "2026"},
+    {"name": "UNCHOSEN", "year": "2026"},
+    {"name": "CHI SHEN", "year": "2026"}
   ],
   "HBO DİZİLERİ": [
     {"name": "THE PITT", "year": "2025"},
@@ -3033,7 +3035,8 @@
     {"name": "GREEN MOTHERS’ CLUB", "year": "2022"},
     {"name": "RAIN OR SHINE", "year": "2017"},
     {"name": "MY LIBERATION DIARY", "year": "2022"},
-    {"name": "HELLO MY TWENTIES!", "year": "2016"}
+    {"name": "HELLO MY TWENTIES!", "year": "2016"},
+    {"name": "GEOMSANAEJEON", "year": "2019"}
   ],
   "SBS DİZİLERİ": [
     {"name": "PHANTOM LAWYER", "year": "2026"},
@@ -3488,7 +3491,10 @@
     {"name": "A REAL BUG’S LIFE", "year": "2024"},
     {"name": "THE MANDALORIAN", "year": "2019"},
     {"name": "RAISING CHELSEA", "year": "2026"},
-    {"name": "SI ES MARTES, ES ASESINATO", "year": "2026"}
+    {"name": "SI ES MARTES, ES ASESINATO", "year": "2026"},
+    {"name": "SOY LUNA", "year": "2016"},
+    {"name": "COOP & CAMI ASK THE WORLD", "year": "2018"},
+    {"name": "THE MUPPETS MAYHEM", "year": "2023"}
   ],
   "HUNAN TV DİZİLERİ": [
     {"name": "MIDSUMMER NIGHT", "year": "2013"},
@@ -4439,7 +4445,8 @@
     {"name": "FEAR THE WALKING DEAD: DEAD IN THE WATER", "year": "2022"},
     {"name": "ORPHAN BLACK: ECHOES", "year": "2024"},
     {"name": "FIREBITE", "year": "2021"},
-    {"name": "MAYFAIR WITCHES", "year": "2023"}
+    {"name": "MAYFAIR WITCHES", "year": "2023"},
+    {"name": "THE AUDACITY", "year": "2026"}
   ],
   "BET+ DİZİLERİ": [
     {"name": "LOVE YOU TO DEATH", "year": "2023"},
@@ -4874,7 +4881,8 @@
     {"name": "DON’T TRUST THE B—- IN APARTMENT 23", "year": "2012"},
     {"name": "DECEPTION", "year": "2018"},
     {"name": "ALEX, INC.", "year": "2018"},
-    {"name": "A MILLION LITTLE THINGS", "year": "2018"}
+    {"name": "A MILLION LITTLE THINGS", "year": "2018"},
+    {"name": "THE MUPPETS", "year": "2015"}
   ],
   "FX DİZİLERİ": [
     {"name": "THE OLD MAN", "year": "2022"},
@@ -5219,7 +5227,8 @@
     {"name": "BUST DOWN", "year": "2022"},
     {"name": "BUPKIS", "year": "2023"},
     {"name": "BEL-AIR", "year": "2022"},
-    {"name": "ANGELYNE", "year": "2022"}
+    {"name": "ANGELYNE", "year": "2022"},
+    {"name": "THE MINIATURE WIFE", "year": "2026"}
   ],
   "ENA DİZİLERİ": [
     {"name": "TASTEFULLY YOURS", "year": "2025"},
@@ -5857,7 +5866,8 @@
     {"name": "HWAN HON", "year": "1994"},
     {"name": "GWANG-JANG", "year": "1996"},
     {"name": "BEAUTY AND MR. ROMANTIC", "year": "2024"},
-    {"name": "RESURRECTION", "year": "2005"}
+    {"name": "RESURRECTION", "year": "2005"},
+    {"name": "DAEBAKBUDONGSAN", "year": "2021"}
   ],
   "HEAVENLY DİZİLERİ": [
     {"name": "HEESU IN CLASS 2", "year": "2025"},
@@ -6140,7 +6150,8 @@
     {"name": "ERASED: WW2’S HEROES OF COLOR", "year": "2024"},
     {"name": "COSMOS", "year": "1980"},
     {"name": "COSMOS: A PERSONAL VOYAGE", "year": "1980"},
-    {"name": "7 TOUGHEST DAYS", "year": "2023"}
+    {"name": "7 TOUGHEST DAYS", "year": "2023"},
+    {"name": "KING FISHERS", "year": "2013"}
   ],
   "RTL5 DİZİLERİ": [
     {"name": "4 EVER", "year": "2026"}
@@ -7702,7 +7713,8 @@
   ],
   "BLUTV DİZİLERİ": [
     {"name": "İLK VE SON", "year": "2021"},
-    {"name": "BONKIS", "year": "2021"}
+    {"name": "BONKIS", "year": "2021"},
+    {"name": "ALEF", "year": "2020"}
   ],
   "ATV DİZİLERİ": [
     {"name": "KAÇAK", "year": "2013"},
