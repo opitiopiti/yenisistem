@@ -3687,25 +3687,25 @@
   <programme start="20260405133000 +0000" stop="20260405170000 +0000" channel="TV8 RAW">
     <title>SURVIVOR PANORAMA</title>
   </programme>
-  <programme start="20260405170000 +0000" stop="20260405233000 +0000" channel="4K TR: TV8 HD">
+  <programme start="20260405170000 +0000" stop="20260405211500 +0000" channel="4K TR: TV8 HD">
     <title>SURVIVOR 2026 ÜNLÜLER - GÖNÜLLÜLER</title>
   </programme>
-  <programme start="20260405170000 +0000" stop="20260405233000 +0000" channel="TV 8">
+  <programme start="20260405170000 +0000" stop="20260405211500 +0000" channel="TV 8">
     <title>SURVIVOR 2026 ÜNLÜLER - GÖNÜLLÜLER</title>
   </programme>
-  <programme start="20260405170000 +0000" stop="20260405233000 +0000" channel="TV 8 HD">
+  <programme start="20260405170000 +0000" stop="20260405211500 +0000" channel="TV 8 HD">
     <title>SURVIVOR 2026 ÜNLÜLER - GÖNÜLLÜLER</title>
   </programme>
-  <programme start="20260405170000 +0000" stop="20260405233000 +0000" channel="TV 8 HEVC">
+  <programme start="20260405170000 +0000" stop="20260405211500 +0000" channel="TV 8 HEVC">
     <title>SURVIVOR 2026 ÜNLÜLER - GÖNÜLLÜLER</title>
   </programme>
-  <programme start="20260405170000 +0000" stop="20260405233000 +0000" channel="TV 8 SD">
+  <programme start="20260405170000 +0000" stop="20260405211500 +0000" channel="TV 8 SD">
     <title>SURVIVOR 2026 ÜNLÜLER - GÖNÜLLÜLER</title>
   </programme>
-  <programme start="20260405170000 +0000" stop="20260405233000 +0000" channel="TV8 FHD">
+  <programme start="20260405170000 +0000" stop="20260405211500 +0000" channel="TV8 FHD">
     <title>SURVIVOR 2026 ÜNLÜLER - GÖNÜLLÜLER</title>
   </programme>
-  <programme start="20260405170000 +0000" stop="20260405233000 +0000" channel="TV8 RAW">
+  <programme start="20260405170000 +0000" stop="20260405211500 +0000" channel="TV8 RAW">
     <title>SURVIVOR 2026 ÜNLÜLER - GÖNÜLLÜLER</title>
   </programme>
   <programme start="20260404214500 +0000" stop="20260404231500 +0000" channel="360">
@@ -4969,22 +4969,22 @@
     <title>BELMA BELEN'LE GEZIYORUZ</title>
   </programme>
   <programme start="20260405153000 +0000" stop="20260405163000 +0000" channel="4K TR: BEYAZ TV HD">
-    <title>BEYAZ ANA HABER</title>
+    <title>HAFTA SONU ANA HABER</title>
   </programme>
   <programme start="20260405153000 +0000" stop="20260405163000 +0000" channel="BEYAZ TV">
-    <title>BEYAZ ANA HABER</title>
+    <title>HAFTA SONU ANA HABER</title>
   </programme>
   <programme start="20260405153000 +0000" stop="20260405163000 +0000" channel="BEYAZ TV FHD">
-    <title>BEYAZ ANA HABER</title>
+    <title>HAFTA SONU ANA HABER</title>
   </programme>
   <programme start="20260405153000 +0000" stop="20260405163000 +0000" channel="BEYAZ TV HD">
-    <title>BEYAZ ANA HABER</title>
+    <title>HAFTA SONU ANA HABER</title>
   </programme>
   <programme start="20260405153000 +0000" stop="20260405163000 +0000" channel="BEYAZ TV HEVC">
-    <title>BEYAZ ANA HABER</title>
+    <title>HAFTA SONU ANA HABER</title>
   </programme>
   <programme start="20260405153000 +0000" stop="20260405163000 +0000" channel="BEYAZ TV RAW">
-    <title>BEYAZ ANA HABER</title>
+    <title>HAFTA SONU ANA HABER</title>
   </programme>
   <programme start="20260405163000 +0000" stop="20260405183000 +0000" channel="4K TR: BEYAZ TV HD">
     <title>KARTAL GÖZ</title>
@@ -37010,132 +37010,6 @@
   </programme>
   <programme start="20260405203000 +0000" stop="20260405213000 +0000" channel="TRT TÜRK">
     <title>GÖNLÜMDEKI KÖLN</title>
-  </programme>
-  <programme start="20260404210000 +0000" stop="20260404220000 +0000" channel="TRT ARABIA">
-    <title>NEWS</title>
-  </programme>
-  <programme start="20260404220000 +0000" stop="20260404224000 +0000" channel="TRT ARABIA">
-    <title>NEWS</title>
-  </programme>
-  <programme start="20260404224000 +0000" stop="20260404230000 +0000" channel="TRT ARABIA">
-    <title>DOCUMENTARY</title>
-  </programme>
-  <programme start="20260404230000 +0000" stop="20260404233000 +0000" channel="TRT ARABIA">
-    <title>NEWS</title>
-  </programme>
-  <programme start="20260404233000 +0000" stop="20260405000000 +0000" channel="TRT ARABIA">
-    <title>FOR MY RIGHT</title>
-  </programme>
-  <programme start="20260405000000 +0000" stop="20260405003000 +0000" channel="TRT ARABIA">
-    <title>NEWS</title>
-  </programme>
-  <programme start="20260405003000 +0000" stop="20260405010000 +0000" channel="TRT ARABIA">
-    <title>I SEE GAZA</title>
-  </programme>
-  <programme start="20260405010000 +0000" stop="20260405014000 +0000" channel="TRT ARABIA">
-    <title>NEWS</title>
-  </programme>
-  <programme start="20260405014000 +0000" stop="20260405020000 +0000" channel="TRT ARABIA">
-    <title>AFTER THE TOUFAN</title>
-  </programme>
-  <programme start="20260405020000 +0000" stop="20260405023000 +0000" channel="TRT ARABIA">
-    <title>NEWS</title>
-  </programme>
-  <programme start="20260405023000 +0000" stop="20260405030000 +0000" channel="TRT ARABIA">
-    <title>DOCUMENTARY</title>
-  </programme>
-  <programme start="20260405030000 +0000" stop="20260405033000 +0000" channel="TRT ARABIA">
-    <title>NEWS</title>
-  </programme>
-  <programme start="20260405033000 +0000" stop="20260405040000 +0000" channel="TRT ARABIA">
-    <title>FOR MY RIGHT</title>
-  </programme>
-  <programme start="20260405040000 +0000" stop="20260405044000 +0000" channel="TRT ARABIA">
-    <title>NEWS</title>
-  </programme>
-  <programme start="20260405044000 +0000" stop="20260405050000 +0000" channel="TRT ARABIA">
-    <title>AFTER AL ASSAD</title>
-  </programme>
-  <programme start="20260405050000 +0000" stop="20260405054000 +0000" channel="TRT ARABIA">
-    <title>NEWS</title>
-  </programme>
-  <programme start="20260405054000 +0000" stop="20260405060000 +0000" channel="TRT ARABIA">
-    <title>AFTER THE TOUFAN</title>
-  </programme>
-  <programme start="20260405060000 +0000" stop="20260405070000 +0000" channel="TRT ARABIA">
-    <title>NEWS</title>
-  </programme>
-  <programme start="20260405070000 +0000" stop="20260405074000 +0000" channel="TRT ARABIA">
-    <title>NEWS</title>
-  </programme>
-  <programme start="20260405074000 +0000" stop="20260405080000 +0000" channel="TRT ARABIA">
-    <title>FOR MY RIGHT</title>
-  </programme>
-  <programme start="20260405080000 +0000" stop="20260405090000 +0000" channel="TRT ARABIA">
-    <title>NEWS</title>
-  </programme>
-  <programme start="20260405090000 +0000" stop="20260405094000 +0000" channel="TRT ARABIA">
-    <title>NEWS</title>
-  </programme>
-  <programme start="20260405094000 +0000" stop="20260405100000 +0000" channel="TRT ARABIA">
-    <title>DOCUMENTARY</title>
-  </programme>
-  <programme start="20260405100000 +0000" stop="20260405103000 +0000" channel="TRT ARABIA">
-    <title>NEWS</title>
-  </programme>
-  <programme start="20260405103000 +0000" stop="20260405110000 +0000" channel="TRT ARABIA">
-    <title>NEW HAGANAH</title>
-  </programme>
-  <programme start="20260405110000 +0000" stop="20260405114000 +0000" channel="TRT ARABIA">
-    <title>NEWS</title>
-  </programme>
-  <programme start="20260405114000 +0000" stop="20260405120000 +0000" channel="TRT ARABIA">
-    <title>AFTER AL ASSAD</title>
-  </programme>
-  <programme start="20260405120000 +0000" stop="20260405130000 +0000" channel="TRT ARABIA">
-    <title>NEWS</title>
-  </programme>
-  <programme start="20260405130000 +0000" stop="20260405134000 +0000" channel="TRT ARABIA">
-    <title>NEWS</title>
-  </programme>
-  <programme start="20260405134000 +0000" stop="20260405140000 +0000" channel="TRT ARABIA">
-    <title>DOCUMENTARY</title>
-  </programme>
-  <programme start="20260405140000 +0000" stop="20260405143000 +0000" channel="TRT ARABIA">
-    <title>NEWS</title>
-  </programme>
-  <programme start="20260405143000 +0000" stop="20260405150000 +0000" channel="TRT ARABIA">
-    <title>I SEE GAZA</title>
-  </programme>
-  <programme start="20260405150000 +0000" stop="20260405154000 +0000" channel="TRT ARABIA">
-    <title>NEWS</title>
-  </programme>
-  <programme start="20260405154000 +0000" stop="20260405160000 +0000" channel="TRT ARABIA">
-    <title>AFTER THE TOUFAN</title>
-  </programme>
-  <programme start="20260405160000 +0000" stop="20260405164000 +0000" channel="TRT ARABIA">
-    <title>NEWS</title>
-  </programme>
-  <programme start="20260405164000 +0000" stop="20260405170000 +0000" channel="TRT ARABIA">
-    <title>DOCUMENTARY</title>
-  </programme>
-  <programme start="20260405170000 +0000" stop="20260405180000 +0000" channel="TRT ARABIA">
-    <title>NEWS</title>
-  </programme>
-  <programme start="20260405180000 +0000" stop="20260405183000 +0000" channel="TRT ARABIA">
-    <title>NEWS</title>
-  </programme>
-  <programme start="20260405183000 +0000" stop="20260405190000 +0000" channel="TRT ARABIA">
-    <title>AFTER AL ASSAD</title>
-  </programme>
-  <programme start="20260405190000 +0000" stop="20260405200000 +0000" channel="TRT ARABIA">
-    <title>NEWS</title>
-  </programme>
-  <programme start="20260405200000 +0000" stop="20260405204000 +0000" channel="TRT ARABIA">
-    <title>NEWS</title>
-  </programme>
-  <programme start="20260405204000 +0000" stop="20260405210000 +0000" channel="TRT ARABIA">
-    <title>AFTER THE TOUFAN</title>
   </programme>
   <programme start="20260404213000 +0000" stop="20260404220000 +0000" channel="4K TR: TRT AVAZ">
     <title>AVAZ GÜNDEM</title>
