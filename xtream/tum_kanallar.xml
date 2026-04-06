@@ -4329,23 +4329,23 @@
   <programme start="20260406153000 +0000" stop="20260406163000 +0000" channel="TLC TV">
     <title>BU EV BENIM MI?</title>
   </programme>
-  <programme start="20260406163000 +0000" stop="20260406183000 +0000" channel="TLC">
+  <programme start="20260406163000 +0000" stop="20260406182000 +0000" channel="TLC">
     <title>AĞIR YAŞAMLAR</title>
   </programme>
-  <programme start="20260406163000 +0000" stop="20260406183000 +0000" channel="TLC TV">
+  <programme start="20260406163000 +0000" stop="20260406182000 +0000" channel="TLC TV">
     <title>AĞIR YAŞAMLAR</title>
   </programme>
-  <programme start="20260406183000 +0000" stop="20260406203000 +0000" channel="TLC">
+  <programme start="20260406182000 +0000" stop="20260406202500 +0000" channel="TLC">
     <title>ZAMAN TÜKENIYOR</title>
   </programme>
-  <programme start="20260406183000 +0000" stop="20260406203000 +0000" channel="TLC TV">
+  <programme start="20260406182000 +0000" stop="20260406202500 +0000" channel="TLC TV">
     <title>ZAMAN TÜKENIYOR</title>
   </programme>
-  <programme start="20260406203000 +0000" stop="20260406223000 +0000" channel="TLC">
-    <title>AĞIR YAŞAMLAR</title>
+  <programme start="20260406202500 +0000" stop="20260406221500 +0000" channel="TLC">
+    <title>TLC</title>
   </programme>
-  <programme start="20260406203000 +0000" stop="20260406223000 +0000" channel="TLC TV">
-    <title>AĞIR YAŞAMLAR</title>
+  <programme start="20260406202500 +0000" stop="20260406221500 +0000" channel="TLC TV">
+    <title>TLC</title>
   </programme>
   <programme start="20260405213000 +0000" stop="20260405222000 +0000" channel="CNBC-E">
     <title>SERDA ILE MASADAKI SIRLAR</title>
@@ -24714,6 +24714,66 @@
   <programme start="20260406205500 +0000" stop="20260406211000 +0000" channel="CARTOONITO">
     <title>KRAL ŞAKIR</title>
   </programme>
+  <programme start="20260406155100 +0000" stop="20260406160300 +0000" channel="NICKELODEON">
+    <title>GÜRÜLTÜ AILESI</title>
+  </programme>
+  <programme start="20260406155100 +0000" stop="20260406160300 +0000" channel="NICKELODEON HD">
+    <title>GÜRÜLTÜ AILESI</title>
+  </programme>
+  <programme start="20260406160300 +0000" stop="20260406162700 +0000" channel="NICKELODEON">
+    <title>GÜRÜLTÜ AILESI</title>
+  </programme>
+  <programme start="20260406160300 +0000" stop="20260406162700 +0000" channel="NICKELODEON HD">
+    <title>GÜRÜLTÜ AILESI</title>
+  </programme>
+  <programme start="20260406162700 +0000" stop="20260406165100 +0000" channel="NICKELODEON">
+    <title>GÜRÜLTÜ AILESI</title>
+  </programme>
+  <programme start="20260406162700 +0000" stop="20260406165100 +0000" channel="NICKELODEON HD">
+    <title>GÜRÜLTÜ AILESI</title>
+  </programme>
+  <programme start="20260406165100 +0000" stop="20260406172600 +0000" channel="NICKELODEON">
+    <title>GÜRÜLTÜ AILESI</title>
+  </programme>
+  <programme start="20260406165100 +0000" stop="20260406172600 +0000" channel="NICKELODEON HD">
+    <title>GÜRÜLTÜ AILESI</title>
+  </programme>
+  <programme start="20260406172600 +0000" stop="20260406175000 +0000" channel="NICKELODEON">
+    <title>YILDIRIM AILESI GIZLI GÖREVDE</title>
+  </programme>
+  <programme start="20260406172600 +0000" stop="20260406175000 +0000" channel="NICKELODEON HD">
+    <title>YILDIRIM AILESI GIZLI GÖREVDE</title>
+  </programme>
+  <programme start="20260406175000 +0000" stop="20260406181400 +0000" channel="NICKELODEON">
+    <title>RISK AVCISI HENRI</title>
+  </programme>
+  <programme start="20260406175000 +0000" stop="20260406181400 +0000" channel="NICKELODEON HD">
+    <title>RISK AVCISI HENRI</title>
+  </programme>
+  <programme start="20260406181400 +0000" stop="20260406183700 +0000" channel="NICKELODEON">
+    <title>RISK AVCISI HENRI</title>
+  </programme>
+  <programme start="20260406181400 +0000" stop="20260406183700 +0000" channel="NICKELODEON HD">
+    <title>RISK AVCISI HENRI</title>
+  </programme>
+  <programme start="20260406183700 +0000" stop="20260406203800 +0000" channel="NICKELODEON">
+    <title>RISK TAKIMI</title>
+  </programme>
+  <programme start="20260406183700 +0000" stop="20260406203800 +0000" channel="NICKELODEON HD">
+    <title>RISK TAKIMI</title>
+  </programme>
+  <programme start="20260406203800 +0000" stop="20260406205900 +0000" channel="NICKELODEON">
+    <title>NINJA KAPLUMBAĞALAR'IN MACERALARI</title>
+  </programme>
+  <programme start="20260406203800 +0000" stop="20260406205900 +0000" channel="NICKELODEON HD">
+    <title>NINJA KAPLUMBAĞALAR'IN MACERALARI</title>
+  </programme>
+  <programme start="20260406205900 +0000" stop="20260406212300 +0000" channel="NICKELODEON">
+    <title>NINJA KAPLUMBAĞALAR'IN MACERALARI</title>
+  </programme>
+  <programme start="20260406205900 +0000" stop="20260406212300 +0000" channel="NICKELODEON HD">
+    <title>NINJA KAPLUMBAĞALAR'IN MACERALARI</title>
+  </programme>
   <programme start="20260405210500 +0000" stop="20260405212700 +0000" channel="NICKTOONS">
     <title>ALVINNN!!! AND THE CHIPMUNKS</title>
   </programme>
@@ -38658,8 +38718,11 @@
   <programme start="20260406140000 +0000" stop="20260406150000 +0000" channel="KON TV">
     <title>SANAL BAHISLE MÜCADELE</title>
   </programme>
-  <programme start="20260406150000 +0000" stop="20260406163000 +0000" channel="KON TV">
+  <programme start="20260406150000 +0000" stop="20260406160000 +0000" channel="KON TV">
     <title>DÜZLEM</title>
+  </programme>
+  <programme start="20260406160000 +0000" stop="20260406163000 +0000" channel="KON TV">
+    <title>SICAK SAATLER</title>
   </programme>
   <programme start="20260406163000 +0000" stop="20260406174000 +0000" channel="KON TV">
     <title>ANA HABER</title>
@@ -38667,7 +38730,10 @@
   <programme start="20260406174000 +0000" stop="20260406184000 +0000" channel="KON TV">
     <title>SORA SORA YARIŞMA</title>
   </programme>
-  <programme start="20260406184000 +0000" stop="20260406210000 +0000" channel="KON TV">
+  <programme start="20260406184000 +0000" stop="20260406200000 +0000" channel="KON TV">
+    <title>SPOR GÜNDEMI</title>
+  </programme>
+  <programme start="20260406200000 +0000" stop="20260407040000 +0000" channel="KON TV">
     <title>SPOR GÜNDEMI</title>
   </programme>
   <programme start="20260405210000 +0000" stop="20260406050000 +0000" channel="KANAL 23">
@@ -39303,18 +39369,6 @@
   <programme start="20260406204500 +0000" stop="20260406210000 +0000" channel="GENC TV">
     <title>REKLAM</title>
   </programme>
-  <programme start="20260405210000 +0000" stop="20260406030000 +0000" channel="KIBRIS TV">
-    <title>KIBRIS TV</title>
-  </programme>
-  <programme start="20260406030000 +0000" stop="20260406090000 +0000" channel="KIBRIS TV">
-    <title>KIBRIS TV</title>
-  </programme>
-  <programme start="20260406090000 +0000" stop="20260406150000 +0000" channel="KIBRIS TV">
-    <title>KIBRIS TV</title>
-  </programme>
-  <programme start="20260406150000 +0000" stop="20260406210000 +0000" channel="KIBRIS TV">
-    <title>KIBRIS TV</title>
-  </programme>
   <programme start="20260405210000 +0000" stop="20260406030000 +0000" channel="KANAL T">
     <title>KANAL T</title>
   </programme>
@@ -39326,62 +39380,5 @@
   </programme>
   <programme start="20260406150000 +0000" stop="20260406210000 +0000" channel="KANAL T">
     <title>KANAL T</title>
-  </programme>
-  <programme start="20260405210000 +0000" stop="20260405230000 +0000" channel="KIBRIS ADA TV">
-    <title>TAVUKÇU SHOW</title>
-  </programme>
-  <programme start="20260405230000 +0000" stop="20260406010000 +0000" channel="KIBRIS ADA TV">
-    <title>ADA BELGESEL</title>
-  </programme>
-  <programme start="20260406010000 +0000" stop="20260406030000 +0000" channel="KIBRIS ADA TV">
-    <title>GÜNDEM ÖZEL</title>
-  </programme>
-  <programme start="20260406030000 +0000" stop="20260406050000 +0000" channel="KIBRIS ADA TV">
-    <title>MÜZIKALITE</title>
-  </programme>
-  <programme start="20260406050000 +0000" stop="20260406060500 +0000" channel="KIBRIS ADA TV">
-    <title>GÜNAYDIN ADA</title>
-  </programme>
-  <programme start="20260406060500 +0000" stop="20260406071500 +0000" channel="KIBRIS ADA TV">
-    <title>GÜNAYDIN ADA</title>
-  </programme>
-  <programme start="20260406071500 +0000" stop="20260406080000 +0000" channel="KIBRIS ADA TV">
-    <title>HABER AJANSI</title>
-  </programme>
-  <programme start="20260406080000 +0000" stop="20260406090000 +0000" channel="KIBRIS ADA TV">
-    <title>AYŞE TURAL İLE ADA SANAT</title>
-  </programme>
-  <programme start="20260406090000 +0000" stop="20260406100000 +0000" channel="KIBRIS ADA TV">
-    <title>İŞIN ASLI</title>
-  </programme>
-  <programme start="20260406100000 +0000" stop="20260406104500 +0000" channel="KIBRIS ADA TV">
-    <title>HABER 13</title>
-  </programme>
-  <programme start="20260406104500 +0000" stop="20260406120000 +0000" channel="KIBRIS ADA TV">
-    <title>GÜNDEM ÖZEL</title>
-  </programme>
-  <programme start="20260406120000 +0000" stop="20260406123000 +0000" channel="KIBRIS ADA TV">
-    <title>HABER 15</title>
-  </programme>
-  <programme start="20260406123000 +0000" stop="20260406140000 +0000" channel="KIBRIS ADA TV">
-    <title>BUGÜNDEN YARINA</title>
-  </programme>
-  <programme start="20260406140000 +0000" stop="20260406150000 +0000" channel="KIBRIS ADA TV">
-    <title>RAMAZAN ÖZEL</title>
-  </programme>
-  <programme start="20260406150000 +0000" stop="20260406161500 +0000" channel="KIBRIS ADA TV">
-    <title>ANA HABER BÜLTENI</title>
-  </programme>
-  <programme start="20260406161500 +0000" stop="20260406170000 +0000" channel="KIBRIS ADA TV">
-    <title>STAR KIBRIS GÜNDEM</title>
-  </programme>
-  <programme start="20260406170000 +0000" stop="20260406180000 +0000" channel="KIBRIS ADA TV">
-    <title>KIBRIS GÜNDEMI</title>
-  </programme>
-  <programme start="20260406180000 +0000" stop="20260406200000 +0000" channel="KIBRIS ADA TV">
-    <title>GÜNDEM ÖZEL</title>
-  </programme>
-  <programme start="20260406200000 +0000" stop="20260406210000 +0000" channel="KIBRIS ADA TV">
-    <title>ADA HABER</title>
   </programme>
 </tv>
