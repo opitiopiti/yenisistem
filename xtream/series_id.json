@@ -11072,8 +11072,8 @@
   "4845": {
     "name": "SIREN'S KISS(2026) ALTYAZI",
     "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1775260588
+    "last_episode": 11,
+    "last_modified": 1775510556
   },
   "4846": {
     "name": "SIRENS(2025) ALTYAZI",
@@ -12475,9 +12475,9 @@
   },
   "5079": {
     "name": "BOB'S BURGERS(2011) ALTYAZI",
-    "last_season": 14,
+    "last_season": 15,
     "last_episode": 23,
-    "last_modified": 1775260588
+    "last_modified": 1775510556
   },
   "5080": {
     "name": "BODIES(2023) ALTYAZI",
@@ -43196,8 +43196,8 @@
   "10199": {
     "name": "RELEASE THAT WITCH(2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1775260588
+    "last_episode": 6,
+    "last_modified": 1775510556
   },
   "10200": {
     "name": "ROLL OVER AND DIE: I WILL FIGHT FOR AN ORDINARY LIFE WITH MY LOVE AND CURSED SWORD!(2026) İNGİLİZCE",
@@ -45448,5 +45448,23 @@
     "last_season": 1,
     "last_episode": 2,
     "last_modified": 1775493695
+  },
+  "10575": {
+    "name": "STAR WARS MAUL - SHADOW LORD(2026) ALTYAZI",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1775510556
+  },
+  "10576": {
+    "name": "LIAR GAME(2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1775510556
+  },
+  "10577": {
+    "name": "THE KLUTZY CLASS MONITOR AND THE GIRL WITH THE SHORT SKIRT(2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1775510556
   }
 }
