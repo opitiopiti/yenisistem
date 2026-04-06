@@ -2544,25 +2544,25 @@
   <programme start="20260406165500 +0000" stop="20260406170000 +0000" channel="TRT 1 SD">
     <title>İDDIALARIN AKSINE</title>
   </programme>
-  <programme start="20260406170000 +0000" stop="20260406222000 +0000" channel="TRT 1">
+  <programme start="20260406170000 +0000" stop="20260406211500 +0000" channel="TRT 1">
     <title>CENNETIN ÇOCUKLARI</title>
   </programme>
-  <programme start="20260406170000 +0000" stop="20260406222000 +0000" channel="TRT 1 4K">
+  <programme start="20260406170000 +0000" stop="20260406211500 +0000" channel="TRT 1 4K">
     <title>CENNETIN ÇOCUKLARI</title>
   </programme>
-  <programme start="20260406170000 +0000" stop="20260406222000 +0000" channel="TRT 1 HD">
+  <programme start="20260406170000 +0000" stop="20260406211500 +0000" channel="TRT 1 HD">
     <title>CENNETIN ÇOCUKLARI</title>
   </programme>
-  <programme start="20260406170000 +0000" stop="20260406222000 +0000" channel="TRT 1 FHD">
+  <programme start="20260406170000 +0000" stop="20260406211500 +0000" channel="TRT 1 FHD">
     <title>CENNETIN ÇOCUKLARI</title>
   </programme>
-  <programme start="20260406170000 +0000" stop="20260406222000 +0000" channel="TRT 1 HEVC">
+  <programme start="20260406170000 +0000" stop="20260406211500 +0000" channel="TRT 1 HEVC">
     <title>CENNETIN ÇOCUKLARI</title>
   </programme>
-  <programme start="20260406170000 +0000" stop="20260406222000 +0000" channel="TRT 1 RAW">
+  <programme start="20260406170000 +0000" stop="20260406211500 +0000" channel="TRT 1 RAW">
     <title>CENNETIN ÇOCUKLARI</title>
   </programme>
-  <programme start="20260406170000 +0000" stop="20260406222000 +0000" channel="TRT 1 SD">
+  <programme start="20260406170000 +0000" stop="20260406211500 +0000" channel="TRT 1 SD">
     <title>CENNETIN ÇOCUKLARI</title>
   </programme>
   <programme start="20260405230000 +0000" stop="20260405231500 +0000" channel="4K TR: KANAL D HD">
@@ -2961,23 +2961,41 @@
   <programme start="20260406160000 +0000" stop="20260406170000 +0000" channel="STAR TV RAW">
     <title>STAR HABER</title>
   </programme>
-  <programme start="20260406170000 +0000" stop="20260406213000 +0000" channel="4K TR: STAR TV HD">
-    <title>DIZI</title>
+  <programme start="20260406170000 +0000" stop="20260406201500 +0000" channel="4K TR: STAR TV HD">
+    <title>SEVDIĞIM SENSIN</title>
   </programme>
-  <programme start="20260406170000 +0000" stop="20260406213000 +0000" channel="STAR TV">
-    <title>DIZI</title>
+  <programme start="20260406170000 +0000" stop="20260406201500 +0000" channel="STAR TV">
+    <title>SEVDIĞIM SENSIN</title>
   </programme>
-  <programme start="20260406170000 +0000" stop="20260406213000 +0000" channel="STAR TV FHD">
-    <title>DIZI</title>
+  <programme start="20260406170000 +0000" stop="20260406201500 +0000" channel="STAR TV FHD">
+    <title>SEVDIĞIM SENSIN</title>
   </programme>
-  <programme start="20260406170000 +0000" stop="20260406213000 +0000" channel="STAR TV HD">
-    <title>DIZI</title>
+  <programme start="20260406170000 +0000" stop="20260406201500 +0000" channel="STAR TV HD">
+    <title>SEVDIĞIM SENSIN</title>
   </programme>
-  <programme start="20260406170000 +0000" stop="20260406213000 +0000" channel="STAR TV HEVC">
-    <title>DIZI</title>
+  <programme start="20260406170000 +0000" stop="20260406201500 +0000" channel="STAR TV HEVC">
+    <title>SEVDIĞIM SENSIN</title>
   </programme>
-  <programme start="20260406170000 +0000" stop="20260406213000 +0000" channel="STAR TV RAW">
-    <title>DIZI</title>
+  <programme start="20260406170000 +0000" stop="20260406201500 +0000" channel="STAR TV RAW">
+    <title>SEVDIĞIM SENSIN</title>
+  </programme>
+  <programme start="20260406201500 +0000" stop="20260406233000 +0000" channel="4K TR: STAR TV HD">
+    <title>ÇIRKIN</title>
+  </programme>
+  <programme start="20260406201500 +0000" stop="20260406233000 +0000" channel="STAR TV">
+    <title>ÇIRKIN</title>
+  </programme>
+  <programme start="20260406201500 +0000" stop="20260406233000 +0000" channel="STAR TV FHD">
+    <title>ÇIRKIN</title>
+  </programme>
+  <programme start="20260406201500 +0000" stop="20260406233000 +0000" channel="STAR TV HD">
+    <title>ÇIRKIN</title>
+  </programme>
+  <programme start="20260406201500 +0000" stop="20260406233000 +0000" channel="STAR TV HEVC">
+    <title>ÇIRKIN</title>
+  </programme>
+  <programme start="20260406201500 +0000" stop="20260406233000 +0000" channel="STAR TV RAW">
+    <title>ÇIRKIN</title>
   </programme>
   <programme start="20260405212000 +0000" stop="20260406000000 +0000" channel="4K TR: ATV HD">
     <title>KURULUŞ ORHAN</title>
@@ -5047,13 +5065,13 @@
     <title>KÜBRA PAR İLE ANA HABER BÜLTENI</title>
   </programme>
   <programme start="20260406173000 +0000" stop="20260406203000 +0000" channel="4K TR: TV100">
-    <title>EŞIT AĞIRLIK</title>
+    <title>BAŞAK ŞENGÜL ILE DOĞRU YORUM</title>
   </programme>
   <programme start="20260406173000 +0000" stop="20260406203000 +0000" channel="TV100">
-    <title>EŞIT AĞIRLIK</title>
+    <title>BAŞAK ŞENGÜL ILE DOĞRU YORUM</title>
   </programme>
   <programme start="20260406173000 +0000" stop="20260406203000 +0000" channel="TV 100">
-    <title>EŞIT AĞIRLIK</title>
+    <title>BAŞAK ŞENGÜL ILE DOĞRU YORUM</title>
   </programme>
   <programme start="20260406203000 +0000" stop="20260406223000 +0000" channel="4K TR: TV100">
     <title>KALE ARKASI</title>
@@ -8538,53 +8556,77 @@
   <programme start="20260406145500 +0000" stop="20260406150000 +0000" channel="NTV SD">
     <title>HAVA DURUMU</title>
   </programme>
-  <programme start="20260406150000 +0000" stop="20260406153500 +0000" channel="4K TR: NTV HD">
+  <programme start="20260406150000 +0000" stop="20260406150500 +0000" channel="4K TR: NTV HD">
     <title>GÜNÜN İÇINDEN</title>
   </programme>
-  <programme start="20260406150000 +0000" stop="20260406153500 +0000" channel="NTV">
+  <programme start="20260406150000 +0000" stop="20260406150500 +0000" channel="NTV">
     <title>GÜNÜN İÇINDEN</title>
   </programme>
-  <programme start="20260406150000 +0000" stop="20260406153500 +0000" channel="NTV HABER">
+  <programme start="20260406150000 +0000" stop="20260406150500 +0000" channel="NTV HABER">
     <title>GÜNÜN İÇINDEN</title>
   </programme>
-  <programme start="20260406150000 +0000" stop="20260406153500 +0000" channel="NTV HABER HD">
+  <programme start="20260406150000 +0000" stop="20260406150500 +0000" channel="NTV HABER HD">
     <title>GÜNÜN İÇINDEN</title>
   </programme>
-  <programme start="20260406150000 +0000" stop="20260406153500 +0000" channel="NTV HABER HEVC">
+  <programme start="20260406150000 +0000" stop="20260406150500 +0000" channel="NTV HABER HEVC">
     <title>GÜNÜN İÇINDEN</title>
   </programme>
-  <programme start="20260406150000 +0000" stop="20260406153500 +0000" channel="NTV HD">
+  <programme start="20260406150000 +0000" stop="20260406150500 +0000" channel="NTV HD">
     <title>GÜNÜN İÇINDEN</title>
   </programme>
-  <programme start="20260406150000 +0000" stop="20260406153500 +0000" channel="NTV RAW">
+  <programme start="20260406150000 +0000" stop="20260406150500 +0000" channel="NTV RAW">
     <title>GÜNÜN İÇINDEN</title>
   </programme>
-  <programme start="20260406150000 +0000" stop="20260406153500 +0000" channel="NTV SD">
+  <programme start="20260406150000 +0000" stop="20260406150500 +0000" channel="NTV SD">
     <title>GÜNÜN İÇINDEN</title>
   </programme>
-  <programme start="20260406153500 +0000" stop="20260406154000 +0000" channel="4K TR: NTV HD">
+  <programme start="20260406150500 +0000" stop="20260406151000 +0000" channel="4K TR: NTV HD">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260406153500 +0000" stop="20260406154000 +0000" channel="NTV">
+  <programme start="20260406150500 +0000" stop="20260406151000 +0000" channel="NTV">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260406153500 +0000" stop="20260406154000 +0000" channel="NTV HABER">
+  <programme start="20260406150500 +0000" stop="20260406151000 +0000" channel="NTV HABER">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260406153500 +0000" stop="20260406154000 +0000" channel="NTV HABER HD">
+  <programme start="20260406150500 +0000" stop="20260406151000 +0000" channel="NTV HABER HD">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260406153500 +0000" stop="20260406154000 +0000" channel="NTV HABER HEVC">
+  <programme start="20260406150500 +0000" stop="20260406151000 +0000" channel="NTV HABER HEVC">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260406153500 +0000" stop="20260406154000 +0000" channel="NTV HD">
+  <programme start="20260406150500 +0000" stop="20260406151000 +0000" channel="NTV HD">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260406153500 +0000" stop="20260406154000 +0000" channel="NTV RAW">
+  <programme start="20260406150500 +0000" stop="20260406151000 +0000" channel="NTV RAW">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260406153500 +0000" stop="20260406154000 +0000" channel="NTV SD">
+  <programme start="20260406150500 +0000" stop="20260406151000 +0000" channel="NTV SD">
     <title>PIYASALAR</title>
+  </programme>
+  <programme start="20260406151000 +0000" stop="20260406154000 +0000" channel="4K TR: NTV HD">
+    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
+  </programme>
+  <programme start="20260406151000 +0000" stop="20260406154000 +0000" channel="NTV">
+    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
+  </programme>
+  <programme start="20260406151000 +0000" stop="20260406154000 +0000" channel="NTV HABER">
+    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
+  </programme>
+  <programme start="20260406151000 +0000" stop="20260406154000 +0000" channel="NTV HABER HD">
+    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
+  </programme>
+  <programme start="20260406151000 +0000" stop="20260406154000 +0000" channel="NTV HABER HEVC">
+    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
+  </programme>
+  <programme start="20260406151000 +0000" stop="20260406154000 +0000" channel="NTV HD">
+    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
+  </programme>
+  <programme start="20260406151000 +0000" stop="20260406154000 +0000" channel="NTV RAW">
+    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
+  </programme>
+  <programme start="20260406151000 +0000" stop="20260406154000 +0000" channel="NTV SD">
+    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
   </programme>
   <programme start="20260406154000 +0000" stop="20260406154500 +0000" channel="4K TR: NTV HD">
     <title>UZMAN BAKIŞI</title>
@@ -8658,77 +8700,53 @@
   <programme start="20260406155500 +0000" stop="20260406160000 +0000" channel="NTV SD">
     <title>HAVA DURUMU</title>
   </programme>
-  <programme start="20260406160000 +0000" stop="20260406161000 +0000" channel="4K TR: NTV HD">
+  <programme start="20260406160000 +0000" stop="20260406165000 +0000" channel="4K TR: NTV HD">
     <title>AKŞAM HABERLERI</title>
   </programme>
-  <programme start="20260406160000 +0000" stop="20260406161000 +0000" channel="NTV">
+  <programme start="20260406160000 +0000" stop="20260406165000 +0000" channel="NTV">
     <title>AKŞAM HABERLERI</title>
   </programme>
-  <programme start="20260406160000 +0000" stop="20260406161000 +0000" channel="NTV HABER">
+  <programme start="20260406160000 +0000" stop="20260406165000 +0000" channel="NTV HABER">
     <title>AKŞAM HABERLERI</title>
   </programme>
-  <programme start="20260406160000 +0000" stop="20260406161000 +0000" channel="NTV HABER HD">
+  <programme start="20260406160000 +0000" stop="20260406165000 +0000" channel="NTV HABER HD">
     <title>AKŞAM HABERLERI</title>
   </programme>
-  <programme start="20260406160000 +0000" stop="20260406161000 +0000" channel="NTV HABER HEVC">
+  <programme start="20260406160000 +0000" stop="20260406165000 +0000" channel="NTV HABER HEVC">
     <title>AKŞAM HABERLERI</title>
   </programme>
-  <programme start="20260406160000 +0000" stop="20260406161000 +0000" channel="NTV HD">
+  <programme start="20260406160000 +0000" stop="20260406165000 +0000" channel="NTV HD">
     <title>AKŞAM HABERLERI</title>
   </programme>
-  <programme start="20260406160000 +0000" stop="20260406161000 +0000" channel="NTV RAW">
+  <programme start="20260406160000 +0000" stop="20260406165000 +0000" channel="NTV RAW">
     <title>AKŞAM HABERLERI</title>
   </programme>
-  <programme start="20260406160000 +0000" stop="20260406161000 +0000" channel="NTV SD">
+  <programme start="20260406160000 +0000" stop="20260406165000 +0000" channel="NTV SD">
     <title>AKŞAM HABERLERI</title>
   </programme>
-  <programme start="20260406161000 +0000" stop="20260406161500 +0000" channel="4K TR: NTV HD">
+  <programme start="20260406165000 +0000" stop="20260406165500 +0000" channel="4K TR: NTV HD">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260406161000 +0000" stop="20260406161500 +0000" channel="NTV">
+  <programme start="20260406165000 +0000" stop="20260406165500 +0000" channel="NTV">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260406161000 +0000" stop="20260406161500 +0000" channel="NTV HABER">
+  <programme start="20260406165000 +0000" stop="20260406165500 +0000" channel="NTV HABER">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260406161000 +0000" stop="20260406161500 +0000" channel="NTV HABER HD">
+  <programme start="20260406165000 +0000" stop="20260406165500 +0000" channel="NTV HABER HD">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260406161000 +0000" stop="20260406161500 +0000" channel="NTV HABER HEVC">
+  <programme start="20260406165000 +0000" stop="20260406165500 +0000" channel="NTV HABER HEVC">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260406161000 +0000" stop="20260406161500 +0000" channel="NTV HD">
+  <programme start="20260406165000 +0000" stop="20260406165500 +0000" channel="NTV HD">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260406161000 +0000" stop="20260406161500 +0000" channel="NTV RAW">
+  <programme start="20260406165000 +0000" stop="20260406165500 +0000" channel="NTV RAW">
     <title>PIYASALAR</title>
   </programme>
-  <programme start="20260406161000 +0000" stop="20260406161500 +0000" channel="NTV SD">
+  <programme start="20260406165000 +0000" stop="20260406165500 +0000" channel="NTV SD">
     <title>PIYASALAR</title>
-  </programme>
-  <programme start="20260406161500 +0000" stop="20260406165500 +0000" channel="4K TR: NTV HD">
-    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
-  </programme>
-  <programme start="20260406161500 +0000" stop="20260406165500 +0000" channel="NTV">
-    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
-  </programme>
-  <programme start="20260406161500 +0000" stop="20260406165500 +0000" channel="NTV HABER">
-    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
-  </programme>
-  <programme start="20260406161500 +0000" stop="20260406165500 +0000" channel="NTV HABER HD">
-    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
-  </programme>
-  <programme start="20260406161500 +0000" stop="20260406165500 +0000" channel="NTV HABER HEVC">
-    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
-  </programme>
-  <programme start="20260406161500 +0000" stop="20260406165500 +0000" channel="NTV HD">
-    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
-  </programme>
-  <programme start="20260406161500 +0000" stop="20260406165500 +0000" channel="NTV RAW">
-    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
-  </programme>
-  <programme start="20260406161500 +0000" stop="20260406165500 +0000" channel="NTV SD">
-    <title>CEYDA DÜVENCI İLE BAMBAŞKA SOHBETLER</title>
   </programme>
   <programme start="20260406165500 +0000" stop="20260406170000 +0000" channel="4K TR: NTV HD">
     <title>HAVA DURUMU</title>
@@ -12648,17 +12666,17 @@
   <programme start="20260406120000 +0000" stop="20260406144500 +0000" channel="ULUSAL KANAL SD">
     <title>GÜN İÇINDEN</title>
   </programme>
-  <programme start="20260406144500 +0000" stop="20260406160000 +0000" channel="ULUSAL KANAL">
+  <programme start="20260406144500 +0000" stop="20260406200000 +0000" channel="ULUSAL KANAL">
     <title>DOSTOYEVSKI</title>
   </programme>
-  <programme start="20260406144500 +0000" stop="20260406160000 +0000" channel="ULUSAL KANAL SD">
+  <programme start="20260406144500 +0000" stop="20260406200000 +0000" channel="ULUSAL KANAL SD">
     <title>DOSTOYEVSKI</title>
   </programme>
-  <programme start="20260406160000 +0000" stop="20260406210000 +0000" channel="ULUSAL KANAL">
-    <title>ANA HABER</title>
+  <programme start="20260406200000 +0000" stop="20260406210000 +0000" channel="ULUSAL KANAL">
+    <title>KISA FILM</title>
   </programme>
-  <programme start="20260406160000 +0000" stop="20260406210000 +0000" channel="ULUSAL KANAL SD">
-    <title>ANA HABER</title>
+  <programme start="20260406200000 +0000" stop="20260406210000 +0000" channel="ULUSAL KANAL SD">
+    <title>KISA FILM</title>
   </programme>
   <programme start="20260405210000 +0000" stop="20260405220000 +0000" channel="4K TR: KRT TV">
     <title>HAFIZA</title>
@@ -12876,29 +12894,17 @@
   <programme start="20260406140000 +0000" stop="20260406150000 +0000" channel="KRT TV">
     <title>UZMAN REHBERI</title>
   </programme>
-  <programme start="20260406150000 +0000" stop="20260406154500 +0000" channel="4K TR: KRT TV">
-    <title>CANER TASLAMAN ILE RAMAZAN SOHBETLERI</title>
+  <programme start="20260406150000 +0000" stop="20260406160000 +0000" channel="4K TR: KRT TV">
+    <title>EN IYISI</title>
   </programme>
-  <programme start="20260406150000 +0000" stop="20260406154500 +0000" channel="KRT HD+ SD">
-    <title>CANER TASLAMAN ILE RAMAZAN SOHBETLERI</title>
+  <programme start="20260406150000 +0000" stop="20260406160000 +0000" channel="KRT HD+ SD">
+    <title>EN IYISI</title>
   </programme>
-  <programme start="20260406150000 +0000" stop="20260406154500 +0000" channel="KRT TV HD">
-    <title>CANER TASLAMAN ILE RAMAZAN SOHBETLERI</title>
+  <programme start="20260406150000 +0000" stop="20260406160000 +0000" channel="KRT TV HD">
+    <title>EN IYISI</title>
   </programme>
-  <programme start="20260406150000 +0000" stop="20260406154500 +0000" channel="KRT TV">
-    <title>CANER TASLAMAN ILE RAMAZAN SOHBETLERI</title>
-  </programme>
-  <programme start="20260406154500 +0000" stop="20260406160000 +0000" channel="4K TR: KRT TV">
-    <title>EZAN</title>
-  </programme>
-  <programme start="20260406154500 +0000" stop="20260406160000 +0000" channel="KRT HD+ SD">
-    <title>EZAN</title>
-  </programme>
-  <programme start="20260406154500 +0000" stop="20260406160000 +0000" channel="KRT TV HD">
-    <title>EZAN</title>
-  </programme>
-  <programme start="20260406154500 +0000" stop="20260406160000 +0000" channel="KRT TV">
-    <title>EZAN</title>
+  <programme start="20260406150000 +0000" stop="20260406160000 +0000" channel="KRT TV">
+    <title>EN IYISI</title>
   </programme>
   <programme start="20260406160000 +0000" stop="20260406170000 +0000" channel="4K TR: KRT TV">
     <title>ENERJIDE BILGI NET</title>
@@ -13083,17 +13089,29 @@
   <programme start="20260406110000 +0000" stop="20260406130000 +0000" channel="SÖZCÜ TV">
     <title>ÖĞLE BÜLTENI</title>
   </programme>
-  <programme start="20260406130000 +0000" stop="20260406150000 +0000" channel="S ZC SZC TV">
+  <programme start="20260406130000 +0000" stop="20260406140000 +0000" channel="S ZC SZC TV">
     <title>ÖNCESI SONRASI</title>
   </programme>
-  <programme start="20260406130000 +0000" stop="20260406150000 +0000" channel="4K TR: SOZCU TV">
+  <programme start="20260406130000 +0000" stop="20260406140000 +0000" channel="4K TR: SOZCU TV">
     <title>ÖNCESI SONRASI</title>
   </programme>
-  <programme start="20260406130000 +0000" stop="20260406150000 +0000" channel="SOZCU SZC TV SD">
+  <programme start="20260406130000 +0000" stop="20260406140000 +0000" channel="SOZCU SZC TV SD">
     <title>ÖNCESI SONRASI</title>
   </programme>
-  <programme start="20260406130000 +0000" stop="20260406150000 +0000" channel="SÖZCÜ TV">
+  <programme start="20260406130000 +0000" stop="20260406140000 +0000" channel="SÖZCÜ TV">
     <title>ÖNCESI SONRASI</title>
+  </programme>
+  <programme start="20260406140000 +0000" stop="20260406150000 +0000" channel="S ZC SZC TV">
+    <title>İŞ ÇIKIŞI</title>
+  </programme>
+  <programme start="20260406140000 +0000" stop="20260406150000 +0000" channel="4K TR: SOZCU TV">
+    <title>İŞ ÇIKIŞI</title>
+  </programme>
+  <programme start="20260406140000 +0000" stop="20260406150000 +0000" channel="SOZCU SZC TV SD">
+    <title>İŞ ÇIKIŞI</title>
+  </programme>
+  <programme start="20260406140000 +0000" stop="20260406150000 +0000" channel="SÖZCÜ TV">
+    <title>İŞ ÇIKIŞI</title>
   </programme>
   <programme start="20260406150000 +0000" stop="20260406160000 +0000" channel="S ZC SZC TV">
     <title>İÇINIZDEN BIRI</title>
@@ -13462,19 +13480,19 @@
     <title>SPOR MERKEZI</title>
   </programme>
   <programme start="20260406160000 +0000" stop="20260406173000 +0000" channel="4K TR: TRT SPOR HD">
-    <title>FB MEDICANA-GS HDI SIGORTA</title>
+    <title>GALATASARAY H.-FENERBAHÇE M.</title>
   </programme>
   <programme start="20260406160000 +0000" stop="20260406173000 +0000" channel="TRT SPOR">
-    <title>FB MEDICANA-GS HDI SIGORTA</title>
+    <title>GALATASARAY H.-FENERBAHÇE M.</title>
   </programme>
   <programme start="20260406160000 +0000" stop="20260406173000 +0000" channel="TRT SPOR FHD">
-    <title>FB MEDICANA-GS HDI SIGORTA</title>
+    <title>GALATASARAY H.-FENERBAHÇE M.</title>
   </programme>
   <programme start="20260406160000 +0000" stop="20260406173000 +0000" channel="TRT SPOR HD">
-    <title>FB MEDICANA-GS HDI SIGORTA</title>
+    <title>GALATASARAY H.-FENERBAHÇE M.</title>
   </programme>
   <programme start="20260406160000 +0000" stop="20260406173000 +0000" channel="TRT SPOR RAW">
-    <title>FB MEDICANA-GS HDI SIGORTA</title>
+    <title>GALATASARAY H.-FENERBAHÇE M.</title>
   </programme>
   <programme start="20260406173000 +0000" stop="20260406180000 +0000" channel="4K TR: TRT SPOR HD">
     <title>SPOR AKŞAMI</title>
@@ -30270,29 +30288,17 @@
   <programme start="20260406150000 +0000" stop="20260406151500 +0000" channel="MİNİKA GO">
     <title>DINOSTER</title>
   </programme>
-  <programme start="20260406151500 +0000" stop="20260406152400 +0000" channel="MİNİKA GO">
+  <programme start="20260406151500 +0000" stop="20260406153000 +0000" channel="MİNİKA GO">
     <title>DINOSTER</title>
   </programme>
-  <programme start="20260406151500 +0000" stop="20260406152400 +0000" channel="MINICA GO">
+  <programme start="20260406151500 +0000" stop="20260406153000 +0000" channel="MINICA GO">
     <title>DINOSTER</title>
   </programme>
-  <programme start="20260406151500 +0000" stop="20260406152400 +0000" channel="MINIKA GO">
+  <programme start="20260406151500 +0000" stop="20260406153000 +0000" channel="MINIKA GO">
     <title>DINOSTER</title>
   </programme>
-  <programme start="20260406151500 +0000" stop="20260406152400 +0000" channel="MİNİKA GO">
+  <programme start="20260406151500 +0000" stop="20260406153000 +0000" channel="MİNİKA GO">
     <title>DINOSTER</title>
-  </programme>
-  <programme start="20260406152400 +0000" stop="20260406153000 +0000" channel="MİNİKA GO">
-    <title>BIR VARMIŞ BIR YOKMUŞ</title>
-  </programme>
-  <programme start="20260406152400 +0000" stop="20260406153000 +0000" channel="MINICA GO">
-    <title>BIR VARMIŞ BIR YOKMUŞ</title>
-  </programme>
-  <programme start="20260406152400 +0000" stop="20260406153000 +0000" channel="MINIKA GO">
-    <title>BIR VARMIŞ BIR YOKMUŞ</title>
-  </programme>
-  <programme start="20260406152400 +0000" stop="20260406153000 +0000" channel="MİNİKA GO">
-    <title>BIR VARMIŞ BIR YOKMUŞ</title>
   </programme>
   <programme start="20260406153000 +0000" stop="20260406154500 +0000" channel="MİNİKA GO">
     <title>NADO</title>
