@@ -1,4 +1,10 @@
 {
+  "/diziler/sirens-kiss.html": {
+    "group": "SIREN'S KISS",
+    "year": "2026",
+    "imdb": "6.5",
+    "poster": "https://image.tmdb.org/t/p/w500/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg"
+  },
   "/diziler/star-wars-maul-shadow-lord.html": {
     "group": "STAR WARS: MAUL - SHADOW LORD",
     "year": "2026",
@@ -70,11 +76,5 @@
     "year": "2018",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg"
-  },
-  "/diziler/sins-of-kujo.html": {
-    "group": "SINS OF KUJO",
-    "year": "2026",
-    "imdb": "8.2",
-    "poster": "https://image.tmdb.org/t/p/w500/jgmYNLdKLNBN5p2vPKuqlpLfeDS.jpg"
   }
 }
