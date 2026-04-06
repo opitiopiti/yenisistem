@@ -2,7 +2,7 @@
   "/dizi/dtf-st-louis": {
     "group": "DTF St. Louis",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.9",
@@ -11,7 +11,7 @@
   "/dizi/marshals": {
     "group": "Marshals",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.3",
@@ -20,7 +20,7 @@
   "/dizi/rooster": {
     "group": "Rooster",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.2",
@@ -28,8 +28,8 @@
   },
   "/dizi/the-comeback": {
     "group": "The Comeback",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 3,
     "start_episode": 1,
     "year": "2005",
     "imdb": "8.0",

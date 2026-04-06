@@ -1618,7 +1618,7 @@
     <title>MASUMLAR APARTMANI</title>
   </programme>
   <programme start="20260406202300 +0000" stop="20260406210800 +0000" channel="TABII TV">
-    <title>CICEK_TAKSI</title>
+    <title>ÇIÇEK TAKSI</title>
   </programme>
   <programme start="20260405221500 +0000" stop="20260406000000 +0000" channel="4K TR: S NEMA YERL HD">
     <title>KARDEŞ TAKIMI</title>
@@ -10528,19 +10528,19 @@
     <title>FOKUS</title>
   </programme>
   <programme start="20260406090000 +0000" stop="20260406093000 +0000" channel="4K TR: BLOOMBERG HT HD">
-    <title>OTOMOTIV ZIRVESI</title>
+    <title>30 DAKIKA</title>
   </programme>
   <programme start="20260406090000 +0000" stop="20260406093000 +0000" channel="BLOOMBERG HT">
-    <title>OTOMOTIV ZIRVESI</title>
+    <title>30 DAKIKA</title>
   </programme>
   <programme start="20260406090000 +0000" stop="20260406093000 +0000" channel="BLOOMBERG HT HD">
-    <title>OTOMOTIV ZIRVESI</title>
+    <title>30 DAKIKA</title>
   </programme>
   <programme start="20260406090000 +0000" stop="20260406093000 +0000" channel="BLOOMBERG HT HD+ SD">
-    <title>OTOMOTIV ZIRVESI</title>
+    <title>30 DAKIKA</title>
   </programme>
   <programme start="20260406090000 +0000" stop="20260406093000 +0000" channel="BLOOMBERG">
-    <title>OTOMOTIV ZIRVESI</title>
+    <title>30 DAKIKA</title>
   </programme>
   <programme start="20260406093000 +0000" stop="20260406100000 +0000" channel="4K TR: BLOOMBERG HT HD">
     <title>AILE EKONOMISI</title>
@@ -35373,11 +35373,8 @@
   <programme start="20260406040000 +0000" stop="20260406070000 +0000" channel="4K TR: POWER TV HD">
     <title>POWER MORNING</title>
   </programme>
-  <programme start="20260406070000 +0000" stop="20260406120000 +0000" channel="4K TR: POWER TV HD">
+  <programme start="20260406070000 +0000" stop="20260406130000 +0000" channel="4K TR: POWER TV HD">
     <title>POWER HITS</title>
-  </programme>
-  <programme start="20260406120000 +0000" stop="20260406130000 +0000" channel="4K TR: POWER TV HD">
-    <title>POP UP</title>
   </programme>
   <programme start="20260406130000 +0000" stop="20260406200000 +0000" channel="4K TR: POWER TV HD">
     <title>POWER HITS</title>
@@ -36285,11 +36282,14 @@
   <programme start="20260406150000 +0000" stop="20260406160000 +0000" channel="Bi Kanal">
     <title>AŞK BAĞI</title>
   </programme>
-  <programme start="20260406160000 +0000" stop="20260406200000 +0000" channel="Bi Kanal">
+  <programme start="20260406160000 +0000" stop="20260406183000 +0000" channel="Bi Kanal">
     <title>CAN BAĞI</title>
   </programme>
+  <programme start="20260406183000 +0000" stop="20260406200000 +0000" channel="Bi Kanal">
+    <title>ANDROID POLIS</title>
+  </programme>
   <programme start="20260406200000 +0000" stop="20260406204500 +0000" channel="Bi Kanal">
-    <title>LIG ÖZETLERI</title>
+    <title>MAÇ ÖZETLERI</title>
   </programme>
   <programme start="20260406204500 +0000" stop="20260406213000 +0000" channel="Bi Kanal">
     <title>BI GÜNDEM</title>
@@ -36523,7 +36523,7 @@
     <title>SPOR MERKEZI</title>
   </programme>
   <programme start="20260406160000 +0000" stop="20260406173000 +0000" channel="4K TR: TRT 3">
-    <title>FB MEDICANA-GS HDI SIGORTA</title>
+    <title>GALATASARAY H.-FENERBAHÇE M.</title>
   </programme>
   <programme start="20260406173000 +0000" stop="20260406180000 +0000" channel="4K TR: TRT 3">
     <title>SPOR AKŞAMI</title>
@@ -36850,19 +36850,19 @@
     <title>HABERDAR</title>
   </programme>
   <programme start="20260406073000 +0000" stop="20260406080000 +0000" channel="4K TR: TRT T RK">
-    <title>GÖNÜL VERENLER</title>
+    <title>RUMELI SAATI</title>
   </programme>
   <programme start="20260406073000 +0000" stop="20260406080000 +0000" channel="TRT TURK">
-    <title>GÖNÜL VERENLER</title>
+    <title>RUMELI SAATI</title>
   </programme>
   <programme start="20260406073000 +0000" stop="20260406080000 +0000" channel="TRT TURK HEVC">
-    <title>GÖNÜL VERENLER</title>
+    <title>RUMELI SAATI</title>
   </programme>
   <programme start="20260406073000 +0000" stop="20260406080000 +0000" channel="TRT TURK RAW">
-    <title>GÖNÜL VERENLER</title>
+    <title>RUMELI SAATI</title>
   </programme>
   <programme start="20260406073000 +0000" stop="20260406080000 +0000" channel="TRT TÜRK">
-    <title>GÖNÜL VERENLER</title>
+    <title>RUMELI SAATI</title>
   </programme>
   <programme start="20260406080000 +0000" stop="20260406090000 +0000" channel="4K TR: TRT T RK">
     <title>REHBER</title>
@@ -37015,34 +37015,49 @@
     <title>TEMIZLIK KULÜBÜ</title>
   </programme>
   <programme start="20260406143000 +0000" stop="20260406150000 +0000" channel="4K TR: TRT T RK">
-    <title>MISAFIR KAPIDA</title>
+    <title>RUMELI SAATI</title>
   </programme>
   <programme start="20260406143000 +0000" stop="20260406150000 +0000" channel="TRT TURK">
-    <title>MISAFIR KAPIDA</title>
+    <title>RUMELI SAATI</title>
   </programme>
   <programme start="20260406143000 +0000" stop="20260406150000 +0000" channel="TRT TURK HEVC">
-    <title>MISAFIR KAPIDA</title>
+    <title>RUMELI SAATI</title>
   </programme>
   <programme start="20260406143000 +0000" stop="20260406150000 +0000" channel="TRT TURK RAW">
-    <title>MISAFIR KAPIDA</title>
+    <title>RUMELI SAATI</title>
   </programme>
   <programme start="20260406143000 +0000" stop="20260406150000 +0000" channel="TRT TÜRK">
-    <title>MISAFIR KAPIDA</title>
+    <title>RUMELI SAATI</title>
   </programme>
-  <programme start="20260406150000 +0000" stop="20260406160000 +0000" channel="4K TR: TRT T RK">
-    <title>GÖNLÜMDEKI KÖLN</title>
+  <programme start="20260406150000 +0000" stop="20260406153000 +0000" channel="4K TR: TRT T RK">
+    <title>KÖY HAVASI</title>
   </programme>
-  <programme start="20260406150000 +0000" stop="20260406160000 +0000" channel="TRT TURK">
-    <title>GÖNLÜMDEKI KÖLN</title>
+  <programme start="20260406150000 +0000" stop="20260406153000 +0000" channel="TRT TURK">
+    <title>KÖY HAVASI</title>
   </programme>
-  <programme start="20260406150000 +0000" stop="20260406160000 +0000" channel="TRT TURK HEVC">
-    <title>GÖNLÜMDEKI KÖLN</title>
+  <programme start="20260406150000 +0000" stop="20260406153000 +0000" channel="TRT TURK HEVC">
+    <title>KÖY HAVASI</title>
   </programme>
-  <programme start="20260406150000 +0000" stop="20260406160000 +0000" channel="TRT TURK RAW">
-    <title>GÖNLÜMDEKI KÖLN</title>
+  <programme start="20260406150000 +0000" stop="20260406153000 +0000" channel="TRT TURK RAW">
+    <title>KÖY HAVASI</title>
   </programme>
-  <programme start="20260406150000 +0000" stop="20260406160000 +0000" channel="TRT TÜRK">
-    <title>GÖNLÜMDEKI KÖLN</title>
+  <programme start="20260406150000 +0000" stop="20260406153000 +0000" channel="TRT TÜRK">
+    <title>KÖY HAVASI</title>
+  </programme>
+  <programme start="20260406153000 +0000" stop="20260406160000 +0000" channel="4K TR: TRT T RK">
+    <title>GÖNÜL VERENLER</title>
+  </programme>
+  <programme start="20260406153000 +0000" stop="20260406160000 +0000" channel="TRT TURK">
+    <title>GÖNÜL VERENLER</title>
+  </programme>
+  <programme start="20260406153000 +0000" stop="20260406160000 +0000" channel="TRT TURK HEVC">
+    <title>GÖNÜL VERENLER</title>
+  </programme>
+  <programme start="20260406153000 +0000" stop="20260406160000 +0000" channel="TRT TURK RAW">
+    <title>GÖNÜL VERENLER</title>
+  </programme>
+  <programme start="20260406153000 +0000" stop="20260406160000 +0000" channel="TRT TÜRK">
+    <title>GÖNÜL VERENLER</title>
   </programme>
   <programme start="20260406160000 +0000" stop="20260406164500 +0000" channel="4K TR: TRT T RK">
     <title>SICAK HABER</title>
