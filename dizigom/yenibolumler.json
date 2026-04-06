@@ -23,6 +23,24 @@
     "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
     "imdb": 8.693
   },
+  "/dizi-izle/still-shining": {
+    "group": "STILL SHINING",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/tVOq3YkCTnbrycnXHmth9f6qYs7.jpg",
+    "imdb": 7.8
+  },
+  "/dizi-izle/sins-of-kujo": {
+    "group": "SINS OF KUJO",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/jgmYNLdKLNBN5p2vPKuqlpLfeDS.jpg",
+    "imdb": 6.0
+  },
+  "/dizi-izle/xo-kitty": {
+    "group": "XO, KITTY",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/hxvTdKAwv27PUfpXOQp6AwWr6V.jpg",
+    "imdb": 8.1
+  },
   "/dizi-izle/agent-from-above": {
     "group": "AGENT FROM ABOVE",
     "year": "2026",
@@ -35,29 +53,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/aH4pbrLQJbjWytHOFhHlAi97zcu.jpg",
     "imdb": 6.9
   },
-  "/dizi-izle/xo-kitty": {
-    "group": "XO, KITTY",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/hxvTdKAwv27PUfpXOQp6AwWr6V.jpg",
-    "imdb": 8.1
-  },
-  "/dizi-izle/womens-hell": {
-    "group": "WOMEN'S HELL",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/pWS7yvwCFQAgsQE1IjZMKTxe0wx.jpg",
-    "imdb": 7.0
-  },
   "/dizi-izle/jury-duty": {
     "group": "JURY DUTY",
     "year": "2023",
     "poster": "https://image.tmdb.org/t/p/w500/ipiqT5uHeJudWy9ICSvuCby7NeI.jpg",
     "imdb": 7.628
   },
-  "/dizi-izle/still-shining": {
-    "group": "STILL SHINING",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/tVOq3YkCTnbrycnXHmth9f6qYs7.jpg",
-    "imdb": 7.8
+  "/dizi-izle/gangs-of-galicia": {
+    "group": "GANGS OF GALICIA",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/yAltqHzzA1WhrN5HWCPbAgfI9xR.jpg",
+    "imdb": 6.892
   },
   "/dizi-izle/phantom-lawyer": {
     "group": "PHANTOM LAWYER",
@@ -65,22 +71,16 @@
     "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg",
     "imdb": 7.5
   },
-  "/dizi-izle/sins-of-kujo": {
-    "group": "SINS OF KUJO",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/jgmYNLdKLNBN5p2vPKuqlpLfeDS.jpg",
-    "imdb": 6.0
-  },
   "/dizi-izle/girl-from-nowhere-the-reset": {
     "group": "GIRL FROM NOWHERE: THE RESET",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/bRMEjZHvES9XLKSFVCtveFGdOHC.jpg",
     "imdb": 8.7
   },
-  "/dizi-izle/gangs-of-galicia": {
-    "group": "GANGS OF GALICIA",
-    "year": "2024",
-    "poster": "https://image.tmdb.org/t/p/w500/yAltqHzzA1WhrN5HWCPbAgfI9xR.jpg",
-    "imdb": 6.892
+  "/dizi-izle/womens-hell": {
+    "group": "WOMEN'S HELL",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/pWS7yvwCFQAgsQE1IjZMKTxe0wx.jpg",
+    "imdb": 7.0
   }
 }
