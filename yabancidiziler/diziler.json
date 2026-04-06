@@ -340,5 +340,41 @@
     "year": "2019",
     "imdb": "8.0",
     "poster": "https://image.tmdb.org/t/p/w500/bCuTIRmnd6eBNZ9oBBQ2KAtErid.jpg"
+  },
+  "/dizi/dtf-st-louis": {
+    "group": "DTF St. Louis",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg"
+  },
+  "/dizi/marshals": {
+    "group": "Marshals",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.3",
+    "poster": "https://image.tmdb.org/t/p/w500/nInfaveN1iFpRIcMGNKENoVVUT2.jpg"
+  },
+  "/dizi/rooster": {
+    "group": "Rooster",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.2",
+    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg"
+  },
+  "/dizi/the-comeback": {
+    "group": "The Comeback",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2005",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg"
   }
 }
