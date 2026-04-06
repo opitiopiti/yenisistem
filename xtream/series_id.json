@@ -374,8 +374,8 @@
   "3062": {
     "name": "DTF ST. LOUIS(2026) ALTYAZI",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1775260588
+    "last_episode": 6,
+    "last_modified": 1775479516
   },
   "3063": {
     "name": "DABBA CARTEL(2025) ALTYAZI",
@@ -1220,8 +1220,8 @@
   "3203": {
     "name": "ROOSTER(2026) ALTYAZI",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1775260588
+    "last_episode": 5,
+    "last_modified": 1775479516
   },
   "3204": {
     "name": "RÜYA GIBI(2025) YERLİ DİZİ",
@@ -41210,8 +41210,8 @@
   "9868": {
     "name": "MARSHALS(2026) ALTYAZI",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1775260588
+    "last_episode": 6,
+    "last_modified": 1775479516
   },
   "9869": {
     "name": "MAYFAIR WITCHES(2023) ALTYAZI",
@@ -45412,5 +45412,11 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1775425603
+  },
+  "10569": {
+    "name": "STAR WARS: MAUL - SHADOW LORD(2026) ALTYAZI",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1775479516
   }
 }
