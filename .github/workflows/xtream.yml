@@ -610,7 +610,7 @@ jobs:
           fi
 
       - name: Telegram Success Notification
-        if: steps.cache_step.outputs.success == 'true'
+        if: steps.cache_step.outputs.success == 'true' && steps.cache_proxy.outputs.success == 'true'
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -622,7 +622,7 @@ jobs:
             -d text="$MESSAGE"
 
       - name: Telegram Fail Notification (Opsiyonel)
-        if: steps.cache_step.outputs.success == 'false'
+        if: steps.cache_step.outputs.success == 'false' || steps.cache_proxy.outputs.success == 'false'
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
