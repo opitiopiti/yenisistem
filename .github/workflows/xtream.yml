@@ -565,7 +565,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clean Cache
+      - name: Clean Cache Xtream
         id: cache_step
         env:
           CLEAN_CACHE: ${{ secrets.CLEAN_CACHE }}
@@ -584,6 +584,28 @@ jobs:
             fi
           else
             echo "CLEAN_CACHE tanımlı değil, atlanıyor"
+            echo "success=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Clean Cache Proxy
+        id: cache_proxy
+        env:
+          CLEAN_CACHE_PROXY: ${{ secrets.CLEAN_CACHE_PROXY }}
+        run: |
+          echo "Cache temizleme isteği atılıyor..."
+
+          if [ -n "$CLEAN_CACHE_PROXY" ]; then
+            STATUS=$(curl -L -s -o /dev/null -w "%{http_code}" "$CLEAN_CACHE_PROXY" 2>/dev/null)
+
+            if [ "$STATUS" -eq 200 ]; then
+              echo "✅ Proxy Cache temizlendi"
+              echo "success=true" >> $GITHUB_OUTPUT
+            else
+              echo "❌ Proxy Cache temizlenemedi (Kod: $STATUS)"
+              echo "success=false" >> $GITHUB_OUTPUT
+            fi
+          else
+            echo "CLEAN_CACHE_PROXY tanımlı değil, atlanıyor"
             echo "success=false" >> $GITHUB_OUTPUT
           fi
 
