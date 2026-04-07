@@ -34,41 +34,5 @@
     "year": "2005",
     "imdb": "8.0",
     "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg"
-  },
-  "/dizi/american-classic": {
-    "group": "American Classic",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/nQoTcFVB9xO6tLnoSARRViitPQF.jpg"
-  },
-  "/dizi/dark-winds": {
-    "group": "Dark Winds",
-    "last_season": 4,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2022",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/kDlrMN0P9ByrEH2GoRbBFeZHbcf.jpg"
-  },
-  "/dizi/nippon-sangoku": {
-    "group": "Nippon Sangoku",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/qHQnNHefuHI8N4lCoRQQP6pckMr.jpg"
-  },
-  "/dizi/the-capture": {
-    "group": "The Capture",
-    "last_season": 3,
-    "last_episode": 5,
-    "start_episode": 1,
-    "year": "2019",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/bCuTIRmnd6eBNZ9oBBQ2KAtErid.jpg"
   }
 }

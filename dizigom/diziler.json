@@ -29050,5 +29050,23 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/ShizRVGvyFCmGqv7tFA0hxzQ8E.jpg",
     "imdb": 7.8
+  },
+  "/dizi-izle/nippon-sangoku-the-three-nations-of-the-crimson-sun": {
+    "group": "NIPPON SANGOKU: THE THREE NATIONS OF THE CRIMSON SUN",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg",
+    "imdb": 0.0
+  },
+  "/dizi-izle/star-wars-maul-shadow-lord": {
+    "group": "STAR WARS: MAUL - SHADOW LORD",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
+    "imdb": 7.3
+  },
+  "/dizi-izle/betrayal-secrets-lies": {
+    "group": "BETRAYAL: SECRETS & LIES",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/eOo1BJLSV2EZ7GrdXIy3LKNx1rY.jpg",
+    "imdb": 0.0
   }
 }
