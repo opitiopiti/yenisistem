@@ -1400,8 +1400,8 @@
   "3233": {
     "name": "THE FAITHFUL(2026) ALTYAZI",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1775260588
+    "last_episode": 6,
+    "last_modified": 1775562830
   },
   "3234": {
     "name": "THE FALCON AND THE WINTER SOLDIER(2021) ALTYAZI",
@@ -6452,8 +6452,8 @@
   "4075": {
     "name": "WATSON(2025) ALTYAZI",
     "last_season": 2,
-    "last_episode": 15,
-    "last_modified": 1775260588
+    "last_episode": 16,
+    "last_modified": 1775562830
   },
   "4076": {
     "name": "WAYWARD PINES(2015) ALTYAZI",
@@ -33404,8 +33404,8 @@
   "8567": {
     "name": "SAINT-PIERRE(2025) ALTYAZI",
     "last_season": 2,
-    "last_episode": 10,
-    "last_modified": 1775260588
+    "last_episode": 11,
+    "last_modified": 1775562830
   },
   "8568": {
     "name": "SAKHO ET MANGANE(2019) ALTYAZI",
@@ -45478,5 +45478,23 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1775535518
+  },
+  "10580": {
+    "name": "DISNEY ENTRELAZADOS(2021) ALTYAZI",
+    "last_season": 2,
+    "last_episode": 10,
+    "last_modified": 1775562830
+  },
+  "10581": {
+    "name": "GRACE(2021) ALTYAZI",
+    "last_season": 6,
+    "last_episode": 2,
+    "last_modified": 1775562830
+  },
+  "10582": {
+    "name": "ORANGE(2016) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1775562830
   }
 }
