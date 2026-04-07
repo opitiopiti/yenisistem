@@ -1,4 +1,34 @@
 {
+  "/dizi/watson": {
+    "group": "Watson",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/b1sELCj9LK5a3olbLhPZlP8Liba.jpg",
+    "imdb": 4.9
+  },
+  "/dizi/the-faithful": {
+    "group": "The Faithful",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/6wookNIDx4IEQmpu0920qFDuRyI.jpg",
+    "imdb": 4.3
+  },
+  "/dizi/grace": {
+    "group": "Grace",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/r9hE4eF8IGbcoyl419Nfllkv6Ag.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/dark-winds": {
+    "group": "Dark Winds",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/kDlrMN0P9ByrEH2GoRbBFeZHbcf.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/american-classic": {
+    "group": "American Classic",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/nQoTcFVB9xO6tLnoSARRViitPQF.jpg",
+    "imdb": 7.0
+  },
   "/dizi/the-trades": {
     "group": "The Trades",
     "year": 2024,
@@ -28,6 +58,30 @@
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/aH4pbrLQJbjWytHOFhHlAi97zcu.jpg",
     "imdb": 6.8
+  },
+  "/dizi/sheriff-country": {
+    "group": "Sheriff Country",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/fire-country": {
+    "group": "Fire Country",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
+    "imdb": 8.2
+  },
+  "/dizi/boston-blue": {
+    "group": "Boston Blue",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/8pyxutHxpgBt8ZwbIG2TZWCW394.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/beyond-paradise": {
+    "group": "Beyond Paradise",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/7zwbypEzcjOyNuTLSD43fTB9kR8.jpg",
+    "imdb": 7.4
   },
   "/dizi/the-pitt": {
     "group": "The Pitt",
@@ -89,6 +143,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg",
     "imdb": 8.0
   },
+  "/dizi/law-order-toronto-criminal-intent": {
+    "group": "Law & Order Toronto: Criminal Intent",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/eqD7W5EGue5Nvg0BNEnoRyMQAcz.jpg",
+    "imdb": 6.9
+  },
   "/dizi/your-friends-neighbors": {
     "group": "Your Friends & Neighbors",
     "year": 2025,
@@ -107,65 +167,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
     "imdb": 7.7
   },
-  "/dizi/for-all-mankind": {
-    "group": "For All Mankind",
-    "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
-    "imdb": 7.7
+  "/dizi/disney-entrelazados/": {
+    "group": "Disney Entrelazados",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/t2Vs8KaMUDQyY4Nur4zkrfQVuOX.jpg",
+    "imdb": 6.9
   },
-  "/dizi/veronika": {
-    "group": "Veronika",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/4DKJwKWaq8XzyXp6KPfwEBs8JTl.jpg",
-    "imdb": 5.9
-  },
-  "/dizi/blue-skies": {
-    "group": "Blue Skies",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/pui0mhQ3ZutkpeSDGA0UN771ioy.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/kujo-no-taizai": {
-    "group": "Kujô no Taizai",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/jgmYNLdKLNBN5p2vPKuqlpLfeDS.jpg",
-    "imdb": 6.0
-  },
-  "/dizi/alkhalati-the-series": {
-    "group": "Alkhalati+: The Séries",
-    "year": 2026,
-    "poster": "https://dzycdn.com/img/t/294x441/alkhalati-the-series-2026.webp",
-    "imdb": 0.0
-  },
-  "/dizi/raising-chelsea": {
-    "group": "Raising Chelsea",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/t2PQBdA7nS7FLdl3l5ug2KymL99.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/the-bad-guys-breaking-in": {
-    "group": "The Bad Guys: Breaking In",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/12ybD4BvgSpmhSjknFPvf1Nu7CC.jpg",
-    "imdb": 6.4
-  },
-  "/dizi/chicago-p-d": {
-    "group": "Chicago P.D.",
-    "year": 2014,
-    "poster": "https://image.tmdb.org/t/p/w500/bez40PgT36RUu4gstD2A6GSM0tP.jpg",
-    "imdb": 8.4
-  },
-  "/dizi/chicago-fire": {
-    "group": "Chicago Fire",
-    "year": 2012,
-    "poster": "https://image.tmdb.org/t/p/w500/r915sk2JpthZSjHEgZKifWxgo6L.jpg",
-    "imdb": 8.4
-  },
-  "/dizi/bize-bisey-olmaz": {
-    "group": "Bize Bi’Şey Olmaz",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/58QebCJChV8FWXOEucf7PWsHyVz.jpg",
-    "imdb": 6.7
+  "/dizi/sins-of-our-mother/": {
+    "group": "Sins of Our Mother",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/uoShYiUZU1KSlsnV1CvnkHWT5ao.jpg",
+    "imdb": 7.0
   },
   "/dizi/big-mistakes/": {
     "group": "Big Mistakes",
@@ -322,17 +334,5 @@
     "year": "2014",
     "poster": "https://image.tmdb.org/t/p/w500/2zlkdOTRL78iV5VNpsu9RDKQa3I.jpg",
     "imdb": 6.5
-  },
-  "/dizi/just-roll-with-it/": {
-    "group": "Just Roll with It",
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/w500/gQADiEmvhYdohSafdTSi7C2Y6GF.jpg",
-    "imdb": 6.5
-  },
-  "/dizi/cafe-minamdang/": {
-    "group": "Café Minamdang",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/w500/jFXSdUd12KzpIKixEmTL0P7osxP.jpg",
-    "imdb": 7.608
   }
 }

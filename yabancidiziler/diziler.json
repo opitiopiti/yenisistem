@@ -376,5 +376,14 @@
     "year": "2005",
     "imdb": "8.0",
     "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg"
+  },
+  "/dizi/saint-pierre": {
+    "group": "Saint-Pierre",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/uBvqeoZ8ZlproJXdwZwQwRSs68I.jpg"
   }
 }

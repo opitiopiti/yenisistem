@@ -29374,5 +29374,77 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/oJl0ymkX9mIECJOMU9ZmItfC0vC.jpg",
     "imdb": 0.0
+  },
+  "/dizi/watson": {
+    "group": "Watson",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/b1sELCj9LK5a3olbLhPZlP8Liba.jpg",
+    "imdb": 4.9
+  },
+  "/dizi/the-faithful": {
+    "group": "The Faithful",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/6wookNIDx4IEQmpu0920qFDuRyI.jpg",
+    "imdb": 4.3
+  },
+  "/dizi/grace": {
+    "group": "Grace",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/r9hE4eF8IGbcoyl419Nfllkv6Ag.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/dark-winds": {
+    "group": "Dark Winds",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/kDlrMN0P9ByrEH2GoRbBFeZHbcf.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/american-classic": {
+    "group": "American Classic",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/nQoTcFVB9xO6tLnoSARRViitPQF.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/sheriff-country": {
+    "group": "Sheriff Country",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/fire-country": {
+    "group": "Fire Country",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
+    "imdb": 8.2
+  },
+  "/dizi/boston-blue": {
+    "group": "Boston Blue",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/8pyxutHxpgBt8ZwbIG2TZWCW394.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/beyond-paradise": {
+    "group": "Beyond Paradise",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/7zwbypEzcjOyNuTLSD43fTB9kR8.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/law-order-toronto-criminal-intent": {
+    "group": "Law & Order Toronto: Criminal Intent",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/eqD7W5EGue5Nvg0BNEnoRyMQAcz.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/disney-entrelazados/": {
+    "group": "Disney Entrelazados",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/t2Vs8KaMUDQyY4Nur4zkrfQVuOX.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/sins-of-our-mother/": {
+    "group": "Sins of Our Mother",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/uoShYiUZU1KSlsnV1CvnkHWT5ao.jpg",
+    "imdb": 7.0
   }
 }

@@ -1,9 +1,27 @@
 {
-  "/dizi-izle/the-comeback": {
-    "group": "THE COMEBACK",
-    "year": "2005",
-    "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg",
-    "imdb": 7.3
+  "/dizi-izle/phantom-lawyer": {
+    "group": "PHANTOM LAWYER",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg",
+    "imdb": 7.5
+  },
+  "/dizi-izle/nippon-sangoku-the-three-nations-of-the-crimson-sun": {
+    "group": "NIPPON SANGOKU: THE THREE NATIONS OF THE CRIMSON SUN",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg",
+    "imdb": 0.0
+  },
+  "/dizi-izle/gangs-of-galicia": {
+    "group": "GANGS OF GALICIA",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/yAltqHzzA1WhrN5HWCPbAgfI9xR.jpg",
+    "imdb": 6.892
+  },
+  "/dizi-izle/betrayal-secrets-lies": {
+    "group": "BETRAYAL: SECRETS & LIES",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/eOo1BJLSV2EZ7GrdXIy3LKNx1rY.jpg",
+    "imdb": 0.0
   },
   "/dizi-izle/bloodhounds": {
     "group": "BLOODHOUNDS",
@@ -17,53 +35,23 @@
     "poster": "https://image.tmdb.org/t/p/w500/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
     "imdb": 6.273
   },
-  "/dizi-izle/gangs-of-galicia": {
-    "group": "GANGS OF GALICIA",
-    "year": "2024",
-    "poster": "https://image.tmdb.org/t/p/w500/yAltqHzzA1WhrN5HWCPbAgfI9xR.jpg",
-    "imdb": 6.892
-  },
   "/dizi-izle/jury-duty": {
     "group": "JURY DUTY",
     "year": "2023",
     "poster": "https://image.tmdb.org/t/p/w500/ipiqT5uHeJudWy9ICSvuCby7NeI.jpg",
     "imdb": 7.628
   },
-  "/dizi-izle/privileges": {
-    "group": "PRIVILEGES",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/bFmWIfzkcuiDZ4WqkOfVaHb4pR8.jpg",
-    "imdb": 7.25
-  },
-  "/dizi-izle/phantom-lawyer": {
-    "group": "PHANTOM LAWYER",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg",
-    "imdb": 7.5
-  },
-  "/dizi-izle/still-shining": {
-    "group": "STILL SHINING",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/tVOq3YkCTnbrycnXHmth9f6qYs7.jpg",
-    "imdb": 7.8
-  },
-  "/dizi-izle/high-tides": {
-    "group": "HIGH TIDES",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/aH4pbrLQJbjWytHOFhHlAi97zcu.jpg",
-    "imdb": 6.9
-  },
-  "/dizi-izle/womens-hell": {
-    "group": "WOMEN'S HELL",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/pWS7yvwCFQAgsQE1IjZMKTxe0wx.jpg",
-    "imdb": 7.0
-  },
-  "/dizi-izle/rooster": {
-    "group": "ROOSTER",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
+  "/dizi-izle/the-comeback": {
+    "group": "THE COMEBACK",
+    "year": "2005",
+    "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg",
     "imdb": 7.3
+  },
+  "/dizi-izle/dtf-st-louis": {
+    "group": "DTF ST. LOUIS",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
+    "imdb": 5.4
   },
   "/dizi-izle/girl-from-nowhere-the-reset": {
     "group": "GIRL FROM NOWHERE: THE RESET",
@@ -71,28 +59,40 @@
     "poster": "https://image.tmdb.org/t/p/w500/bRMEjZHvES9XLKSFVCtveFGdOHC.jpg",
     "imdb": 8.7
   },
+  "/dizi-izle/womens-hell": {
+    "group": "WOMEN'S HELL",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/pWS7yvwCFQAgsQE1IjZMKTxe0wx.jpg",
+    "imdb": 7.0
+  },
+  "/dizi-izle/privileges": {
+    "group": "PRIVILEGES",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/bFmWIfzkcuiDZ4WqkOfVaHb4pR8.jpg",
+    "imdb": 7.25
+  },
+  "/dizi-izle/high-tides": {
+    "group": "HIGH TIDES",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/aH4pbrLQJbjWytHOFhHlAi97zcu.jpg",
+    "imdb": 6.9
+  },
   "/dizi-izle/star-wars-maul-shadow-lord": {
     "group": "STAR WARS: MAUL - SHADOW LORD",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
     "imdb": 7.3
   },
-  "/dizi-izle/nippon-sangoku-the-three-nations-of-the-crimson-sun": {
-    "group": "NIPPON SANGOKU: THE THREE NATIONS OF THE CRIMSON SUN",
+  "/dizi-izle/still-shining": {
+    "group": "STILL SHINING",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg",
-    "imdb": 0.0
+    "poster": "https://image.tmdb.org/t/p/w500/tVOq3YkCTnbrycnXHmth9f6qYs7.jpg",
+    "imdb": 7.8
   },
-  "/dizi-izle/betrayal-secrets-lies": {
-    "group": "BETRAYAL: SECRETS & LIES",
+  "/dizi-izle/rooster": {
+    "group": "ROOSTER",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/eOo1BJLSV2EZ7GrdXIy3LKNx1rY.jpg",
-    "imdb": 0.0
-  },
-  "/dizi-izle/dtf-st-louis": {
-    "group": "DTF ST. LOUIS",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
-    "imdb": 5.4
+    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
+    "imdb": 7.3
   }
 }
