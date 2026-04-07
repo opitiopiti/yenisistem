@@ -167,6 +167,24 @@
     "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
     "imdb": 7.7
   },
+  "/dizi/sexify/": {
+    "group": "Sexify",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/fTSZcItpRyRpolA82EfdKinmLRL.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/antidisturbios/": {
+    "group": "Antidisturbios",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/nJyARtlOZfwONBoCGLhxtpunwYL.jpg",
+    "imdb": 8.0
+  },
+  "/dizi/invisible-heroes/": {
+    "group": "Invisible Heroes",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/y5XskBolz62tW19084JY73zpgRF.jpg",
+    "imdb": 7.7
+  },
   "/dizi/disney-entrelazados/": {
     "group": "Disney Entrelazados",
     "year": 2021,
@@ -267,7 +285,7 @@
     "group": "The Audacity",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
-    "imdb": 0.0
+    "imdb": 4.0
   },
   "/dizi/the-muppets/": {
     "group": "The Muppets",
@@ -316,23 +334,5 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/iQMSIHR6hPN53h7TILztOZuYOcl.jpg",
     "imdb": 0.0
-  },
-  "/dizi/chi-shen/": {
-    "group": "Chi Shen",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/ul8F0xT9IGr81lWfq99HLmiH76k.jpg",
-    "imdb": 5.0
-  },
-  "/dizi/ringer/": {
-    "group": "Ringer",
-    "year": "2011",
-    "poster": "https://image.tmdb.org/t/p/w500/t27TSKDVmGwrH8NQjyQuPvKSmo5.jpg",
-    "imdb": 6.0
-  },
-  "/dizi/the-evermoor-chronicles/": {
-    "group": "The Evermoor Chronicles",
-    "year": "2014",
-    "poster": "https://image.tmdb.org/t/p/w500/2zlkdOTRL78iV5VNpsu9RDKQa3I.jpg",
-    "imdb": 6.5
   }
 }

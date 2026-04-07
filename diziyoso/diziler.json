@@ -29325,7 +29325,7 @@
     "group": "The Audacity",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
-    "imdb": 0.0
+    "imdb": 4.0
   },
   "/dizi/the-muppets/": {
     "group": "The Muppets",
@@ -29446,5 +29446,23 @@
     "year": 2022,
     "poster": "https://image.tmdb.org/t/p/w500/uoShYiUZU1KSlsnV1CvnkHWT5ao.jpg",
     "imdb": 7.0
+  },
+  "/dizi/sexify/": {
+    "group": "Sexify",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/fTSZcItpRyRpolA82EfdKinmLRL.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/antidisturbios/": {
+    "group": "Antidisturbios",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/nJyARtlOZfwONBoCGLhxtpunwYL.jpg",
+    "imdb": 8.0
+  },
+  "/dizi/invisible-heroes/": {
+    "group": "Invisible Heroes",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/y5XskBolz62tW19084JY73zpgRF.jpg",
+    "imdb": 7.7
   }
 }
