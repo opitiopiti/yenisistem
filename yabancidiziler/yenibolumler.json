@@ -1,4 +1,13 @@
 {
+  "/dizi/memory-of-a-killer": {
+    "group": "Memory of a Killer",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/3kpXrWW6gmlngwgSa52IhBpjPuz.jpg"
+  },
   "/dizi/saint-pierre": {
     "group": "Saint-Pierre",
     "last_season": 2,
