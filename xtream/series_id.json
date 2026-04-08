@@ -1184,8 +1184,8 @@
   "3197": {
     "name": "R.J. DECKER(2026) ALTYAZI",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1775260588
+    "last_episode": 6,
+    "last_modified": 1775670217
   },
   "3198": {
     "name": "RAMUNE MONKÎ(2026) ALTYAZI",
@@ -1412,8 +1412,8 @@
   "3235": {
     "name": "THE FALL AND RISE OF REGGIE DINKINS(2026) ALTYAZI",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1775260588
+    "last_episode": 8,
+    "last_modified": 1775670217
   },
   "3236": {
     "name": "THE FREAK BROTHERS(2021) ALTYAZI",
@@ -9902,8 +9902,8 @@
   "4650": {
     "name": "HIGH POTENTIAL(2024) ALTYAZI",
     "last_season": 2,
-    "last_episode": 17,
-    "last_modified": 1775260588
+    "last_episode": 18,
+    "last_modified": 1775670217
   },
   "4651": {
     "name": "HIGH TIDES(2023) ALTYAZI",
@@ -32570,8 +32570,8 @@
   "8428": {
     "name": "NCIS: SYDNEY(2023) ALTYAZI",
     "last_season": 3,
-    "last_episode": 13,
-    "last_modified": 1775260588
+    "last_episode": 14,
+    "last_modified": 1775670217
   },
   "8429": {
     "name": "NEDE(2022) ALTYAZI",
@@ -42932,8 +42932,8 @@
   "10155": {
     "name": "ALWAYS A CATCH!(2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1775260588
+    "last_episode": 2,
+    "last_modified": 1775670217
   },
   "10156": {
     "name": "ANYWAY, I'M FALLING IN LOVE WITH YOU. SEASON 2(2026) İNGİLİZCE",
@@ -42980,8 +42980,8 @@
   "10163": {
     "name": "CLASSROOM OF THE ELITE 4TH SEASON(2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1775260588
+    "last_episode": 5,
+    "last_modified": 1775670217
   },
   "10164": {
     "name": "DARK MOON: THE BLOOD ALTAR(2026) İNGİLİZCE",
@@ -43010,8 +43010,8 @@
   "10168": {
     "name": "DOROHEDORO 2(2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1775260588
+    "last_episode": 4,
+    "last_modified": 1775670217
   },
   "10169": {
     "name": "DR. STONE: SCIENCE FUTURE - PART III(2026) İNGİLİZCE",
@@ -43184,8 +43184,8 @@
   "10197": {
     "name": "REBORN AS A VENDING MACHINE, I NOW WANDER THE DUNGEON 3RD SEASON(2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1775260588
+    "last_episode": 2,
+    "last_modified": 1775670217
   },
   "10198": {
     "name": "REINCARNATED AS A DRAGON HATCHLING(2026) İNGİLİZCE",
@@ -45574,5 +45574,35 @@
     "last_season": 1,
     "last_episode": 4,
     "last_modified": 1775649175
+  },
+  "10596": {
+    "name": "CLASSROOM OF THE ELITE(2017) ALTYAZI",
+    "last_season": 4,
+    "last_episode": 13,
+    "last_modified": 1775670217
+  },
+  "10597": {
+    "name": "RE: ZERO - STARTING LIFE IN ANOTHER WORLD(2016) ALTYAZI",
+    "last_season": 4,
+    "last_episode": 25,
+    "last_modified": 1775670217
+  },
+  "10598": {
+    "name": "GALS CAN’T BE KIND TO OTAKU!?(2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1775670217
+  },
+  "10599": {
+    "name": "RENT-A-GIRLFRIEND SEASON 4(2025) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 13,
+    "last_modified": 1775670217
+  },
+  "10600": {
+    "name": "RE:ZERO: STARTING LIFE IN ANOTHER WORLD SEASON 4(2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1775670217
   }
 }
