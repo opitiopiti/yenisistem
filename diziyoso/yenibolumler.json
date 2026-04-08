@@ -1,4 +1,40 @@
 {
+  "/dizi/the-boys": {
+    "group": "The Boys",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+    "imdb": 8.4
+  },
+  "/dizi/bize-bisey-olmaz": {
+    "group": "Bize Bi’Şey Olmaz",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/58QebCJChV8FWXOEucf7PWsHyVz.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/shrinking": {
+    "group": "Shrinking",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg",
+    "imdb": 7.8
+  },
+  "/dizi/imperfect-women": {
+    "group": "Imperfect Women",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg",
+    "imdb": 5.5
+  },
+  "/dizi/daredevil-born-again": {
+    "group": "Daredevil: Born Again",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/sirens-kiss": {
+    "group": "Siren’s Kiss",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
+    "imdb": 7.4
+  },
   "/dizi/watson": {
     "group": "Watson",
     "year": 2025,
@@ -28,6 +64,18 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/nQoTcFVB9xO6tLnoSARRViitPQF.jpg",
     "imdb": 7.0
+  },
+  "/dizi/the-comeback": {
+    "group": "The Comeback",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/dtf-st-louis": {
+    "group": "DTF St. Louis",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
+    "imdb": 7.5
   },
   "/dizi/the-trades": {
     "group": "The Trades",
@@ -111,60 +159,6 @@
     "group": "Georgie & Mandy’s First Marriage",
     "year": 2024,
     "poster": "https://image.tmdb.org/t/p/w500/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
-    "imdb": 7.7
-  },
-  "/dizi/elsbeth": {
-    "group": "Elsbeth",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/7lnNSbT90qwtrn1h9TvEkVFMz2P.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/9-1-1": {
-    "group": "9-1-1",
-    "year": 2018,
-    "poster": "https://image.tmdb.org/t/p/w500/6njUqsd3By2mJsdZm1P0moPLzs3.jpg",
-    "imdb": 7.9
-  },
-  "/dizi/9-1-1-nashville": {
-    "group": "9-1-1: Nashville",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/4Dl0LysUOEWOhitzAfrKFkBeefu.jpg",
-    "imdb": 5.3
-  },
-  "/dizi/xo-kitty": {
-    "group": "XO, Kitty",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/hxvTdKAwv27PUfpXOQp6AwWr6V.jpg",
-    "imdb": 8.0
-  },
-  "/dizi/dorohedoro": {
-    "group": "Dorohedoro",
-    "year": 2020,
-    "poster": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg",
-    "imdb": 8.0
-  },
-  "/dizi/law-order-toronto-criminal-intent": {
-    "group": "Law & Order Toronto: Criminal Intent",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/eqD7W5EGue5Nvg0BNEnoRyMQAcz.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/your-friends-neighbors": {
-    "group": "Your Friends & Neighbors",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/lxmNQ1392ClqU56W0kx2h2ONF4V.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/the-last-thing-he-told-me": {
-    "group": "The Last Thing He Told Me",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/sxRBl0zPdevzruEoIbsL2MMDkFN.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/monarch-legacy-of-monsters": {
-    "group": "Monarch: Legacy of Monsters",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
     "imdb": 7.7
   },
   "/dizi/sexify/": {

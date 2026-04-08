@@ -1,4 +1,22 @@
 {
+  "/diziler/daredevil-born-again.html": {
+    "group": "DAREDEVIL: BORN AGAIN",
+    "year": "2025",
+    "imdb": "8.5",
+    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg"
+  },
+  "/diziler/imperfect-women.html": {
+    "group": "IMPERFECT WOMEN",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg"
+  },
+  "/diziler/shrinking.html": {
+    "group": "SHRINKING",
+    "year": "2023",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg"
+  },
   "/diziler/sirens-kiss.html": {
     "group": "SIREN'S KISS",
     "year": "2026",
@@ -58,17 +76,5 @@
     "year": "2024",
     "imdb": "6.0",
     "poster": "https://image.tmdb.org/t/p/w500/yAltqHzzA1WhrN5HWCPbAgfI9xR.jpg"
-  },
-  "/diziler/bloodhounds.html": {
-    "group": "BLOODHOUNDS",
-    "year": "2023",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/yLQQoseay2JXHZO9UVGA53i1HQ.jpg"
-  },
-  "/diziler/ninjago-dragons-rising.html": {
-    "group": "NINJAGO: DRAGONS RISING",
-    "year": "2023",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/lGqwplPoQWiUkBvsZRQc0DPbgT0.jpg"
   }
 }

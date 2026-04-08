@@ -1,4 +1,67 @@
 {
+  "/dizi/blue-skies": {
+    "group": "Blue Skies",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.5",
+    "poster": "https://image.tmdb.org/t/p/w500/pui0mhQ3ZutkpeSDGA0UN771ioy.jpg"
+  },
+  "/dizi/daredevil-born-again": {
+    "group": "Daredevil: Born Again",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg"
+  },
+  "/dizi/imperfect-women": {
+    "group": "Imperfect Women",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg"
+  },
+  "/dizi/shrinking": {
+    "group": "Shrinking",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg"
+  },
+  "/dizi/the-testaments": {
+    "group": "The Testaments",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg"
+  },
+  "/dizi/trust-me-the-false-prophet": {
+    "group": "Trust Me: The False Prophet",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/rAUbR5dHpDgYUrhAofAHYT9f1vr.jpg"
+  },
+  "/dizi/will-trent": {
+    "group": "Will Trent",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/qG5O46gUxxYGImld03tl2zLhvrg.jpg"
+  },
   "/dizi/memory-of-a-killer": {
     "group": "Memory of a Killer",
     "last_season": 1,

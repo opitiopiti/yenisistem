@@ -29464,5 +29464,23 @@
     "year": 2019,
     "poster": "https://image.tmdb.org/t/p/w500/y5XskBolz62tW19084JY73zpgRF.jpg",
     "imdb": 7.7
+  },
+  "/dizi/the-boys": {
+    "group": "The Boys",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+    "imdb": 8.4
+  },
+  "/dizi/the-comeback": {
+    "group": "The Comeback",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/dtf-st-louis": {
+    "group": "DTF St. Louis",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
+    "imdb": 7.5
   }
 }
