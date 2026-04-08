@@ -29068,5 +29068,17 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/eOo1BJLSV2EZ7GrdXIy3LKNx1rY.jpg",
     "imdb": 0.0
+  },
+  "/dizi-izle/the-testaments": {
+    "group": "THE TESTAMENTS",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
+    "imdb": 6.2
+  },
+  "/dizi-izle/trust-me-the-false-prophet": {
+    "group": "TRUST ME: THE FALSE PROPHET",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/rAUbR5dHpDgYUrhAofAHYT9f1vr.jpg",
+    "imdb": 10.0
   }
 }
