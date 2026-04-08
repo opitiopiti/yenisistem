@@ -11,6 +11,36 @@
     "poster": "https://image.tmdb.org/t/p/w500/58QebCJChV8FWXOEucf7PWsHyVz.jpg",
     "imdb": 6.7
   },
+  "/dizi/trust-me-the-false-prophet": {
+    "group": "Trust Me: The False Prophet",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/rAUbR5dHpDgYUrhAofAHYT9f1vr.jpg",
+    "imdb": 10.0
+  },
+  "/dizi/r-j-decker": {
+    "group": "R.J. Decker",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/bkMdvmjj1zEnVqZTPskBREDzTuS.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/ncis-sydney": {
+    "group": "NCIS: Sydney",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/6dYDa6h1AOZ7iZ1zv3nlw7qhErX.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/ncis-origins": {
+    "group": "NCIS: Origins",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/waWeC84DExojP5AHFbWaybj3wxv.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/high-potential": {
+    "group": "High Potential",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
+    "imdb": 8.0
+  },
   "/dizi/shrinking": {
     "group": "Shrinking",
     "year": 2023,
@@ -34,6 +64,18 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
     "imdb": 7.4
+  },
+  "/dizi/the-fall-and-rise-of-reggie-dinkins": {
+    "group": "The Fall and Rise of Reggie Dinkins",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/lrF8Ve4GoazCalfbrSY52tUIXSN.jpg",
+    "imdb": 5.9
+  },
+  "/dizi/st-denis-medical": {
+    "group": "St. Denis Medical",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/8tUjI21ZcfSynLCk3Zr0Gs5BQwz.jpg",
+    "imdb": 6.8
   },
   "/dizi/watson": {
     "group": "Watson",
@@ -119,47 +161,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
     "imdb": 8.2
   },
-  "/dizi/boston-blue": {
-    "group": "Boston Blue",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/8pyxutHxpgBt8ZwbIG2TZWCW394.jpg",
-    "imdb": 6.2
-  },
-  "/dizi/beyond-paradise": {
-    "group": "Beyond Paradise",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/7zwbypEzcjOyNuTLSD43fTB9kR8.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/the-pitt": {
-    "group": "The Pitt",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-    "imdb": 8.7
-  },
-  "/dizi/mira": {
-    "group": "Mira",
+  "/dizi/trust-me-the-false-prophet/": {
+    "group": "Trust Me: The False Prophet",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/sPTDlNpTCJkbDxVPlQvnOItDzuf.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/rAUbR5dHpDgYUrhAofAHYT9f1vr.jpg",
     "imdb": 10.0
   },
-  "/dizi/matlock": {
-    "group": "Matlock",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/6kEAVyhalzv4HCAfnLfXUcF3nQZ.jpg",
-    "imdb": 7.1
-  },
-  "/dizi/greys-anatomy": {
-    "group": "Grey’s Anatomy",
-    "year": 2005,
-    "poster": "https://image.tmdb.org/t/p/w500/hjJkrLXhWvGHpLeLBDFznpBTY1S.jpg",
-    "imdb": 8.2
-  },
-  "/dizi/georgie-mandys-first-marriage": {
-    "group": "Georgie & Mandy’s First Marriage",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
-    "imdb": 7.7
+  "/dizi/waco-american-apocalypse/": {
+    "group": "Waco: American Apocalypse",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/eKsgrhu4qiuePmGmuVCUI84IfAD.jpg",
+    "imdb": 7.0
   },
   "/dizi/sexify/": {
     "group": "Sexify",
@@ -316,17 +328,5 @@
     "year": 2013,
     "poster": "https://image.tmdb.org/t/p/w500/8dNQTTHAirWwCpQM85amONPcZSA.jpg",
     "imdb": 8.0
-  },
-  "/dizi/king-fishers/": {
-    "group": "King Fishers",
-    "year": 2013,
-    "poster": "https://image.tmdb.org/t/p/w500/qfPL2eOCO5aUsmxy2dYiEjT92nc.jpg",
-    "imdb": 7.1
-  },
-  "/dizi/a-taste-for-murder/": {
-    "group": "A Taste for Murder",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/iQMSIHR6hPN53h7TILztOZuYOcl.jpg",
-    "imdb": 4.0
   }
 }
