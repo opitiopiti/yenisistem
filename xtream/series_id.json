@@ -278,8 +278,8 @@
   "3046": {
     "name": "BIZE BI’ŞEY OLMAZ(2026) YERLİ DİZİ",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1775260588
+    "last_episode": 6,
+    "last_modified": 1775649175
   },
   "3047": {
     "name": "BIZI AYIRAN ÇIZGI(2021) YERLİ DİZİ",
@@ -302,8 +302,8 @@
   "3050": {
     "name": "BLUE SKIES(2026) ALTYAZI",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1775260588
+    "last_episode": 8,
+    "last_modified": 1775649175
   },
   "3051": {
     "name": "BLUE THERAPY(2026) ALTYAZI",
@@ -704,8 +704,8 @@
   "3117": {
     "name": "IMPERFECT WOMEN(2026) ALTYAZI",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1775260588
+    "last_episode": 5,
+    "last_modified": 1775649175
   },
   "3118": {
     "name": "INDIAN PREDATOR: MURDER IN A COURTROOM(2022) ALTYAZI",
@@ -1268,8 +1268,8 @@
   "3211": {
     "name": "SIREN’S KISS(2026) ALTYAZI",
     "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1775260588
+    "last_episode": 12,
+    "last_modified": 1775649175
   },
   "3212": {
     "name": "SIZI DINLIYORUM(2022) YERLİ DİZİ",
@@ -26785,9 +26785,9 @@
   },
   "7464": {
     "name": "THE BOYS(2019) ALTYAZI",
-    "last_season": 3,
+    "last_season": 5,
     "last_episode": 8,
-    "last_modified": 1775260588
+    "last_modified": 1775649175
   },
   "7465": {
     "name": "THE BURNING GIRLS(2023) ALTYAZI",
@@ -45556,5 +45556,23 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1775597438
+  },
+  "10593": {
+    "name": "RE:ZERO: STARTING LIFE IN ANOTHER WORLD SEASON 3(2024) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 16,
+    "last_modified": 1775649175
+  },
+  "10594": {
+    "name": "THE TESTAMENTS(2026) ALTYAZI",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1775649175
+  },
+  "10595": {
+    "name": "TRUST ME: THE FALSE PROPHET(2026) ALTYAZI",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1775649175
   }
 }
