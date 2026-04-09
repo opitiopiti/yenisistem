@@ -155,7 +155,7 @@
   "/dizi/abbott-elementary": {
     "group": "Abbott Elementary",
     "last_season": 5,
-    "last_episode": 18,
+    "last_episode": 19,
     "start_episode": 1,
     "year": "2022",
     "imdb": "8.2",
@@ -488,7 +488,7 @@
   "/dizi/bandi": {
     "group": "Bandi",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -497,7 +497,7 @@
   "/dizi/big-mistakes": {
     "group": "Big Mistakes",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -506,7 +506,7 @@
   "/dizi/scrubs-2026": {
     "group": "Scrubs 2026",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -514,8 +514,8 @@
   },
   "/dizi/veronika": {
     "group": "Veronika",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 5,
     "start_episode": 1,
     "year": "2024",
     "imdb": "6.3",
@@ -523,8 +523,8 @@
   },
   "/dizi/wild-cards": {
     "group": "Wild Cards",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 10,
     "start_episode": 1,
     "year": "2024",
     "imdb": "6.7",
