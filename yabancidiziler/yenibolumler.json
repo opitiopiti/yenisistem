@@ -29,7 +29,7 @@
   "/dizi/chicago-fire": {
     "group": "Chicago Fire",
     "last_season": 14,
-    "last_episode": 16,
+    "last_episode": 17,
     "start_episode": 1,
     "year": "2024",
     "imdb": "8.0",
@@ -38,7 +38,7 @@
   "/dizi/chicago-pd": {
     "group": "Chicago PD",
     "last_season": 13,
-    "last_episode": 16,
+    "last_episode": 17,
     "start_episode": 1,
     "year": "2014",
     "imdb": "8.1",
