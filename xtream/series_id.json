@@ -38810,8 +38810,8 @@
   "9468": {
     "name": "DR. STONE(2019) ALTYAZI",
     "last_season": 4,
-    "last_episode": 25,
-    "last_modified": 1775260588
+    "last_episode": 26,
+    "last_modified": 1775754067
   },
   "9469": {
     "name": "AMÉRICA VS AMÉRICA(2022) ALTYAZI",
@@ -43016,8 +43016,8 @@
   "10169": {
     "name": "DR. STONE: SCIENCE FUTURE - PART III(2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1775260588
+    "last_episode": 2,
+    "last_modified": 1775754067
   },
   "10170": {
     "name": "DR. STONE: SCIENCE FUTURE - PART II(2025) İNGİLİZCE",
@@ -43130,8 +43130,8 @@
   "10188": {
     "name": "KIRIO FAN CLUB(2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1775260588
+    "last_episode": 2,
+    "last_modified": 1775754067
   },
   "10189": {
     "name": "MARIKA'S LOVE METER MALFUNCTION(2026) İNGİLİZCE",
@@ -45634,5 +45634,17 @@
     "last_season": 1,
     "last_episode": 8,
     "last_modified": 1775735598
+  },
+  "10606": {
+    "name": "V 2009(2009) ALTYAZI",
+    "last_season": 2,
+    "last_episode": 12,
+    "last_modified": 1775754067
+  },
+  "10607": {
+    "name": "THE BARBARIAN'S BRIDE(2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1775754067
   }
 }
