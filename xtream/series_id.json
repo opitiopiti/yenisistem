@@ -1250,8 +1250,8 @@
   "3208": {
     "name": "SCRUBS 2026(2026) ALTYAZI",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1775260588
+    "last_episode": 8,
+    "last_modified": 1775735598
   },
   "3209": {
     "name": "SEKIZINCI AILE(2025) YERLİ DİZİ",
@@ -43400,8 +43400,8 @@
   "10233": {
     "name": "BIZE BI'ŞEY OLMAZ(2026) YERLİ DİZİ",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1775280460
+    "last_episode": 6,
+    "last_modified": 1775735598
   },
   "10234": {
     "name": "KAOSUN ANATOMISI(2025) YERLİ DİZİ",
@@ -45616,5 +45616,23 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1775693517
+  },
+  "10603": {
+    "name": "NEMLIZADE(2023) YERLİ DİZİ",
+    "last_season": 2,
+    "last_episode": 6,
+    "last_modified": 1775735598
+  },
+  "10604": {
+    "name": "BANDI(2026) ALTYAZI",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1775735598
+  },
+  "10605": {
+    "name": "BIG MISTAKES(2026) ALTYAZI",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1775735598
   }
 }
