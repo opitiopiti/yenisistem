@@ -87,7 +87,7 @@
     "group": "Big Mistakes",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/oJl0ymkX9mIECJOMU9ZmItfC0vC.jpg",
-    "imdb": 0.0
+    "imdb": 6.0
   },
   "/dizi/watson": {
     "group": "Watson",
@@ -161,6 +161,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/aH4pbrLQJbjWytHOFhHlAi97zcu.jpg",
     "imdb": 6.8
   },
+  "/dizi/keep-sweet-pray-and-obey/": {
+    "group": "Keep Sweet: Pray and Obey",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/4Nmb8R9fO9ezzTDZKE5hwkPhu7M.jpg",
+    "imdb": 7.3
+  },
   "/dizi/florida-man/": {
     "group": "Florida Man",
     "year": 2023,
@@ -231,7 +237,7 @@
     "group": "Big Mistakes",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/oJl0ymkX9mIECJOMU9ZmItfC0vC.jpg",
-    "imdb": 0.0
+    "imdb": 6.0
   },
   "/dizi/alef/": {
     "group": "Alef",
@@ -303,7 +309,7 @@
     "group": "The Miniature Wife",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/99SkFAS3S3iOtnplwH0byFUMiHK.jpg",
-    "imdb": 0.0
+    "imdb": 10.0
   },
   "/dizi/unchosen/": {
     "group": "Unchosen",
@@ -322,11 +328,5 @@
     "year": 2015,
     "poster": "https://image.tmdb.org/t/p/w500/hFivVcGlNe99L4Zj6aGVB0iuE6t.jpg",
     "imdb": 7.5
-  },
-  "/dizi/geomsanaejeon/": {
-    "group": "Geomsanaejeon",
-    "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/smVnwTqUfdjDCySFOdRd99eXp7p.jpg",
-    "imdb": 8.0
   }
 }
