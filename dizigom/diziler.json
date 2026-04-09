@@ -254,8 +254,8 @@
   "/dizi-izle/scrubs": {
     "group": "SCRUBS (2026)",
     "year": "2001",
-    "poster": null,
-    "imdb": null
+    "poster": "https://image.tmdb.org/t/p/w500/8ZfQcEErSPWNawVtY1ehOZYpcvf.jpg",
+    "imdb": 8.0
   },
   "/dizi-izle/unicorn-academy-secrets-revealed": {
     "group": "UNICORN ACADEMY: SECRETS REVEALED",
@@ -29080,5 +29080,23 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/rAUbR5dHpDgYUrhAofAHYT9f1vr.jpg",
     "imdb": 10.0
+  },
+  "/dizi-izle/bandi": {
+    "group": "BANDI",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/aOna2stEPzxVUJWzTGEiuRVkt6o.jpg",
+    "imdb": 0.0
+  },
+  "/dizi-izle/marshals": {
+    "group": "MARSHALS",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/nInfaveN1iFpRIcMGNKENoVVUT2.jpg",
+    "imdb": 7.2
+  },
+  "/dizi-izle/big-mistakes": {
+    "group": "BIG MISTAKES",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/oJl0ymkX9mIECJOMU9ZmItfC0vC.jpg",
+    "imdb": 0.0
   }
 }

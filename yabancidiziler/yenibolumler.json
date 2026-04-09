@@ -26,6 +26,24 @@
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/oJl0ymkX9mIECJOMU9ZmItfC0vC.jpg"
   },
+  "/dizi/chicago-fire": {
+    "group": "Chicago Fire",
+    "last_season": 14,
+    "last_episode": 16,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/r915sk2JpthZSjHEgZKifWxgo6L.jpg"
+  },
+  "/dizi/chicago-pd": {
+    "group": "Chicago PD",
+    "last_season": 13,
+    "last_episode": 16,
+    "start_episode": 1,
+    "year": "2014",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/bez40PgT36RUu4gstD2A6GSM0tP.jpg"
+  },
   "/dizi/scrubs-2026": {
     "group": "Scrubs 2026",
     "last_season": 1,

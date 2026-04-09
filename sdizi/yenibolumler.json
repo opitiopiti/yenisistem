@@ -1,4 +1,16 @@
 {
+  "/diziler/high-potential.html": {
+    "group": "HIGH POTENTIAL",
+    "year": "2024",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg"
+  },
+  "/diziler/dr-stone.html": {
+    "group": "DR. STONE",
+    "year": "2019",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/ve1Sv3sVArmE0nlFjzadcNv1G8r.jpg"
+  },
   "/diziler/re-zero-starting-life-in-another-world.html": {
     "group": "RE: ZERO - STARTING LIFE IN ANOTHER WORLD",
     "year": "2016",
@@ -64,17 +76,5 @@
     "year": "2026",
     "imdb": "6.3",
     "poster": "https://image.tmdb.org/t/p/w500/bRMEjZHvES9XLKSFVCtveFGdOHC.jpg"
-  },
-  "/diziler/your-friends-neighbors.html": {
-    "group": "YOUR FRIENDS & NEIGHBORS",
-    "year": "2025",
-    "imdb": "7.9",
-    "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg"
-  },
-  "/diziler/to-your-eternity.html": {
-    "group": "TO YOUR ETERNITY",
-    "year": "2021",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/lA2jRBubr2OLOlbkJXuBXYqv4A9.jpg"
   }
 }

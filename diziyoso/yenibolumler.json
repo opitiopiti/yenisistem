@@ -1,4 +1,10 @@
 {
+  "/dizi/bandi": {
+    "group": "Bandi",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/aOna2stEPzxVUJWzTGEiuRVkt6o.jpg",
+    "imdb": 0.0
+  },
   "/dizi/the-boys": {
     "group": "The Boys",
     "year": 2019,
@@ -77,6 +83,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/8tUjI21ZcfSynLCk3Zr0Gs5BQwz.jpg",
     "imdb": 6.8
   },
+  "/dizi/big-mistakes": {
+    "group": "Big Mistakes",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/oJl0ymkX9mIECJOMU9ZmItfC0vC.jpg",
+    "imdb": 0.0
+  },
   "/dizi/watson": {
     "group": "Watson",
     "year": 2025,
@@ -149,17 +161,23 @@
     "poster": "https://image.tmdb.org/t/p/w500/aH4pbrLQJbjWytHOFhHlAi97zcu.jpg",
     "imdb": 6.8
   },
-  "/dizi/sheriff-country": {
-    "group": "Sheriff Country",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
-    "imdb": 6.6
+  "/dizi/florida-man/": {
+    "group": "Florida Man",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/bn4qHIxbmZOC4AqlDUbgcKYld7r.jpg",
+    "imdb": 6.7
   },
-  "/dizi/fire-country": {
-    "group": "Fire Country",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
-    "imdb": 8.2
+  "/dizi/v-2009/": {
+    "group": "V 2009",
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/b2w3vq0uvfmahS6dB41WeWByhVy.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/bandi/": {
+    "group": "Bandi",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/aOna2stEPzxVUJWzTGEiuRVkt6o.jpg",
+    "imdb": 0.0
   },
   "/dizi/nemlizade/": {
     "group": "Nemlizade",
@@ -310,23 +328,5 @@
     "year": 2019,
     "poster": "https://image.tmdb.org/t/p/w500/smVnwTqUfdjDCySFOdRd99eXp7p.jpg",
     "imdb": 8.0
-  },
-  "/dizi/ghost-doctor/": {
-    "group": "Ghost Doctor",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/1TWwuZR398ytSZX0RdsOyECu9sC.jpg",
-    "imdb": 7.9
-  },
-  "/dizi/hyena/": {
-    "group": "Hyena",
-    "year": 2020,
-    "poster": "https://image.tmdb.org/t/p/w500/u6iQysC0Vl3SW4G6x9NjL9pfieD.jpg",
-    "imdb": 7.6
-  },
-  "/dizi/daebakbudongsan/": {
-    "group": "Daebakbudongsan",
-    "year": 2021,
-    "poster": "https://image.tmdb.org/t/p/w500/iHjLfJScdNrFWXd15nZfsqHgkNx.jpg",
-    "imdb": 7.6
   }
 }

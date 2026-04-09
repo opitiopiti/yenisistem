@@ -29530,5 +29530,35 @@
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/jBYvly9QlXQvwtTAGG18a5jh7Dc.jpg",
     "imdb": 7.3
+  },
+  "/dizi/bandi": {
+    "group": "Bandi",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/aOna2stEPzxVUJWzTGEiuRVkt6o.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/big-mistakes": {
+    "group": "Big Mistakes",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/oJl0ymkX9mIECJOMU9ZmItfC0vC.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/florida-man/": {
+    "group": "Florida Man",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/bn4qHIxbmZOC4AqlDUbgcKYld7r.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/v-2009/": {
+    "group": "V 2009",
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/b2w3vq0uvfmahS6dB41WeWByhVy.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/bandi/": {
+    "group": "Bandi",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/aOna2stEPzxVUJWzTGEiuRVkt6o.jpg",
+    "imdb": 0.0
   }
 }

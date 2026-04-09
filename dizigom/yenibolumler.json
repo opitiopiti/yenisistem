@@ -1,21 +1,45 @@
 {
-  "/dizi-izle/gangs-of-galicia": {
-    "group": "GANGS OF GALICIA",
-    "year": "2024",
-    "poster": "https://image.tmdb.org/t/p/w500/yAltqHzzA1WhrN5HWCPbAgfI9xR.jpg",
-    "imdb": 6.892
-  },
-  "/dizi-izle/daredevil-born-again": {
-    "group": "DAREDEVIL: BORN AGAIN",
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
-    "imdb": 8.0
-  },
-  "/dizi-izle/girl-from-nowhere-the-reset": {
-    "group": "GIRL FROM NOWHERE: THE RESET",
+  "/dizi-izle/bandi": {
+    "group": "BANDI",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/bRMEjZHvES9XLKSFVCtveFGdOHC.jpg",
-    "imdb": 8.7
+    "poster": "https://image.tmdb.org/t/p/w500/aOna2stEPzxVUJWzTGEiuRVkt6o.jpg",
+    "imdb": 0.0
+  },
+  "/dizi-izle/the-testaments": {
+    "group": "THE TESTAMENTS",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
+    "imdb": 6.2
+  },
+  "/dizi-izle/imperfect-women": {
+    "group": "IMPERFECT WOMEN",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg",
+    "imdb": 5.923
+  },
+  "/dizi-izle/marshals": {
+    "group": "MARSHALS",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/nInfaveN1iFpRIcMGNKENoVVUT2.jpg",
+    "imdb": 7.2
+  },
+  "/dizi-izle/the-boys": {
+    "group": "THE BOYS",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+    "imdb": 8.437
+  },
+  "/dizi-izle/the-comeback": {
+    "group": "THE COMEBACK",
+    "year": "2005",
+    "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg",
+    "imdb": 7.3
+  },
+  "/dizi-izle/big-mistakes": {
+    "group": "BIG MISTAKES",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/oJl0ymkX9mIECJOMU9ZmItfC0vC.jpg",
+    "imdb": 0.0
   },
   "/dizi-izle/betrayal-secrets-lies": {
     "group": "BETRAYAL: SECRETS & LIES",
@@ -23,17 +47,35 @@
     "poster": "https://image.tmdb.org/t/p/w500/eOo1BJLSV2EZ7GrdXIy3LKNx1rY.jpg",
     "imdb": 0.0
   },
+  "/dizi-izle/daredevil-born-again": {
+    "group": "DAREDEVIL: BORN AGAIN",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+    "imdb": 8.0
+  },
+  "/dizi-izle/nippon-sangoku-the-three-nations-of-the-crimson-sun": {
+    "group": "NIPPON SANGOKU: THE THREE NATIONS OF THE CRIMSON SUN",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg",
+    "imdb": 8.0
+  },
+  "/dizi-izle/trust-me-the-false-prophet": {
+    "group": "TRUST ME: THE FALSE PROPHET",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/rAUbR5dHpDgYUrhAofAHYT9f1vr.jpg",
+    "imdb": 10.0
+  },
   "/dizi-izle/shrinking": {
     "group": "SHRINKING",
     "year": "2023",
     "poster": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg",
     "imdb": 7.825
   },
-  "/dizi-izle/still-shining": {
-    "group": "STILL SHINING",
+  "/dizi-izle/dtf-st-louis": {
+    "group": "DTF ST. LOUIS",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/tVOq3YkCTnbrycnXHmth9f6qYs7.jpg",
-    "imdb": 7.8
+    "poster": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
+    "imdb": 5.4
   },
   "/dizi-izle/sirens-kiss": {
     "group": "SIREN'S KISS",
@@ -47,76 +89,10 @@
     "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
     "imdb": 7.3
   },
-  "/dizi-izle/phantom-lawyer": {
-    "group": "PHANTOM LAWYER",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg",
-    "imdb": 7.5
-  },
-  "/dizi-izle/nippon-sangoku-the-three-nations-of-the-crimson-sun": {
-    "group": "NIPPON SANGOKU: THE THREE NATIONS OF THE CRIMSON SUN",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg",
-    "imdb": 8.0
-  },
   "/dizi-izle/rooster": {
     "group": "ROOSTER",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
     "imdb": 7.3
-  },
-  "/dizi-izle/dtf-st-louis": {
-    "group": "DTF ST. LOUIS",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
-    "imdb": 5.4
-  },
-  "/dizi-izle/trust-me-the-false-prophet": {
-    "group": "TRUST ME: THE FALSE PROPHET",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/rAUbR5dHpDgYUrhAofAHYT9f1vr.jpg",
-    "imdb": 10.0
-  },
-  "/dizi-izle/imperfect-women": {
-    "group": "IMPERFECT WOMEN",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg",
-    "imdb": 5.923
-  },
-  "/dizi-izle/the-testaments": {
-    "group": "THE TESTAMENTS",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
-    "imdb": 6.2
-  },
-  "/dizi-izle/high-tides": {
-    "group": "HIGH TIDES",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/aH4pbrLQJbjWytHOFhHlAi97zcu.jpg",
-    "imdb": 6.9
-  },
-  "/dizi-izle/the-comeback": {
-    "group": "THE COMEBACK",
-    "year": "2005",
-    "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg",
-    "imdb": 7.3
-  },
-  "/dizi-izle/the-boys": {
-    "group": "THE BOYS",
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
-    "imdb": 8.437
-  },
-  "/dizi-izle/bloodhounds": {
-    "group": "BLOODHOUNDS",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/yLQQoseay2JXHZO9UVGA53i1HQ.jpg",
-    "imdb": 8.3
-  },
-  "/dizi-izle/jury-duty": {
-    "group": "JURY DUTY",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/ipiqT5uHeJudWy9ICSvuCby7NeI.jpg",
-    "imdb": 7.628
   }
 }
