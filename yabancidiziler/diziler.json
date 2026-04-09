@@ -484,5 +484,50 @@
     "year": "2026",
     "imdb": "7.9",
     "poster": "https://image.tmdb.org/t/p/w500/bkMdvmjj1zEnVqZTPskBREDzTuS.jpg"
+  },
+  "/dizi/bandi": {
+    "group": "Bandi",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/aOna2stEPzxVUJWzTGEiuRVkt6o.jpg"
+  },
+  "/dizi/big-mistakes": {
+    "group": "Big Mistakes",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/oJl0ymkX9mIECJOMU9ZmItfC0vC.jpg"
+  },
+  "/dizi/scrubs-2026": {
+    "group": "Scrubs 2026",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg"
+  },
+  "/dizi/veronika": {
+    "group": "Veronika",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "6.3",
+    "poster": "https://image.tmdb.org/t/p/w500/4DKJwKWaq8XzyXp6KPfwEBs8JTl.jpg"
+  },
+  "/dizi/wild-cards": {
+    "group": "Wild Cards",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "6.7",
+    "poster": "https://image.tmdb.org/t/p/w500/lIhkV9LNwViVD2bylPTFQvDD21e.jpg"
   }
 }

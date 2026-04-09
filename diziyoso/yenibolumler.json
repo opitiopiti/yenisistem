@@ -161,6 +161,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
     "imdb": 8.2
   },
+  "/dizi/nemlizade/": {
+    "group": "Nemlizade",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/jBYvly9QlXQvwtTAGG18a5jh7Dc.jpg",
+    "imdb": 7.3
+  },
   "/dizi/trust-me-the-false-prophet/": {
     "group": "Trust Me: The False Prophet",
     "year": 2026,
@@ -322,11 +328,5 @@
     "year": 2021,
     "poster": "https://image.tmdb.org/t/p/w500/iHjLfJScdNrFWXd15nZfsqHgkNx.jpg",
     "imdb": 7.6
-  },
-  "/dizi/joogoonui-taeyang/": {
-    "group": "Joogoonui Taeyang",
-    "year": 2013,
-    "poster": "https://image.tmdb.org/t/p/w500/8dNQTTHAirWwCpQM85amONPcZSA.jpg",
-    "imdb": 8.0
   }
 }

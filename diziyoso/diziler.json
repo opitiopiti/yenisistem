@@ -29524,5 +29524,11 @@
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/eKsgrhu4qiuePmGmuVCUI84IfAD.jpg",
     "imdb": 7.0
+  },
+  "/dizi/nemlizade/": {
+    "group": "Nemlizade",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/jBYvly9QlXQvwtTAGG18a5jh7Dc.jpg",
+    "imdb": 7.3
   }
 }
