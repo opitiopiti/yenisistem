@@ -83,7 +83,7 @@
   "/dizi/matlock": {
     "group": "Matlock",
     "last_season": 2,
-    "last_episode": 12,
+    "last_episode": 13,
     "start_episode": 1,
     "year": "2024",
     "imdb": "6.9",
@@ -101,7 +101,7 @@
   "/dizi/outlander": {
     "group": "Outlander",
     "last_season": 8,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2014",
     "imdb": "8.4",
@@ -128,7 +128,7 @@
   "/dizi/the-hunting-party": {
     "group": "The Hunting Party",
     "last_season": 2,
-    "last_episode": 8,
+    "last_episode": 9,
     "start_episode": 1,
     "year": "2025",
     "imdb": "6.2",
@@ -550,8 +550,8 @@
   },
   "/dizi/rabo-de-peixe": {
     "group": "Rabo de Peixe",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2023",
     "imdb": "7.4",
@@ -559,8 +559,8 @@
   },
   "/dizi/the-trades": {
     "group": "The Trades",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 5,
     "start_episode": 1,
     "year": "2024",
     "imdb": "7.5",
