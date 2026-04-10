@@ -29602,5 +29602,29 @@
     "year": 2013,
     "poster": "https://image.tmdb.org/t/p/w500/1tIYEyjK1LLcX0jYK3ZouT7601o.jpg",
     "imdb": 6.1
+  },
+  "/dizi/rabo-de-peixe": {
+    "group": "Rabo de Peixe",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/zhJANohv7wceqGpJsPuNui8Wz3G.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/w-du-gaeui-segye/": {
+    "group": "W – Du gaeui segye",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/5sKZZ8APyfoqiAit1DCNnh9vaf0.jpg",
+    "imdb": 8.0
+  },
+  "/dizi/madoff-the-monster-of-wall-street/": {
+    "group": "Madoff: The Monster of Wall Street",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/cp1kTIj3rEZsinWbYMGBfjgVHv7.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/rabo-de-peixe/": {
+    "group": "Rabo de Peixe",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/zhJANohv7wceqGpJsPuNui8Wz3G.jpg",
+    "imdb": 7.4
   }
 }

@@ -23,6 +23,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/7Xaw2vjMEn6KyENB6JksVrXIq8W.jpg",
     "imdb": 8.1
   },
+  "/dizi/rabo-de-peixe": {
+    "group": "Rabo de Peixe",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/zhJANohv7wceqGpJsPuNui8Wz3G.jpg",
+    "imdb": 7.4
+  },
   "/dizi/the-pitt": {
     "group": "The Pitt",
     "year": 2025,
@@ -143,11 +149,23 @@
     "poster": "https://image.tmdb.org/t/p/w500/waWeC84DExojP5AHFbWaybj3wxv.jpg",
     "imdb": 7.6
   },
-  "/dizi/high-potential": {
-    "group": "High Potential",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
+  "/dizi/w-du-gaeui-segye/": {
+    "group": "W – Du gaeui segye",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/5sKZZ8APyfoqiAit1DCNnh9vaf0.jpg",
     "imdb": 8.0
+  },
+  "/dizi/madoff-the-monster-of-wall-street/": {
+    "group": "Madoff: The Monster of Wall Street",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/cp1kTIj3rEZsinWbYMGBfjgVHv7.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/rabo-de-peixe/": {
+    "group": "Rabo de Peixe",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/zhJANohv7wceqGpJsPuNui8Wz3G.jpg",
+    "imdb": 7.4
   },
   "/dizi/the-thundermans/": {
     "group": "The Thundermans",
@@ -298,23 +316,5 @@
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/fxJrS7cXn5hK09xDuqp7isQOFXX.jpg",
     "imdb": 7.9
-  },
-  "/dizi/the-villains-of-valley-view/": {
-    "group": "The Villains of Valley View",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/7Q4QWFm2SOyjeJniHi8ncTRc2iU.jpg",
-    "imdb": 5.9
-  },
-  "/dizi/counterpart/": {
-    "group": "Counterpart",
-    "year": 2017,
-    "poster": "https://image.tmdb.org/t/p/w500/fVTpkoTkl7LJSoVCnuoHRPJvS4o.jpg",
-    "imdb": 8.0
-  },
-  "/dizi/the-miniature-wife/": {
-    "group": "The Miniature Wife",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/99SkFAS3S3iOtnplwH0byFUMiHK.jpg",
-    "imdb": 10.0
   }
 }
