@@ -29535,7 +29535,7 @@
     "group": "Bandi",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/aOna2stEPzxVUJWzTGEiuRVkt6o.jpg",
-    "imdb": 0.0
+    "imdb": 5.0
   },
   "/dizi/big-mistakes": {
     "group": "Big Mistakes",
@@ -29559,12 +29559,18 @@
     "group": "Bandi",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/aOna2stEPzxVUJWzTGEiuRVkt6o.jpg",
-    "imdb": 0.0
+    "imdb": 5.0
   },
   "/dizi/keep-sweet-pray-and-obey/": {
     "group": "Keep Sweet: Pray and Obey",
     "year": 2022,
     "poster": "https://image.tmdb.org/t/p/w500/4Nmb8R9fO9ezzTDZKE5hwkPhu7M.jpg",
     "imdb": 7.3
+  },
+  "/dizi/gassal": {
+    "group": "Gassal",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/7Xaw2vjMEn6KyENB6JksVrXIq8W.jpg",
+    "imdb": 8.1
   }
 }

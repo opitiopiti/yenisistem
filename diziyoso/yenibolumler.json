@@ -1,9 +1,15 @@
 {
+  "/dizi/gassal": {
+    "group": "Gassal",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/7Xaw2vjMEn6KyENB6JksVrXIq8W.jpg",
+    "imdb": 8.1
+  },
   "/dizi/bandi": {
     "group": "Bandi",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/aOna2stEPzxVUJWzTGEiuRVkt6o.jpg",
-    "imdb": 0.0
+    "imdb": 5.0
   },
   "/dizi/the-boys": {
     "group": "The Boys",
@@ -155,12 +161,6 @@
     "poster": "https://image.tmdb.org/t/p/w500/yAltqHzzA1WhrN5HWCPbAgfI9xR.jpg",
     "imdb": 6.8
   },
-  "/dizi/knokke-off": {
-    "group": "Knokke off",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/aH4pbrLQJbjWytHOFhHlAi97zcu.jpg",
-    "imdb": 6.8
-  },
   "/dizi/keep-sweet-pray-and-obey/": {
     "group": "Keep Sweet: Pray and Obey",
     "year": 2022,
@@ -183,7 +183,7 @@
     "group": "Bandi",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/aOna2stEPzxVUJWzTGEiuRVkt6o.jpg",
-    "imdb": 0.0
+    "imdb": 5.0
   },
   "/dizi/nemlizade/": {
     "group": "Nemlizade",

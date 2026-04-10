@@ -1,4 +1,10 @@
 {
+  "/diziler/big-mistakes.html": {
+    "group": "BIG MISTAKES",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/mgXTCQ86lV3oudr2KXXO5zGEqIb.jpg"
+  },
   "/diziler/high-potential.html": {
     "group": "HIGH POTENTIAL",
     "year": "2024",
@@ -70,11 +76,5 @@
     "year": "1999",
     "imdb": "9.0",
     "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
-  },
-  "/diziler/girl-from-nowhere-the-reset.html": {
-    "group": "GIRL FROM NOWHERE: THE RESET",
-    "year": "2026",
-    "imdb": "6.3",
-    "poster": "https://image.tmdb.org/t/p/w500/bRMEjZHvES9XLKSFVCtveFGdOHC.jpg"
   }
 }
