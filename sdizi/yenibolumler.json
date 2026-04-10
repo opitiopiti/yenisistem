@@ -1,4 +1,16 @@
 {
+  "/diziler/malcolm-in-the-middle-lifes-still-unfair.html": {
+    "group": "MALCOLM IN THE MIDDLE: LIFE'S STILL UNFAIR",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/bqYCU8Xv8CCfJm4HfznGzfgRJOp.jpg"
+  },
+  "/diziler/phantom-lawyer.html": {
+    "group": "PHANTOM LAWYER",
+    "year": "2026",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg"
+  },
   "/diziler/the-last-thing-he-told-me.html": {
     "group": "THE LAST THING HE TOLD ME",
     "year": "2023",
@@ -76,11 +88,5 @@
     "year": "2026",
     "imdb": "6.5",
     "poster": "https://image.tmdb.org/t/p/w500/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg"
-  },
-  "/diziler/star-wars-maul-shadow-lord.html": {
-    "group": "STAR WARS: MAUL - SHADOW LORD",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/eNbAxoeEARfHmm7fd6u2eSxNQ8k.jpg"
   }
 }
