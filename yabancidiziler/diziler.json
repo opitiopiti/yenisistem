@@ -38,7 +38,7 @@
   "/dizi/for-all-mankind": {
     "group": "For All Mankind",
     "last_season": 5,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1,
     "year": "2019",
     "imdb": "8.1",
@@ -47,7 +47,7 @@
   "/dizi/georgie-and-mandy-s-first-marriage": {
     "group": "Georgie and Mandy’s First Marriage",
     "last_season": 2,
-    "last_episode": 14,
+    "last_episode": 15,
     "start_episode": 1,
     "year": "2024",
     "imdb": "7.1",
@@ -92,7 +92,7 @@
   "/dizi/monarch-legacy-of-monsters": {
     "group": "Monarch: Legacy of Monsters",
     "last_season": 2,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1,
     "year": "2023",
     "imdb": "7.8",
@@ -137,7 +137,7 @@
   "/dizi/the-last-thing-he-told-me": {
     "group": "The Last Thing He Told Me",
     "last_season": 2,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2023",
     "imdb": "6.6",
@@ -146,7 +146,7 @@
   "/dizi/your-friends-neighbors": {
     "group": "Your Friends & Neighbors",
     "last_season": 2,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1,
     "year": "2025",
     "imdb": "7.0",
@@ -515,7 +515,7 @@
   "/dizi/veronika": {
     "group": "Veronika",
     "last_season": 3,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2024",
     "imdb": "6.3",
@@ -532,8 +532,8 @@
   },
   "/dizi/hacks": {
     "group": "Hacks",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 1,
     "start_episode": 1,
     "year": "2021",
     "imdb": "8.2",
@@ -542,7 +542,7 @@
   "/dizi/mira": {
     "group": "Mira",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
