@@ -183,7 +183,7 @@
     "group": "Malcolm in the Middle: Life’s Still Unfair",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/4uXAZRYtcMfoX2XtY1gcUxLHhjj.jpg",
-    "imdb": 0.0
+    "imdb": 8.5
   },
   "/dizi/felices-los-6/": {
     "group": "Felices los 6",
@@ -29572,5 +29572,35 @@
     "year": 2024,
     "poster": "https://image.tmdb.org/t/p/w500/7Xaw2vjMEn6KyENB6JksVrXIq8W.jpg",
     "imdb": 8.1
+  },
+  "/dizi/malcolm-in-the-middle-lifes-still-unfair": {
+    "group": "Malcolm in the Middle: Life’s Still Unfair",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/bqYCU8Xv8CCfJm4HfznGzfgRJOp.jpg",
+    "imdb": 8.5
+  },
+  "/dizi/hacks": {
+    "group": "Hacks",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/chicago-med": {
+    "group": "Chicago Med",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/9eym662FRJJb9wdgCiDKPDciZzf.jpg",
+    "imdb": 8.3
+  },
+  "/dizi/yeralti": {
+    "group": "Yeraltı",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/bu8ks983hBPEzyAH8gSATW5aPJ7.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/the-thundermans/": {
+    "group": "The Thundermans",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/1tIYEyjK1LLcX0jYK3ZouT7601o.jpg",
+    "imdb": 6.1
   }
 }

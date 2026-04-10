@@ -529,5 +529,23 @@
     "year": "2024",
     "imdb": "6.7",
     "poster": "https://image.tmdb.org/t/p/w500/lIhkV9LNwViVD2bylPTFQvDD21e.jpg"
+  },
+  "/dizi/hacks": {
+    "group": "Hacks",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2021",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg"
+  },
+  "/dizi/mira": {
+    "group": "Mira",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/sPTDlNpTCJkbDxVPlQvnOItDzuf.jpg"
   }
 }

@@ -1,4 +1,28 @@
 {
+  "/diziler/the-last-thing-he-told-me.html": {
+    "group": "THE LAST THING HE TOLD ME",
+    "year": "2023",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/sxRBl0zPdevzruEoIbsL2MMDkFN.jpg"
+  },
+  "/diziler/your-friends-neighbors.html": {
+    "group": "YOUR FRIENDS & NEIGHBORS",
+    "year": "2025",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg"
+  },
+  "/diziler/monarch-legacy-of-monsters.html": {
+    "group": "MONARCH: LEGACY OF MONSTERS",
+    "year": "2023",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg"
+  },
+  "/diziler/for-all-mankind.html": {
+    "group": "FOR ALL MANKIND",
+    "year": "2019",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
+  },
   "/diziler/big-mistakes.html": {
     "group": "BIG MISTAKES",
     "year": "2026",
@@ -58,23 +82,5 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/eNbAxoeEARfHmm7fd6u2eSxNQ8k.jpg"
-  },
-  "/diziler/dtf-st-louis.html": {
-    "group": "DTF ST. LOUIS",
-    "year": "2026",
-    "imdb": "6.7",
-    "poster": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg"
-  },
-  "/diziler/rooster.html": {
-    "group": "ROOSTER",
-    "year": "2026",
-    "imdb": "7.2",
-    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg"
-  },
-  "/diziler/one-piece-izle.html": {
-    "group": "ONE PIECE",
-    "year": "1999",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
   }
 }

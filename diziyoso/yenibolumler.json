@@ -1,9 +1,75 @@
 {
+  "/dizi/mira": {
+    "group": "Mira",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/sPTDlNpTCJkbDxVPlQvnOItDzuf.jpg",
+    "imdb": 10.0
+  },
+  "/dizi/privileges": {
+    "group": "Privilèges",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/bFmWIfzkcuiDZ4WqkOfVaHb4pR8.jpg",
+    "imdb": 7.8
+  },
+  "/dizi/malcolm-in-the-middle-lifes-still-unfair": {
+    "group": "Malcolm in the Middle: Life’s Still Unfair",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/bqYCU8Xv8CCfJm4HfznGzfgRJOp.jpg",
+    "imdb": 8.5
+  },
   "/dizi/gassal": {
     "group": "Gassal",
     "year": 2024,
     "poster": "https://image.tmdb.org/t/p/w500/7Xaw2vjMEn6KyENB6JksVrXIq8W.jpg",
     "imdb": 8.1
+  },
+  "/dizi/the-pitt": {
+    "group": "The Pitt",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+    "imdb": 8.7
+  },
+  "/dizi/the-last-thing-he-told-me": {
+    "group": "The Last Thing He Told Me",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/sxRBl0zPdevzruEoIbsL2MMDkFN.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/veronika": {
+    "group": "Veronika",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/4DKJwKWaq8XzyXp6KPfwEBs8JTl.jpg",
+    "imdb": 5.9
+  },
+  "/dizi/georgie-mandys-first-marriage": {
+    "group": "Georgie & Mandy’s First Marriage",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/your-friends-neighbors": {
+    "group": "Your Friends & Neighbors",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/lxmNQ1392ClqU56W0kx2h2ONF4V.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/monarch-legacy-of-monsters": {
+    "group": "Monarch: Legacy of Monsters",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/hacks": {
+    "group": "Hacks",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/for-all-mankind": {
+    "group": "For All Mankind",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
+    "imdb": 7.7
   },
   "/dizi/bandi": {
     "group": "Bandi",
@@ -11,11 +77,41 @@
     "poster": "https://image.tmdb.org/t/p/w500/aOna2stEPzxVUJWzTGEiuRVkt6o.jpg",
     "imdb": 5.0
   },
+  "/dizi/chicago-p-d": {
+    "group": "Chicago P.D.",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/bez40PgT36RUu4gstD2A6GSM0tP.jpg",
+    "imdb": 8.4
+  },
+  "/dizi/chicago-med": {
+    "group": "Chicago Med",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/9eym662FRJJb9wdgCiDKPDciZzf.jpg",
+    "imdb": 8.3
+  },
+  "/dizi/chicago-fire": {
+    "group": "Chicago Fire",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/r915sk2JpthZSjHEgZKifWxgo6L.jpg",
+    "imdb": 8.4
+  },
+  "/dizi/allegiance-2024": {
+    "group": "Allegiance 2024",
+    "year": 2024,
+    "poster": "https://dzycdn.com/img/t/294x441/allegiance-2024.webp",
+    "imdb": 6.4
+  },
   "/dizi/the-boys": {
     "group": "The Boys",
     "year": 2019,
     "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
     "imdb": 8.4
+  },
+  "/dizi/yeralti": {
+    "group": "Yeraltı",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/bu8ks983hBPEzyAH8gSATW5aPJ7.jpg",
+    "imdb": 7.6
   },
   "/dizi/bize-bisey-olmaz": {
     "group": "Bize Bi’Şey Olmaz",
@@ -53,113 +149,23 @@
     "poster": "https://image.tmdb.org/t/p/w500/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg",
     "imdb": 8.0
   },
-  "/dizi/shrinking": {
-    "group": "Shrinking",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg",
-    "imdb": 7.8
+  "/dizi/the-thundermans/": {
+    "group": "The Thundermans",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/1tIYEyjK1LLcX0jYK3ZouT7601o.jpg",
+    "imdb": 6.1
   },
-  "/dizi/imperfect-women": {
-    "group": "Imperfect Women",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg",
-    "imdb": 5.5
+  "/dizi/malcolm-in-the-middle-lifes-still-unfair/": {
+    "group": "Malcolm in the Middle: Life’s Still Unfair",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/4uXAZRYtcMfoX2XtY1gcUxLHhjj.jpg",
+    "imdb": 8.5
   },
-  "/dizi/daredevil-born-again": {
-    "group": "Daredevil: Born Again",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
-    "imdb": 7.9
-  },
-  "/dizi/sirens-kiss": {
-    "group": "Siren’s Kiss",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
+  "/dizi/the-cleaning-lady/": {
+    "group": "The Cleaning Lady",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/aoTQhDKiuKpn599yNxp03wr2ZHu.jpg",
     "imdb": 7.4
-  },
-  "/dizi/the-fall-and-rise-of-reggie-dinkins": {
-    "group": "The Fall and Rise of Reggie Dinkins",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/lrF8Ve4GoazCalfbrSY52tUIXSN.jpg",
-    "imdb": 5.9
-  },
-  "/dizi/st-denis-medical": {
-    "group": "St. Denis Medical",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/8tUjI21ZcfSynLCk3Zr0Gs5BQwz.jpg",
-    "imdb": 6.8
-  },
-  "/dizi/big-mistakes": {
-    "group": "Big Mistakes",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/oJl0ymkX9mIECJOMU9ZmItfC0vC.jpg",
-    "imdb": 6.0
-  },
-  "/dizi/watson": {
-    "group": "Watson",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/b1sELCj9LK5a3olbLhPZlP8Liba.jpg",
-    "imdb": 4.9
-  },
-  "/dizi/the-faithful": {
-    "group": "The Faithful",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/6wookNIDx4IEQmpu0920qFDuRyI.jpg",
-    "imdb": 4.3
-  },
-  "/dizi/grace": {
-    "group": "Grace",
-    "year": 2021,
-    "poster": "https://image.tmdb.org/t/p/w500/r9hE4eF8IGbcoyl419Nfllkv6Ag.jpg",
-    "imdb": 6.7
-  },
-  "/dizi/dark-winds": {
-    "group": "Dark Winds",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/kDlrMN0P9ByrEH2GoRbBFeZHbcf.jpg",
-    "imdb": 7.5
-  },
-  "/dizi/american-classic": {
-    "group": "American Classic",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/nQoTcFVB9xO6tLnoSARRViitPQF.jpg",
-    "imdb": 7.0
-  },
-  "/dizi/the-comeback": {
-    "group": "The Comeback",
-    "year": 2005,
-    "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg",
-    "imdb": 7.3
-  },
-  "/dizi/dtf-st-louis": {
-    "group": "DTF St. Louis",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
-    "imdb": 7.5
-  },
-  "/dizi/the-trades": {
-    "group": "The Trades",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/qZM1JHo0ejinfKe6mTMK2cOhKA8.jpg",
-    "imdb": 6.8
-  },
-  "/dizi/privileges": {
-    "group": "Privilèges",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/bFmWIfzkcuiDZ4WqkOfVaHb4pR8.jpg",
-    "imdb": 7.8
-  },
-  "/dizi/sanyanggaedeul": {
-    "group": "Sanyanggaedeul",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/kxU1hhebWZGaz8gkMVi8zkZhzVt.jpg",
-    "imdb": 8.1
-  },
-  "/dizi/clanes": {
-    "group": "Clanes",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/yAltqHzzA1WhrN5HWCPbAgfI9xR.jpg",
-    "imdb": 6.8
   },
   "/dizi/keep-sweet-pray-and-obey/": {
     "group": "Keep Sweet: Pray and Obey",
@@ -310,23 +316,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/99SkFAS3S3iOtnplwH0byFUMiHK.jpg",
     "imdb": 10.0
-  },
-  "/dizi/unchosen/": {
-    "group": "Unchosen",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/6WXvDEJktEWfc4NqdxtjO8j4wT1.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/the-audacity/": {
-    "group": "The Audacity",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
-    "imdb": 4.0
-  },
-  "/dizi/the-muppets/": {
-    "group": "The Muppets",
-    "year": 2015,
-    "poster": "https://image.tmdb.org/t/p/w500/hFivVcGlNe99L4Zj6aGVB0iuE6t.jpg",
-    "imdb": 7.5
   }
 }
