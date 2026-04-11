@@ -1,4 +1,16 @@
 {
+  "/diziler/dorohedoro.html": {
+    "group": "DOROHEDORO",
+    "year": "2020",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg"
+  },
+  "/diziler/nippon-sangoku-the-three-nations-of-the-crimson-sun.html": {
+    "group": "NIPPON SANGOKU: THE THREE NATIONS OF THE CRIMSON SUN",
+    "year": "2026",
+    "imdb": "8.3",
+    "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg"
+  },
   "/diziler/malcolm-in-the-middle-lifes-still-unfair.html": {
     "group": "MALCOLM IN THE MIDDLE: LIFE'S STILL UNFAIR",
     "year": "2026",
@@ -76,17 +88,5 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg"
-  },
-  "/diziler/shrinking.html": {
-    "group": "SHRINKING",
-    "year": "2023",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg"
-  },
-  "/diziler/sirens-kiss.html": {
-    "group": "SIREN'S KISS",
-    "year": "2026",
-    "imdb": "6.5",
-    "poster": "https://image.tmdb.org/t/p/w500/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg"
   }
 }
