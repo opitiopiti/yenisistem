@@ -565,5 +565,23 @@
     "year": "2024",
     "imdb": "7.5",
     "poster": "https://image.tmdb.org/t/p/w500/qZM1JHo0ejinfKe6mTMK2cOhKA8.jpg"
+  },
+  "/dizi/gomorrah-the-origins": {
+    "group": "Gomorrah: The Origins",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.1",
+    "poster": "https://image.tmdb.org/t/p/w500/j8EOKHTlSaorhXOKRT25ssEie6a.jpg"
+  },
+  "/dizi/the-miniature-wife": {
+    "group": "The Miniature Wife",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.2",
+    "poster": "https://image.tmdb.org/t/p/w500/99SkFAS3S3iOtnplwH0byFUMiHK.jpg"
   }
 }
