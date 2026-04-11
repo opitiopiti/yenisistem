@@ -1,4 +1,10 @@
 {
+  "/diziler/phantom-lawyer.html": {
+    "group": "PHANTOM LAWYER",
+    "year": "2026",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg"
+  },
   "/diziler/dorohedoro.html": {
     "group": "DOROHEDORO",
     "year": "2020",
@@ -16,12 +22,6 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/bqYCU8Xv8CCfJm4HfznGzfgRJOp.jpg"
-  },
-  "/diziler/phantom-lawyer.html": {
-    "group": "PHANTOM LAWYER",
-    "year": "2026",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg"
   },
   "/diziler/the-last-thing-he-told-me.html": {
     "group": "THE LAST THING HE TOLD ME",
@@ -82,11 +82,5 @@
     "year": "2025",
     "imdb": "8.5",
     "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg"
-  },
-  "/diziler/imperfect-women.html": {
-    "group": "IMPERFECT WOMEN",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg"
   }
 }

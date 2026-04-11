@@ -29,6 +29,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/zhJANohv7wceqGpJsPuNui8Wz3G.jpg",
     "imdb": 7.4
   },
+  "/dizi/the-miniature-wife": {
+    "group": "The Miniature Wife",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/99SkFAS3S3iOtnplwH0byFUMiHK.jpg",
+    "imdb": 6.1
+  },
   "/dizi/the-pitt": {
     "group": "The Pitt",
     "year": 2025,
@@ -143,12 +149,6 @@
     "poster": "https://image.tmdb.org/t/p/w500/6dYDa6h1AOZ7iZ1zv3nlw7qhErX.jpg",
     "imdb": 6.9
   },
-  "/dizi/ncis-origins": {
-    "group": "NCIS: Origins",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/waWeC84DExojP5AHFbWaybj3wxv.jpg",
-    "imdb": 7.6
-  },
   "/dizi/w-du-gaeui-segye/": {
     "group": "W – Du gaeui segye",
     "year": 2016,
@@ -208,6 +208,12 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/aOna2stEPzxVUJWzTGEiuRVkt6o.jpg",
     "imdb": 5.0
+  },
+  "/dizi/the-miniature-wife/": {
+    "group": "The Miniature Wife",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/99SkFAS3S3iOtnplwH0byFUMiHK.jpg",
+    "imdb": 10.0
   },
   "/dizi/nemlizade/": {
     "group": "Nemlizade",
@@ -310,11 +316,5 @@
     "year": 2018,
     "poster": "https://image.tmdb.org/t/p/w500/kjognbnGtCQLDVz8XRdp06RmSOn.jpg",
     "imdb": 5.8
-  },
-  "/dizi/the-muppets-mayhem/": {
-    "group": "The Muppets Mayhem",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/fxJrS7cXn5hK09xDuqp7isQOFXX.jpg",
-    "imdb": 7.9
   }
 }
