@@ -245,7 +245,7 @@
   "/dizi/beyond-paradise": {
     "group": "Beyond Paradise",
     "last_season": 4,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1,
     "year": "2023",
     "imdb": "7.3",
@@ -254,7 +254,7 @@
   "/dizi/boston-blue": {
     "group": "Boston Blue",
     "last_season": 1,
-    "last_episode": 13,
+    "last_episode": 14,
     "start_episode": 1,
     "year": "2025",
     "imdb": "6.9",
@@ -263,7 +263,7 @@
   "/dizi/fire-country": {
     "group": "Fire Country",
     "last_season": 4,
-    "last_episode": 13,
+    "last_episode": 14,
     "start_episode": 1,
     "year": "2022",
     "imdb": "7.1",
@@ -290,7 +290,7 @@
   "/dizi/happy-s-place": {
     "group": "Happy’s Place",
     "last_season": 2,
-    "last_episode": 14,
+    "last_episode": 15,
     "start_episode": 1,
     "year": "2024",
     "imdb": "5.3",
@@ -299,7 +299,7 @@
   "/dizi/sheriff-country": {
     "group": "Sheriff Country",
     "last_season": 1,
-    "last_episode": 13,
+    "last_episode": 14,
     "start_episode": 1,
     "year": "2025",
     "imdb": "7.2",
