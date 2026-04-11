@@ -1,57 +1,15 @@
 {
-  "/dizi-izle/sirens-kiss": {
-    "group": "SIREN'S KISS",
+  "/dizi-izle/trust-me-the-false-prophet": {
+    "group": "TRUST ME: THE FALSE PROPHET",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
-    "imdb": 6.273
-  },
-  "/dizi-izle/hacks": {
-    "group": "HACKS",
-    "year": "2021",
-    "poster": "https://image.tmdb.org/t/p/w500/ulBzMy5DZjBeUo6wHqn8ao0Zn6j.jpg",
-    "imdb": 7.4
-  },
-  "/dizi-izle/shrinking": {
-    "group": "SHRINKING",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg",
-    "imdb": 7.825
-  },
-  "/dizi-izle/your-friends-neighbors": {
-    "group": "YOUR FRIENDS & NEIGHBORS",
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg",
-    "imdb": 7.4
-  },
-  "/dizi-izle/the-boys": {
-    "group": "THE BOYS",
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
-    "imdb": 8.437
-  },
-  "/dizi-izle/marshals": {
-    "group": "MARSHALS",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/nInfaveN1iFpRIcMGNKENoVVUT2.jpg",
-    "imdb": 7.2
+    "poster": "https://image.tmdb.org/t/p/w500/rAUbR5dHpDgYUrhAofAHYT9f1vr.jpg",
+    "imdb": 10.0
   },
   "/dizi-izle/the-pitt": {
     "group": "THE PITT",
     "year": "2025",
     "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
     "imdb": 8.693
-  },
-  "/dizi-izle/the-testaments": {
-    "group": "THE TESTAMENTS",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
-    "imdb": 6.2
-  },
-  "/dizi-izle/bandi": {
-    "group": "BANDI",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/aOna2stEPzxVUJWzTGEiuRVkt6o.jpg",
-    "imdb": 3.0
   },
   "/dizi-izle/for-all-mankind": {
     "group": "FOR ALL MANKIND",
@@ -65,11 +23,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg",
     "imdb": 5.923
   },
-  "/dizi-izle/big-mistakes": {
-    "group": "BIG MISTAKES",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/oJl0ymkX9mIECJOMU9ZmItfC0vC.jpg",
-    "imdb": 7.3
+  "/dizi-izle/shrinking": {
+    "group": "SHRINKING",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/zEFKMNPBKq6JG7uuDkzTQ9WwErn.jpg",
+    "imdb": 7.825
   },
   "/dizi-izle/the-last-thing-he-told-me": {
     "group": "THE LAST THING HE TOLD ME",
@@ -77,28 +35,70 @@
     "poster": "https://image.tmdb.org/t/p/w500/sxRBl0zPdevzruEoIbsL2MMDkFN.jpg",
     "imdb": 7.041
   },
-  "/dizi-izle/star-wars-maul-shadow-lord": {
-    "group": "STAR WARS: MAUL - SHADOW LORD",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
-    "imdb": 7.3
-  },
   "/dizi-izle/monarch-legacy-of-monsters": {
     "group": "MONARCH: LEGACY OF MONSTERS",
     "year": "2023",
     "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
     "imdb": 7.693
   },
-  "/dizi-izle/trust-me-the-false-prophet": {
-    "group": "TRUST ME: THE FALSE PROPHET",
+  "/dizi-izle/star-wars-maul-shadow-lord": {
+    "group": "STAR WARS: MAUL - SHADOW LORD",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/rAUbR5dHpDgYUrhAofAHYT9f1vr.jpg",
-    "imdb": 10.0
+    "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
+    "imdb": 7.3
+  },
+  "/dizi-izle/bandi": {
+    "group": "BANDI",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/aOna2stEPzxVUJWzTGEiuRVkt6o.jpg",
+    "imdb": 3.0
+  },
+  "/dizi-izle/marshals": {
+    "group": "MARSHALS",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/nInfaveN1iFpRIcMGNKENoVVUT2.jpg",
+    "imdb": 7.2
+  },
+  "/dizi-izle/the-boys": {
+    "group": "THE BOYS",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+    "imdb": 8.437
+  },
+  "/dizi-izle/hacks": {
+    "group": "HACKS",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/ulBzMy5DZjBeUo6wHqn8ao0Zn6j.jpg",
+    "imdb": 7.4
+  },
+  "/dizi-izle/sirens-kiss": {
+    "group": "SIREN'S KISS",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/8r8YU97YfSf6QtMKfePmTqhFTeQ.jpg",
+    "imdb": 6.273
+  },
+  "/dizi-izle/the-testaments": {
+    "group": "THE TESTAMENTS",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
+    "imdb": 6.2
   },
   "/dizi-izle/daredevil-born-again": {
     "group": "DAREDEVIL: BORN AGAIN",
     "year": "2025",
     "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
     "imdb": 8.0
+  },
+  "/dizi-izle/big-mistakes": {
+    "group": "BIG MISTAKES",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/oJl0ymkX9mIECJOMU9ZmItfC0vC.jpg",
+    "imdb": 7.3
+  },
+  "/dizi-izle/your-friends-neighbors": {
+    "group": "YOUR FRIENDS & NEIGHBORS",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg",
+    "imdb": 7.4
   }
 }
