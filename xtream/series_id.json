@@ -1148,8 +1148,8 @@
   "3191": {
     "name": "PIEKŁO KOBIET  (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1775801787
+    "last_episode": 6,
+    "last_modified": 1775909090
   },
   "3192": {
     "name": "PLATONIK  (2025) TR",
@@ -11360,8 +11360,8 @@
   "4893": {
     "name": "THE AMAZING DIGITAL CIRCUS  (2023)",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1775801787
+    "last_episode": 9,
+    "last_modified": 1775909090
   },
   "4894": {
     "name": "THE AMERICAS  (2025)",
@@ -44966,8 +44966,8 @@
   "10494": {
     "name": "ASCENDANCE OF A BOOKWORM SEASON 4  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1775801787
+    "last_episode": 2,
+    "last_modified": 1775909090
   },
   "10495": {
     "name": "A HUNDRED SCENES OF AWAJIMA  (2026) İNGİLİZCE",
@@ -45628,5 +45628,29 @@
     "last_season": 1,
     "last_episode": 2,
     "last_modified": 1775858024
+  },
+  "10605": {
+    "name": "DEXTER NEW BLOOD  (2021)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1775909090
+  },
+  "10606": {
+    "name": "POKEMON HORIZONS: THE SERIES  (2023) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 133,
+    "last_modified": 1775909090
+  },
+  "10607": {
+    "name": "GOMORRAH: THE ORIGINS  (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1775909090
+  },
+  "10608": {
+    "name": "THE MINIATURE WIFE  (2026)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1775909090
   }
 }
