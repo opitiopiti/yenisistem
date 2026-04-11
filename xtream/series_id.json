@@ -3638,8 +3638,8 @@
   "3606": {
     "name": "BOSTON BLUE  (2025)",
     "last_season": 1,
-    "last_episode": 13,
-    "last_modified": 1775801787
+    "last_episode": 14,
+    "last_modified": 1775942851
   },
   "3607": {
     "name": "BREF  (2011)",
@@ -4736,8 +4736,8 @@
   "3789": {
     "name": "SHERIFF COUNTRY  (2025)",
     "last_season": 1,
-    "last_episode": 13,
-    "last_modified": 1775801787
+    "last_episode": 14,
+    "last_modified": 1775942851
   },
   "3790": {
     "name": "SHUANG CHENG GU SHI  (2018)",
@@ -10664,8 +10664,8 @@
   "4777": {
     "name": "PHANTOM LAWYER  (2026)",
     "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1775858024
+    "last_episode": 10,
+    "last_modified": 1775942851
   },
   "4778": {
     "name": "PHYSICAL: 100  (2023)",
@@ -44936,14 +44936,14 @@
   "10489": {
     "name": "AGENTS OF THE FOUR SEASONS: DANCE OF SPRING  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1775801787
+    "last_episode": 3,
+    "last_modified": 1775942851
   },
   "10490": {
     "name": "AKANE-BANASHI  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1775801787
+    "last_episode": 2,
+    "last_modified": 1775942851
   },
   "10491": {
     "name": "ALWAYS A CATCH!  (2026) İNGİLİZCE",
@@ -45014,8 +45014,8 @@
   "10502": {
     "name": "DAEMONS OF THE SHADOW REALM  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1775801787
+    "last_episode": 2,
+    "last_modified": 1775942851
   },
   "10503": {
     "name": "DARK MOON: THE BLOOD ALTAR  (2026) İNGİLİZCE",
@@ -45206,8 +45206,8 @@
   "10534": {
     "name": "KUSUNOKI'S GARDEN OF GODS  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1775801787
+    "last_episode": 2,
+    "last_modified": 1775942851
   },
   "10535": {
     "name": "LIAR GAME  (2026) İNGİLİZCE",
@@ -45224,8 +45224,8 @@
   "10537": {
     "name": "MAO  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1775801787
+    "last_episode": 2,
+    "last_modified": 1775942851
   },
   "10538": {
     "name": "MARIKA'S LOVE METER MALFUNCTION  (2026) İNGİLİZCE",
@@ -45248,8 +45248,8 @@
   "10541": {
     "name": "MISTRESS KANAN IS DEVILISHLY EASY  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1775801787
+    "last_episode": 2,
+    "last_modified": 1775942851
   },
   "10542": {
     "name": "MONSTER EATER  (2026) İNGİLİZCE",
@@ -45278,8 +45278,8 @@
   "10546": {
     "name": "NEEDY GIRL OVERDOSE  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1775801787
+    "last_episode": 2,
+    "last_modified": 1775942851
   },
   "10547": {
     "name": "NIPPON SANGOKU: THE THREE NATIONS OF THE CRIMSON SUN  (2026) İNGİLİZCE",
@@ -45374,8 +45374,8 @@
   "10562": {
     "name": "SCUM OF THE BRAVE  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 12,
-    "last_modified": 1775801787
+    "last_episode": 13,
+    "last_modified": 1775942851
   },
   "10563": {
     "name": "SI-VIS: THE SOUND OF HEROES  (2025) İNGİLİZCE",
@@ -45446,8 +45446,8 @@
   "10574": {
     "name": "THE GREAT SAGE RYDDEL AND THE HANDS OF TIME  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1775801787
+    "last_episode": 2,
+    "last_modified": 1775942851
   },
   "10575": {
     "name": "THE KLUTZY CLASS MONITOR AND THE GIRL WITH THE SHORT SKIRT  (2026) İNGİLİZCE",
@@ -45664,5 +45664,11 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1775927675
+  },
+  "10611": {
+    "name": "ICHIJOUMA MANKITSUGURASHI!  (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1775942851
   }
 }
