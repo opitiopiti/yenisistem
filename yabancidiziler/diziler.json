@@ -583,5 +583,23 @@
     "year": "2026",
     "imdb": "6.2",
     "poster": "https://image.tmdb.org/t/p/w500/99SkFAS3S3iOtnplwH0byFUMiHK.jpg"
+  },
+  "/dizi/at-home-with-the-furys": {
+    "group": "At Home with the Furys",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "6.7",
+    "poster": "https://image.tmdb.org/t/p/w500/9MMDK85gpE9usy6QCCLGgTzgroW.jpg"
+  },
+  "/dizi/babies": {
+    "group": "Babies",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.4",
+    "poster": "https://image.tmdb.org/t/p/w500/M1UADUxyIcEkiHWiqBmSCDmqLd.jpg"
   }
 }
