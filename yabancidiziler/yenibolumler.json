@@ -17,6 +17,33 @@
     "imdb": "6.7",
     "poster": "https://image.tmdb.org/t/p/w500/9MMDK85gpE9usy6QCCLGgTzgroW.jpg"
   },
+  "/dizi/grace": {
+    "group": "Grace",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2021",
+    "imdb": "7.4",
+    "poster": "https://image.tmdb.org/t/p/w500/r9hE4eF8IGbcoyl419Nfllkv6Ag.jpg"
+  },
+  "/dizi/nippon-sangoku": {
+    "group": "Nippon Sangoku",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/qHQnNHefuHI8N4lCoRQQP6pckMr.jpg"
+  },
+  "/dizi/the-capture": {
+    "group": "The Capture",
+    "last_season": 3,
+    "last_episode": 5,
+    "start_episode": 1,
+    "year": "2019",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/bCuTIRmnd6eBNZ9oBBQ2KAtErid.jpg"
+  },
   "/dizi/babies": {
     "group": "Babies",
     "last_season": 1,
