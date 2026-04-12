@@ -19,8 +19,8 @@
   },
   "/dizi/grace": {
     "group": "Grace",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 6,
+    "last_episode": 3,
     "start_episode": 1,
     "year": "2021",
     "imdb": "7.4",
@@ -29,7 +29,7 @@
   "/dizi/nippon-sangoku": {
     "group": "Nippon Sangoku",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -38,7 +38,7 @@
   "/dizi/the-capture": {
     "group": "The Capture",
     "last_season": 3,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2019",
     "imdb": "8.0",
