@@ -610,5 +610,14 @@
     "year": "2021",
     "imdb": "7.4",
     "poster": "https://image.tmdb.org/t/p/w500/r9hE4eF8IGbcoyl419Nfllkv6Ag.jpg"
+  },
+  "/dizi/the-audacity": {
+    "group": "The Audacity",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.7",
+    "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg"
   }
 }
