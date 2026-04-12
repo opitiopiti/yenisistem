@@ -2,7 +2,7 @@
   "/dizi/american-classic": {
     "group": "American Classic",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -10,8 +10,8 @@
   },
   "/dizi/at-home-with-the-furys": {
     "group": "At Home with the Furys",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 10,
     "start_episode": 1,
     "year": "2023",
     "imdb": "6.7",
@@ -20,7 +20,7 @@
   "/dizi/babies": {
     "group": "Babies",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.4",
