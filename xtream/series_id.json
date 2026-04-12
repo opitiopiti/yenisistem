@@ -122,8 +122,8 @@
   "3020": {
     "name": "AMERICAN CLASSIC  (2026)",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1775801787
+    "last_episode": 8,
+    "last_modified": 1775995626
   },
   "3021": {
     "name": "AMERICA’S NATIONAL PARKS (KLASIK)  (2015)",
@@ -15283,9 +15283,9 @@
   },
   "5547": {
     "name": "AT HOME WITH THE FURYS  (2023)",
-    "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1775801787
+    "last_season": 2,
+    "last_episode": 10,
+    "last_modified": 1775995626
   },
   "5548": {
     "name": "ATLANTA  (2016)",
@@ -44930,8 +44930,8 @@
   "10488": {
     "name": "ACE OF THE DIAMOND: ACT II 2ND SEASON  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1775801787
+    "last_episode": 2,
+    "last_modified": 1775995626
   },
   "10489": {
     "name": "AGENTS OF THE FOUR SEASONS: DANCE OF SPRING  (2026) İNGİLİZCE",
@@ -45368,8 +45368,8 @@
   "10561": {
     "name": "ROOSTER FIGHTER  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1775801787
+    "last_episode": 5,
+    "last_modified": 1775995626
   },
   "10562": {
     "name": "SCUM OF THE BRAVE  (2026) İNGİLİZCE",
@@ -45670,5 +45670,17 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1775942851
+  },
+  "10612": {
+    "name": "WISTORIA: WAND AND SWORD 2ND SEASON  (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1775995626
+  },
+  "10613": {
+    "name": "BABIES  (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1775995626
   }
 }
