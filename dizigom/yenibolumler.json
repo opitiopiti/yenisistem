@@ -1,33 +1,9 @@
 {
-  "/dizi-izle/your-friends-neighbors": {
-    "group": "YOUR FRIENDS & NEIGHBORS",
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg",
-    "imdb": 7.4
-  },
-  "/dizi-izle/big-mistakes": {
-    "group": "BIG MISTAKES",
+  "/dizi-izle/womens-hell": {
+    "group": "WOMEN'S HELL",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/oJl0ymkX9mIECJOMU9ZmItfC0vC.jpg",
-    "imdb": 7.3
-  },
-  "/dizi-izle/bandi": {
-    "group": "BANDI",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/aOna2stEPzxVUJWzTGEiuRVkt6o.jpg",
-    "imdb": 3.0
-  },
-  "/dizi-izle/the-testaments": {
-    "group": "THE TESTAMENTS",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
-    "imdb": 6.2
-  },
-  "/dizi-izle/malcolm-in-the-middle-lifes-still-unfair": {
-    "group": "MALCOLM IN THE MIDDLE: LIFE'S STILL UNFAIR",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/oax4kzeFdt2DAQdukrE3pIvizhC.jpg",
-    "imdb": 8.089
+    "poster": "https://image.tmdb.org/t/p/w500/pWS7yvwCFQAgsQE1IjZMKTxe0wx.jpg",
+    "imdb": 7.0
   },
   "/dizi-izle/for-all-mankind": {
     "group": "FOR ALL MANKIND",
@@ -35,35 +11,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
     "imdb": 7.7
   },
-  "/dizi-izle/womens-hell": {
-    "group": "WOMEN'S HELL",
+  "/dizi-izle/the-testaments": {
+    "group": "THE TESTAMENTS",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/pWS7yvwCFQAgsQE1IjZMKTxe0wx.jpg",
-    "imdb": 7.0
+    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
+    "imdb": 6.2
   },
-  "/dizi-izle/phantom-lawyer": {
-    "group": "PHANTOM LAWYER",
+  "/dizi-izle/big-mistakes": {
+    "group": "BIG MISTAKES",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg",
-    "imdb": 7.5
-  },
-  "/dizi-izle/the-last-thing-he-told-me": {
-    "group": "THE LAST THING HE TOLD ME",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/sxRBl0zPdevzruEoIbsL2MMDkFN.jpg",
-    "imdb": 7.041
-  },
-  "/dizi-izle/monarch-legacy-of-monsters": {
-    "group": "MONARCH: LEGACY OF MONSTERS",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
-    "imdb": 7.693
-  },
-  "/dizi-izle/hacks": {
-    "group": "HACKS",
-    "year": "2021",
-    "poster": "https://image.tmdb.org/t/p/w500/ulBzMy5DZjBeUo6wHqn8ao0Zn6j.jpg",
-    "imdb": 7.4
+    "poster": "https://image.tmdb.org/t/p/w500/oJl0ymkX9mIECJOMU9ZmItfC0vC.jpg",
+    "imdb": 7.3
   },
   "/dizi-izle/trust-me-the-false-prophet": {
     "group": "TRUST ME: THE FALSE PROPHET",
@@ -71,16 +29,58 @@
     "poster": "https://image.tmdb.org/t/p/w500/rAUbR5dHpDgYUrhAofAHYT9f1vr.jpg",
     "imdb": 10.0
   },
+  "/dizi-izle/your-friends-neighbors": {
+    "group": "YOUR FRIENDS & NEIGHBORS",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg",
+    "imdb": 7.4
+  },
+  "/dizi-izle/hacks": {
+    "group": "HACKS",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/ulBzMy5DZjBeUo6wHqn8ao0Zn6j.jpg",
+    "imdb": 7.4
+  },
+  "/dizi-izle/monarch-legacy-of-monsters": {
+    "group": "MONARCH: LEGACY OF MONSTERS",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
+    "imdb": 7.693
+  },
   "/dizi-izle/privileges": {
     "group": "PRIVILEGES",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/bFmWIfzkcuiDZ4WqkOfVaHb4pR8.jpg",
     "imdb": 7.25
   },
+  "/dizi-izle/phantom-lawyer": {
+    "group": "PHANTOM LAWYER",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg",
+    "imdb": 7.5
+  },
   "/dizi-izle/the-pitt": {
     "group": "THE PITT",
     "year": "2025",
     "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
     "imdb": 8.693
+  },
+  "/dizi-izle/malcolm-in-the-middle-lifes-still-unfair": {
+    "group": "MALCOLM IN THE MIDDLE: LIFE'S STILL UNFAIR",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/oax4kzeFdt2DAQdukrE3pIvizhC.jpg",
+    "imdb": 8.089
+  },
+  "/dizi-izle/bandi": {
+    "group": "BANDI",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/aOna2stEPzxVUJWzTGEiuRVkt6o.jpg",
+    "imdb": 3.0
+  },
+  "/dizi-izle/the-last-thing-he-told-me": {
+    "group": "THE LAST THING HE TOLD ME",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/sxRBl0zPdevzruEoIbsL2MMDkFN.jpg",
+    "imdb": 7.041
   }
 }
