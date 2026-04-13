@@ -37,8 +37,8 @@
   },
   "/dizi/tracker": {
     "group": "Tracker",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 16,
     "start_episode": 1,
     "year": "2024",
     "imdb": "6.4",
@@ -46,8 +46,8 @@
   },
   "/dizi/universal-basic-guys": {
     "group": "Universal Basic Guys",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 18,
     "start_episode": 1,
     "year": "2025",
     "imdb": "4.9",
@@ -55,8 +55,8 @@
   },
   "/dizi/watson": {
     "group": "Watson",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 17,
     "start_episode": 1,
     "year": "2025",
     "imdb": "5.2",
