@@ -1,4 +1,16 @@
 {
+  "/dizi/euphoria": {
+    "group": "Euphoria",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
+    "imdb": 8.3
+  },
+  "/dizi/rooster": {
+    "group": "Rooster",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
+    "imdb": 7.4
+  },
   "/dizi/mira": {
     "group": "Mira",
     "year": 2026,
@@ -136,18 +148,6 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/rAUbR5dHpDgYUrhAofAHYT9f1vr.jpg",
     "imdb": 10.0
-  },
-  "/dizi/r-j-decker": {
-    "group": "R.J. Decker",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/bkMdvmjj1zEnVqZTPskBREDzTuS.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/ncis-sydney": {
-    "group": "NCIS: Sydney",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/6dYDa6h1AOZ7iZ1zv3nlw7qhErX.jpg",
-    "imdb": 6.9
   },
   "/dizi/w-du-gaeui-segye/": {
     "group": "W – Du gaeui segye",
