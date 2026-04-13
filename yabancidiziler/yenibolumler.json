@@ -52,59 +52,5 @@
     "year": "2019",
     "imdb": "8.0",
     "poster": "https://image.tmdb.org/t/p/w500/bCuTIRmnd6eBNZ9oBBQ2KAtErid.jpg"
-  },
-  "/dizi/babies": {
-    "group": "Babies",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "6.4",
-    "poster": "https://image.tmdb.org/t/p/w500/M1UADUxyIcEkiHWiqBmSCDmqLd.jpg"
-  },
-  "/dizi/beyond-paradise": {
-    "group": "Beyond Paradise",
-    "last_season": 4,
-    "last_episode": 3,
-    "start_episode": 1,
-    "year": "2023",
-    "imdb": "7.3",
-    "poster": "https://image.tmdb.org/t/p/w500/7zwbypEzcjOyNuTLSD43fTB9kR8.jpg"
-  },
-  "/dizi/boston-blue": {
-    "group": "Boston Blue",
-    "last_season": 1,
-    "last_episode": 14,
-    "start_episode": 1,
-    "year": "2025",
-    "imdb": "6.9",
-    "poster": "https://image.tmdb.org/t/p/w500/8pyxutHxpgBt8ZwbIG2TZWCW394.jpg"
-  },
-  "/dizi/fire-country": {
-    "group": "Fire Country",
-    "last_season": 4,
-    "last_episode": 14,
-    "start_episode": 1,
-    "year": "2022",
-    "imdb": "7.1",
-    "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg"
-  },
-  "/dizi/happy-s-place": {
-    "group": "Happy’s Place",
-    "last_season": 2,
-    "last_episode": 15,
-    "start_episode": 1,
-    "year": "2024",
-    "imdb": "5.3",
-    "poster": "https://image.tmdb.org/t/p/w500/3dehoKPCwLwKTWATfzGqoJ2Psdl.jpg"
-  },
-  "/dizi/sheriff-country": {
-    "group": "Sheriff Country",
-    "last_season": 1,
-    "last_episode": 14,
-    "start_episode": 1,
-    "year": "2025",
-    "imdb": "7.2",
-    "poster": "https://image.tmdb.org/t/p/w500/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg"
   }
 }
