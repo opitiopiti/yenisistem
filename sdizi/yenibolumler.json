@@ -1,4 +1,16 @@
 {
+  "/diziler/high-potential.html": {
+    "group": "HIGH POTENTIAL",
+    "year": "2024",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg"
+  },
+  "/diziler/tracker.html": {
+    "group": "TRACKER",
+    "year": "2024",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg"
+  },
   "/diziler/star-wars-maul-shadow-lord.html": {
     "group": "STAR WARS: MAUL - SHADOW LORD",
     "year": "2026",
@@ -64,11 +76,5 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/bqYCU8Xv8CCfJm4HfznGzfgRJOp.jpg"
-  },
-  "/diziler/the-last-thing-he-told-me.html": {
-    "group": "THE LAST THING HE TOLD ME",
-    "year": "2023",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/sxRBl0zPdevzruEoIbsL2MMDkFN.jpg"
   }
 }

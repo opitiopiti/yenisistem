@@ -5,6 +5,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
     "imdb": 8.3
   },
+  "/dizi/star-wars-maul-shadow-lord": {
+    "group": "Star Wars: Maul – Shadow Lord",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
+    "imdb": 7.3
+  },
   "/dizi/the-comeback": {
     "group": "The Comeback",
     "year": 2005,
@@ -142,12 +148,6 @@
     "year": 2019,
     "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
     "imdb": 8.4
-  },
-  "/dizi/yeralti": {
-    "group": "Yeraltı",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/bu8ks983hBPEzyAH8gSATW5aPJ7.jpg",
-    "imdb": 7.6
   },
   "/dizi/w-du-gaeui-segye/": {
     "group": "W – Du gaeui segye",
