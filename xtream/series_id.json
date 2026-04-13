@@ -6452,8 +6452,8 @@
   "4075": {
     "name": "WATSON  (2025)",
     "last_season": 2,
-    "last_episode": 16,
-    "last_modified": 1775801787
+    "last_episode": 17,
+    "last_modified": 1776101808
   },
   "4076": {
     "name": "WAYWARD PINES  (2015)",
@@ -44786,8 +44786,8 @@
   "10464": {
     "name": "BETRAYAL: SECRETS & LIES  (2026)",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1775801787
+    "last_episode": 3,
+    "last_modified": 1776101808
   },
   "10465": {
     "name": "BIG MISTAKES  (2026)",
@@ -45080,8 +45080,8 @@
   "10513": {
     "name": "FARMING LIFE IN ANOTHER WORLD 2  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1775801787
+    "last_episode": 2,
+    "last_modified": 1776101808
   },
   "10514": {
     "name": "FATE/STRANGE FAKE  (2026) İNGİLİZCE",
@@ -45212,8 +45212,8 @@
   "10535": {
     "name": "LIAR GAME  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1775801787
+    "last_episode": 2,
+    "last_modified": 1776101808
   },
   "10536": {
     "name": "MAGICAL SISTERS LULUTTO LILLY  (2026) İNGİLİZCE",
@@ -45452,8 +45452,8 @@
   "10575": {
     "name": "THE KLUTZY CLASS MONITOR AND THE GIRL WITH THE SHORT SKIRT  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1775801787
+    "last_episode": 2,
+    "last_modified": 1776101808
   },
   "10576": {
     "name": "THE MOST HERETICAL LAST BOSS QUEEN: FROM VILLAINESS TO SAVIOR 2ND SEASON  (2026) İNGİLİZCE",
@@ -45518,8 +45518,8 @@
   "10586": {
     "name": "WITCH HAT ATELIER  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1775801787
+    "last_episode": 3,
+    "last_modified": 1776101808
   },
   "10587": {
     "name": "YONA OF THE DAWN  (2014) İNGİLİZCE",
@@ -45706,5 +45706,11 @@
     "last_season": 1,
     "last_episode": 5,
     "last_modified": 1776083912
+  },
+  "10618": {
+    "name": "UNIVERSAL BASIC GUYS  (2025)",
+    "last_season": 2,
+    "last_episode": 18,
+    "last_modified": 1776101808
   }
 }
