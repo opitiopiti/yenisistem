@@ -5,6 +5,18 @@
     "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
     "imdb": 8.3
   },
+  "/dizi/the-comeback": {
+    "group": "The Comeback",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/dtf-st-louis": {
+    "group": "DTF St. Louis",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
+    "imdb": 7.5
+  },
   "/dizi/rooster": {
     "group": "Rooster",
     "year": 2026,
@@ -137,18 +149,6 @@
     "poster": "https://image.tmdb.org/t/p/w500/bu8ks983hBPEzyAH8gSATW5aPJ7.jpg",
     "imdb": 7.6
   },
-  "/dizi/bize-bisey-olmaz": {
-    "group": "Bize Bi’Şey Olmaz",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/58QebCJChV8FWXOEucf7PWsHyVz.jpg",
-    "imdb": 6.7
-  },
-  "/dizi/trust-me-the-false-prophet": {
-    "group": "Trust Me: The False Prophet",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/rAUbR5dHpDgYUrhAofAHYT9f1vr.jpg",
-    "imdb": 10.0
-  },
   "/dizi/w-du-gaeui-segye/": {
     "group": "W – Du gaeui segye",
     "year": 2016,
@@ -269,12 +269,6 @@
     "poster": "https://image.tmdb.org/t/p/w500/oJl0ymkX9mIECJOMU9ZmItfC0vC.jpg",
     "imdb": 6.0
   },
-  "/dizi/alef/": {
-    "group": "Alef",
-    "year": 2020,
-    "poster": "https://image.tmdb.org/t/p/w500/k8kkhYmrbg8Mw6CWGfZmZwYQF3J.jpg",
-    "imdb": 7.8
-  },
   "/dizi/raising-chelsea/": {
     "group": "Raising Chelsea",
     "year": 2026,
@@ -316,5 +310,11 @@
     "year": 2018,
     "poster": "https://image.tmdb.org/t/p/w500/kjognbnGtCQLDVz8XRdp06RmSOn.jpg",
     "imdb": 5.8
+  },
+  "/dizi/the-muppets-mayhem/": {
+    "group": "The Muppets Mayhem",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/fxJrS7cXn5hK09xDuqp7isQOFXX.jpg",
+    "imdb": 7.9
   }
 }

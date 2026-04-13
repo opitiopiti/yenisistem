@@ -619,5 +619,14 @@
     "year": "2026",
     "imdb": "6.7",
     "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg"
+  },
+  "/dizi/star-wars-maul-shadow-lord": {
+    "group": "Star Wars: Maul - Shadow Lord",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg"
   }
 }
