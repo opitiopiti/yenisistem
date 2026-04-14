@@ -149,6 +149,24 @@
     "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
     "imdb": 8.4
   },
+  "/dizi/mariachis/": {
+    "group": "Mariachis",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/nmWNGnb2GFbQyW0KcBBGKfT7xMh.jpg",
+    "imdb": 8.3
+  },
+  "/dizi/maximum-pleasure-guaranteed/": {
+    "group": "Maximum Pleasure Guaranteed",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/half-man/": {
+    "group": "Half Man",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/mczVoq6ms8QMI9UfWSAVIocW1L7.jpg",
+    "imdb": 0.0
+  },
   "/dizi/w-du-gaeui-segye/": {
     "group": "W – Du gaeui segye",
     "year": 2016,
@@ -298,23 +316,5 @@
     "year": 2020,
     "poster": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg",
     "imdb": 8.0
-  },
-  "/dizi/call-it-love/": {
-    "group": "Call It Love",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/m7xiLb8mLyHHgThJICIPCsSq1qR.jpg",
-    "imdb": 7.7
-  },
-  "/dizi/coop-cami-ask-the-world/": {
-    "group": "Coop & Cami Ask the World",
-    "year": 2018,
-    "poster": "https://image.tmdb.org/t/p/w500/kjognbnGtCQLDVz8XRdp06RmSOn.jpg",
-    "imdb": 5.8
-  },
-  "/dizi/the-muppets-mayhem/": {
-    "group": "The Muppets Mayhem",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/fxJrS7cXn5hK09xDuqp7isQOFXX.jpg",
-    "imdb": 7.9
   }
 }

@@ -29650,5 +29650,23 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
     "imdb": 7.3
+  },
+  "/dizi/mariachis/": {
+    "group": "Mariachis",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/nmWNGnb2GFbQyW0KcBBGKfT7xMh.jpg",
+    "imdb": 8.3
+  },
+  "/dizi/maximum-pleasure-guaranteed/": {
+    "group": "Maximum Pleasure Guaranteed",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/half-man/": {
+    "group": "Half Man",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/mczVoq6ms8QMI9UfWSAVIocW1L7.jpg",
+    "imdb": 0.0
   }
 }
