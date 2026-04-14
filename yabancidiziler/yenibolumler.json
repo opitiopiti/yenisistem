@@ -1,8 +1,8 @@
 {
   "/dizi/crooks": {
     "group": "Crooks",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2024",
     "imdb": "6.6",
@@ -11,7 +11,7 @@
   "/dizi/dmv": {
     "group": "DMV",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 16,
     "start_episode": 1,
     "year": "2025",
     "imdb": "5.6",
@@ -19,8 +19,8 @@
   },
   "/dizi/fbi": {
     "group": "FBI",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 8,
+    "last_episode": 17,
     "start_episode": 1,
     "year": "2018",
     "imdb": "7.1",
@@ -29,7 +29,7 @@
   "/dizi/saint-pierre": {
     "group": "Saint-Pierre",
     "last_season": 2,
-    "last_episode": 11,
+    "last_episode": 12,
     "start_episode": 1,
     "year": "2025",
     "imdb": "7.0",
@@ -37,8 +37,8 @@
   },
   "/dizi/the-young-offenders": {
     "group": "The Young Offenders",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2018",
     "imdb": "8.0",
