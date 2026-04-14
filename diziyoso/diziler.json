@@ -29668,5 +29668,23 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/mczVoq6ms8QMI9UfWSAVIocW1L7.jpg",
     "imdb": 0.0
+  },
+  "/dizi/kevin/": {
+    "group": "Kevin",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/lVWCnwKiximQRGBH1WqCwzQIFPB.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/prisoner/": {
+    "group": "Prisoner",
+    "year": "1979",
+    "poster": "https://image.tmdb.org/t/p/w500/dQsM0p8znOZ4hEueVhpQxTI1QuT.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/m-i-a/": {
+    "group": "M.I.A.",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/8voJ9AKuyrSyzxfoxwR4tpio82h.jpg",
+    "imdb": 0.0
   }
 }
