@@ -61,59 +61,5 @@
     "year": "2025",
     "imdb": "5.2",
     "poster": "https://image.tmdb.org/t/p/w500/b1sELCj9LK5a3olbLhPZlP8Liba.jpg"
-  },
-  "/dizi/american-classic": {
-    "group": "American Classic",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/nQoTcFVB9xO6tLnoSARRViitPQF.jpg"
-  },
-  "/dizi/at-home-with-the-furys": {
-    "group": "At Home with the Furys",
-    "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1,
-    "year": "2023",
-    "imdb": "6.7",
-    "poster": "https://image.tmdb.org/t/p/w500/9MMDK85gpE9usy6QCCLGgTzgroW.jpg"
-  },
-  "/dizi/grace": {
-    "group": "Grace",
-    "last_season": 6,
-    "last_episode": 3,
-    "start_episode": 1,
-    "year": "2021",
-    "imdb": "7.4",
-    "poster": "https://image.tmdb.org/t/p/w500/r9hE4eF8IGbcoyl419Nfllkv6Ag.jpg"
-  },
-  "/dizi/nippon-sangoku": {
-    "group": "Nippon Sangoku",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/qHQnNHefuHI8N4lCoRQQP6pckMr.jpg"
-  },
-  "/dizi/the-audacity": {
-    "group": "The Audacity",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "6.7",
-    "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg"
-  },
-  "/dizi/the-capture": {
-    "group": "The Capture",
-    "last_season": 3,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2019",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/bCuTIRmnd6eBNZ9oBBQ2KAtErid.jpg"
   }
 }
