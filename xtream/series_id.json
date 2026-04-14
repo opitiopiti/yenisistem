@@ -3704,8 +3704,8 @@
   "3617": {
     "name": "DMV  (2025)",
     "last_season": 1,
-    "last_episode": 14,
-    "last_modified": 1775801787
+    "last_episode": 16,
+    "last_modified": 1776185973
   },
   "3618": {
     "name": "DOTA: DRAGON’S BLOOD  (2021)",
@@ -12733,9 +12733,9 @@
   },
   "5122": {
     "name": "CROOKS  (2024)",
-    "last_season": 1,
+    "last_season": 2,
     "last_episode": 8,
-    "last_modified": 1775801787
+    "last_modified": 1776185973
   },
   "5123": {
     "name": "CRUEL INTENTIONS  (2024)",
@@ -30769,9 +30769,9 @@
   },
   "8128": {
     "name": "THE YOUNG OFFENDERS  (2018)",
-    "last_season": 1,
+    "last_season": 5,
     "last_episode": 6,
-    "last_modified": 1775801787
+    "last_modified": 1776185973
   },
   "8129": {
     "name": "THIS COUNTRY  (2017)",
@@ -33404,8 +33404,8 @@
   "8567": {
     "name": "SAINT-PIERRE  (2025)",
     "last_season": 2,
-    "last_episode": 11,
-    "last_modified": 1775801787
+    "last_episode": 12,
+    "last_modified": 1776185973
   },
   "8568": {
     "name": "SAKHO ET MANGANE  (2019)",
@@ -45074,8 +45074,8 @@
   "10512": {
     "name": "EVEN A REPLICA CAN FALL IN LOVE  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1775801787
+    "last_episode": 2,
+    "last_modified": 1776185973
   },
   "10513": {
     "name": "FARMING LIFE IN ANOTHER WORLD 2  (2026) İNGİLİZCE",
@@ -45170,8 +45170,8 @@
   "10528": {
     "name": "I MADE FRIENDS WITH THE SECOND PRETTIEST GIRL IN MY CLASS  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1775801787
+    "last_episode": 2,
+    "last_modified": 1776185973
   },
   "10529": {
     "name": "JOURNAL WITH WITCH  (2026) İNGİLİZCE",
@@ -45236,8 +45236,8 @@
   "10539": {
     "name": "MARRIAGETOXIN  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1775801787
+    "last_episode": 2,
+    "last_modified": 1776185973
   },
   "10540": {
     "name": "MEDALIST SEASON 2  (2026) İNGİLİZCE",
@@ -45458,8 +45458,8 @@
   "10576": {
     "name": "THE MOST HERETICAL LAST BOSS QUEEN: FROM VILLAINESS TO SAVIOR 2ND SEASON  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1775801787
+    "last_episode": 2,
+    "last_modified": 1776185973
   },
   "10577": {
     "name": "THE RAMPARTS OF ICE  (2026) İNGİLİZCE",
@@ -45730,5 +45730,11 @@
     "last_season": 3,
     "last_episode": 10,
     "last_modified": 1776167105
+  },
+  "10622": {
+    "name": "I WANT TO END THIS LOVE GAME  (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1776185973
   }
 }
