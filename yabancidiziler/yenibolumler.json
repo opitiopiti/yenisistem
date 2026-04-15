@@ -37,8 +37,8 @@
   },
   "/dizi/million-dollar-secret": {
     "group": "Million Dollar Secret",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 3,
     "start_episode": 1,
     "year": "2025",
     "imdb": "7.0",
@@ -46,8 +46,8 @@
   },
   "/dizi/ncis-sydney": {
     "group": "NCIS: Sydney",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 15,
     "start_episode": 1,
     "year": "2023",
     "imdb": "5.9",
@@ -65,7 +65,7 @@
   "/dizi/r-j-decker": {
     "group": "R.J. Decker",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.9",
