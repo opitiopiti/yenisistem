@@ -9548,8 +9548,8 @@
   "4591": {
     "name": "DOC  (2025)",
     "last_season": 2,
-    "last_episode": 19,
-    "last_modified": 1775801787
+    "last_episode": 22,
+    "last_modified": 1776289633
   },
   "4592": {
     "name": "DOPE THIEF  (2025)",
@@ -36451,9 +36451,9 @@
   },
   "9075": {
     "name": "LA LEGGE DI LIDIA POËT  (2023)",
-    "last_season": 2,
+    "last_season": 3,
     "last_episode": 6,
-    "last_modified": 1775801787
+    "last_modified": 1776289633
   },
   "9076": {
     "name": "LA LIBERACIÓN  (2025)",
@@ -44948,8 +44948,8 @@
   "10491": {
     "name": "ALWAYS A CATCH!  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1775801787
+    "last_episode": 3,
+    "last_modified": 1776289633
   },
   "10492": {
     "name": "ANONYMOUS NOISE  (2017) İNGİLİZCE",
@@ -45122,8 +45122,8 @@
   "10520": {
     "name": "GO FOR IT, NAKAMURA!  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1775801787
+    "last_episode": 4,
+    "last_modified": 1776289633
   },
   "10521": {
     "name": "HAIBARA’S TEENAGE NEW GAME+  (2026) İNGİLİZCE",
@@ -45422,8 +45422,8 @@
   "10570": {
     "name": "THE BEGINNING AFTER THE END SEASON 2  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1775801787
+    "last_episode": 3,
+    "last_modified": 1776289633
   },
   "10571": {
     "name": "THE DARK HISTORY OF THE REINCARNATED VILLAINESS  (2025) İNGİLİZCE",
@@ -45776,7 +45776,25 @@
   "10629": {
     "name": "RECORD OF GRANCREST WAR  (2018) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 16,
-    "last_modified": 1776271473
+    "last_episode": 24,
+    "last_modified": 1776289633
+  },
+  "10630": {
+    "name": "ALGUIEN TIENE QUE SABER  (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1776289633
+  },
+  "10631": {
+    "name": "SOMEONE HAS TO KNOW  (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1776289633
+  },
+  "10632": {
+    "name": "LUKA, MAKAN, CINTA  (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1776289633
   }
 }
