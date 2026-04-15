@@ -29686,5 +29686,35 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/8voJ9AKuyrSyzxfoxwR4tpio82h.jpg",
     "imdb": 0.0
+  },
+  "/dizi/the-testaments": {
+    "group": "The Testaments",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/crooks": {
+    "group": "Crooks",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/8KkAi8uaCKainPE0OeBp6zHRWTa.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/the-dark-wizard": {
+    "group": "The Dark Wizard",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/qGbsQ6fhZPBhx9kgN0utAIyGRry.jpg",
+    "imdb": 8.1
+  },
+  "/dizi/margos-got-money-troubles": {
+    "group": "Margo’s Got Money Troubles",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg",
+    "imdb": 9.0
+  },
+  "/dizi/the-dark-wizard/": {
+    "group": "The Dark Wizard",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/qGbsQ6fhZPBhx9kgN0utAIyGRry.jpg",
+    "imdb": 8.1
   }
 }

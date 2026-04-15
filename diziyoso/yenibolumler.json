@@ -1,4 +1,52 @@
 {
+  "/dizi/bize-bisey-olmaz": {
+    "group": "Bize Bi’Şey Olmaz",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/58QebCJChV8FWXOEucf7PWsHyVz.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/the-boys": {
+    "group": "The Boys",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+    "imdb": 8.4
+  },
+  "/dizi/daredevil-born-again": {
+    "group": "Daredevil: Born Again",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/the-testaments": {
+    "group": "The Testaments",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/crooks": {
+    "group": "Crooks",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/8KkAi8uaCKainPE0OeBp6zHRWTa.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/imperfect-women": {
+    "group": "Imperfect Women",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg",
+    "imdb": 5.5
+  },
+  "/dizi/the-dark-wizard": {
+    "group": "The Dark Wizard",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/qGbsQ6fhZPBhx9kgN0utAIyGRry.jpg",
+    "imdb": 8.1
+  },
+  "/dizi/margos-got-money-troubles": {
+    "group": "Margo’s Got Money Troubles",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg",
+    "imdb": 9.0
+  },
   "/dizi/euphoria": {
     "group": "Euphoria",
     "year": 2019,
@@ -89,65 +137,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
     "imdb": 7.7
   },
-  "/dizi/your-friends-neighbors": {
-    "group": "Your Friends & Neighbors",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/lxmNQ1392ClqU56W0kx2h2ONF4V.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/monarch-legacy-of-monsters": {
-    "group": "Monarch: Legacy of Monsters",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
-    "imdb": 7.7
-  },
-  "/dizi/hacks": {
-    "group": "Hacks",
-    "year": 2021,
-    "poster": "https://image.tmdb.org/t/p/w500/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/for-all-mankind": {
-    "group": "For All Mankind",
-    "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
-    "imdb": 7.7
-  },
-  "/dizi/bandi": {
-    "group": "Bandi",
+  "/dizi/the-dark-wizard/": {
+    "group": "The Dark Wizard",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/aOna2stEPzxVUJWzTGEiuRVkt6o.jpg",
-    "imdb": 5.0
-  },
-  "/dizi/chicago-p-d": {
-    "group": "Chicago P.D.",
-    "year": 2014,
-    "poster": "https://image.tmdb.org/t/p/w500/bez40PgT36RUu4gstD2A6GSM0tP.jpg",
-    "imdb": 8.4
-  },
-  "/dizi/chicago-med": {
-    "group": "Chicago Med",
-    "year": 2015,
-    "poster": "https://image.tmdb.org/t/p/w500/9eym662FRJJb9wdgCiDKPDciZzf.jpg",
-    "imdb": 8.3
-  },
-  "/dizi/chicago-fire": {
-    "group": "Chicago Fire",
-    "year": 2012,
-    "poster": "https://image.tmdb.org/t/p/w500/r915sk2JpthZSjHEgZKifWxgo6L.jpg",
-    "imdb": 8.4
-  },
-  "/dizi/allegiance-2024": {
-    "group": "Allegiance 2024",
-    "year": 2024,
-    "poster": "https://dzycdn.com/img/t/294x441/allegiance-2024.webp",
-    "imdb": 6.4
-  },
-  "/dizi/the-boys": {
-    "group": "The Boys",
-    "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
-    "imdb": 8.4
+    "poster": "https://image.tmdb.org/t/p/w500/qGbsQ6fhZPBhx9kgN0utAIyGRry.jpg",
+    "imdb": 8.1
   },
   "/dizi/kevin/": {
     "group": "Kevin",
@@ -309,12 +303,6 @@
     "group": "Raising Chelsea",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/t2PQBdA7nS7FLdl3l5ug2KymL99.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/alkhalati-the-series/": {
-    "group": "Alkhalati+: The Séries",
-    "year": 2026,
-    "poster": "https://dzycdn.com/img/t/163x245/alkhalati-the-series-2026.webp",
     "imdb": 0.0
   }
 }
