@@ -29104,5 +29104,11 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/oax4kzeFdt2DAQdukrE3pIvizhC.jpg",
     "imdb": 8.089
+  },
+  "/dizi-izle/marvels-avengers": {
+    "group": "MARVEL'S AVENGERS",
+    "year": "2013",
+    "poster": "https://image.tmdb.org/t/p/w500/aVYPq7FSvsdNQOXVIFnndXJPCXn.jpg",
+    "imdb": 7.6
   }
 }
