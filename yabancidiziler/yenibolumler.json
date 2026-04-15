@@ -35,6 +35,24 @@
     "imdb": "6.6",
     "poster": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg"
   },
+  "/dizi/million-dollar-secret": {
+    "group": "Million Dollar Secret",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/iC6xzFgRRq5yHngSnmusXkNL928.jpg"
+  },
+  "/dizi/ncis-sydney": {
+    "group": "NCIS: Sydney",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "5.9",
+    "poster": "https://image.tmdb.org/t/p/w500/6dYDa6h1AOZ7iZ1zv3nlw7qhErX.jpg"
+  },
   "/dizi/perfil-falso": {
     "group": "Perfil falso",
     "last_season": 3,
@@ -43,6 +61,15 @@
     "year": "2023",
     "imdb": "5.7",
     "poster": "https://image.tmdb.org/t/p/w500/3KyyfuG5VxUmpJFnw0pa1SkTsuL.jpg"
+  },
+  "/dizi/r-j-decker": {
+    "group": "R.J. Decker",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/bkMdvmjj1zEnVqZTPskBREDzTuS.jpg"
   },
   "/dizi/the-dark-wizard": {
     "group": "The Dark Wizard",

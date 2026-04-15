@@ -727,5 +727,23 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/qGbsQ6fhZPBhx9kgN0utAIyGRry.jpg"
+  },
+  "/dizi/million-dollar-secret": {
+    "group": "Million Dollar Secret",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/iC6xzFgRRq5yHngSnmusXkNL928.jpg"
+  },
+  "/dizi/ncis-sydney": {
+    "group": "NCIS: Sydney",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "5.9",
+    "poster": "https://image.tmdb.org/t/p/w500/6dYDa6h1AOZ7iZ1zv3nlw7qhErX.jpg"
   }
 }

@@ -1,4 +1,16 @@
 {
+  "/diziler/dorohedoro.html": {
+    "group": "DOROHEDORO",
+    "year": "2020",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg"
+  },
+  "/diziler/classroom-of-the-elite.html": {
+    "group": "CLASSROOM OF THE ELITE",
+    "year": "2017",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg"
+  },
   "/diziler/daredevil-born-again.html": {
     "group": "DAREDEVIL: BORN AGAIN",
     "year": "2025",
@@ -64,17 +76,5 @@
     "year": "2022",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/aoTQhDKiuKpn599yNxp03wr2ZHu.jpg"
-  },
-  "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
-    "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
-    "year": "2018",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg"
-  },
-  "/diziler/one-piece-izle.html": {
-    "group": "ONE PIECE",
-    "year": "1999",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
   }
 }
