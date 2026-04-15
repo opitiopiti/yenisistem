@@ -1,4 +1,13 @@
 {
+  "/dizi/alguien-tiene-que-saber": {
+    "group": "Alguien Tiene Que Saber",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg"
+  },
   "/dizi/daredevil-born-again": {
     "group": "Daredevil: Born Again",
     "last_season": 2,
@@ -7,6 +16,15 @@
     "year": "2025",
     "imdb": "7.8",
     "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg"
+  },
+  "/dizi/doc": {
+    "group": "Doc",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg"
   },
   "/dizi/imperfect-women": {
     "group": "Imperfect Women",
@@ -26,6 +44,15 @@
     "imdb": "7.5",
     "poster": "https://image.tmdb.org/t/p/w500/bhTLskf3XNALpk3tZGm7lG2ChAx.jpg"
   },
+  "/dizi/luka-makan-cinta": {
+    "group": "Luka, Makan, Cinta",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/8ABlh4OrPJxpbOoXfZavfZ1XFSI.jpg"
+  },
   "/dizi/margo-s-got-money-troubles": {
     "group": "Margo’s Got Money Troubles",
     "last_season": 1,
@@ -43,6 +70,15 @@
     "year": "2025",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/iC6xzFgRRq5yHngSnmusXkNL928.jpg"
+  },
+  "/dizi/ncis-origins": {
+    "group": "NCIS: Origins",
+    "last_season": 2,
+    "last_episode": 14,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/waWeC84DExojP5AHFbWaybj3wxv.jpg"
   },
   "/dizi/ncis-sydney": {
     "group": "NCIS: Sydney",

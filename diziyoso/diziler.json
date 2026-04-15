@@ -29716,5 +29716,29 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/qGbsQ6fhZPBhx9kgN0utAIyGRry.jpg",
     "imdb": 8.1
+  },
+  "/dizi/la-legge-di-lidia-poet": {
+    "group": "La legge di Lidia Poët",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/bhTLskf3XNALpk3tZGm7lG2ChAx.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/alguien-tiene-que-saber": {
+    "group": "Alguien Tiene Que Saber",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg",
+    "imdb": 10.0
+  },
+  "/dizi/perfil-falso": {
+    "group": "Perfil falso",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/3KyyfuG5VxUmpJFnw0pa1SkTsuL.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/alguien-tiene-que-saber/": {
+    "group": "Alguien Tiene Que Saber",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg",
+    "imdb": 10.0
   }
 }

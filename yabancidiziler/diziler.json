@@ -745,5 +745,32 @@
     "year": "2023",
     "imdb": "5.9",
     "poster": "https://image.tmdb.org/t/p/w500/6dYDa6h1AOZ7iZ1zv3nlw7qhErX.jpg"
+  },
+  "/dizi/alguien-tiene-que-saber": {
+    "group": "Alguien Tiene Que Saber",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg"
+  },
+  "/dizi/doc": {
+    "group": "Doc",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg"
+  },
+  "/dizi/luka-makan-cinta": {
+    "group": "Luka, Makan, Cinta",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/8ABlh4OrPJxpbOoXfZavfZ1XFSI.jpg"
   }
 }

@@ -23,6 +23,24 @@
     "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
     "imdb": 6.5
   },
+  "/dizi/la-legge-di-lidia-poet": {
+    "group": "La legge di Lidia Poët",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/bhTLskf3XNALpk3tZGm7lG2ChAx.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/alguien-tiene-que-saber": {
+    "group": "Alguien Tiene Que Saber",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg",
+    "imdb": 10.0
+  },
+  "/dizi/perfil-falso": {
+    "group": "Perfil falso",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/3KyyfuG5VxUmpJFnw0pa1SkTsuL.jpg",
+    "imdb": 7.2
+  },
   "/dizi/crooks": {
     "group": "Crooks",
     "year": 2024,
@@ -107,6 +125,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/zhJANohv7wceqGpJsPuNui8Wz3G.jpg",
     "imdb": 7.4
   },
+  "/dizi/blue-skies": {
+    "group": "Blue Skies",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/pui0mhQ3ZutkpeSDGA0UN771ioy.jpg",
+    "imdb": 7.4
+  },
   "/dizi/the-miniature-wife": {
     "group": "The Miniature Wife",
     "year": 2026,
@@ -119,23 +143,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
     "imdb": 8.7
   },
-  "/dizi/the-last-thing-he-told-me": {
-    "group": "The Last Thing He Told Me",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/sxRBl0zPdevzruEoIbsL2MMDkFN.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/veronika": {
-    "group": "Veronika",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/4DKJwKWaq8XzyXp6KPfwEBs8JTl.jpg",
-    "imdb": 5.9
-  },
-  "/dizi/georgie-mandys-first-marriage": {
-    "group": "Georgie & Mandy’s First Marriage",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
-    "imdb": 7.7
+  "/dizi/alguien-tiene-que-saber/": {
+    "group": "Alguien Tiene Que Saber",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg",
+    "imdb": 10.0
   },
   "/dizi/the-dark-wizard/": {
     "group": "The Dark Wizard",
@@ -298,11 +310,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/oJl0ymkX9mIECJOMU9ZmItfC0vC.jpg",
     "imdb": 6.0
-  },
-  "/dizi/raising-chelsea/": {
-    "group": "Raising Chelsea",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/t2PQBdA7nS7FLdl3l5ug2KymL99.jpg",
-    "imdb": 0.0
   }
 }

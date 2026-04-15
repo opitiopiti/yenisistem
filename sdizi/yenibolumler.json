@@ -1,4 +1,22 @@
 {
+  "/diziler/o11ce-new-generation.html": {
+    "group": "O11CE: NEW GENERATION",
+    "year": "2026",
+    "imdb": "8.9",
+    "poster": "https://image.tmdb.org/t/p/w500/noguKCrUu1SqLlA5Ktrbl7W8op.jpg"
+  },
+  "/diziler/someone-has-to-know.html": {
+    "group": "SOMEONE HAS TO KNOW",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg"
+  },
+  "/diziler/like-water-for-chocolate.html": {
+    "group": "LIKE WATER FOR CHOCOLATE",
+    "year": "2024",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/pXNcd4z8eBihLO9I7bIVoK4mtQt.jpg"
+  },
   "/diziler/dorohedoro.html": {
     "group": "DOROHEDORO",
     "year": "2020",
@@ -29,12 +47,6 @@
     "imdb": "8.5",
     "poster": "https://image.tmdb.org/t/p/w500/q3CSxl3G06MBc73TpHWwBYYTPxL.jpg"
   },
-  "/diziler/o11ce-new-generation.html": {
-    "group": "O11CE: NEW GENERATION",
-    "year": "2026",
-    "imdb": "8.9",
-    "poster": "https://image.tmdb.org/t/p/w500/noguKCrUu1SqLlA5Ktrbl7W8op.jpg"
-  },
   "/diziler/high-potential.html": {
     "group": "HIGH POTENTIAL",
     "year": "2024",
@@ -58,23 +70,5 @@
     "year": "2026",
     "imdb": "6.7",
     "poster": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg"
-  },
-  "/diziler/rooster.html": {
-    "group": "ROOSTER",
-    "year": "2026",
-    "imdb": "7.2",
-    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg"
-  },
-  "/diziler/euphoria.html": {
-    "group": "EUPHORIA",
-    "year": "2019",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg"
-  },
-  "/diziler/the-cleaning-lady.html": {
-    "group": "THE CLEANING LADY",
-    "year": "2022",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/aoTQhDKiuKpn599yNxp03wr2ZHu.jpg"
   }
 }
