@@ -2119,7 +2119,8 @@
     {"name": "LA LEGGE DI LIDIA", "year": "2023"},
     {"name": "ALGUIEN TIENE QUE SABER", "year": "2026"},
     {"name": "SOMEONE HAS TO KNOW", "year": "2026"},
-    {"name": "LUKA, MAKAN, CINTA", "year": "2026"}
+    {"name": "LUKA, MAKAN, CINTA", "year": "2026"},
+    {"name": "MADE WITH LOVE", "year": "2026"}
   ],
   "HBO DİZİLERİ": [
     {"name": "THE PITT", "year": "2025"},
@@ -3781,7 +3782,8 @@
     {"name": "AMANDALAND", "year": "2025"},
     {"name": "A PERFECT PLANET", "year": "2021"},
     {"name": "A GOOD GIRL’S GUIDE TO MURDER", "year": "2024"},
-    {"name": "HALF MAN", "year": "2026"}
+    {"name": "HALF MAN", "year": "2026"},
+    {"name": "BABIES 2026", "year": "2026"}
   ],
   "STARZ DİZİLERİ": [
     {"name": "POWER BOOK III: RAISING KANAN", "year": "2021"},
@@ -5940,7 +5942,8 @@
     {"name": "FUNNY WOMAN", "year": "2023"},
     {"name": "COBRA", "year": "2020"},
     {"name": "BLOODS", "year": "2021"},
-    {"name": "A TOWN CALLED MALICE", "year": "2023"}
+    {"name": "A TOWN CALLED MALICE", "year": "2023"},
+    {"name": "PRISONER", "year": "2026"}
   ],
   "FAMILY CHANNEL DİZİLERİ": [
     {"name": "I WOKE UP A VAMPIRE", "year": "2023"},
@@ -6388,7 +6391,8 @@
     {"name": "SALLY4EVER", "year": "2018"},
     {"name": "MR. SLOANE", "year": "2014"},
     {"name": "GOMORRA – LA SERIE", "year": "2021"},
-    {"name": "GOMORRAH: THE ORIGINS", "year": "2026"}
+    {"name": "GOMORRAH: THE ORIGINS", "year": "2026"},
+    {"name": "GOMORRA – LE ORIGINI", "year": "2026"}
   ],
   "SMITHSONIAN CHANNEL DİZİLERİ": [
     {"name": "CATCHING KILLERS", "year": "2012"}
