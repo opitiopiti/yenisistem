@@ -1,45 +1,9 @@
 {
-  "/dizi-izle/the-boys": {
-    "group": "THE BOYS",
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
-    "imdb": 8.437
-  },
-  "/dizi-izle/made-with-love": {
-    "group": "MADE WITH LOVE",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/3LKfHuX87Mdd4mfdAbiaMMPNq4Q.jpg",
-    "imdb": 0.0
-  },
   "/dizi-izle/crooks": {
     "group": "CROOKS",
     "year": "2024",
     "poster": "https://image.tmdb.org/t/p/w500/8KkAi8uaCKainPE0OeBp6zHRWTa.jpg",
     "imdb": 7.07
-  },
-  "/dizi-izle/the-testaments": {
-    "group": "THE TESTAMENTS",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
-    "imdb": 6.2
-  },
-  "/dizi-izle/someone-has-to-know": {
-    "group": "SOMEONE HAS TO KNOW",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg",
-    "imdb": 10.0
-  },
-  "/dizi-izle/daredevil-born-again": {
-    "group": "DAREDEVIL: BORN AGAIN",
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
-    "imdb": 8.0
-  },
-  "/dizi-izle/imperfect-women": {
-    "group": "IMPERFECT WOMEN",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg",
-    "imdb": 5.923
   },
   "/dizi-izle/marvels-avengers": {
     "group": "MARVEL'S AVENGERS",
@@ -52,5 +16,41 @@
     "year": "2023",
     "poster": "https://image.tmdb.org/t/p/w500/bhTLskf3XNALpk3tZGm7lG2ChAx.jpg",
     "imdb": 7.4
+  },
+  "/dizi-izle/someone-has-to-know": {
+    "group": "SOMEONE HAS TO KNOW",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg",
+    "imdb": 10.0
+  },
+  "/dizi-izle/the-boys": {
+    "group": "THE BOYS",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+    "imdb": 8.437
+  },
+  "/dizi-izle/the-testaments": {
+    "group": "THE TESTAMENTS",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
+    "imdb": 6.2
+  },
+  "/dizi-izle/made-with-love": {
+    "group": "MADE WITH LOVE",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/3LKfHuX87Mdd4mfdAbiaMMPNq4Q.jpg",
+    "imdb": 0.0
+  },
+  "/dizi-izle/daredevil-born-again": {
+    "group": "DAREDEVIL: BORN AGAIN",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+    "imdb": 8.0
+  },
+  "/dizi-izle/imperfect-women": {
+    "group": "IMPERFECT WOMEN",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg",
+    "imdb": 5.923
   }
 }
