@@ -332,8 +332,8 @@
   "3055": {
     "name": "CIA  (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1775801787
+    "last_episode": 7,
+    "last_modified": 1776308960
   },
   "3056": {
     "name": "CAFÉ MINAMDANG  (2022)",
@@ -14731,9 +14731,9 @@
   },
   "5455": {
     "name": "THE LAW ACCORDING TO LIDIA POËT  (2023)",
-    "last_season": 2,
+    "last_season": 3,
     "last_episode": 6,
-    "last_modified": 1775801787
+    "last_modified": 1776308960
   },
   "5456": {
     "name": "THE LEGEND OF VOX MACHINA  (2022)",
@@ -45722,8 +45722,8 @@
   "10620": {
     "name": "O11CE: NEW GENERATION  (2026)",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1776167105
+    "last_episode": 14,
+    "last_modified": 1776308960
   },
   "10621": {
     "name": "SMILING FRIENDS  (2020)",
@@ -45796,5 +45796,23 @@
     "last_season": 1,
     "last_episode": 8,
     "last_modified": 1776289633
+  },
+  "10633": {
+    "name": "MADE WITH LOVE  (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1776308960
+  },
+  "10634": {
+    "name": "BABIES 2026  (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1776308960
+  },
+  "10635": {
+    "name": "GOMORRA – LE ORIGINI  (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1776308960
   }
 }
