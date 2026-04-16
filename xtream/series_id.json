@@ -1250,8 +1250,8 @@
   "3208": {
     "name": "SCRUBS 2026  (2026)",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1775801787
+    "last_episode": 9,
+    "last_modified": 1776340765
   },
   "3209": {
     "name": "SEKIZINCI AILE  (2025) TR",
@@ -15343,9 +15343,9 @@
   },
   "5557": {
     "name": "BEEF  (2023)",
-    "last_season": 1,
+    "last_season": 2,
     "last_episode": 10,
-    "last_modified": 1775801787
+    "last_modified": 1776340765
   },
   "5558": {
     "name": "BEHIND EVERY STAR  (2022)",
@@ -31615,9 +31615,9 @@
   },
   "8269": {
     "name": "THE LAW ACCORDING TO LIDIA POET  (2023)",
-    "last_season": 2,
+    "last_season": 3,
     "last_episode": 6,
-    "last_modified": 1775801787
+    "last_modified": 1776340765
   },
   "8270": {
     "name": "THE LITTLE MERMAID  (1992)",
@@ -44881,9 +44881,9 @@
   },
   "10480": {
     "name": "NEMLIZADE  (2023) TR",
-    "last_season": 2,
+    "last_season": 3,
     "last_episode": 6,
-    "last_modified": 1775801787
+    "last_modified": 1776340765
   },
   "10481": {
     "name": "THE MUPPETS MAYHEM  (2023)",
@@ -45814,5 +45814,17 @@
     "last_season": 1,
     "last_episode": 6,
     "last_modified": 1776308960
+  },
+  "10636": {
+    "name": "FAKE PROFILE  (2023)",
+    "last_season": 3,
+    "last_episode": 10,
+    "last_modified": 1776340765
+  },
+  "10637": {
+    "name": "A TASTE FOR MURDER  (2025)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1776340765
   }
 }
