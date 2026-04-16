@@ -29740,5 +29740,59 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg",
     "imdb": 10.0
+  },
+  "/dizi/the-audacity": {
+    "group": "The Audacity",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
+    "imdb": 5.1
+  },
+  "/dizi/going-dutch": {
+    "group": "Going Dutch",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/jq0sB0UMVjRnAfYDQ9Wd1i4vt1L.jpg",
+    "imdb": 5.6
+  },
+  "/dizi/doc": {
+    "group": "Doc",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/babies-2026": {
+    "group": "Babies 2026",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/294x441/default-placeholder.webp",
+    "imdb": 6.4
+  },
+  "/dizi/fbi": {
+    "group": "FBI",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/dmv": {
+    "group": "DMV",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/nLCpxH7BhFwP50lF0VFpxeeFjmM.jpg",
+    "imdb": 6.0
+  },
+  "/dizi/cia": {
+    "group": "CIA",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/8XbgWv137Umc8resTDeWh9ff7Y0.jpg",
+    "imdb": 6.4
+  },
+  "/dizi/gomorra-le-origini/": {
+    "group": "Gomorra – Le Origini",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/j8EOKHTlSaorhXOKRT25ssEie6a.jpg",
+    "imdb": 7.1
+  },
+  "/dizi/babies-2026/": {
+    "group": "Babies 2026",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/163x245/babies-2026.webp",
+    "imdb": 6.4
   }
 }

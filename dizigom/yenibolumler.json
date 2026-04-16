@@ -1,9 +1,15 @@
 {
-  "/dizi-izle/outlander": {
-    "group": "OUTLANDER",
-    "year": "2014",
-    "poster": "https://image.tmdb.org/t/p/w500/bxBmfyzK0ARF9hqf2pbFWsddH14.jpg",
-    "imdb": 8.178
+  "/dizi-izle/the-boys": {
+    "group": "THE BOYS",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+    "imdb": 8.437
+  },
+  "/dizi-izle/made-with-love": {
+    "group": "MADE WITH LOVE",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/3LKfHuX87Mdd4mfdAbiaMMPNq4Q.jpg",
+    "imdb": 0.0
   },
   "/dizi-izle/crooks": {
     "group": "CROOKS",
@@ -11,53 +17,29 @@
     "poster": "https://image.tmdb.org/t/p/w500/8KkAi8uaCKainPE0OeBp6zHRWTa.jpg",
     "imdb": 7.07
   },
-  "/dizi-izle/star-wars-maul-shadow-lord": {
-    "group": "STAR WARS: MAUL - SHADOW LORD",
+  "/dizi-izle/the-testaments": {
+    "group": "THE TESTAMENTS",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
-    "imdb": 7.3
+    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
+    "imdb": 6.2
   },
-  "/dizi-izle/rooster": {
-    "group": "ROOSTER",
+  "/dizi-izle/someone-has-to-know": {
+    "group": "SOMEONE HAS TO KNOW",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
-    "imdb": 7.3
+    "poster": "https://image.tmdb.org/t/p/w500/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg",
+    "imdb": 10.0
   },
-  "/dizi-izle/malcolm-in-the-middle-lifes-still-unfair": {
-    "group": "MALCOLM IN THE MIDDLE: LIFE'S STILL UNFAIR",
+  "/dizi-izle/daredevil-born-again": {
+    "group": "DAREDEVIL: BORN AGAIN",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+    "imdb": 8.0
+  },
+  "/dizi-izle/imperfect-women": {
+    "group": "IMPERFECT WOMEN",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/oax4kzeFdt2DAQdukrE3pIvizhC.jpg",
-    "imdb": 8.089
-  },
-  "/dizi-izle/euphoria": {
-    "group": "EUPHORIA",
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
-    "imdb": 8.284
-  },
-  "/dizi-izle/at-home-with-the-furys": {
-    "group": "AT HOME WITH THE FURYS",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/9MMDK85gpE9usy6QCCLGgTzgroW.jpg",
-    "imdb": 7.8
-  },
-  "/dizi-izle/privileges": {
-    "group": "PRIVILEGES",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/bFmWIfzkcuiDZ4WqkOfVaHb4pR8.jpg",
-    "imdb": 7.25
-  },
-  "/dizi-izle/dtf-st-louis": {
-    "group": "DTF ST. LOUIS",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/xHfafw9UmomDc7jO25s9MpiL4Zs.jpg",
-    "imdb": 5.4
-  },
-  "/dizi-izle/the-comeback": {
-    "group": "THE COMEBACK",
-    "year": "2005",
-    "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg",
-    "imdb": 7.3
+    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg",
+    "imdb": 5.923
   },
   "/dizi-izle/marvels-avengers": {
     "group": "MARVEL'S AVENGERS",
@@ -65,28 +47,10 @@
     "poster": "https://image.tmdb.org/t/p/w500/aVYPq7FSvsdNQOXVIFnndXJPCXn.jpg",
     "imdb": 7.6
   },
-  "/dizi-izle/phantom-lawyer": {
-    "group": "PHANTOM LAWYER",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg",
-    "imdb": 7.5
-  },
-  "/dizi-izle/nippon-sangoku-the-three-nations-of-the-crimson-sun": {
-    "group": "NIPPON SANGOKU: THE THREE NATIONS OF THE CRIMSON SUN",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg",
-    "imdb": 8.0
-  },
-  "/dizi-izle/betrayal-secrets-lies": {
-    "group": "BETRAYAL: SECRETS & LIES",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/eOo1BJLSV2EZ7GrdXIy3LKNx1rY.jpg",
-    "imdb": 0.0
-  },
-  "/dizi-izle/womens-hell": {
-    "group": "WOMEN'S HELL",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/pWS7yvwCFQAgsQE1IjZMKTxe0wx.jpg",
-    "imdb": 7.0
+  "/dizi-izle/the-law-according-to-lidia-poet": {
+    "group": "THE LAW ACCORDING TO LIDIA POËT",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/bhTLskf3XNALpk3tZGm7lG2ChAx.jpg",
+    "imdb": 7.4
   }
 }

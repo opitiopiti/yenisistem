@@ -29110,5 +29110,17 @@
     "year": "2013",
     "poster": "https://image.tmdb.org/t/p/w500/aVYPq7FSvsdNQOXVIFnndXJPCXn.jpg",
     "imdb": 7.6
+  },
+  "/dizi-izle/made-with-love": {
+    "group": "MADE WITH LOVE",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/3LKfHuX87Mdd4mfdAbiaMMPNq4Q.jpg",
+    "imdb": 0.0
+  },
+  "/dizi-izle/someone-has-to-know": {
+    "group": "SOMEONE HAS TO KNOW",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg",
+    "imdb": 10.0
   }
 }

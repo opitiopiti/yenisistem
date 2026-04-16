@@ -133,50 +133,5 @@
     "year": "2023",
     "imdb": "7.7",
     "poster": "https://image.tmdb.org/t/p/w500/qG5O46gUxxYGImld03tl2zLhvrg.jpg"
-  },
-  "/dizi/crooks": {
-    "group": "Crooks",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2024",
-    "imdb": "6.6",
-    "poster": "https://image.tmdb.org/t/p/w500/8KkAi8uaCKainPE0OeBp6zHRWTa.jpg"
-  },
-  "/dizi/dmv": {
-    "group": "DMV",
-    "last_season": 1,
-    "last_episode": 16,
-    "start_episode": 1,
-    "year": "2025",
-    "imdb": "5.6",
-    "poster": "https://image.tmdb.org/t/p/w500/nLCpxH7BhFwP50lF0VFpxeeFjmM.jpg"
-  },
-  "/dizi/fbi": {
-    "group": "FBI",
-    "last_season": 8,
-    "last_episode": 17,
-    "start_episode": 1,
-    "year": "2018",
-    "imdb": "7.1",
-    "poster": "https://image.tmdb.org/t/p/w500/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg"
-  },
-  "/dizi/saint-pierre": {
-    "group": "Saint-Pierre",
-    "last_season": 2,
-    "last_episode": 12,
-    "start_episode": 1,
-    "year": "2025",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/uBvqeoZ8ZlproJXdwZwQwRSs68I.jpg"
-  },
-  "/dizi/the-young-offenders": {
-    "group": "The Young Offenders",
-    "last_season": 5,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2018",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/qFHtEVLzy2zeg1flGfvQhGdq0W0.jpg"
   }
 }
