@@ -29794,5 +29794,11 @@
     "year": 2026,
     "poster": "https://dzycdn.com/img/t/163x245/babies-2026.webp",
     "imdb": 6.4
+  },
+  "/dizi/beef": {
+    "group": "BEEF",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/wSPOstFgu3Ogs61H6A86txGcWCM.jpg",
+    "imdb": 8.0
   }
 }

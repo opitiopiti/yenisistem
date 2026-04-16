@@ -1,4 +1,10 @@
 {
+  "/dizi/beef": {
+    "group": "BEEF",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/wSPOstFgu3Ogs61H6A86txGcWCM.jpg",
+    "imdb": 8.0
+  },
   "/dizi/bize-bisey-olmaz": {
     "group": "Bize Bi’Şey Olmaz",
     "year": 2026,
