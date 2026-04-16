@@ -506,7 +506,7 @@
   "/dizi/scrubs-2026": {
     "group": "Scrubs 2026",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 9,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -776,7 +776,7 @@
   "/dizi/a-taste-for-murder": {
     "group": "A Taste for Murder",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2025",
     "imdb": "6.6",
@@ -784,8 +784,8 @@
   },
   "/dizi/beef": {
     "group": "Beef",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2023",
     "imdb": "8.1",
@@ -793,8 +793,8 @@
   },
   "/dizi/dorohedoro": {
     "group": "Dorohedoro",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 5,
     "start_episode": 1,
     "year": "2020",
     "imdb": "7.0",
