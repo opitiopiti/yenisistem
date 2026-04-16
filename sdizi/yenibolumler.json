@@ -1,4 +1,22 @@
 {
+  "/diziler/dr-stone.html": {
+    "group": "DR. STONE",
+    "year": "2019",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/ve1Sv3sVArmE0nlFjzadcNv1G8r.jpg"
+  },
+  "/diziler/ronaldinho-the-one-and-only.html": {
+    "group": "RONALDINHO: THE ONE AND ONLY",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/zYdSaQLM8w3NMuBnjRPjqpiUnyp.jpg"
+  },
+  "/diziler/dandelion.html": {
+    "group": "DANDELION",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/r5Cq5wax0sQ1ModcZXWKyXF1xpy.jpg"
+  },
   "/diziler/beef.html": {
     "group": "BEEF",
     "year": "2023",
@@ -64,17 +82,5 @@
     "year": "2020",
     "imdb": "8.5",
     "poster": "https://image.tmdb.org/t/p/w500/q3CSxl3G06MBc73TpHWwBYYTPxL.jpg"
-  },
-  "/diziler/high-potential.html": {
-    "group": "HIGH POTENTIAL",
-    "year": "2024",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg"
-  },
-  "/diziler/tracker.html": {
-    "group": "TRACKER",
-    "year": "2024",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg"
   }
 }

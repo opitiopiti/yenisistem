@@ -8,6 +8,15 @@
     "imdb": "6.6",
     "poster": "https://image.tmdb.org/t/p/w500/iQMSIHR6hPN53h7TILztOZuYOcl.jpg"
   },
+  "/dizi/abbott-elementary": {
+    "group": "Abbott Elementary",
+    "last_season": 5,
+    "last_episode": 19,
+    "start_episode": 1,
+    "year": "2022",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/nBe1e3JJEZ6veGrVXNF0fRoLu56.jpg"
+  },
   "/dizi/beef": {
     "group": "Beef",
     "last_season": 2,
