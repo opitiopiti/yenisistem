@@ -674,8 +674,8 @@
   "3112": {
     "name": "HOPE VALLEY: 1874  (2026)",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1775801787
+    "last_episode": 5,
+    "last_modified": 1776411387
   },
   "3113": {
     "name": "HOUSE OF SECRETS: THE BURARI DEATHS  (2021)",
@@ -6589,9 +6589,9 @@
   },
   "4098": {
     "name": "WHEN HOPE CALLS  (2019)",
-    "last_season": 2,
+    "last_season": 3,
     "last_episode": 10,
-    "last_modified": 1775801787
+    "last_modified": 1776411387
   },
   "4099": {
     "name": "WHEN THEY SEE US  (2019)",
@@ -45850,5 +45850,17 @@
     "last_season": 1,
     "last_episode": 7,
     "last_modified": 1776395451
+  },
+  "10642": {
+    "name": "BIZE BI'ŞEY OLMAZ  (2026)",
+    "last_season": 1,
+    "last_episode": 7,
+    "last_modified": 1776411387
+  },
+  "10643": {
+    "name": "THE RAMPARTS OF ICE  (2026)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1776411387
   }
 }
