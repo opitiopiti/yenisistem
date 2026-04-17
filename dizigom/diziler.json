@@ -29122,5 +29122,17 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg",
     "imdb": 10.0
+  },
+  "/dizi-izle/dandelion": {
+    "group": "DANDELION",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/irFZJaitAup1wEZmad0kFDR73ye.jpg",
+    "imdb": 8.2
+  },
+  "/dizi-izle/ronaldinho-the-one-and-only": {
+    "group": "RONALDINHO: THE ONE AND ONLY",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/b2ieiH9EtAplTq2cIA0aKKLhxm3.jpg",
+    "imdb": 10.0
   }
 }
