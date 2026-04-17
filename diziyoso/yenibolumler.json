@@ -1,4 +1,28 @@
 {
+  "/dizi/mira": {
+    "group": "Mira",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/sPTDlNpTCJkbDxVPlQvnOItDzuf.jpg",
+    "imdb": 10.0
+  },
+  "/dizi/privileges": {
+    "group": "Privilèges",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/bFmWIfzkcuiDZ4WqkOfVaHb4pR8.jpg",
+    "imdb": 7.8
+  },
+  "/dizi/hacks": {
+    "group": "Hacks",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/the-pitt": {
+    "group": "The Pitt",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+    "imdb": 8.7
+  },
   "/dizi/beef": {
     "group": "BEEF",
     "year": 2023,
@@ -130,24 +154,6 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/lrF8Ve4GoazCalfbrSY52tUIXSN.jpg",
     "imdb": 5.9
-  },
-  "/dizi/fbi": {
-    "group": "FBI",
-    "year": 2018,
-    "poster": "https://image.tmdb.org/t/p/w500/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg",
-    "imdb": 7.9
-  },
-  "/dizi/dmv": {
-    "group": "DMV",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/nLCpxH7BhFwP50lF0VFpxeeFjmM.jpg",
-    "imdb": 6.0
-  },
-  "/dizi/cia": {
-    "group": "CIA",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/8XbgWv137Umc8resTDeWh9ff7Y0.jpg",
-    "imdb": 6.4
   },
   "/dizi/gomorra-le-origini/": {
     "group": "Gomorra – Le Origini",

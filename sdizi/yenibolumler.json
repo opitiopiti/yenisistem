@@ -1,4 +1,10 @@
 {
+  "/diziler/absolute-value-of-romance.html": {
+    "group": "ABSOLUTE VALUE OF ROMANCE",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
   "/diziler/phantom-lawyer.html": {
     "group": "PHANTOM LAWYER",
     "year": "2026",
@@ -82,11 +88,5 @@
     "year": "2024",
     "imdb": "7.7",
     "poster": "https://image.tmdb.org/t/p/w500/pXNcd4z8eBihLO9I7bIVoK4mtQt.jpg"
-  },
-  "/diziler/dorohedoro.html": {
-    "group": "DOROHEDORO",
-    "year": "2020",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg"
   }
 }
