@@ -47,7 +47,7 @@
   "/dizi/georgie-and-mandy-s-first-marriage": {
     "group": "Georgie and Mandy’s First Marriage",
     "last_season": 2,
-    "last_episode": 15,
+    "last_episode": 16,
     "start_episode": 1,
     "year": "2024",
     "imdb": "7.1",
@@ -101,7 +101,7 @@
   "/dizi/outlander": {
     "group": "Outlander",
     "last_season": 8,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1,
     "year": "2014",
     "imdb": "8.4",
@@ -119,7 +119,7 @@
   "/dizi/privileges": {
     "group": "Privilèges",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 4,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -281,7 +281,7 @@
   "/dizi/going-dutch": {
     "group": "Going Dutch",
     "last_season": 2,
-    "last_episode": 10,
+    "last_episode": 11,
     "start_episode": 1,
     "year": "2025",
     "imdb": "5.2",
@@ -542,7 +542,7 @@
   "/dizi/mira": {
     "group": "Mira",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -560,7 +560,7 @@
   "/dizi/the-trades": {
     "group": "The Trades",
     "last_season": 3,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2024",
     "imdb": "7.5",
@@ -820,8 +820,8 @@
   },
   "/dizi/full-swing": {
     "group": "Full Swing",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 4,
     "start_episode": 1,
     "year": "2023",
     "imdb": "7.9",
@@ -830,7 +830,7 @@
   "/dizi/ida-tar-ansvar": {
     "group": "Ida tar ansvar",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -838,8 +838,8 @@
   },
   "/dizi/machos-alfa": {
     "group": "Machos Alfa",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2022",
     "imdb": "7.4",
