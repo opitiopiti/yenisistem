@@ -799,5 +799,23 @@
     "year": "2020",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg"
+  },
+  "/dizi/bize-bi-sharp039-sey-olmaz": {
+    "group": "Bize Bi'Şey Olmaz",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/tVNvaGS607lH5jTi1VLvWYV23sp.jpg"
+  },
+  "/dizi/when-hope-calls": {
+    "group": "When Hope Calls",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2019",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/6XsUEyIu9uPgiUFFbGNmpYqkw71.jpg"
   }
 }

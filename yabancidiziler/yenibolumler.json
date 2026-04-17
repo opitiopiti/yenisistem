@@ -1,4 +1,49 @@
 {
+  "/dizi/bize-bi-sharp039-sey-olmaz": {
+    "group": "Bize Bi'Şey Olmaz",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/tVNvaGS607lH5jTi1VLvWYV23sp.jpg"
+  },
+  "/dizi/for-all-mankind": {
+    "group": "For All Mankind",
+    "last_season": 5,
+    "last_episode": 3,
+    "start_episode": 1,
+    "year": "2019",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
+  },
+  "/dizi/hacks": {
+    "group": "Hacks",
+    "last_season": 5,
+    "last_episode": 1,
+    "start_episode": 1,
+    "year": "2021",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg"
+  },
+  "/dizi/monarch-legacy-of-monsters": {
+    "group": "Monarch: Legacy of Monsters",
+    "last_season": 2,
+    "last_episode": 7,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg"
+  },
+  "/dizi/your-friends-neighbors": {
+    "group": "Your Friends & Neighbors",
+    "last_season": 2,
+    "last_episode": 2,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/lxmNQ1392ClqU56W0kx2h2ONF4V.jpg"
+  },
   "/dizi/a-taste-for-murder": {
     "group": "A Taste for Murder",
     "last_season": 1,
@@ -35,6 +80,15 @@
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg"
   },
+  "/dizi/hope-valley-1874": {
+    "group": "Hope Valley: 1874",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "9.4",
+    "poster": "https://image.tmdb.org/t/p/w500/eeLjXfVcjfVyMOQueM9ODMnc2On.jpg"
+  },
   "/dizi/scrubs-2026": {
     "group": "Scrubs 2026",
     "last_season": 1,
@@ -43,5 +97,23 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg"
+  },
+  "/dizi/the-ramparts-of-ice": {
+    "group": "The Ramparts of Ice",
+    "last_season": 1,
+    "last_episode": 1,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "9.1",
+    "poster": "https://image.tmdb.org/t/p/w500/rke9UC2QrogvxiQD9TGpbvqDosi.jpg"
+  },
+  "/dizi/when-hope-calls": {
+    "group": "When Hope Calls",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2019",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/6XsUEyIu9uPgiUFFbGNmpYqkw71.jpg"
   }
 }
