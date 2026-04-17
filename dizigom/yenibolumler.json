@@ -1,27 +1,9 @@
 {
-  "/dizi-izle/made-with-love": {
-    "group": "MADE WITH LOVE",
+  "/dizi-izle/ronaldinho-the-one-and-only": {
+    "group": "RONALDINHO: THE ONE AND ONLY",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/3LKfHuX87Mdd4mfdAbiaMMPNq4Q.jpg",
-    "imdb": 3.0
-  },
-  "/dizi-izle/the-testaments": {
-    "group": "THE TESTAMENTS",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
-    "imdb": 6.2
-  },
-  "/dizi-izle/beef": {
-    "group": "BEEF",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/4b4v7RnPhNyPEaVGFarEuo74r8W.jpg",
-    "imdb": 7.7
-  },
-  "/dizi-izle/the-law-according-to-lidia-poet": {
-    "group": "THE LAW ACCORDING TO LIDIA POËT",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/bhTLskf3XNALpk3tZGm7lG2ChAx.jpg",
-    "imdb": 7.4
+    "poster": "https://image.tmdb.org/t/p/w500/b2ieiH9EtAplTq2cIA0aKKLhxm3.jpg",
+    "imdb": 10.0
   },
   "/dizi-izle/someone-has-to-know": {
     "group": "SOMEONE HAS TO KNOW",
@@ -29,11 +11,29 @@
     "poster": "https://image.tmdb.org/t/p/w500/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg",
     "imdb": 10.0
   },
-  "/dizi-izle/ronaldinho-the-one-and-only": {
-    "group": "RONALDINHO: THE ONE AND ONLY",
+  "/dizi-izle/made-with-love": {
+    "group": "MADE WITH LOVE",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/b2ieiH9EtAplTq2cIA0aKKLhxm3.jpg",
-    "imdb": 10.0
+    "poster": "https://image.tmdb.org/t/p/w500/3LKfHuX87Mdd4mfdAbiaMMPNq4Q.jpg",
+    "imdb": 3.0
+  },
+  "/dizi-izle/beef": {
+    "group": "BEEF",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/4b4v7RnPhNyPEaVGFarEuo74r8W.jpg",
+    "imdb": 7.7
+  },
+  "/dizi-izle/the-testaments": {
+    "group": "THE TESTAMENTS",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
+    "imdb": 6.2
+  },
+  "/dizi-izle/the-law-according-to-lidia-poet": {
+    "group": "THE LAW ACCORDING TO LIDIA POËT",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/bhTLskf3XNALpk3tZGm7lG2ChAx.jpg",
+    "imdb": 7.4
   },
   "/dizi-izle/dandelion": {
     "group": "DANDELION",

@@ -817,5 +817,32 @@
     "year": "2019",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/6XsUEyIu9uPgiUFFbGNmpYqkw71.jpg"
+  },
+  "/dizi/full-swing": {
+    "group": "Full Swing",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/9w9e2vtw4xrlq03GX4uZIxm5fRT.jpg"
+  },
+  "/dizi/ida-tar-ansvar": {
+    "group": "Ida tar ansvar",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/rkgnZzP7njWxgg18ivTt1eoiCXs.jpg"
+  },
+  "/dizi/machos-alfa": {
+    "group": "Machos Alfa",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2022",
+    "imdb": "7.4",
+    "poster": "https://image.tmdb.org/t/p/w500/NqID21yImku6B7kq0oCQTxX2rm.jpg"
   }
 }
