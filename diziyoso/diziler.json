@@ -29854,5 +29854,23 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/8ABlh4OrPJxpbOoXfZavfZ1XFSI.jpg",
     "imdb": 7.2
+  },
+  "/dizi/full-swing": {
+    "group": "Full Swing",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/fOfyPUtjl95hESjBlDR9otX62Gi.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/dandelion": {
+    "group": "Dandelion",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/r5Cq5wax0sQ1ModcZXWKyXF1xpy.jpg",
+    "imdb": 8.5
+  },
+  "/dizi/dandelion/": {
+    "group": "Dandelion",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/r5Cq5wax0sQ1ModcZXWKyXF1xpy.jpg",
+    "imdb": 8.5
   }
 }

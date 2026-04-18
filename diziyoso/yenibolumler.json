@@ -11,6 +11,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/bFmWIfzkcuiDZ4WqkOfVaHb4pR8.jpg",
     "imdb": 7.8
   },
+  "/dizi/full-swing": {
+    "group": "Full Swing",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/fOfyPUtjl95hESjBlDR9otX62Gi.jpg",
+    "imdb": 7.4
+  },
   "/dizi/kara-kis": {
     "group": "Kara Kış",
     "year": 2026,
@@ -28,6 +34,18 @@
     "year": 2025,
     "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
     "imdb": 8.7
+  },
+  "/dizi/for-all-mankind": {
+    "group": "For All Mankind",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/dandelion": {
+    "group": "Dandelion",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/r5Cq5wax0sQ1ModcZXWKyXF1xpy.jpg",
+    "imdb": 8.5
   },
   "/dizi/beef": {
     "group": "BEEF",
@@ -113,47 +131,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/qGbsQ6fhZPBhx9kgN0utAIyGRry.jpg",
     "imdb": 8.1
   },
-  "/dizi/margos-got-money-troubles": {
-    "group": "Margo’s Got Money Troubles",
+  "/dizi/dandelion/": {
+    "group": "Dandelion",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg",
-    "imdb": 9.0
-  },
-  "/dizi/the-audacity": {
-    "group": "The Audacity",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
-    "imdb": 5.1
-  },
-  "/dizi/r-j-decker": {
-    "group": "R.J. Decker",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/bkMdvmjj1zEnVqZTPskBREDzTuS.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/ncis-sydney": {
-    "group": "NCIS: Sydney",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/6dYDa6h1AOZ7iZ1zv3nlw7qhErX.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/ncis-origins": {
-    "group": "NCIS: Origins",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/waWeC84DExojP5AHFbWaybj3wxv.jpg",
-    "imdb": 7.6
-  },
-  "/dizi/going-dutch": {
-    "group": "Going Dutch",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/jq0sB0UMVjRnAfYDQ9Wd1i4vt1L.jpg",
-    "imdb": 5.6
-  },
-  "/dizi/doc": {
-    "group": "Doc",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg",
-    "imdb": 7.4
+    "poster": "https://image.tmdb.org/t/p/w500/r5Cq5wax0sQ1ModcZXWKyXF1xpy.jpg",
+    "imdb": 8.5
   },
   "/dizi/at-home-with-the-furys/": {
     "group": "At Home with the Furys",
@@ -316,11 +298,5 @@
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/jBYvly9QlXQvwtTAGG18a5jh7Dc.jpg",
     "imdb": 7.3
-  },
-  "/dizi/trust-me-the-false-prophet/": {
-    "group": "Trust Me: The False Prophet",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/rAUbR5dHpDgYUrhAofAHYT9f1vr.jpg",
-    "imdb": 10.0
   }
 }

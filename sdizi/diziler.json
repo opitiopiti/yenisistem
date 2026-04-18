@@ -16606,5 +16606,17 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg"
+  },
+  "/diziler/we-are-all-trying-here.html": {
+    "group": "WE ARE ALL TRYING HERE",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/hMrBaA68y4mlmE5zjC3NM2cN1IV.jpg"
+  },
+  "/diziler/big-love.html": {
+    "group": "BIG LOVE",
+    "year": "2006",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/fJ6VOFyGh7CDJogPEh6I38rC3vX.jpg"
   }
 }
