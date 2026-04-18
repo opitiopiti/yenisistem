@@ -29800,5 +29800,41 @@
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/wSPOstFgu3Ogs61H6A86txGcWCM.jpg",
     "imdb": 8.0
+  },
+  "/dizi/kara-kis": {
+    "group": "Kara Kış",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/6Axq4SOmgo4LsLwS0gpbocSQMRQ.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/ronaldinho-gaucho": {
+    "group": "Ronaldinho Gaúcho",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/b2ieiH9EtAplTq2cIA0aKKLhxm3.jpg",
+    "imdb": 6.083
+  },
+  "/dizi/million-dollar-secret": {
+    "group": "Million Dollar Secret",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/r63OnehBj6lZhdzvfnoRU9GkNli.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/million-dollar-secret/": {
+    "group": "Million Dollar Secret",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/r63OnehBj6lZhdzvfnoRU9GkNli.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/ronaldinho-gaucho/": {
+    "group": "Ronaldinho Gaúcho",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/b2ieiH9EtAplTq2cIA0aKKLhxm3.jpg",
+    "imdb": 6.083
+  },
+  "/dizi/kara-kis/": {
+    "group": "Kara Kış",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/6Axq4SOmgo4LsLwS0gpbocSQMRQ.jpg",
+    "imdb": 0.0
   }
 }

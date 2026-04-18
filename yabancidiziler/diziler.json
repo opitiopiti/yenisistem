@@ -844,5 +844,14 @@
     "year": "2022",
     "imdb": "7.4",
     "poster": "https://image.tmdb.org/t/p/w500/NqID21yImku6B7kq0oCQTxX2rm.jpg"
+  },
+  "/dizi/absolute-value-of-romance": {
+    "group": "Absolute Value of Romance",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg"
   }
 }

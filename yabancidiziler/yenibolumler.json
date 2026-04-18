@@ -1,4 +1,22 @@
 {
+  "/dizi/absolute-value-of-romance": {
+    "group": "Absolute Value of Romance",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg"
+  },
+  "/dizi/animal-control": {
+    "group": "Animal Control",
+    "last_season": 4,
+    "last_episode": 10,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "6.6",
+    "poster": "https://image.tmdb.org/t/p/w500/h2dXm0CXMkycA9LrZbXMUD8SuTL.jpg"
+  },
   "/dizi/bize-bi-sharp039-sey-olmaz": {
     "group": "Bize Bi'Şey Olmaz",
     "last_season": 1,
@@ -7,6 +25,15 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/tVNvaGS607lH5jTi1VLvWYV23sp.jpg"
+  },
+  "/dizi/elsbeth": {
+    "group": "Elsbeth",
+    "last_season": 3,
+    "last_episode": 14,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/7lnNSbT90qwtrn1h9TvEkVFMz2P.jpg"
   },
   "/dizi/for-all-mankind": {
     "group": "For All Mankind",
@@ -70,6 +97,15 @@
     "year": "2022",
     "imdb": "7.4",
     "poster": "https://image.tmdb.org/t/p/w500/NqID21yImku6B7kq0oCQTxX2rm.jpg"
+  },
+  "/dizi/matlock": {
+    "group": "Matlock",
+    "last_season": 2,
+    "last_episode": 13,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "6.9",
+    "poster": "https://image.tmdb.org/t/p/w500/6kEAVyhalzv4HCAfnLfXUcF3nQZ.jpg"
   },
   "/dizi/mira": {
     "group": "Mira",

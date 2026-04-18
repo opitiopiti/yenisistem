@@ -11,6 +11,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/bFmWIfzkcuiDZ4WqkOfVaHb4pR8.jpg",
     "imdb": 7.8
   },
+  "/dizi/kara-kis": {
+    "group": "Kara Kış",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/6Axq4SOmgo4LsLwS0gpbocSQMRQ.jpg",
+    "imdb": 0.0
+  },
   "/dizi/hacks": {
     "group": "Hacks",
     "year": 2021,
@@ -28,6 +34,12 @@
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/wSPOstFgu3Ogs61H6A86txGcWCM.jpg",
     "imdb": 8.0
+  },
+  "/dizi/ronaldinho-gaucho": {
+    "group": "Ronaldinho Gaúcho",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/b2ieiH9EtAplTq2cIA0aKKLhxm3.jpg",
+    "imdb": 6.083
   },
   "/dizi/bize-bisey-olmaz": {
     "group": "Bize Bi’Şey Olmaz",
@@ -52,6 +64,12 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
     "imdb": 6.5
+  },
+  "/dizi/million-dollar-secret": {
+    "group": "Million Dollar Secret",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/r63OnehBj6lZhdzvfnoRU9GkNli.jpg",
+    "imdb": 7.6
   },
   "/dizi/la-legge-di-lidia-poet": {
     "group": "La legge di Lidia Poët",
@@ -131,29 +149,23 @@
     "poster": "https://image.tmdb.org/t/p/w500/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg",
     "imdb": 7.4
   },
-  "/dizi/babies-2026": {
-    "group": "Babies 2026",
-    "year": 2026,
-    "poster": "https://dzycdn.com/img/t/294x441/default-placeholder.webp",
-    "imdb": 6.4
+  "/dizi/million-dollar-secret/": {
+    "group": "Million Dollar Secret",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/r63OnehBj6lZhdzvfnoRU9GkNli.jpg",
+    "imdb": 7.6
   },
-  "/dizi/euphoria": {
-    "group": "Euphoria",
-    "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
-    "imdb": 8.3
-  },
-  "/dizi/star-wars-maul-shadow-lord": {
-    "group": "Star Wars: Maul – Shadow Lord",
+  "/dizi/ronaldinho-gaucho/": {
+    "group": "Ronaldinho Gaúcho",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
-    "imdb": 7.3
+    "poster": "https://image.tmdb.org/t/p/w500/b2ieiH9EtAplTq2cIA0aKKLhxm3.jpg",
+    "imdb": 6.083
   },
-  "/dizi/the-fall-and-rise-of-reggie-dinkins": {
-    "group": "The Fall and Rise of Reggie Dinkins",
+  "/dizi/kara-kis/": {
+    "group": "Kara Kış",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/lrF8Ve4GoazCalfbrSY52tUIXSN.jpg",
-    "imdb": 5.9
+    "poster": "https://image.tmdb.org/t/p/w500/6Axq4SOmgo4LsLwS0gpbocSQMRQ.jpg",
+    "imdb": 0.0
   },
   "/dizi/gomorra-le-origini/": {
     "group": "Gomorra – Le Origini",
@@ -304,23 +316,5 @@
     "year": 2021,
     "poster": "https://image.tmdb.org/t/p/w500/fTSZcItpRyRpolA82EfdKinmLRL.jpg",
     "imdb": 6.5
-  },
-  "/dizi/antidisturbios/": {
-    "group": "Antidisturbios",
-    "year": 2020,
-    "poster": "https://image.tmdb.org/t/p/w500/nJyARtlOZfwONBoCGLhxtpunwYL.jpg",
-    "imdb": 8.0
-  },
-  "/dizi/invisible-heroes/": {
-    "group": "Invisible Heroes",
-    "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/y5XskBolz62tW19084JY73zpgRF.jpg",
-    "imdb": 7.7
-  },
-  "/dizi/disney-entrelazados/": {
-    "group": "Disney Entrelazados",
-    "year": 2021,
-    "poster": "https://image.tmdb.org/t/p/w500/t2Vs8KaMUDQyY4Nur4zkrfQVuOX.jpg",
-    "imdb": 6.9
   }
 }
