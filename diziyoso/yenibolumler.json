@@ -41,6 +41,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/b2ieiH9EtAplTq2cIA0aKKLhxm3.jpg",
     "imdb": 6.083
   },
+  "/dizi/luka-makan-cinta": {
+    "group": "Luka, Makan, Cinta",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/8ABlh4OrPJxpbOoXfZavfZ1XFSI.jpg",
+    "imdb": 7.2
+  },
   "/dizi/bize-bisey-olmaz": {
     "group": "Bize Bi’Şey Olmaz",
     "year": 2026,
@@ -148,6 +154,18 @@
     "year": 2025,
     "poster": "https://image.tmdb.org/t/p/w500/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg",
     "imdb": 7.4
+  },
+  "/dizi/at-home-with-the-furys/": {
+    "group": "At Home with the Furys",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/9MMDK85gpE9usy6QCCLGgTzgroW.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/luka-makan-cinta/": {
+    "group": "Luka, Makan, Cinta",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/8ABlh4OrPJxpbOoXfZavfZ1XFSI.jpg",
+    "imdb": 7.2
   },
   "/dizi/million-dollar-secret/": {
     "group": "Million Dollar Secret",
@@ -304,17 +322,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/rAUbR5dHpDgYUrhAofAHYT9f1vr.jpg",
     "imdb": 10.0
-  },
-  "/dizi/waco-american-apocalypse/": {
-    "group": "Waco: American Apocalypse",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/eKsgrhu4qiuePmGmuVCUI84IfAD.jpg",
-    "imdb": 7.0
-  },
-  "/dizi/sexify/": {
-    "group": "Sexify",
-    "year": 2021,
-    "poster": "https://image.tmdb.org/t/p/w500/fTSZcItpRyRpolA82EfdKinmLRL.jpg",
-    "imdb": 6.5
   }
 }

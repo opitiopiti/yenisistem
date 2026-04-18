@@ -29836,5 +29836,23 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/6Axq4SOmgo4LsLwS0gpbocSQMRQ.jpg",
     "imdb": 0.0
+  },
+  "/dizi/luka-makan-cinta": {
+    "group": "Luka, Makan, Cinta",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/8ABlh4OrPJxpbOoXfZavfZ1XFSI.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/at-home-with-the-furys/": {
+    "group": "At Home with the Furys",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/9MMDK85gpE9usy6QCCLGgTzgroW.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/luka-makan-cinta/": {
+    "group": "Luka, Makan, Cinta",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/8ABlh4OrPJxpbOoXfZavfZ1XFSI.jpg",
+    "imdb": 7.2
   }
 }
