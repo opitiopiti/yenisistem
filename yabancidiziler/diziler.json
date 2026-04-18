@@ -254,7 +254,7 @@
   "/dizi/boston-blue": {
     "group": "Boston Blue",
     "last_season": 1,
-    "last_episode": 14,
+    "last_episode": 15,
     "start_episode": 1,
     "year": "2025",
     "imdb": "6.9",
@@ -263,7 +263,7 @@
   "/dizi/fire-country": {
     "group": "Fire Country",
     "last_season": 4,
-    "last_episode": 14,
+    "last_episode": 15,
     "start_episode": 1,
     "year": "2022",
     "imdb": "7.1",
@@ -299,7 +299,7 @@
   "/dizi/sheriff-country": {
     "group": "Sheriff Country",
     "last_season": 1,
-    "last_episode": 14,
+    "last_episode": 15,
     "start_episode": 1,
     "year": "2025",
     "imdb": "7.2",
