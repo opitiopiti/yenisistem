@@ -11,7 +11,7 @@
   "/dizi/animal-control": {
     "group": "Animal Control",
     "last_season": 4,
-    "last_episode": 10,
+    "last_episode": 11,
     "start_episode": 1,
     "year": "2023",
     "imdb": "6.6",
@@ -29,7 +29,7 @@
   "/dizi/elsbeth": {
     "group": "Elsbeth",
     "last_season": 3,
-    "last_episode": 14,
+    "last_episode": 16,
     "start_episode": 1,
     "year": "2024",
     "imdb": "7.8",
@@ -83,7 +83,7 @@
   "/dizi/matlock": {
     "group": "Matlock",
     "last_season": 2,
-    "last_episode": 13,
+    "last_episode": 14,
     "start_episode": 1,
     "year": "2024",
     "imdb": "6.9",
@@ -848,7 +848,7 @@
   "/dizi/absolute-value-of-romance": {
     "group": "Absolute Value of Romance",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
