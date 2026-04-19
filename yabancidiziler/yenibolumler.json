@@ -8,6 +8,15 @@
     "imdb": "6.4",
     "poster": "https://image.tmdb.org/t/p/w500/bRMEjZHvES9XLKSFVCtveFGdOHC.jpg"
   },
+  "/dizi/the-audacity": {
+    "group": "The Audacity",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.7",
+    "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg"
+  },
   "/dizi/we-are-all-trying-here": {
     "group": "We Are All Trying Here",
     "last_season": 1,
