@@ -59,6 +59,18 @@
     "poster": "https://image.tmdb.org/t/p/w500/b2ieiH9EtAplTq2cIA0aKKLhxm3.jpg",
     "imdb": 6.083
   },
+  "/dizi/your-friends-neighbors": {
+    "group": "Your Friends & Neighbors",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/lxmNQ1392ClqU56W0kx2h2ONF4V.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/monarch-legacy-of-monsters": {
+    "group": "Monarch: Legacy of Monsters",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
+    "imdb": 7.7
+  },
   "/dizi/luka-makan-cinta": {
     "group": "Luka, Makan, Cinta",
     "year": 2026,
@@ -130,6 +142,18 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/qGbsQ6fhZPBhx9kgN0utAIyGRry.jpg",
     "imdb": 8.1
+  },
+  "/dizi/margos-got-money-troubles": {
+    "group": "Margo’s Got Money Troubles",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg",
+    "imdb": 9.0
+  },
+  "/dizi/will-trent": {
+    "group": "Will Trent",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/qG5O46gUxxYGImld03tl2zLhvrg.jpg",
+    "imdb": 7.4
   },
   "/dizi/dandelion/": {
     "group": "Dandelion",
