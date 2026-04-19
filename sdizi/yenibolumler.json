@@ -1,4 +1,16 @@
 {
+  "/diziler/we-are-all-trying-here.html": {
+    "group": "WE ARE ALL TRYING HERE",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/hMrBaA68y4mlmE5zjC3NM2cN1IV.jpg"
+  },
+  "/diziler/one-piece-izle.html": {
+    "group": "ONE PIECE",
+    "year": "1999",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
+  },
   "/diziler/nippon-sangoku-the-three-nations-of-the-crimson-sun.html": {
     "group": "NIPPON SANGOKU: THE THREE NATIONS OF THE CRIMSON SUN",
     "year": "2026",
@@ -16,12 +28,6 @@
     "year": "2006",
     "imdb": "7.7",
     "poster": "https://image.tmdb.org/t/p/w500/fJ6VOFyGh7CDJogPEh6I38rC3vX.jpg"
-  },
-  "/diziler/we-are-all-trying-here.html": {
-    "group": "WE ARE ALL TRYING HERE",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/hMrBaA68y4mlmE5zjC3NM2cN1IV.jpg"
   },
   "/diziler/elsbeth.html": {
     "group": "ELSBETH",
@@ -70,17 +76,5 @@
     "year": "2019",
     "imdb": "8.2",
     "poster": "https://image.tmdb.org/t/p/w500/ve1Sv3sVArmE0nlFjzadcNv1G8r.jpg"
-  },
-  "/diziler/ronaldinho-the-one-and-only.html": {
-    "group": "RONALDINHO: THE ONE AND ONLY",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/zYdSaQLM8w3NMuBnjRPjqpiUnyp.jpg"
-  },
-  "/diziler/dandelion.html": {
-    "group": "DANDELION",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/r5Cq5wax0sQ1ModcZXWKyXF1xpy.jpg"
   }
 }
