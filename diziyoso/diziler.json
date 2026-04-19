@@ -29872,5 +29872,23 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/r5Cq5wax0sQ1ModcZXWKyXF1xpy.jpg",
     "imdb": 8.5
+  },
+  "/dizi/the-hunting-party": {
+    "group": "The Hunting Party",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/mjJMOLr966Q78YUPu0pVA0ydBIP.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/happys-place": {
+    "group": "Happy’s Place",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/3dehoKPCwLwKTWATfzGqoJ2Psdl.jpg",
+    "imdb": 6.1
+  },
+  "/dizi/ida-tar-ansvar/": {
+    "group": "Ida tar ansvar",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/rkgnZzP7njWxgg18ivTt1eoiCXs.jpg",
+    "imdb": 6.2
   }
 }

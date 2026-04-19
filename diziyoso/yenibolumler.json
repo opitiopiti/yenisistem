@@ -1,4 +1,10 @@
 {
+  "/dizi/going-dutch": {
+    "group": "Going Dutch",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/jq0sB0UMVjRnAfYDQ9Wd1i4vt1L.jpg",
+    "imdb": 5.6
+  },
   "/dizi/mira": {
     "group": "Mira",
     "year": 2026,
@@ -22,6 +28,30 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/6Axq4SOmgo4LsLwS0gpbocSQMRQ.jpg",
     "imdb": 0.0
+  },
+  "/dizi/sheriff-country": {
+    "group": "Sheriff Country",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/fire-country": {
+    "group": "Fire Country",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
+    "imdb": 8.2
+  },
+  "/dizi/boston-blue": {
+    "group": "Boston Blue",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/8pyxutHxpgBt8ZwbIG2TZWCW394.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/beyond-paradise": {
+    "group": "Beyond Paradise",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/7zwbypEzcjOyNuTLSD43fTB9kR8.jpg",
+    "imdb": 7.4
   },
   "/dizi/hacks": {
     "group": "Hacks",
@@ -58,6 +88,36 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/b2ieiH9EtAplTq2cIA0aKKLhxm3.jpg",
     "imdb": 6.083
+  },
+  "/dizi/the-hunting-party": {
+    "group": "The Hunting Party",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/mjJMOLr966Q78YUPu0pVA0ydBIP.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/matlock": {
+    "group": "Matlock",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/6kEAVyhalzv4HCAfnLfXUcF3nQZ.jpg",
+    "imdb": 7.1
+  },
+  "/dizi/happys-place": {
+    "group": "Happy’s Place",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/3dehoKPCwLwKTWATfzGqoJ2Psdl.jpg",
+    "imdb": 6.1
+  },
+  "/dizi/georgie-mandys-first-marriage": {
+    "group": "Georgie & Mandy’s First Marriage",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/elsbeth": {
+    "group": "Elsbeth",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/7lnNSbT90qwtrn1h9TvEkVFMz2P.jpg",
+    "imdb": 6.9
   },
   "/dizi/your-friends-neighbors": {
     "group": "Your Friends & Neighbors",
@@ -107,53 +167,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/r63OnehBj6lZhdzvfnoRU9GkNli.jpg",
     "imdb": 7.6
   },
-  "/dizi/la-legge-di-lidia-poet": {
-    "group": "La legge di Lidia Poët",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/bhTLskf3XNALpk3tZGm7lG2ChAx.jpg",
-    "imdb": 7.3
-  },
-  "/dizi/alguien-tiene-que-saber": {
-    "group": "Alguien Tiene Que Saber",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg",
-    "imdb": 10.0
-  },
-  "/dizi/perfil-falso": {
-    "group": "Perfil falso",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/3KyyfuG5VxUmpJFnw0pa1SkTsuL.jpg",
-    "imdb": 7.2
-  },
-  "/dizi/crooks": {
-    "group": "Crooks",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/8KkAi8uaCKainPE0OeBp6zHRWTa.jpg",
-    "imdb": 7.0
-  },
-  "/dizi/imperfect-women": {
-    "group": "Imperfect Women",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg",
-    "imdb": 5.5
-  },
-  "/dizi/the-dark-wizard": {
-    "group": "The Dark Wizard",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/qGbsQ6fhZPBhx9kgN0utAIyGRry.jpg",
-    "imdb": 8.1
-  },
-  "/dizi/margos-got-money-troubles": {
-    "group": "Margo’s Got Money Troubles",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg",
-    "imdb": 9.0
-  },
-  "/dizi/will-trent": {
-    "group": "Will Trent",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/qG5O46gUxxYGImld03tl2zLhvrg.jpg",
-    "imdb": 7.4
+  "/dizi/ida-tar-ansvar/": {
+    "group": "Ida tar ansvar",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/rkgnZzP7njWxgg18ivTt1eoiCXs.jpg",
+    "imdb": 6.2
   },
   "/dizi/dandelion/": {
     "group": "Dandelion",
@@ -316,11 +334,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/99SkFAS3S3iOtnplwH0byFUMiHK.jpg",
     "imdb": 10.0
-  },
-  "/dizi/nemlizade/": {
-    "group": "Nemlizade",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/jBYvly9QlXQvwtTAGG18a5jh7Dc.jpg",
-    "imdb": 7.3
   }
 }
