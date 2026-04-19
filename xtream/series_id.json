@@ -9800,8 +9800,8 @@
   "4633": {
     "name": "GIRL FROM NOWHERE: THE RESET  (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1775801787
+    "last_episode": 6,
+    "last_modified": 1776597457
   },
   "4634": {
     "name": "GLASS HEART  (2025)",
@@ -44930,8 +44930,8 @@
   "10488": {
     "name": "ACE OF THE DIAMOND: ACT II 2ND SEASON  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1775995626
+    "last_episode": 3,
+    "last_modified": 1776597457
   },
   "10489": {
     "name": "AGENTS OF THE FOUR SEASONS: DANCE OF SPRING  (2026) İNGİLİZCE",
@@ -45368,8 +45368,8 @@
   "10561": {
     "name": "ROOSTER FIGHTER  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1775995626
+    "last_episode": 6,
+    "last_modified": 1776597457
   },
   "10562": {
     "name": "SCUM OF THE BRAVE  (2026) İNGİLİZCE",
@@ -45674,8 +45674,8 @@
   "10612": {
     "name": "WISTORIA: WAND AND SWORD 2ND SEASON  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1775995626
+    "last_episode": 2,
+    "last_modified": 1776597457
   },
   "10613": {
     "name": "BABIES  (2026)",
@@ -45904,5 +45904,11 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1776547708
+  },
+  "10651": {
+    "name": "IDA TAR ANSVAR  (2022)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1776597457
   }
 }
