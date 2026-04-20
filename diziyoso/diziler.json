@@ -29890,5 +29890,29 @@
     "year": 2022,
     "poster": "https://image.tmdb.org/t/p/w500/rkgnZzP7njWxgg18ivTt1eoiCXs.jpg",
     "imdb": 6.2
+  },
+  "/dizi/matka-king": {
+    "group": "Matka King",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/cAWIMbCmzVBi86kEOHKjHZCKGyo.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/machos-alfa": {
+    "group": "Machos alfa",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/NqID21yImku6B7kq0oCQTxX2rm.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/outlander": {
+    "group": "Outlander",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/bxBmfyzK0ARF9hqf2pbFWsddH14.jpg",
+    "imdb": 8.2
+  },
+  "/dizi/matka-king/": {
+    "group": "Matka King",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/cAWIMbCmzVBi86kEOHKjHZCKGyo.jpg",
+    "imdb": 7.4
   }
 }
