@@ -44804,8 +44804,8 @@
   "10467": {
     "name": "STAR WARS: MAUL - SHADOW LORD  (2026)",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1776083912
+    "last_episode": 6,
+    "last_modified": 1776686146
   },
   "10468": {
     "name": "THE TESTAMENTS  (2026)",
@@ -45716,8 +45716,8 @@
   "10619": {
     "name": "STAR WARS: MAUL – SHADOW LORD  (2026)",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1776118022
+    "last_episode": 6,
+    "last_modified": 1776686146
   },
   "10620": {
     "name": "O11CE: NEW GENERATION  (2026)",
@@ -45910,5 +45910,11 @@
     "last_season": 1,
     "last_episode": 8,
     "last_modified": 1776597457
+  },
+  "10652": {
+    "name": "MATKA KING  (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1776686146
   }
 }
