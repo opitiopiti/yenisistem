@@ -862,5 +862,32 @@
     "year": "2026",
     "imdb": "8.0",
     "poster": "https://image.tmdb.org/t/p/w500/c2jswCrMoqDEBEXwSAlrCWtXdfZ.jpg"
+  },
+  "/dizi/bergerac": {
+    "group": "Bergerac",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "6.3",
+    "poster": "https://image.tmdb.org/t/p/w500/zH2Am0G00fLvA7FGF1BM4ZfcABo.jpg"
+  },
+  "/dizi/krapopolis": {
+    "group": "Krapopolis",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "6.0",
+    "poster": "https://image.tmdb.org/t/p/w500/9hv6mEAC6NChxNaUIshUN09Yk38.jpg"
+  },
+  "/dizi/phantom-lawyer": {
+    "group": "Phantom Lawyer",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg"
   }
 }

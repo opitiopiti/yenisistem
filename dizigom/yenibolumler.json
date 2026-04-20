@@ -1,21 +1,9 @@
 {
-  "/dizi-izle/absolute-value-of-romance": {
-    "group": "ABSOLUTE VALUE OF ROMANCE",
+  "/dizi-izle/privileges": {
+    "group": "PRIVILEGES",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
-    "imdb": 8.5
-  },
-  "/dizi-izle/dandelion": {
-    "group": "DANDELION",
-    "year": "2015",
-    "poster": "https://image.tmdb.org/t/p/w500/irFZJaitAup1wEZmad0kFDR73ye.jpg",
-    "imdb": 8.2
-  },
-  "/dizi-izle/the-pitt": {
-    "group": "THE PITT",
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-    "imdb": 8.693
+    "poster": "https://image.tmdb.org/t/p/w500/bFmWIfzkcuiDZ4WqkOfVaHb4pR8.jpg",
+    "imdb": 7.25
   },
   "/dizi-izle/beef": {
     "group": "BEEF",
@@ -29,29 +17,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg",
     "imdb": 8.0
   },
-  "/dizi-izle/for-all-mankind": {
-    "group": "FOR ALL MANKIND",
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
-    "imdb": 7.7
-  },
   "/dizi-izle/your-friends-neighbors": {
     "group": "YOUR FRIENDS & NEIGHBORS",
     "year": "2025",
     "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg",
     "imdb": 7.4
   },
-  "/dizi-izle/privileges": {
-    "group": "PRIVILEGES",
+  "/dizi-izle/made-with-love": {
+    "group": "MADE WITH LOVE",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/bFmWIfzkcuiDZ4WqkOfVaHb4pR8.jpg",
-    "imdb": 7.25
-  },
-  "/dizi-izle/monarch-legacy-of-monsters": {
-    "group": "MONARCH: LEGACY OF MONSTERS",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
-    "imdb": 7.693
+    "poster": "https://image.tmdb.org/t/p/w500/3LKfHuX87Mdd4mfdAbiaMMPNq4Q.jpg",
+    "imdb": 3.0
   },
   "/dizi-izle/we-are-all-trying-here": {
     "group": "WE ARE ALL TRYING HERE",
@@ -59,11 +35,23 @@
     "poster": "https://image.tmdb.org/t/p/w500/c2jswCrMoqDEBEXwSAlrCWtXdfZ.jpg",
     "imdb": 8.75
   },
-  "/dizi-izle/ronaldinho-the-one-and-only": {
-    "group": "RONALDINHO: THE ONE AND ONLY",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/b2ieiH9EtAplTq2cIA0aKKLhxm3.jpg",
-    "imdb": 10.0
+  "/dizi-izle/monarch-legacy-of-monsters": {
+    "group": "MONARCH: LEGACY OF MONSTERS",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
+    "imdb": 7.693
+  },
+  "/dizi-izle/dandelion": {
+    "group": "DANDELION",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/w500/irFZJaitAup1wEZmad0kFDR73ye.jpg",
+    "imdb": 8.2
+  },
+  "/dizi-izle/for-all-mankind": {
+    "group": "FOR ALL MANKIND",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
+    "imdb": 7.7
   },
   "/dizi-izle/hacks": {
     "group": "HACKS",
@@ -77,11 +65,23 @@
     "poster": "https://image.tmdb.org/t/p/w500/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg",
     "imdb": 10.0
   },
-  "/dizi-izle/made-with-love": {
-    "group": "MADE WITH LOVE",
+  "/dizi-izle/ronaldinho-the-one-and-only": {
+    "group": "RONALDINHO: THE ONE AND ONLY",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/3LKfHuX87Mdd4mfdAbiaMMPNq4Q.jpg",
-    "imdb": 3.0
+    "poster": "https://image.tmdb.org/t/p/w500/b2ieiH9EtAplTq2cIA0aKKLhxm3.jpg",
+    "imdb": 10.0
+  },
+  "/dizi-izle/the-pitt": {
+    "group": "THE PITT",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+    "imdb": 8.693
+  },
+  "/dizi-izle/absolute-value-of-romance": {
+    "group": "ABSOLUTE VALUE OF ROMANCE",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
+    "imdb": 8.5
   },
   "/dizi-izle/phantom-lawyer": {
     "group": "PHANTOM LAWYER",
