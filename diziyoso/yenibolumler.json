@@ -1,4 +1,10 @@
 {
+  "/dizi/euphoria": {
+    "group": "Euphoria",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
+    "imdb": 8.3
+  },
   "/dizi/going-dutch": {
     "group": "Going Dutch",
     "year": 2025,
