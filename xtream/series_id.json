@@ -332,8 +332,8 @@
   "3055": {
     "name": "CIA  (2026)",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1776308960
+    "last_episode": 8,
+    "last_modified": 1776791083
   },
   "3056": {
     "name": "CAFÉ MINAMDANG  (2022)",
@@ -7885,9 +7885,9 @@
   },
   "4314": {
     "name": "THE WAY HOME  (2023)",
-    "last_season": 3,
+    "last_season": 4,
     "last_episode": 10,
-    "last_modified": 1775801787
+    "last_modified": 1776791083
   },
   "4315": {
     "name": "THE WAY  (2024)",
@@ -44984,8 +44984,8 @@
   "10497": {
     "name": "BEYOND TWILIGHT  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1776202464
+    "last_episode": 3,
+    "last_modified": 1776791083
   },
   "10498": {
     "name": "BLUE MIBURO: SERIZAWA ASSASSINATION  (2025) İNGİLİZCE",
@@ -45068,14 +45068,14 @@
   "10511": {
     "name": "EREN THE SOUTHPAW  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1776202464
+    "last_episode": 3,
+    "last_modified": 1776791083
   },
   "10512": {
     "name": "EVEN A REPLICA CAN FALL IN LOVE  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1776185973
+    "last_episode": 3,
+    "last_modified": 1776791083
   },
   "10513": {
     "name": "FARMING LIFE IN ANOTHER WORLD 2  (2026) İNGİLİZCE",
@@ -45170,8 +45170,8 @@
   "10528": {
     "name": "I MADE FRIENDS WITH THE SECOND PRETTIEST GIRL IN MY CLASS  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1776185973
+    "last_episode": 3,
+    "last_modified": 1776791083
   },
   "10529": {
     "name": "JOURNAL WITH WITCH  (2026) İNGİLİZCE",
@@ -45236,8 +45236,8 @@
   "10539": {
     "name": "MARRIAGETOXIN  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1776185973
+    "last_episode": 3,
+    "last_modified": 1776791083
   },
   "10540": {
     "name": "MEDALIST SEASON 2  (2026) İNGİLİZCE",
@@ -45458,8 +45458,8 @@
   "10576": {
     "name": "THE MOST HERETICAL LAST BOSS QUEEN: FROM VILLAINESS TO SAVIOR 2ND SEASON  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1776185973
+    "last_episode": 3,
+    "last_modified": 1776791083
   },
   "10577": {
     "name": "THE RAMPARTS OF ICE  (2026) İNGİLİZCE",
@@ -45734,8 +45734,8 @@
   "10622": {
     "name": "I WANT TO END THIS LOVE GAME  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1776185973
+    "last_episode": 2,
+    "last_modified": 1776791083
   },
   "10623": {
     "name": "STAR WARS MAUL SHADOW LORD  (2026)",
@@ -45940,5 +45940,17 @@
     "last_season": 1,
     "last_episode": 3,
     "last_modified": 1776771972
+  },
+  "10657": {
+    "name": "THE TITHES  (2024)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1776791083
+  },
+  "10658": {
+    "name": "UNCHOSEN  (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1776791083
   }
 }
