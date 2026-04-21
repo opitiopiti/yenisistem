@@ -2,7 +2,7 @@
   "/dizi/cia": {
     "group": "CIA",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.3",
@@ -11,7 +11,7 @@
   "/dizi/fbi": {
     "group": "FBI",
     "last_season": 8,
-    "last_episode": 17,
+    "last_episode": 18,
     "start_episode": 1,
     "year": "2018",
     "imdb": "7.1",
@@ -20,7 +20,7 @@
   "/dizi/the-tithes": {
     "group": "The Tithes",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1,
     "year": "2024",
     "imdb": "6.9",
@@ -28,8 +28,8 @@
   },
   "/dizi/the-way-home": {
     "group": "The Way Home",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 1,
     "start_episode": 1,
     "year": "2023",
     "imdb": "8.0",
@@ -38,7 +38,7 @@
   "/dizi/unchosen": {
     "group": "Unchosen",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
