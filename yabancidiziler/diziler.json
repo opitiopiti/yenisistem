@@ -907,5 +907,41 @@
     "year": "2026",
     "imdb": "7.4",
     "poster": "https://image.tmdb.org/t/p/w500/cP2hSR4oouJMA6dyHAuVVAIifVn.jpg"
+  },
+  "/dizi/cia": {
+    "group": "CIA",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/8XbgWv137Umc8resTDeWh9ff7Y0.jpg"
+  },
+  "/dizi/the-tithes": {
+    "group": "The Tithes",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "6.9",
+    "poster": "https://image.tmdb.org/t/p/w500/sibqrM0ln7whbYxSaIAszHxGWuy.jpg"
+  },
+  "/dizi/the-way-home": {
+    "group": "The Way Home",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg"
+  },
+  "/dizi/unchosen": {
+    "group": "Unchosen",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/oVl01a7R8rfmWrolWtrlPXYQqzj.jpg"
   }
 }
