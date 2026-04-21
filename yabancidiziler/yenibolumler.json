@@ -11,7 +11,7 @@
   "/dizi/kevin": {
     "group": "Kevin",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.7",
@@ -38,7 +38,7 @@
   "/dizi/pariah-nexus": {
     "group": "Pariah Nexus",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.4",
