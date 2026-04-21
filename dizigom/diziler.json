@@ -29146,5 +29146,23 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/c2jswCrMoqDEBEXwSAlrCWtXdfZ.jpg",
     "imdb": 8.75
+  },
+  "/dizi-izle/funny-af-with-kevin-hart": {
+    "group": "FUNNY AF WITH KEVIN HART",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/Aw52lH93fDOeaw15Kspd81zZi1y.jpg",
+    "imdb": 0.0
+  },
+  "/dizi-izle/matka-king": {
+    "group": "MATKA KING",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/cAWIMbCmzVBi86kEOHKjHZCKGyo.jpg",
+    "imdb": 0.0
+  },
+  "/dizi-izle/from": {
+    "group": "FROM",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
+    "imdb": 8.167
   }
 }
