@@ -16618,5 +16618,11 @@
     "year": "2006",
     "imdb": "7.7",
     "poster": "https://image.tmdb.org/t/p/w500/fJ6VOFyGh7CDJogPEh6I38rC3vX.jpg"
+  },
+  "/diziler/unchosen.html": {
+    "group": "UNCHOSEN",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/oVl01a7R8rfmWrolWtrlPXYQqzj.jpg"
   }
 }

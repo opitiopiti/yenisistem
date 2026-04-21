@@ -1,4 +1,10 @@
 {
+  "/diziler/unchosen.html": {
+    "group": "UNCHOSEN",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/oVl01a7R8rfmWrolWtrlPXYQqzj.jpg"
+  },
   "/diziler/high-potential.html": {
     "group": "HIGH POTENTIAL",
     "year": "2024",
@@ -70,11 +76,5 @@
     "year": "2026",
     "imdb": "7.6",
     "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg"
-  },
-  "/diziler/absolute-value-of-romance.html": {
-    "group": "ABSOLUTE VALUE OF ROMANCE",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg"
   }
 }
