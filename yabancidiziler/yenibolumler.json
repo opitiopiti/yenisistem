@@ -8,6 +8,15 @@
     "imdb": "6.3",
     "poster": "https://image.tmdb.org/t/p/w500/zH2Am0G00fLvA7FGF1BM4ZfcABo.jpg"
   },
+  "/dizi/kevin": {
+    "group": "Kevin",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.7",
+    "poster": "https://image.tmdb.org/t/p/w500/ryvkioE754XooFO16s9SZyHZulu.jpg"
+  },
   "/dizi/krapopolis": {
     "group": "Krapopolis",
     "last_season": 3,
@@ -25,6 +34,15 @@
     "year": "2026",
     "imdb": "6.3",
     "poster": "https://image.tmdb.org/t/p/w500/nInfaveN1iFpRIcMGNKENoVVUT2.jpg"
+  },
+  "/dizi/pariah-nexus": {
+    "group": "Pariah Nexus",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.4",
+    "poster": "https://image.tmdb.org/t/p/w500/cP2hSR4oouJMA6dyHAuVVAIifVn.jpg"
   },
   "/dizi/phantom-lawyer": {
     "group": "Phantom Lawyer",

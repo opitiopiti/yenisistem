@@ -889,5 +889,23 @@
     "year": "2026",
     "imdb": "7.6",
     "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg"
+  },
+  "/dizi/kevin": {
+    "group": "Kevin",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.7",
+    "poster": "https://image.tmdb.org/t/p/w500/ryvkioE754XooFO16s9SZyHZulu.jpg"
+  },
+  "/dizi/pariah-nexus": {
+    "group": "Pariah Nexus",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.4",
+    "poster": "https://image.tmdb.org/t/p/w500/cP2hSR4oouJMA6dyHAuVVAIifVn.jpg"
   }
 }
