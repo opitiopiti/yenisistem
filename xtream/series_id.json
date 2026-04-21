@@ -43915,9 +43915,9 @@
   },
   "10319": {
     "name": "GHOST WHISPERER  (2005)",
-    "last_season": 4,
+    "last_season": 5,
     "last_episode": 23,
-    "last_modified": 1775801787
+    "last_modified": 1776807258
   },
   "10320": {
     "name": "STAR TREK PICARD  (2020)",
@@ -45266,8 +45266,8 @@
   "10544": {
     "name": "MY RIBDICULOUS REINCARNATION  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1776202464
+    "last_episode": 3,
+    "last_modified": 1776807258
   },
   "10545": {
     "name": "MY RIDICULOUS REINCARNATION  (2026) İNGİLİZCE",
@@ -45308,8 +45308,8 @@
   "10551": {
     "name": "PARDON THE INTRUSION, I'M HOME!  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1776202464
+    "last_episode": 3,
+    "last_modified": 1776807258
   },
   "10552": {
     "name": "PETALS OF REINCARNATION  (2026) İNGİLİZCE",
@@ -45952,5 +45952,11 @@
     "last_season": 1,
     "last_episode": 6,
     "last_modified": 1776791083
+  },
+  "10659": {
+    "name": "MONSTER  (2004) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 74,
+    "last_modified": 1776807258
   }
 }
