@@ -29164,5 +29164,11 @@
     "year": "2022",
     "poster": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
     "imdb": 8.167
+  },
+  "/dizi-izle/unchosen": {
+    "group": "UNCHOSEN",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/oVl01a7R8rfmWrolWtrlPXYQqzj.jpg",
+    "imdb": 8.0
   }
 }
