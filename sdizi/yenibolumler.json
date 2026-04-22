@@ -1,4 +1,22 @@
 {
+  "/diziler/criminal-record.html": {
+    "group": "CRIMINAL RECORD",
+    "year": "2024",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg"
+  },
+  "/diziler/imperfect-women.html": {
+    "group": "IMPERFECT WOMEN",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg"
+  },
+  "/diziler/daredevil-born-again.html": {
+    "group": "DAREDEVIL: BORN AGAIN",
+    "year": "2025",
+    "imdb": "8.5",
+    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg"
+  },
   "/diziler/unchosen.html": {
     "group": "UNCHOSEN",
     "year": "2026",
@@ -64,17 +82,5 @@
     "year": "2006",
     "imdb": "7.7",
     "poster": "https://image.tmdb.org/t/p/w500/fJ6VOFyGh7CDJogPEh6I38rC3vX.jpg"
-  },
-  "/diziler/elsbeth.html": {
-    "group": "ELSBETH",
-    "year": "2024",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/7lnNSbT90qwtrn1h9TvEkVFMz2P.jpg"
-  },
-  "/diziler/phantom-lawyer.html": {
-    "group": "PHANTOM LAWYER",
-    "year": "2026",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg"
   }
 }

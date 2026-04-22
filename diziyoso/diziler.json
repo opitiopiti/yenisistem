@@ -29914,5 +29914,11 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/cAWIMbCmzVBi86kEOHKjHZCKGyo.jpg",
     "imdb": 7.4
+  },
+  "/dizi/criminal-record": {
+    "group": "Criminal Record",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
+    "imdb": 6.9
   }
 }

@@ -1,4 +1,58 @@
 {
+  "/dizi/bize-bisey-olmaz": {
+    "group": "Bize Bi’Şey Olmaz",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/58QebCJChV8FWXOEucf7PWsHyVz.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/the-boys": {
+    "group": "The Boys",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+    "imdb": 8.4
+  },
+  "/dizi/daredevil-born-again": {
+    "group": "Daredevil: Born Again",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/the-testaments": {
+    "group": "The Testaments",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/criminal-record": {
+    "group": "Criminal Record",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/the-dark-wizard": {
+    "group": "The Dark Wizard",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/qGbsQ6fhZPBhx9kgN0utAIyGRry.jpg",
+    "imdb": 8.1
+  },
+  "/dizi/imperfect-women": {
+    "group": "Imperfect Women",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg",
+    "imdb": 5.5
+  },
+  "/dizi/will-trent": {
+    "group": "Will Trent",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/qG5O46gUxxYGImld03tl2zLhvrg.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/margos-got-money-troubles": {
+    "group": "Margo’s Got Money Troubles",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg",
+    "imdb": 9.0
+  },
   "/dizi/star-wars-maul-shadow-lord": {
     "group": "Star Wars: Maul – Shadow Lord",
     "year": 2026,
@@ -118,60 +172,6 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/r5Cq5wax0sQ1ModcZXWKyXF1xpy.jpg",
     "imdb": 8.5
-  },
-  "/dizi/beef": {
-    "group": "BEEF",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/wSPOstFgu3Ogs61H6A86txGcWCM.jpg",
-    "imdb": 8.0
-  },
-  "/dizi/ronaldinho-gaucho": {
-    "group": "Ronaldinho Gaúcho",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/b2ieiH9EtAplTq2cIA0aKKLhxm3.jpg",
-    "imdb": 6.083
-  },
-  "/dizi/the-hunting-party": {
-    "group": "The Hunting Party",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/mjJMOLr966Q78YUPu0pVA0ydBIP.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/matlock": {
-    "group": "Matlock",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/6kEAVyhalzv4HCAfnLfXUcF3nQZ.jpg",
-    "imdb": 7.1
-  },
-  "/dizi/happys-place": {
-    "group": "Happy’s Place",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/3dehoKPCwLwKTWATfzGqoJ2Psdl.jpg",
-    "imdb": 6.1
-  },
-  "/dizi/georgie-mandys-first-marriage": {
-    "group": "Georgie & Mandy’s First Marriage",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
-    "imdb": 7.7
-  },
-  "/dizi/elsbeth": {
-    "group": "Elsbeth",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/7lnNSbT90qwtrn1h9TvEkVFMz2P.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/your-friends-neighbors": {
-    "group": "Your Friends & Neighbors",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/lxmNQ1392ClqU56W0kx2h2ONF4V.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/monarch-legacy-of-monsters": {
-    "group": "Monarch: Legacy of Monsters",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
-    "imdb": 7.7
   },
   "/dizi/matka-king/": {
     "group": "Matka King",
