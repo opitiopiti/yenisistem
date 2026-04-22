@@ -970,5 +970,32 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/Ae8jSNjUgdD4re3tNvFTcamQk3k.jpg"
+  },
+  "/dizi/hulk-hogan-real-american": {
+    "group": "Hulk Hogan: Real American",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.4",
+    "poster": "https://image.tmdb.org/t/p/w500/jQHy8yR12AwXsU34EEmugwpJ2Ir.jpg"
+  },
+  "/dizi/santita": {
+    "group": "Santita",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/v3kDHO5LFIvzqmOYNDPzwXnfMyq.jpg"
+  },
+  "/dizi/this-is-a-gardening-show": {
+    "group": "This is a Gardening Show",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg"
   }
 }

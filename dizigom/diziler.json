@@ -29170,5 +29170,23 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/oVl01a7R8rfmWrolWtrlPXYQqzj.jpg",
     "imdb": 8.0
+  },
+  "/dizi-izle/hulk-hogan-real-american": {
+    "group": "HULK HOGAN: REAL AMERICAN",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/jQHy8yR12AwXsU34EEmugwpJ2Ir.jpg",
+    "imdb": 0.0
+  },
+  "/dizi-izle/santita": {
+    "group": "SANTITA",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/v3kDHO5LFIvzqmOYNDPzwXnfMyq.jpg",
+    "imdb": 0.0
+  },
+  "/dizi-izle/this-is-a-gardening-show": {
+    "group": "THIS IS A GARDENING SHOW",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg",
+    "imdb": 0.0
   }
 }

@@ -1,4 +1,22 @@
 {
+  "/diziler/dorohedoro.html": {
+    "group": "DOROHEDORO",
+    "year": "2020",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg"
+  },
+  "/diziler/re-zero-starting-life-in-another-world.html": {
+    "group": "RE: ZERO - STARTING LIFE IN ANOTHER WORLD",
+    "year": "2016",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/aRwmcX36r1ZpR5Xq5mmFcpUDQ8J.jpg"
+  },
+  "/diziler/classroom-of-the-elite.html": {
+    "group": "CLASSROOM OF THE ELITE",
+    "year": "2017",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg"
+  },
   "/diziler/criminal-record.html": {
     "group": "CRIMINAL RECORD",
     "year": "2024",
@@ -64,23 +82,5 @@
     "year": "1999",
     "imdb": "9.0",
     "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
-  },
-  "/diziler/nippon-sangoku-the-three-nations-of-the-crimson-sun.html": {
-    "group": "NIPPON SANGOKU: THE THREE NATIONS OF THE CRIMSON SUN",
-    "year": "2026",
-    "imdb": "8.3",
-    "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg"
-  },
-  "/diziler/girl-from-nowhere-the-reset.html": {
-    "group": "GIRL FROM NOWHERE: THE RESET",
-    "year": "2026",
-    "imdb": "6.3",
-    "poster": "https://image.tmdb.org/t/p/w500/bRMEjZHvES9XLKSFVCtveFGdOHC.jpg"
-  },
-  "/diziler/big-love.html": {
-    "group": "BIG LOVE",
-    "year": "2006",
-    "imdb": "7.7",
-    "poster": "https://image.tmdb.org/t/p/w500/fJ6VOFyGh7CDJogPEh6I38rC3vX.jpg"
   }
 }

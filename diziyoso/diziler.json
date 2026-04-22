@@ -29920,5 +29920,29 @@
     "year": 2024,
     "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
     "imdb": 6.9
+  },
+  "/dizi/mint": {
+    "group": "Mint",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/Ae8jSNjUgdD4re3tNvFTcamQk3k.jpg",
+    "imdb": 5.1
+  },
+  "/dizi/krapopolis": {
+    "group": "Krapopolis",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/9hv6mEAC6NChxNaUIshUN09Yk38.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/mint/": {
+    "group": "Mint",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/Ae8jSNjUgdD4re3tNvFTcamQk3k.jpg",
+    "imdb": 5.1
+  },
+  "/dizi/big-mood/": {
+    "group": "Big Mood",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/80IgGVqEAep4Pjzyg3HZbRL7G4N.jpg",
+    "imdb": 6.9
   }
 }

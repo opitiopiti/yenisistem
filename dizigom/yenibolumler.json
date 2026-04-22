@@ -1,9 +1,9 @@
 {
-  "/dizi-izle/absolute-value-of-romance": {
-    "group": "ABSOLUTE VALUE OF ROMANCE",
+  "/dizi-izle/matka-king": {
+    "group": "MATKA KING",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
-    "imdb": 8.5
+    "poster": "https://image.tmdb.org/t/p/w500/cAWIMbCmzVBi86kEOHKjHZCKGyo.jpg",
+    "imdb": 6.0
   },
   "/dizi-izle/monarch-legacy-of-monsters": {
     "group": "MONARCH: LEGACY OF MONSTERS",
@@ -11,47 +11,29 @@
     "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
     "imdb": 7.693
   },
-  "/dizi-izle/funny-af-with-kevin-hart": {
-    "group": "FUNNY AF WITH KEVIN HART",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/Aw52lH93fDOeaw15Kspd81zZi1y.jpg",
-    "imdb": 0.0
-  },
-  "/dizi-izle/unchosen": {
-    "group": "UNCHOSEN",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/oVl01a7R8rfmWrolWtrlPXYQqzj.jpg",
-    "imdb": 8.0
-  },
-  "/dizi-izle/rooster": {
-    "group": "ROOSTER",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
-    "imdb": 7.3
-  },
-  "/dizi-izle/we-are-all-trying-here": {
-    "group": "WE ARE ALL TRYING HERE",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/c2jswCrMoqDEBEXwSAlrCWtXdfZ.jpg",
-    "imdb": 8.75
-  },
   "/dizi-izle/beef": {
     "group": "BEEF",
     "year": "2023",
     "poster": "https://image.tmdb.org/t/p/w500/4b4v7RnPhNyPEaVGFarEuo74r8W.jpg",
     "imdb": 7.7
   },
-  "/dizi-izle/from": {
-    "group": "FROM",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
-    "imdb": 8.167
-  },
-  "/dizi-izle/star-wars-maul-shadow-lord": {
-    "group": "STAR WARS: MAUL - SHADOW LORD",
+  "/dizi-izle/hulk-hogan-real-american": {
+    "group": "HULK HOGAN: REAL AMERICAN",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
-    "imdb": 7.3
+    "poster": "https://image.tmdb.org/t/p/w500/jQHy8yR12AwXsU34EEmugwpJ2Ir.jpg",
+    "imdb": 0.0
+  },
+  "/dizi-izle/criminal-record": {
+    "group": "CRIMINAL RECORD",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
+    "imdb": 6.9
+  },
+  "/dizi-izle/absolute-value-of-romance": {
+    "group": "ABSOLUTE VALUE OF ROMANCE",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
+    "imdb": 8.5
   },
   "/dizi-izle/dandelion": {
     "group": "DANDELION",
@@ -59,35 +41,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/irFZJaitAup1wEZmad0kFDR73ye.jpg",
     "imdb": 8.2
   },
-  "/dizi-izle/girl-from-nowhere-the-reset": {
-    "group": "GIRL FROM NOWHERE: THE RESET",
+  "/dizi-izle/santita": {
+    "group": "SANTITA",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/bRMEjZHvES9XLKSFVCtveFGdOHC.jpg",
-    "imdb": 8.7
-  },
-  "/dizi-izle/matka-king": {
-    "group": "MATKA KING",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/cAWIMbCmzVBi86kEOHKjHZCKGyo.jpg",
-    "imdb": 6.0
-  },
-  "/dizi-izle/the-pitt": {
-    "group": "THE PITT",
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-    "imdb": 8.693
-  },
-  "/dizi-izle/euphoria": {
-    "group": "EUPHORIA",
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
-    "imdb": 8.284
-  },
-  "/dizi-izle/nippon-sangoku-the-three-nations-of-the-crimson-sun": {
-    "group": "NIPPON SANGOKU: THE THREE NATIONS OF THE CRIMSON SUN",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg",
-    "imdb": 8.0
+    "poster": "https://image.tmdb.org/t/p/w500/v3kDHO5LFIvzqmOYNDPzwXnfMyq.jpg",
+    "imdb": 0.0
   },
   "/dizi-izle/privileges": {
     "group": "PRIVILEGES",
@@ -95,16 +53,46 @@
     "poster": "https://image.tmdb.org/t/p/w500/bFmWIfzkcuiDZ4WqkOfVaHb4pR8.jpg",
     "imdb": 7.25
   },
-  "/dizi-izle/the-comeback": {
-    "group": "THE COMEBACK",
-    "year": "2005",
-    "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg",
-    "imdb": 7.3
+  "/dizi-izle/million-dollar-secret": {
+    "group": "MILLION DOLLAR SECRET",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/iC6xzFgRRq5yHngSnmusXkNL928.jpg",
+    "imdb": 7.5
+  },
+  "/dizi-izle/this-is-a-gardening-show": {
+    "group": "THIS IS A GARDENING SHOW",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg",
+    "imdb": 0.0
+  },
+  "/dizi-izle/the-boys": {
+    "group": "THE BOYS",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+    "imdb": 8.437
+  },
+  "/dizi-izle/we-are-all-trying-here": {
+    "group": "WE ARE ALL TRYING HERE",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/c2jswCrMoqDEBEXwSAlrCWtXdfZ.jpg",
+    "imdb": 8.75
+  },
+  "/dizi-izle/the-pitt": {
+    "group": "THE PITT",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
+    "imdb": 8.693
   },
   "/dizi-izle/phantom-lawyer": {
     "group": "PHANTOM LAWYER",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg",
     "imdb": 7.5
+  },
+  "/dizi-izle/the-testaments": {
+    "group": "THE TESTAMENTS",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
+    "imdb": 6.2
   }
 }

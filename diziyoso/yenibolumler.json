@@ -29,6 +29,18 @@
     "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
     "imdb": 6.9
   },
+  "/dizi/ncis-sydney": {
+    "group": "NCIS: Sydney",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/6dYDa6h1AOZ7iZ1zv3nlw7qhErX.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/ncis-origins": {
+    "group": "NCIS: Origins",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/waWeC84DExojP5AHFbWaybj3wxv.jpg",
+    "imdb": 7.6
+  },
   "/dizi/the-dark-wizard": {
     "group": "The Dark Wizard",
     "year": 2026,
@@ -53,11 +65,53 @@
     "poster": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg",
     "imdb": 9.0
   },
+  "/dizi/the-audacity": {
+    "group": "The Audacity",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
+    "imdb": 5.1
+  },
+  "/dizi/mint": {
+    "group": "Mint",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/Ae8jSNjUgdD4re3tNvFTcamQk3k.jpg",
+    "imdb": 5.1
+  },
+  "/dizi/fbi": {
+    "group": "FBI",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/cia": {
+    "group": "CIA",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/8XbgWv137Umc8resTDeWh9ff7Y0.jpg",
+    "imdb": 6.4
+  },
   "/dizi/star-wars-maul-shadow-lord": {
     "group": "Star Wars: Maul – Shadow Lord",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
     "imdb": 7.3
+  },
+  "/dizi/watson": {
+    "group": "Watson",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/b1sELCj9LK5a3olbLhPZlP8Liba.jpg",
+    "imdb": 4.9
+  },
+  "/dizi/krapopolis": {
+    "group": "Krapopolis",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/9hv6mEAC6NChxNaUIshUN09Yk38.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/grace": {
+    "group": "Grace",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/r9hE4eF8IGbcoyl419Nfllkv6Ag.jpg",
+    "imdb": 6.7
   },
   "/dizi/the-comeback": {
     "group": "The Comeback",
@@ -119,59 +173,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/bxBmfyzK0ARF9hqf2pbFWsddH14.jpg",
     "imdb": 8.2
   },
-  "/dizi/kara-kis": {
-    "group": "Kara Kış",
+  "/dizi/mint/": {
+    "group": "Mint",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/6Axq4SOmgo4LsLwS0gpbocSQMRQ.jpg",
-    "imdb": 0.0
+    "poster": "https://image.tmdb.org/t/p/w500/Ae8jSNjUgdD4re3tNvFTcamQk3k.jpg",
+    "imdb": 5.1
   },
-  "/dizi/sheriff-country": {
-    "group": "Sheriff Country",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
-    "imdb": 6.6
-  },
-  "/dizi/fire-country": {
-    "group": "Fire Country",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
-    "imdb": 8.2
-  },
-  "/dizi/boston-blue": {
-    "group": "Boston Blue",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/8pyxutHxpgBt8ZwbIG2TZWCW394.jpg",
-    "imdb": 6.2
-  },
-  "/dizi/beyond-paradise": {
-    "group": "Beyond Paradise",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/7zwbypEzcjOyNuTLSD43fTB9kR8.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/hacks": {
-    "group": "Hacks",
-    "year": 2021,
-    "poster": "https://image.tmdb.org/t/p/w500/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/the-pitt": {
-    "group": "The Pitt",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/kvFSpESyBZMjaeOJDx7RS3P1jey.jpg",
-    "imdb": 8.7
-  },
-  "/dizi/for-all-mankind": {
-    "group": "For All Mankind",
-    "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
-    "imdb": 7.7
-  },
-  "/dizi/dandelion": {
-    "group": "Dandelion",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/r5Cq5wax0sQ1ModcZXWKyXF1xpy.jpg",
-    "imdb": 8.5
+  "/dizi/big-mood/": {
+    "group": "Big Mood",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/80IgGVqEAep4Pjzyg3HZbRL7G4N.jpg",
+    "imdb": 6.9
   },
   "/dizi/matka-king/": {
     "group": "Matka King",
@@ -328,17 +340,5 @@
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/bn4qHIxbmZOC4AqlDUbgcKYld7r.jpg",
     "imdb": 6.7
-  },
-  "/dizi/v-2009/": {
-    "group": "V 2009",
-    "year": 2009,
-    "poster": "https://image.tmdb.org/t/p/w500/b2w3vq0uvfmahS6dB41WeWByhVy.jpg",
-    "imdb": 6.8
-  },
-  "/dizi/bandi/": {
-    "group": "Bandi",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/aOna2stEPzxVUJWzTGEiuRVkt6o.jpg",
-    "imdb": 5.0
   }
 }

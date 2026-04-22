@@ -26,6 +26,15 @@
     "imdb": "7.8",
     "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg"
   },
+  "/dizi/hulk-hogan-real-american": {
+    "group": "Hulk Hogan: Real American",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.4",
+    "poster": "https://image.tmdb.org/t/p/w500/jQHy8yR12AwXsU34EEmugwpJ2Ir.jpg"
+  },
   "/dizi/imperfect-women": {
     "group": "Imperfect Women",
     "last_season": 1,
@@ -44,6 +53,15 @@
     "imdb": "6.6",
     "poster": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg"
   },
+  "/dizi/million-dollar-secret": {
+    "group": "Million Dollar Secret",
+    "last_season": 2,
+    "last_episode": 3,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/iC6xzFgRRq5yHngSnmusXkNL928.jpg"
+  },
   "/dizi/mint": {
     "group": "Mint",
     "last_season": 1,
@@ -52,6 +70,51 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/Ae8jSNjUgdD4re3tNvFTcamQk3k.jpg"
+  },
+  "/dizi/ncis-origins": {
+    "group": "NCIS: Origins",
+    "last_season": 2,
+    "last_episode": 15,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/waWeC84DExojP5AHFbWaybj3wxv.jpg"
+  },
+  "/dizi/ncis-sydney": {
+    "group": "NCIS: Sydney",
+    "last_season": 3,
+    "last_episode": 15,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "5.9",
+    "poster": "https://image.tmdb.org/t/p/w500/6dYDa6h1AOZ7iZ1zv3nlw7qhErX.jpg"
+  },
+  "/dizi/r-j-decker": {
+    "group": "R.J. Decker",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/bkMdvmjj1zEnVqZTPskBREDzTuS.jpg"
+  },
+  "/dizi/santita": {
+    "group": "Santita",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/v3kDHO5LFIvzqmOYNDPzwXnfMyq.jpg"
+  },
+  "/dizi/this-is-a-gardening-show": {
+    "group": "This is a Gardening Show",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg"
   },
   "/dizi/when-hope-calls": {
     "group": "When Hope Calls",
