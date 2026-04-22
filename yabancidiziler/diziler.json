@@ -470,7 +470,7 @@
   "/dizi/ncis-origins": {
     "group": "NCIS: Origins",
     "last_season": 2,
-    "last_episode": 15,
+    "last_episode": 16,
     "start_episode": 1,
     "year": "2024",
     "imdb": "7.6",
@@ -479,7 +479,7 @@
   "/dizi/r-j-decker": {
     "group": "R.J. Decker",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.9",
@@ -731,7 +731,7 @@
   "/dizi/million-dollar-secret": {
     "group": "Million Dollar Secret",
     "last_season": 2,
-    "last_episode": 3,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2025",
     "imdb": "7.0",
@@ -740,7 +740,7 @@
   "/dizi/ncis-sydney": {
     "group": "NCIS: Sydney",
     "last_season": 3,
-    "last_episode": 15,
+    "last_episode": 16,
     "start_episode": 1,
     "year": "2023",
     "imdb": "5.9",
@@ -974,7 +974,7 @@
   "/dizi/hulk-hogan-real-american": {
     "group": "Hulk Hogan: Real American",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.4",
@@ -983,7 +983,7 @@
   "/dizi/santita": {
     "group": "Santita",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 7,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -992,7 +992,7 @@
   "/dizi/this-is-a-gardening-show": {
     "group": "This is a Gardening Show",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
