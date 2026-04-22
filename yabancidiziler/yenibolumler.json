@@ -1,4 +1,67 @@
 {
+  "/dizi/big-mood": {
+    "group": "Big Mood",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "6.7",
+    "poster": "https://image.tmdb.org/t/p/w500/80IgGVqEAep4Pjzyg3HZbRL7G4N.jpg"
+  },
+  "/dizi/criminal-record": {
+    "group": "Criminal Record",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "8.7",
+    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg"
+  },
+  "/dizi/daredevil-born-again": {
+    "group": "Daredevil: Born Again",
+    "last_season": 2,
+    "last_episode": 5,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg"
+  },
+  "/dizi/imperfect-women": {
+    "group": "Imperfect Women",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg"
+  },
+  "/dizi/margo-s-got-money-troubles": {
+    "group": "Margo’s Got Money Troubles",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.6",
+    "poster": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg"
+  },
+  "/dizi/mint": {
+    "group": "Mint",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/Ae8jSNjUgdD4re3tNvFTcamQk3k.jpg"
+  },
+  "/dizi/when-hope-calls": {
+    "group": "When Hope Calls",
+    "last_season": 3,
+    "last_episode": 1,
+    "start_episode": 1,
+    "year": "2019",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/6XsUEyIu9uPgiUFFbGNmpYqkw71.jpg"
+  },
   "/dizi/cia": {
     "group": "CIA",
     "last_season": 1,

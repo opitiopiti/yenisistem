@@ -943,5 +943,32 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/oVl01a7R8rfmWrolWtrlPXYQqzj.jpg"
+  },
+  "/dizi/big-mood": {
+    "group": "Big Mood",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "6.7",
+    "poster": "https://image.tmdb.org/t/p/w500/80IgGVqEAep4Pjzyg3HZbRL7G4N.jpg"
+  },
+  "/dizi/criminal-record": {
+    "group": "Criminal Record",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "8.7",
+    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg"
+  },
+  "/dizi/mint": {
+    "group": "Mint",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/Ae8jSNjUgdD4re3tNvFTcamQk3k.jpg"
   }
 }
