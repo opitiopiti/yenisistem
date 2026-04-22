@@ -704,8 +704,8 @@
   "3117": {
     "name": "IMPERFECT WOMEN  (2026)",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1776254395
+    "last_episode": 7,
+    "last_modified": 1776844360
   },
   "3118": {
     "name": "INDIAN PREDATOR: MURDER IN A COURTROOM  (2022)",
@@ -12715,9 +12715,9 @@
   },
   "5119": {
     "name": "CRIMINAL RECORD  (2024)",
-    "last_season": 1,
+    "last_season": 2,
     "last_episode": 8,
-    "last_modified": 1775801787
+    "last_modified": 1776844360
   },
   "5120": {
     "name": "CRISTÓBAL BALENCIAGA  (2024)",
@@ -45758,8 +45758,8 @@
   "10626": {
     "name": "MARGO’S GOT MONEY TROUBLES  (2026)",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1776254395
+    "last_episode": 4,
+    "last_modified": 1776844360
   },
   "10627": {
     "name": "THE DARK WIZARD  (2026)",
@@ -45958,5 +45958,17 @@
     "last_season": 1,
     "last_episode": 74,
     "last_modified": 1776807258
+  },
+  "10660": {
+    "name": "BIG MOOD  (2024)",
+    "last_season": 2,
+    "last_episode": 6,
+    "last_modified": 1776844360
+  },
+  "10661": {
+    "name": "MINT  (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1776844360
   }
 }
