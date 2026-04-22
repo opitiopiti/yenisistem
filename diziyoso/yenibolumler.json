@@ -1,4 +1,22 @@
 {
+  "/dizi/hulk-hogan-real-american": {
+    "group": "Hulk Hogan: Real American",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/pdEEOQystKjHtC71RV6yRobY8bk.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/santita": {
+    "group": "Santita",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/v3kDHO5LFIvzqmOYNDPzwXnfMyq.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/this-is-a-gardening-show": {
+    "group": "This Is a Gardening Show",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg",
+    "imdb": 0.0
+  },
   "/dizi/bize-bisey-olmaz": {
     "group": "Bize Bi’Şey Olmaz",
     "year": 2026,
@@ -28,6 +46,12 @@
     "year": 2024,
     "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
     "imdb": 6.9
+  },
+  "/dizi/unchosen": {
+    "group": "Unchosen",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/oVl01a7R8rfmWrolWtrlPXYQqzj.jpg",
+    "imdb": 8.2
   },
   "/dizi/ncis-sydney": {
     "group": "NCIS: Sydney",
@@ -71,6 +95,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
     "imdb": 5.1
   },
+  "/dizi/funny-af-with-kevin-hart": {
+    "group": "Funny AF with Kevin Hart",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/Aw52lH93fDOeaw15Kspd81zZi1y.jpg",
+    "imdb": 5.8
+  },
   "/dizi/mint": {
     "group": "Mint",
     "year": 2026,
@@ -94,6 +124,12 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
     "imdb": 7.3
+  },
+  "/dizi/betrayal-secrets-lies": {
+    "group": "Betrayal: Secrets & Lies",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/d7KMM6MFMgVboi0aUOUcpbEpFQB.jpg",
+    "imdb": 6.5
   },
   "/dizi/watson": {
     "group": "Watson",
@@ -131,47 +167,41 @@
     "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
     "imdb": 8.3
   },
-  "/dizi/going-dutch": {
-    "group": "Going Dutch",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/jq0sB0UMVjRnAfYDQ9Wd1i4vt1L.jpg",
-    "imdb": 5.6
-  },
-  "/dizi/mira": {
-    "group": "Mira",
+  "/dizi/sin-i-rang-beom-nyul-sa-mu-so": {
+    "group": "Sin-i-rang Beom-nyul-sa-mu-so",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/sPTDlNpTCJkbDxVPlQvnOItDzuf.jpg",
-    "imdb": 10.0
+    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg",
+    "imdb": 7.6
   },
-  "/dizi/privileges": {
-    "group": "Privilèges",
+  "/dizi/betrayal-secrets-lies/": {
+    "group": "Betrayal: Secrets & Lies",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/bFmWIfzkcuiDZ4WqkOfVaHb4pR8.jpg",
-    "imdb": 7.8
+    "poster": "https://image.tmdb.org/t/p/w500/d7KMM6MFMgVboi0aUOUcpbEpFQB.jpg",
+    "imdb": 6.5
   },
-  "/dizi/full-swing": {
-    "group": "Full Swing",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/fOfyPUtjl95hESjBlDR9otX62Gi.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/matka-king": {
-    "group": "Matka King",
+  "/dizi/funny-af-with-kevin-hart/": {
+    "group": "Funny AF with Kevin Hart",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/cAWIMbCmzVBi86kEOHKjHZCKGyo.jpg",
-    "imdb": 7.4
+    "poster": "https://image.tmdb.org/t/p/w500/Aw52lH93fDOeaw15Kspd81zZi1y.jpg",
+    "imdb": 5.8
   },
-  "/dizi/machos-alfa": {
-    "group": "Machos alfa",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/NqID21yImku6B7kq0oCQTxX2rm.jpg",
-    "imdb": 7.5
+  "/dizi/hulk-hogan-real-american/": {
+    "group": "Hulk Hogan: Real American",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/pdEEOQystKjHtC71RV6yRobY8bk.jpg",
+    "imdb": 0.0
   },
-  "/dizi/outlander": {
-    "group": "Outlander",
-    "year": 2014,
-    "poster": "https://image.tmdb.org/t/p/w500/bxBmfyzK0ARF9hqf2pbFWsddH14.jpg",
-    "imdb": 8.2
+  "/dizi/santita/": {
+    "group": "Santita",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/v3kDHO5LFIvzqmOYNDPzwXnfMyq.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/this-is-a-gardening-show/": {
+    "group": "This Is a Gardening Show",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg",
+    "imdb": 0.0
   },
   "/dizi/mint/": {
     "group": "Mint",
@@ -310,35 +340,5 @@
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/zhJANohv7wceqGpJsPuNui8Wz3G.jpg",
     "imdb": 7.4
-  },
-  "/dizi/the-thundermans/": {
-    "group": "The Thundermans",
-    "year": 2013,
-    "poster": "https://image.tmdb.org/t/p/w500/1tIYEyjK1LLcX0jYK3ZouT7601o.jpg",
-    "imdb": 6.1
-  },
-  "/dizi/malcolm-in-the-middle-lifes-still-unfair/": {
-    "group": "Malcolm in the Middle: Life’s Still Unfair",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/4uXAZRYtcMfoX2XtY1gcUxLHhjj.jpg",
-    "imdb": 8.5
-  },
-  "/dizi/the-cleaning-lady/": {
-    "group": "The Cleaning Lady",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/w500/aoTQhDKiuKpn599yNxp03wr2ZHu.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/keep-sweet-pray-and-obey/": {
-    "group": "Keep Sweet: Pray and Obey",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/4Nmb8R9fO9ezzTDZKE5hwkPhu7M.jpg",
-    "imdb": 7.3
-  },
-  "/dizi/florida-man/": {
-    "group": "Florida Man",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/bn4qHIxbmZOC4AqlDUbgcKYld7r.jpg",
-    "imdb": 6.7
   }
 }

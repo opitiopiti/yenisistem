@@ -8,6 +8,15 @@
     "imdb": "6.7",
     "poster": "https://image.tmdb.org/t/p/w500/80IgGVqEAep4Pjzyg3HZbRL7G4N.jpg"
   },
+  "/dizi/bize-bi-sharp039-sey-olmaz": {
+    "group": "Bize Bi'Şey Olmaz",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/tVNvaGS607lH5jTi1VLvWYV23sp.jpg"
+  },
   "/dizi/criminal-record": {
     "group": "Criminal Record",
     "last_season": 2,
@@ -25,6 +34,15 @@
     "year": "2025",
     "imdb": "7.8",
     "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg"
+  },
+  "/dizi/dorohedoro": {
+    "group": "Dorohedoro",
+    "last_season": 2,
+    "last_episode": 5,
+    "start_episode": 1,
+    "year": "2020",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg"
   },
   "/dizi/hulk-hogan-real-american": {
     "group": "Hulk Hogan: Real American",

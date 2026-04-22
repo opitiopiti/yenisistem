@@ -29944,5 +29944,77 @@
     "year": 2024,
     "poster": "https://image.tmdb.org/t/p/w500/80IgGVqEAep4Pjzyg3HZbRL7G4N.jpg",
     "imdb": 6.9
+  },
+  "/dizi/hulk-hogan-real-american": {
+    "group": "Hulk Hogan: Real American",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/pdEEOQystKjHtC71RV6yRobY8bk.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/santita": {
+    "group": "Santita",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/v3kDHO5LFIvzqmOYNDPzwXnfMyq.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/this-is-a-gardening-show": {
+    "group": "This Is a Gardening Show",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/unchosen": {
+    "group": "Unchosen",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/oVl01a7R8rfmWrolWtrlPXYQqzj.jpg",
+    "imdb": 8.2
+  },
+  "/dizi/funny-af-with-kevin-hart": {
+    "group": "Funny AF with Kevin Hart",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/Aw52lH93fDOeaw15Kspd81zZi1y.jpg",
+    "imdb": 5.8
+  },
+  "/dizi/betrayal-secrets-lies": {
+    "group": "Betrayal: Secrets & Lies",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/d7KMM6MFMgVboi0aUOUcpbEpFQB.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/sin-i-rang-beom-nyul-sa-mu-so": {
+    "group": "Sin-i-rang Beom-nyul-sa-mu-so",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/betrayal-secrets-lies/": {
+    "group": "Betrayal: Secrets & Lies",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/d7KMM6MFMgVboi0aUOUcpbEpFQB.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/funny-af-with-kevin-hart/": {
+    "group": "Funny AF with Kevin Hart",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/Aw52lH93fDOeaw15Kspd81zZi1y.jpg",
+    "imdb": 5.8
+  },
+  "/dizi/hulk-hogan-real-american/": {
+    "group": "Hulk Hogan: Real American",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/pdEEOQystKjHtC71RV6yRobY8bk.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/santita/": {
+    "group": "Santita",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/v3kDHO5LFIvzqmOYNDPzwXnfMyq.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/this-is-a-gardening-show/": {
+    "group": "This Is a Gardening Show",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg",
+    "imdb": 0.0
   }
 }
