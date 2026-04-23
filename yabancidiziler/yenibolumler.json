@@ -2,7 +2,7 @@
   "/dizi/abbott-elementary": {
     "group": "Abbott Elementary",
     "last_season": 5,
-    "last_episode": 22,
+    "last_episode": 20,
     "start_episode": 1,
     "year": "2022",
     "imdb": "8.2",
@@ -11,7 +11,7 @@
   "/dizi/chicago-fire": {
     "group": "Chicago Fire",
     "last_season": 14,
-    "last_episode": 18,
+    "last_episode": 17,
     "start_episode": 1,
     "year": "2024",
     "imdb": "8.0",
@@ -20,7 +20,7 @@
   "/dizi/chicago-med": {
     "group": "Chicago Med",
     "last_season": 11,
-    "last_episode": 18,
+    "last_episode": 16,
     "start_episode": 1,
     "year": "2015",
     "imdb": "7.6",
@@ -29,7 +29,7 @@
   "/dizi/hope-valley-1874": {
     "group": "Hope Valley: 1874",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 5,
     "start_episode": 1,
     "year": "2026",
     "imdb": "9.4",
@@ -38,7 +38,7 @@
   "/dizi/recale": {
     "group": "Recalé",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 0,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -46,8 +46,8 @@
   },
   "/dizi/running-point": {
     "group": "Running Point",
-    "last_season": 2,
-    "last_episode": 10,
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1,
     "year": "2025",
     "imdb": "7.3",
@@ -56,7 +56,7 @@
   "/dizi/stranger-things-tales-from-85": {
     "group": "Stranger Things: Tales from ’85",
     "last_season": 1,
-    "last_episode": 10,
+    "last_episode": 0,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
