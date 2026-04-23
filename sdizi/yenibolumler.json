@@ -1,4 +1,10 @@
 {
+  "/diziler/the-secret-saturdays.html": {
+    "group": "THE SECRET SATURDAYS",
+    "year": "2008",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/A6ulaU7kehrXmMOhuaBW98qx2aL.jpg"
+  },
   "/diziler/dorohedoro.html": {
     "group": "DOROHEDORO",
     "year": "2020",
@@ -76,11 +82,5 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/hMrBaA68y4mlmE5zjC3NM2cN1IV.jpg"
-  },
-  "/diziler/one-piece-izle.html": {
-    "group": "ONE PIECE",
-    "year": "1999",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
   }
 }

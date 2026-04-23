@@ -29188,5 +29188,23 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg",
     "imdb": 0.0
+  },
+  "/dizi-izle/sold-out-on-you": {
+    "group": "SOLD OUT ON YOU",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
+    "imdb": 9.0
+  },
+  "/dizi-izle/margos-got-money-troubles": {
+    "group": "MARGO'S GOT MONEY TROUBLES",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/5iVWUVfxOS1JFudntvPcLyHBw9y.jpg",
+    "imdb": 7.972
+  },
+  "/dizi-izle/the-dark-wizard": {
+    "group": "THE DARK WIZARD",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/phkGAfV7NTYCIv4jIFYTbCMb9xC.jpg",
+    "imdb": 0.0
   }
 }

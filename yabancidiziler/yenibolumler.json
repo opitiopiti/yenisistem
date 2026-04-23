@@ -142,50 +142,5 @@
     "year": "2019",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/6XsUEyIu9uPgiUFFbGNmpYqkw71.jpg"
-  },
-  "/dizi/cia": {
-    "group": "CIA",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.3",
-    "poster": "https://image.tmdb.org/t/p/w500/8XbgWv137Umc8resTDeWh9ff7Y0.jpg"
-  },
-  "/dizi/fbi": {
-    "group": "FBI",
-    "last_season": 8,
-    "last_episode": 18,
-    "start_episode": 1,
-    "year": "2018",
-    "imdb": "7.1",
-    "poster": "https://image.tmdb.org/t/p/w500/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg"
-  },
-  "/dizi/the-tithes": {
-    "group": "The Tithes",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1,
-    "year": "2024",
-    "imdb": "6.9",
-    "poster": "https://image.tmdb.org/t/p/w500/sibqrM0ln7whbYxSaIAszHxGWuy.jpg"
-  },
-  "/dizi/the-way-home": {
-    "group": "The Way Home",
-    "last_season": 4,
-    "last_episode": 1,
-    "start_episode": 1,
-    "year": "2023",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg"
-  },
-  "/dizi/unchosen": {
-    "group": "Unchosen",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/oVl01a7R8rfmWrolWtrlPXYQqzj.jpg"
   }
 }
