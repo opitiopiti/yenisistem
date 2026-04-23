@@ -1,9 +1,15 @@
 {
-  "/dizi-izle/star-wars-maul-shadow-lord": {
-    "group": "STAR WARS: MAUL - SHADOW LORD",
+  "/dizi-izle/daredevil-born-again": {
+    "group": "DAREDEVIL: BORN AGAIN",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+    "imdb": 8.0
+  },
+  "/dizi-izle/margos-got-money-troubles": {
+    "group": "MARGO'S GOT MONEY TROUBLES",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
-    "imdb": 7.3
+    "poster": "https://image.tmdb.org/t/p/w500/5iVWUVfxOS1JFudntvPcLyHBw9y.jpg",
+    "imdb": 7.972
   },
   "/dizi-izle/the-boys": {
     "group": "THE BOYS",
@@ -11,17 +17,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
     "imdb": 8.437
   },
-  "/dizi-izle/the-testaments": {
-    "group": "THE TESTAMENTS",
+  "/dizi-izle/this-is-a-gardening-show": {
+    "group": "THIS IS A GARDENING SHOW",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
-    "imdb": 6.2
-  },
-  "/dizi-izle/imperfect-women": {
-    "group": "IMPERFECT WOMEN",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg",
-    "imdb": 5.923
+    "poster": "https://image.tmdb.org/t/p/w500/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg",
+    "imdb": 0.0
   },
   "/dizi-izle/criminal-record": {
     "group": "CRIMINAL RECORD",
@@ -29,16 +29,22 @@
     "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
     "imdb": 6.9
   },
+  "/dizi-izle/star-wars-maul-shadow-lord": {
+    "group": "STAR WARS: MAUL - SHADOW LORD",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
+    "imdb": 7.3
+  },
+  "/dizi-izle/the-testaments": {
+    "group": "THE TESTAMENTS",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
+    "imdb": 6.2
+  },
   "/dizi-izle/hulk-hogan-real-american": {
     "group": "HULK HOGAN: REAL AMERICAN",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/jQHy8yR12AwXsU34EEmugwpJ2Ir.jpg",
-    "imdb": 0.0
-  },
-  "/dizi-izle/funny-af-with-kevin-hart": {
-    "group": "FUNNY AF WITH KEVIN HART",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/Aw52lH93fDOeaw15Kspd81zZi1y.jpg",
     "imdb": 0.0
   },
   "/dizi-izle/unchosen": {
@@ -51,31 +57,7 @@
     "group": "SANTITA",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/v3kDHO5LFIvzqmOYNDPzwXnfMyq.jpg",
-    "imdb": 0.0
-  },
-  "/dizi-izle/this-is-a-gardening-show": {
-    "group": "THIS IS A GARDENING SHOW",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg",
-    "imdb": 0.0
-  },
-  "/dizi-izle/the-dark-wizard": {
-    "group": "THE DARK WIZARD",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/phkGAfV7NTYCIv4jIFYTbCMb9xC.jpg",
-    "imdb": 0.0
-  },
-  "/dizi-izle/sold-out-on-you": {
-    "group": "SOLD OUT ON YOU",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
-    "imdb": 9.0
-  },
-  "/dizi-izle/margos-got-money-troubles": {
-    "group": "MARGO'S GOT MONEY TROUBLES",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/5iVWUVfxOS1JFudntvPcLyHBw9y.jpg",
-    "imdb": 7.972
+    "imdb": 5.5
   },
   "/dizi-izle/million-dollar-secret": {
     "group": "MILLION DOLLAR SECRET",
@@ -83,10 +65,28 @@
     "poster": "https://image.tmdb.org/t/p/w500/iC6xzFgRRq5yHngSnmusXkNL928.jpg",
     "imdb": 7.5
   },
-  "/dizi-izle/daredevil-born-again": {
-    "group": "DAREDEVIL: BORN AGAIN",
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
-    "imdb": 8.0
+  "/dizi-izle/sold-out-on-you": {
+    "group": "SOLD OUT ON YOU",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
+    "imdb": 9.0
+  },
+  "/dizi-izle/the-dark-wizard": {
+    "group": "THE DARK WIZARD",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/phkGAfV7NTYCIv4jIFYTbCMb9xC.jpg",
+    "imdb": 0.0
+  },
+  "/dizi-izle/imperfect-women": {
+    "group": "IMPERFECT WOMEN",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg",
+    "imdb": 5.923
+  },
+  "/dizi-izle/funny-af-with-kevin-hart": {
+    "group": "FUNNY AF WITH KEVIN HART",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/Aw52lH93fDOeaw15Kspd81zZi1y.jpg",
+    "imdb": 0.0
   }
 }

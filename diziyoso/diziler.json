@@ -111,7 +111,7 @@
     "group": "Stranger Things: Tales from ’85",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/2orq3F4a1prP3RnJjYSWzSjHYZQ.jpg",
-    "imdb": 0.0
+    "imdb": 4.2
   },
   "/dizi/margos-got-money-troubles/": {
     "group": "Margo’s Got Money Troubles",
@@ -29955,7 +29955,7 @@
     "group": "Santita",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/v3kDHO5LFIvzqmOYNDPzwXnfMyq.jpg",
-    "imdb": 0.0
+    "imdb": 5.5
   },
   "/dizi/this-is-a-gardening-show": {
     "group": "This Is a Gardening Show",
@@ -30009,12 +30009,18 @@
     "group": "Santita",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/v3kDHO5LFIvzqmOYNDPzwXnfMyq.jpg",
-    "imdb": 0.0
+    "imdb": 5.5
   },
   "/dizi/this-is-a-gardening-show/": {
     "group": "This Is a Gardening Show",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg",
     "imdb": 0.0
+  },
+  "/dizi/stranger-things-tales-from-85": {
+    "group": "Stranger Things: Tales from ’85",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/2orq3F4a1prP3RnJjYSWzSjHYZQ.jpg",
+    "imdb": 4.2
   }
 }

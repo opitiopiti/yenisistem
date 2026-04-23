@@ -1,4 +1,10 @@
 {
+  "/dizi/stranger-things-tales-from-85": {
+    "group": "Stranger Things: Tales from ’85",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/2orq3F4a1prP3RnJjYSWzSjHYZQ.jpg",
+    "imdb": 4.2
+  },
   "/dizi/hulk-hogan-real-american": {
     "group": "Hulk Hogan: Real American",
     "year": 2026,
@@ -9,7 +15,7 @@
     "group": "Santita",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/v3kDHO5LFIvzqmOYNDPzwXnfMyq.jpg",
-    "imdb": 0.0
+    "imdb": 5.5
   },
   "/dizi/this-is-a-gardening-show": {
     "group": "This Is a Gardening Show",
@@ -167,11 +173,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
     "imdb": 8.3
   },
-  "/dizi/sin-i-rang-beom-nyul-sa-mu-so": {
-    "group": "Sin-i-rang Beom-nyul-sa-mu-so",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg",
-    "imdb": 7.6
+  "/dizi/stranger-things-tales-from-85/": {
+    "group": "Stranger Things: Tales from ’85",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/2orq3F4a1prP3RnJjYSWzSjHYZQ.jpg",
+    "imdb": 4.2
   },
   "/dizi/betrayal-secrets-lies/": {
     "group": "Betrayal: Secrets & Lies",
@@ -195,7 +201,7 @@
     "group": "Santita",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/v3kDHO5LFIvzqmOYNDPzwXnfMyq.jpg",
-    "imdb": 0.0
+    "imdb": 5.5
   },
   "/dizi/this-is-a-gardening-show/": {
     "group": "This Is a Gardening Show",
@@ -334,11 +340,5 @@
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/cp1kTIj3rEZsinWbYMGBfjgVHv7.jpg",
     "imdb": 7.3
-  },
-  "/dizi/rabo-de-peixe/": {
-    "group": "Rabo de Peixe",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/zhJANohv7wceqGpJsPuNui8Wz3G.jpg",
-    "imdb": 7.4
   }
 }
