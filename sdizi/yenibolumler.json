@@ -1,4 +1,16 @@
 {
+  "/diziler/o11ce-new-generation.html": {
+    "group": "O11CE: NEW GENERATION",
+    "year": "2026",
+    "imdb": "8.9",
+    "poster": "https://image.tmdb.org/t/p/w500/noguKCrUu1SqLlA5Ktrbl7W8op.jpg"
+  },
+  "/diziler/running-point.html": {
+    "group": "RUNNING POINT",
+    "year": "2025",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/q8KnHFt3igvQXKYDLtfERSYAY7F.jpg"
+  },
   "/diziler/dr-stone.html": {
     "group": "DR. STONE",
     "year": "2019",
@@ -7,9 +19,9 @@
   },
   "/diziler/stranger-things-tales-from-85.html": {
     "group": "STRANGER THINGS: TALES FROM '85",
-    "year": null,
-    "imdb": null,
-    "poster": null
+    "year": "2026",
+    "imdb": "4.3",
+    "poster": "https://image.tmdb.org/t/p/w500/2orq3F4a1prP3RnJjYSWzSjHYZQ.jpg"
   },
   "/diziler/the-secret-saturdays.html": {
     "group": "THE SECRET SATURDAYS",
@@ -76,11 +88,5 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/eNbAxoeEARfHmm7fd6u2eSxNQ8k.jpg"
-  },
-  "/diziler/euphoria.html": {
-    "group": "EUPHORIA",
-    "year": "2019",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg"
   }
 }

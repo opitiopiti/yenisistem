@@ -30022,5 +30022,11 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/2orq3F4a1prP3RnJjYSWzSjHYZQ.jpg",
     "imdb": 4.2
+  },
+  "/dizi/running-point": {
+    "group": "Running Point",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/q8KnHFt3igvQXKYDLtfERSYAY7F.jpg",
+    "imdb": 7.1
   }
 }

@@ -1,16 +1,4 @@
 {
-  "/dizi-izle/sold-out-on-you": {
-    "group": "SOLD OUT ON YOU",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
-    "imdb": 9.0
-  },
-  "/dizi-izle/flunked": {
-    "group": "FLUNKED",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/lpETg8eOSPT1KTYaE386M1O6VV0.jpg",
-    "imdb": 0.0
-  },
   "/dizi-izle/this-is-a-gardening-show": {
     "group": "THIS IS A GARDENING SHOW",
     "year": "2026",
@@ -22,6 +10,30 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/2orq3F4a1prP3RnJjYSWzSjHYZQ.jpg",
     "imdb": 9.7
+  },
+  "/dizi-izle/flunked": {
+    "group": "FLUNKED",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/lpETg8eOSPT1KTYaE386M1O6VV0.jpg",
+    "imdb": 0.0
+  },
+  "/dizi-izle/sold-out-on-you": {
+    "group": "SOLD OUT ON YOU",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
+    "imdb": 9.0
+  },
+  "/dizi-izle/hulk-hogan-real-american": {
+    "group": "HULK HOGAN: REAL AMERICAN",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/jQHy8yR12AwXsU34EEmugwpJ2Ir.jpg",
+    "imdb": 0.0
+  },
+  "/dizi-izle/the-testaments": {
+    "group": "THE TESTAMENTS",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
+    "imdb": 6.2
   },
   "/dizi-izle/million-dollar-secret": {
     "group": "MILLION DOLLAR SECRET",
@@ -35,22 +47,10 @@
     "poster": "https://image.tmdb.org/t/p/w500/q8KnHFt3igvQXKYDLtfERSYAY7F.jpg",
     "imdb": 7.1
   },
-  "/dizi-izle/the-testaments": {
-    "group": "THE TESTAMENTS",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
-    "imdb": 6.2
-  },
   "/dizi-izle/santita": {
     "group": "SANTITA",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/v3kDHO5LFIvzqmOYNDPzwXnfMyq.jpg",
     "imdb": 5.5
-  },
-  "/dizi-izle/hulk-hogan-real-american": {
-    "group": "HULK HOGAN: REAL AMERICAN",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/jQHy8yR12AwXsU34EEmugwpJ2Ir.jpg",
-    "imdb": 0.0
   }
 }

@@ -1,4 +1,10 @@
 {
+  "/dizi/running-point": {
+    "group": "Running Point",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/q8KnHFt3igvQXKYDLtfERSYAY7F.jpg",
+    "imdb": 7.1
+  },
   "/dizi/stranger-things-tales-from-85": {
     "group": "Stranger Things: Tales from ’85",
     "year": 2026,
@@ -118,60 +124,6 @@
     "year": 2018,
     "poster": "https://image.tmdb.org/t/p/w500/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg",
     "imdb": 7.9
-  },
-  "/dizi/cia": {
-    "group": "CIA",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/8XbgWv137Umc8resTDeWh9ff7Y0.jpg",
-    "imdb": 6.4
-  },
-  "/dizi/star-wars-maul-shadow-lord": {
-    "group": "Star Wars: Maul – Shadow Lord",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
-    "imdb": 7.3
-  },
-  "/dizi/betrayal-secrets-lies": {
-    "group": "Betrayal: Secrets & Lies",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/d7KMM6MFMgVboi0aUOUcpbEpFQB.jpg",
-    "imdb": 6.5
-  },
-  "/dizi/watson": {
-    "group": "Watson",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/b1sELCj9LK5a3olbLhPZlP8Liba.jpg",
-    "imdb": 4.9
-  },
-  "/dizi/krapopolis": {
-    "group": "Krapopolis",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/9hv6mEAC6NChxNaUIshUN09Yk38.jpg",
-    "imdb": 7.2
-  },
-  "/dizi/grace": {
-    "group": "Grace",
-    "year": 2021,
-    "poster": "https://image.tmdb.org/t/p/w500/r9hE4eF8IGbcoyl419Nfllkv6Ag.jpg",
-    "imdb": 6.7
-  },
-  "/dizi/the-comeback": {
-    "group": "The Comeback",
-    "year": 2005,
-    "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg",
-    "imdb": 7.3
-  },
-  "/dizi/rooster": {
-    "group": "Rooster",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/euphoria": {
-    "group": "Euphoria",
-    "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
-    "imdb": 8.3
   },
   "/dizi/stranger-things-tales-from-85/": {
     "group": "Stranger Things: Tales from ’85",
