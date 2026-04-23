@@ -997,5 +997,32 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg"
+  },
+  "/dizi/recale": {
+    "group": "Recalé",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/lpETg8eOSPT1KTYaE386M1O6VV0.jpg"
+  },
+  "/dizi/running-point": {
+    "group": "Running Point",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/q8KnHFt3igvQXKYDLtfERSYAY7F.jpg"
+  },
+  "/dizi/stranger-things-tales-from-85": {
+    "group": "Stranger Things: Tales from ’85",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/2orq3F4a1prP3RnJjYSWzSjHYZQ.jpg"
   }
 }

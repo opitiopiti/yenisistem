@@ -1,4 +1,16 @@
 {
+  "/diziler/dr-stone.html": {
+    "group": "DR. STONE",
+    "year": "2019",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/ve1Sv3sVArmE0nlFjzadcNv1G8r.jpg"
+  },
+  "/diziler/stranger-things-tales-from-85.html": {
+    "group": "STRANGER THINGS: TALES FROM '85",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
   "/diziler/the-secret-saturdays.html": {
     "group": "THE SECRET SATURDAYS",
     "year": "2008",
@@ -70,17 +82,5 @@
     "year": "2019",
     "imdb": "8.4",
     "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg"
-  },
-  "/diziler/rooster.html": {
-    "group": "ROOSTER",
-    "year": "2026",
-    "imdb": "7.2",
-    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg"
-  },
-  "/diziler/we-are-all-trying-here.html": {
-    "group": "WE ARE ALL TRYING HERE",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/hMrBaA68y4mlmE5zjC3NM2cN1IV.jpg"
   }
 }
