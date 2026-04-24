@@ -1,4 +1,28 @@
 {
+  "/diziler/half-man.html": {
+    "group": "HALF MAN",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
+  "/diziler/your-friends-neighbors.html": {
+    "group": "YOUR FRIENDS & NEIGHBORS",
+    "year": "2025",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg"
+  },
+  "/diziler/monarch-legacy-of-monsters.html": {
+    "group": "MONARCH: LEGACY OF MONSTERS",
+    "year": "2023",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg"
+  },
+  "/diziler/for-all-mankind.html": {
+    "group": "FOR ALL MANKIND",
+    "year": "2019",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
+  },
   "/diziler/o11ce-new-generation.html": {
     "group": "O11CE: NEW GENERATION",
     "year": "2026",
@@ -64,29 +88,5 @@
     "year": "2025",
     "imdb": "8.5",
     "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg"
-  },
-  "/diziler/unchosen.html": {
-    "group": "UNCHOSEN",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/oVl01a7R8rfmWrolWtrlPXYQqzj.jpg"
-  },
-  "/diziler/high-potential.html": {
-    "group": "HIGH POTENTIAL",
-    "year": "2024",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg"
-  },
-  "/diziler/the-comeback.html": {
-    "group": "THE COMEBACK",
-    "year": "2005",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg"
-  },
-  "/diziler/star-wars-maul-shadow-lord.html": {
-    "group": "STAR WARS: MAUL - SHADOW LORD",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/eNbAxoeEARfHmm7fd6u2eSxNQ8k.jpg"
   }
 }

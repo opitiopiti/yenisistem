@@ -1024,5 +1024,32 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/2orq3F4a1prP3RnJjYSWzSjHYZQ.jpg"
+  },
+  "/dizi/blacktalon": {
+    "group": "Blacktalon",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/x8RLxIK5xUKfADzoTffKKfiOYdL.jpg"
+  },
+  "/dizi/half-man": {
+    "group": "Half Man",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/1XcDgszF8YJqXZw4zYDR4JYaVlM.jpg"
+  },
+  "/dizi/late-bloomer": {
+    "group": "Late Bloomer",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/cdyKElGB4whoIS6zcJqNWQNaVsj.jpg"
   }
 }

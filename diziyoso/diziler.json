@@ -30052,5 +30052,47 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/zsKWS6BwdKbS9nrE38V0500TKoX.jpg",
     "imdb": 6.8
+  },
+  "/dizi/cochinas": {
+    "group": "Cochinas",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/mwHiEXTdby9chLpuNrWGSUt8C8p.jpg",
+    "imdb": 5.2
+  },
+  "/dizi/my-brother-the-minotaur": {
+    "group": "My Brother the Minotaur",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/iKvNRK9ThYLgxkmalt2CrQyvEpQ.jpg",
+    "imdb": 10.0
+  },
+  "/dizi/half-man": {
+    "group": "Half Man",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/1XcDgszF8YJqXZw4zYDR4JYaVlM.jpg",
+    "imdb": 10.0
+  },
+  "/dizi/abbott-elementary": {
+    "group": "Abbott Elementary",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/nBe1e3JJEZ6veGrVXNF0fRoLu56.jpg",
+    "imdb": 8.2
+  },
+  "/dizi/cangaco-novo/": {
+    "group": "Cangaço Novo",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/rBiDQaJRWnQQABHKkxBdxPfmkyP.jpg",
+    "imdb": 8.2
+  },
+  "/dizi/cochinas/": {
+    "group": "Cochinas",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/mwHiEXTdby9chLpuNrWGSUt8C8p.jpg",
+    "imdb": 5.2
+  },
+  "/dizi/my-brother-the-minotaur/": {
+    "group": "My Brother the Minotaur",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/iKvNRK9ThYLgxkmalt2CrQyvEpQ.jpg",
+    "imdb": 10.0
   }
 }

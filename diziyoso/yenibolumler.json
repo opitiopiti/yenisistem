@@ -1,4 +1,34 @@
 {
+  "/dizi/cochinas": {
+    "group": "Cochinas",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/mwHiEXTdby9chLpuNrWGSUt8C8p.jpg",
+    "imdb": 5.2
+  },
+  "/dizi/my-brother-the-minotaur": {
+    "group": "My Brother the Minotaur",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/iKvNRK9ThYLgxkmalt2CrQyvEpQ.jpg",
+    "imdb": 10.0
+  },
+  "/dizi/mira": {
+    "group": "Mira",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/sPTDlNpTCJkbDxVPlQvnOItDzuf.jpg",
+    "imdb": 10.0
+  },
+  "/dizi/privileges": {
+    "group": "Privilèges",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/bFmWIfzkcuiDZ4WqkOfVaHb4pR8.jpg",
+    "imdb": 7.8
+  },
+  "/dizi/half-man": {
+    "group": "Half Man",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/1XcDgszF8YJqXZw4zYDR4JYaVlM.jpg",
+    "imdb": 10.0
+  },
   "/dizi/temiz-para": {
     "group": "Temiz Para",
     "year": null,
@@ -17,6 +47,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/q8KnHFt3igvQXKYDLtfERSYAY7F.jpg",
     "imdb": 7.1
   },
+  "/dizi/hacks": {
+    "group": "Hacks",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
+    "imdb": 7.4
+  },
   "/dizi/your-friends-neighbors": {
     "group": "Your Friends & Neighbors",
     "year": 2025,
@@ -28,12 +64,6 @@
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
     "imdb": 7.7
-  },
-  "/dizi/hacks": {
-    "group": "Hacks",
-    "year": 2021,
-    "poster": "https://image.tmdb.org/t/p/w500/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
-    "imdb": 7.4
   },
   "/dizi/for-all-mankind": {
     "group": "For All Mankind",
@@ -64,6 +94,30 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg",
     "imdb": 0.0
+  },
+  "/dizi/chicago-p-d": {
+    "group": "Chicago P.D.",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/bez40PgT36RUu4gstD2A6GSM0tP.jpg",
+    "imdb": 8.4
+  },
+  "/dizi/chicago-med": {
+    "group": "Chicago Med",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/9eym662FRJJb9wdgCiDKPDciZzf.jpg",
+    "imdb": 8.3
+  },
+  "/dizi/chicago-fire": {
+    "group": "Chicago Fire",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/r915sk2JpthZSjHEgZKifWxgo6L.jpg",
+    "imdb": 8.4
+  },
+  "/dizi/abbott-elementary": {
+    "group": "Abbott Elementary",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/nBe1e3JJEZ6veGrVXNF0fRoLu56.jpg",
+    "imdb": 8.2
   },
   "/dizi/bize-bisey-olmaz": {
     "group": "Bize Bi’Şey Olmaz",
@@ -107,65 +161,23 @@
     "poster": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg",
     "imdb": 8.0
   },
-  "/dizi/unchosen": {
-    "group": "Unchosen",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/oVl01a7R8rfmWrolWtrlPXYQqzj.jpg",
+  "/dizi/cangaco-novo/": {
+    "group": "Cangaço Novo",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/rBiDQaJRWnQQABHKkxBdxPfmkyP.jpg",
     "imdb": 8.2
   },
-  "/dizi/ncis-sydney": {
-    "group": "NCIS: Sydney",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/6dYDa6h1AOZ7iZ1zv3nlw7qhErX.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/ncis-origins": {
-    "group": "NCIS: Origins",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/waWeC84DExojP5AHFbWaybj3wxv.jpg",
-    "imdb": 7.6
-  },
-  "/dizi/the-dark-wizard": {
-    "group": "The Dark Wizard",
+  "/dizi/cochinas/": {
+    "group": "Cochinas",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/qGbsQ6fhZPBhx9kgN0utAIyGRry.jpg",
-    "imdb": 8.1
+    "poster": "https://image.tmdb.org/t/p/w500/mwHiEXTdby9chLpuNrWGSUt8C8p.jpg",
+    "imdb": 5.2
   },
-  "/dizi/imperfect-women": {
-    "group": "Imperfect Women",
+  "/dizi/my-brother-the-minotaur/": {
+    "group": "My Brother the Minotaur",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg",
-    "imdb": 5.5
-  },
-  "/dizi/will-trent": {
-    "group": "Will Trent",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/qG5O46gUxxYGImld03tl2zLhvrg.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/margos-got-money-troubles": {
-    "group": "Margo’s Got Money Troubles",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg",
-    "imdb": 9.0
-  },
-  "/dizi/r-j-decker": {
-    "group": "R.J. Decker",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/bkMdvmjj1zEnVqZTPskBREDzTuS.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/the-audacity": {
-    "group": "The Audacity",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
-    "imdb": 5.1
-  },
-  "/dizi/funny-af-with-kevin-hart": {
-    "group": "Funny AF with Kevin Hart",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/Aw52lH93fDOeaw15Kspd81zZi1y.jpg",
-    "imdb": 5.8
+    "poster": "https://image.tmdb.org/t/p/w500/iKvNRK9ThYLgxkmalt2CrQyvEpQ.jpg",
+    "imdb": 10.0
   },
   "/dizi/temiz-para/": {
     "group": "Temiz Para",
@@ -315,24 +327,6 @@
     "group": "M.I.A.",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/8voJ9AKuyrSyzxfoxwR4tpio82h.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/mariachis/": {
-    "group": "Mariachis",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/nmWNGnb2GFbQyW0KcBBGKfT7xMh.jpg",
-    "imdb": 8.3
-  },
-  "/dizi/maximum-pleasure-guaranteed/": {
-    "group": "Maximum Pleasure Guaranteed",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/half-man/": {
-    "group": "Half Man",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/mczVoq6ms8QMI9UfWSAVIocW1L7.jpg",
     "imdb": 0.0
   }
 }
