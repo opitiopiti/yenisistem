@@ -1051,5 +1051,23 @@
     "year": "2024",
     "imdb": "8.4",
     "poster": "https://image.tmdb.org/t/p/w500/cdyKElGB4whoIS6zcJqNWQNaVsj.jpg"
+  },
+  "/dizi/cochinas": {
+    "group": "Cochinas",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/mwHiEXTdby9chLpuNrWGSUt8C8p.jpg"
+  },
+  "/dizi/if-wishes-could-kill": {
+    "group": "If Wishes Could Kill",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg"
   }
 }

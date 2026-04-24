@@ -29187,7 +29187,7 @@
     "group": "THIS IS A GARDENING SHOW",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg",
-    "imdb": 0.0
+    "imdb": 8.0
   },
   "/dizi-izle/sold-out-on-you": {
     "group": "SOLD OUT ON YOU",
@@ -29218,5 +29218,17 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/2orq3F4a1prP3RnJjYSWzSjHYZQ.jpg",
     "imdb": 9.7
+  },
+  "/dizi-izle/if-wishes-could-kill": {
+    "group": "IF WISHES COULD KILL",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+    "imdb": 10.0
+  },
+  "/dizi-izle/half-man": {
+    "group": "HALF MAN",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/fV1XBxZSl0nxiMIhDuorIbfW8kG.jpg",
+    "imdb": 9.0
   }
 }

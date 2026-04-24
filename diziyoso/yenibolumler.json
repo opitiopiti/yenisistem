@@ -31,7 +31,7 @@
   },
   "/dizi/temiz-para": {
     "group": "Temiz Para",
-    "year": null,
+    "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/4SWP79aer5YBv3pCKCVCD8sRiZL.jpg",
     "imdb": 0.0
   },
@@ -181,7 +181,7 @@
   },
   "/dizi/temiz-para/": {
     "group": "Temiz Para",
-    "year": null,
+    "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/4SWP79aer5YBv3pCKCVCD8sRiZL.jpg",
     "imdb": 0.0
   },

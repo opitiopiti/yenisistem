@@ -8,6 +8,15 @@
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/x8RLxIK5xUKfADzoTffKKfiOYdL.jpg"
   },
+  "/dizi/cochinas": {
+    "group": "Cochinas",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/mwHiEXTdby9chLpuNrWGSUt8C8p.jpg"
+  },
   "/dizi/for-all-mankind": {
     "group": "For All Mankind",
     "last_season": 5,
@@ -44,6 +53,15 @@
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/1XcDgszF8YJqXZw4zYDR4JYaVlM.jpg"
   },
+  "/dizi/if-wishes-could-kill": {
+    "group": "If Wishes Could Kill",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg"
+  },
   "/dizi/late-bloomer": {
     "group": "Late Bloomer",
     "last_season": 3,
@@ -53,6 +71,15 @@
     "imdb": "8.4",
     "poster": "https://image.tmdb.org/t/p/w500/cdyKElGB4whoIS6zcJqNWQNaVsj.jpg"
   },
+  "/dizi/matlock": {
+    "group": "Matlock",
+    "last_season": 2,
+    "last_episode": 14,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "6.9",
+    "poster": "https://image.tmdb.org/t/p/w500/6kEAVyhalzv4HCAfnLfXUcF3nQZ.jpg"
+  },
   "/dizi/monarch-legacy-of-monsters": {
     "group": "Monarch: Legacy of Monsters",
     "last_season": 2,
@@ -61,6 +88,15 @@
     "year": "2023",
     "imdb": "7.8",
     "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg"
+  },
+  "/dizi/outlander": {
+    "group": "Outlander",
+    "last_season": 8,
+    "last_episode": 7,
+    "start_episode": 1,
+    "year": "2014",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/bxBmfyzK0ARF9hqf2pbFWsddH14.jpg"
   },
   "/dizi/the-ramparts-of-ice": {
     "group": "The Ramparts of Ice",
