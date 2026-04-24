@@ -2758,7 +2758,8 @@
     {"name": "THE TRAITORS TÜRKIYE", "year": "2026"},
     {"name": "NIPPON SANGOKU", "year": "2026"},
     {"name": "NIPPON SANGOKU: THE THREE NATIONS OF THE CRIMSON SUN", "year": "2026"},
-    {"name": "KEVIN", "year": "2026"}
+    {"name": "KEVIN", "year": "2026"},
+    {"name": "CANGAÇO NOVO", "year": "2023"}
   ],
   "APPLE TV+ DİZİLERİ": [
     {"name": "THE LAST THING HE TOLD ME", "year": "2023"},
@@ -2945,7 +2946,8 @@
     {"name": "BEFORE 2024", "year": "2024"},
     {"name": "A MUERTE", "year": "2025"},
     {"name": "MAXIMUM PLEASURE GUARANTEED", "year": "2026"},
-    {"name": "MARGO'S GOT MONEY TROUBLES", "year": "2026"}
+    {"name": "MARGO'S GOT MONEY TROUBLES", "year": "2026"},
+    {"name": "MY BROTHER THE MINOTAUR", "year": "2026"}
   ],
   "TV TOKYO DİZİLERİ": [
     {"name": "THE DARWIN INCIDENT", "year": "2026"},
@@ -8058,6 +8060,7 @@
   ],
   "WARHAMMER+ DİZİLERİ": [
     {"name": "PARIAH NEXUS", "year": "2023"},
-    {"name": "THE TITHES", "year": "2024"}
+    {"name": "THE TITHES", "year": "2024"},
+    {"name": "BLACKTALON", "year": "2023"}
   ]
 }
