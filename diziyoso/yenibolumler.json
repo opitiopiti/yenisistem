@@ -1,15 +1,51 @@
 {
-  "/dizi/running-point": {
-    "group": "Running Point",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/q8KnHFt3igvQXKYDLtfERSYAY7F.jpg",
-    "imdb": 7.1
+  "/dizi/temiz-para": {
+    "group": "Temiz Para",
+    "year": null,
+    "poster": "https://image.tmdb.org/t/p/w500/4SWP79aer5YBv3pCKCVCD8sRiZL.jpg",
+    "imdb": 0.0
   },
   "/dizi/stranger-things-tales-from-85": {
     "group": "Stranger Things: Tales from ’85",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/2orq3F4a1prP3RnJjYSWzSjHYZQ.jpg",
     "imdb": 4.2
+  },
+  "/dizi/running-point": {
+    "group": "Running Point",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/q8KnHFt3igvQXKYDLtfERSYAY7F.jpg",
+    "imdb": 7.1
+  },
+  "/dizi/your-friends-neighbors": {
+    "group": "Your Friends & Neighbors",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/lxmNQ1392ClqU56W0kx2h2ONF4V.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/monarch-legacy-of-monsters": {
+    "group": "Monarch: Legacy of Monsters",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/hacks": {
+    "group": "Hacks",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/for-all-mankind": {
+    "group": "For All Mankind",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/recale": {
+    "group": "Recalé",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/zsKWS6BwdKbS9nrE38V0500TKoX.jpg",
+    "imdb": 6.8
   },
   "/dizi/hulk-hogan-real-american": {
     "group": "Hulk Hogan: Real American",
@@ -59,6 +95,18 @@
     "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
     "imdb": 6.9
   },
+  "/dizi/million-dollar-secret": {
+    "group": "Million Dollar Secret",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/r63OnehBj6lZhdzvfnoRU9GkNli.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/dorohedoro": {
+    "group": "Dorohedoro",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg",
+    "imdb": 8.0
+  },
   "/dizi/unchosen": {
     "group": "Unchosen",
     "year": 2026,
@@ -101,6 +149,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg",
     "imdb": 9.0
   },
+  "/dizi/r-j-decker": {
+    "group": "R.J. Decker",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/bkMdvmjj1zEnVqZTPskBREDzTuS.jpg",
+    "imdb": 7.4
+  },
   "/dizi/the-audacity": {
     "group": "The Audacity",
     "year": 2026,
@@ -113,17 +167,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/Aw52lH93fDOeaw15Kspd81zZi1y.jpg",
     "imdb": 5.8
   },
-  "/dizi/mint": {
-    "group": "Mint",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/Ae8jSNjUgdD4re3tNvFTcamQk3k.jpg",
-    "imdb": 5.1
+  "/dizi/temiz-para/": {
+    "group": "Temiz Para",
+    "year": null,
+    "poster": "https://image.tmdb.org/t/p/w500/4SWP79aer5YBv3pCKCVCD8sRiZL.jpg",
+    "imdb": 0.0
   },
-  "/dizi/fbi": {
-    "group": "FBI",
-    "year": 2018,
-    "poster": "https://image.tmdb.org/t/p/w500/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg",
-    "imdb": 7.9
+  "/dizi/recale/": {
+    "group": "Recalé",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/zsKWS6BwdKbS9nrE38V0500TKoX.jpg",
+    "imdb": 6.8
   },
   "/dizi/stranger-things-tales-from-85/": {
     "group": "Stranger Things: Tales from ’85",
@@ -280,17 +334,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/mczVoq6ms8QMI9UfWSAVIocW1L7.jpg",
     "imdb": 0.0
-  },
-  "/dizi/w-du-gaeui-segye/": {
-    "group": "W – Du gaeui segye",
-    "year": 2016,
-    "poster": "https://image.tmdb.org/t/p/w500/5sKZZ8APyfoqiAit1DCNnh9vaf0.jpg",
-    "imdb": 8.0
-  },
-  "/dizi/madoff-the-monster-of-wall-street/": {
-    "group": "Madoff: The Monster of Wall Street",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/cp1kTIj3rEZsinWbYMGBfjgVHv7.jpg",
-    "imdb": 7.3
   }
 }

@@ -30028,5 +30028,29 @@
     "year": 2025,
     "poster": "https://image.tmdb.org/t/p/w500/q8KnHFt3igvQXKYDLtfERSYAY7F.jpg",
     "imdb": 7.1
+  },
+  "/dizi/temiz-para": {
+    "group": "Temiz Para",
+    "year": null,
+    "poster": "https://image.tmdb.org/t/p/w500/4SWP79aer5YBv3pCKCVCD8sRiZL.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/recale": {
+    "group": "Recalé",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/zsKWS6BwdKbS9nrE38V0500TKoX.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/temiz-para/": {
+    "group": "Temiz Para",
+    "year": null,
+    "poster": "https://image.tmdb.org/t/p/w500/4SWP79aer5YBv3pCKCVCD8sRiZL.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/recale/": {
+    "group": "Recalé",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/zsKWS6BwdKbS9nrE38V0500TKoX.jpg",
+    "imdb": 6.8
   }
 }
