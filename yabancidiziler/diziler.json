@@ -83,7 +83,7 @@
   "/dizi/matlock": {
     "group": "Matlock",
     "last_season": 2,
-    "last_episode": 14,
+    "last_episode": 16,
     "start_episode": 1,
     "year": "2024",
     "imdb": "6.9",
@@ -101,7 +101,7 @@
   "/dizi/outlander": {
     "group": "Outlander",
     "last_season": 8,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2014",
     "imdb": "8.4",
@@ -1055,7 +1055,7 @@
   "/dizi/cochinas": {
     "group": "Cochinas",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -1064,7 +1064,7 @@
   "/dizi/if-wishes-could-kill": {
     "group": "If Wishes Could Kill",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
