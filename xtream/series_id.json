@@ -1040,8 +1040,8 @@
   "3173": {
     "name": "MIRA  (2026) TR",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1776462118
+    "last_episode": 7,
+    "last_modified": 1777035301
   },
   "3174": {
     "name": "MISEUTEORI SUSADAN  (2024)",
@@ -1178,8 +1178,8 @@
   "3196": {
     "name": "PRIVILÈGES  (2026)",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1776426745
+    "last_episode": 5,
+    "last_modified": 1777035301
   },
   "3197": {
     "name": "R.J. DECKER  (2026)",
@@ -31735,9 +31735,9 @@
   },
   "8289": {
     "name": "LATE BLOOMER  (2024)",
-    "last_season": 2,
+    "last_season": 3,
     "last_episode": 8,
-    "last_modified": 1775801787
+    "last_modified": 1777035301
   },
   "8290": {
     "name": "LAUCHHAMMER – TOD IN DER LAUSITZ  (2022)",
@@ -45560,8 +45560,8 @@
   "10593": {
     "name": "GEORGIE AND MANDY’S FIRST MARRIAGE  (2024)",
     "last_season": 2,
-    "last_episode": 16,
-    "last_modified": 1776426745
+    "last_episode": 17,
+    "last_modified": 1777035301
   },
   "10594": {
     "name": "JURY DUTY  (2026)",
@@ -45860,8 +45860,8 @@
   "10643": {
     "name": "THE RAMPARTS OF ICE  (2026)",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1776411387
+    "last_episode": 4,
+    "last_modified": 1777035301
   },
   "10644": {
     "name": "IDA TAR ANSVAR  (2026)",
@@ -46042,5 +46042,35 @@
     "last_season": 1,
     "last_episode": 10,
     "last_modified": 1777018767
+  },
+  "10674": {
+    "name": "CANGAÇO NOVO  (2023)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1777035301
+  },
+  "10675": {
+    "name": "COCHINAS  (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1777035301
+  },
+  "10676": {
+    "name": "MY BROTHER THE MINOTAUR  (2026)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1777035301
+  },
+  "10677": {
+    "name": "HALF MAN(BILINMIYOR)",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1777035301
+  },
+  "10678": {
+    "name": "BLACKTALON  (2023)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1777035301
   }
 }
