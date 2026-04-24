@@ -1,4 +1,13 @@
 {
+  "/dizi/animal-control": {
+    "group": "Animal Control",
+    "last_season": 4,
+    "last_episode": 11,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "6.6",
+    "poster": "https://image.tmdb.org/t/p/w500/h2dXm0CXMkycA9LrZbXMUD8SuTL.jpg"
+  },
   "/dizi/blacktalon": {
     "group": "Blacktalon",
     "last_season": 1,
@@ -34,6 +43,15 @@
     "year": "2024",
     "imdb": "7.1",
     "poster": "https://image.tmdb.org/t/p/w500/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg"
+  },
+  "/dizi/going-dutch": {
+    "group": "Going Dutch",
+    "last_season": 2,
+    "last_episode": 11,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "5.2",
+    "poster": "https://image.tmdb.org/t/p/w500/jq0sB0UMVjRnAfYDQ9Wd1i4vt1L.jpg"
   },
   "/dizi/hacks": {
     "group": "Hacks",
@@ -79,6 +97,15 @@
     "year": "2024",
     "imdb": "6.9",
     "poster": "https://image.tmdb.org/t/p/w500/6kEAVyhalzv4HCAfnLfXUcF3nQZ.jpg"
+  },
+  "/dizi/mira": {
+    "group": "Mira",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/sPTDlNpTCJkbDxVPlQvnOItDzuf.jpg"
   },
   "/dizi/monarch-legacy-of-monsters": {
     "group": "Monarch: Legacy of Monsters",

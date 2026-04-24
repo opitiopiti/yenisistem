@@ -35,6 +35,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/4SWP79aer5YBv3pCKCVCD8sRiZL.jpg",
     "imdb": 0.0
   },
+  "/dizi/sold-out-on-you": {
+    "group": "Sold Out on You",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
+    "imdb": 7.7
+  },
   "/dizi/stranger-things-tales-from-85": {
     "group": "Stranger Things: Tales from ’85",
     "year": 2026,
@@ -81,7 +87,7 @@
     "group": "Hulk Hogan: Real American",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/pdEEOQystKjHtC71RV6yRobY8bk.jpg",
-    "imdb": 0.0
+    "imdb": 6.5
   },
   "/dizi/santita": {
     "group": "Santita",
@@ -93,7 +99,7 @@
     "group": "This Is a Gardening Show",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg",
-    "imdb": 0.0
+    "imdb": 8.0
   },
   "/dizi/chicago-p-d": {
     "group": "Chicago P.D.",
@@ -155,11 +161,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/r63OnehBj6lZhdzvfnoRU9GkNli.jpg",
     "imdb": 7.6
   },
-  "/dizi/dorohedoro": {
-    "group": "Dorohedoro",
-    "year": 2020,
-    "poster": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg",
-    "imdb": 8.0
+  "/dizi/sold-out-on-you/": {
+    "group": "Sold Out on You",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
+    "imdb": 7.7
   },
   "/dizi/cangaco-novo/": {
     "group": "Cangaço Novo",
@@ -213,7 +219,7 @@
     "group": "Hulk Hogan: Real American",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/pdEEOQystKjHtC71RV6yRobY8bk.jpg",
-    "imdb": 0.0
+    "imdb": 6.5
   },
   "/dizi/santita/": {
     "group": "Santita",
@@ -225,7 +231,7 @@
     "group": "This Is a Gardening Show",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg",
-    "imdb": 0.0
+    "imdb": 8.0
   },
   "/dizi/mint/": {
     "group": "Mint",
@@ -322,11 +328,5 @@
     "year": "1979",
     "poster": "https://image.tmdb.org/t/p/w500/dQsM0p8znOZ4hEueVhpQxTI1QuT.jpg",
     "imdb": 7.5
-  },
-  "/dizi/m-i-a/": {
-    "group": "M.I.A.",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/8voJ9AKuyrSyzxfoxwR4tpio82h.jpg",
-    "imdb": 0.0
   }
 }

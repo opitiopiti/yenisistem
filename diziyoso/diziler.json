@@ -29949,7 +29949,7 @@
     "group": "Hulk Hogan: Real American",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/pdEEOQystKjHtC71RV6yRobY8bk.jpg",
-    "imdb": 0.0
+    "imdb": 6.5
   },
   "/dizi/santita": {
     "group": "Santita",
@@ -29961,7 +29961,7 @@
     "group": "This Is a Gardening Show",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg",
-    "imdb": 0.0
+    "imdb": 8.0
   },
   "/dizi/unchosen": {
     "group": "Unchosen",
@@ -30003,7 +30003,7 @@
     "group": "Hulk Hogan: Real American",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/pdEEOQystKjHtC71RV6yRobY8bk.jpg",
-    "imdb": 0.0
+    "imdb": 6.5
   },
   "/dizi/santita/": {
     "group": "Santita",
@@ -30015,7 +30015,7 @@
     "group": "This Is a Gardening Show",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg",
-    "imdb": 0.0
+    "imdb": 8.0
   },
   "/dizi/stranger-things-tales-from-85": {
     "group": "Stranger Things: Tales from ’85",
@@ -30094,5 +30094,17 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/iKvNRK9ThYLgxkmalt2CrQyvEpQ.jpg",
     "imdb": 10.0
+  },
+  "/dizi/sold-out-on-you": {
+    "group": "Sold Out on You",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/sold-out-on-you/": {
+    "group": "Sold Out on You",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
+    "imdb": 7.7
   }
 }
