@@ -1,21 +1,27 @@
 {
-  "/diziler/the-plot-against-america.html": {
-    "group": "THE PLOT AGAINST AMERICA",
-    "year": null,
-    "imdb": null,
-    "poster": null
-  },
-  "/diziler/if-wishes-could-kill.html": {
-    "group": "IF WISHES COULD KILL",
+  "/diziler/we-are-all-trying-here.html": {
+    "group": "WE ARE ALL TRYING HERE",
     "year": "2026",
-    "imdb": "7.3",
-    "poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg"
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/hMrBaA68y4mlmE5zjC3NM2cN1IV.jpg"
   },
   "/diziler/phantom-lawyer.html": {
     "group": "PHANTOM LAWYER",
     "year": "2026",
     "imdb": "7.6",
     "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg"
+  },
+  "/diziler/the-plot-against-america.html": {
+    "group": "THE PLOT AGAINST AMERICA",
+    "year": "2020",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/rC5GUHvKxlk3WPyCh4mQ5q6HDxG.jpg"
+  },
+  "/diziler/if-wishes-could-kill.html": {
+    "group": "IF WISHES COULD KILL",
+    "year": "2026",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg"
   },
   "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
     "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
@@ -76,17 +82,5 @@
     "year": "2026",
     "imdb": "4.3",
     "poster": "https://image.tmdb.org/t/p/w500/2orq3F4a1prP3RnJjYSWzSjHYZQ.jpg"
-  },
-  "/diziler/the-secret-saturdays.html": {
-    "group": "THE SECRET SATURDAYS",
-    "year": "2008",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/A6ulaU7kehrXmMOhuaBW98qx2aL.jpg"
-  },
-  "/diziler/dorohedoro.html": {
-    "group": "DOROHEDORO",
-    "year": "2020",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg"
   }
 }

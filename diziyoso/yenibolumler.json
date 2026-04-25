@@ -5,6 +5,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/jq0sB0UMVjRnAfYDQ9Wd1i4vt1L.jpg",
     "imdb": 5.6
   },
+  "/dizi/sin-i-rang-beom-nyul-sa-mu-so": {
+    "group": "Sin-i-rang Beom-nyul-sa-mu-so",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg",
+    "imdb": 7.6
+  },
   "/dizi/cochinas": {
     "group": "Cochinas",
     "year": 2026,
@@ -154,12 +160,6 @@
     "year": 2015,
     "poster": "https://image.tmdb.org/t/p/w500/9eym662FRJJb9wdgCiDKPDciZzf.jpg",
     "imdb": 8.3
-  },
-  "/dizi/chicago-fire": {
-    "group": "Chicago Fire",
-    "year": 2012,
-    "poster": "https://image.tmdb.org/t/p/w500/r915sk2JpthZSjHEgZKifWxgo6L.jpg",
-    "imdb": 8.4
   },
   "/dizi/girigo/": {
     "group": "Girigo",

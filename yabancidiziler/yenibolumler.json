@@ -26,6 +26,24 @@
     "imdb": "7.1",
     "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg"
   },
+  "/dizi/happy-s-place": {
+    "group": "Happy’s Place",
+    "last_season": 2,
+    "last_episode": 16,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "5.3",
+    "poster": "https://image.tmdb.org/t/p/w500/3dehoKPCwLwKTWATfzGqoJ2Psdl.jpg"
+  },
+  "/dizi/sold-out-on-you": {
+    "group": "Sold out on You",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg"
+  },
   "/dizi/animal-control": {
     "group": "Animal Control",
     "last_season": 4,
