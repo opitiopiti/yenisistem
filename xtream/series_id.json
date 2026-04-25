@@ -11594,8 +11594,8 @@
   "4932": {
     "name": "THE HUNTING PARTY  (2025)",
     "last_season": 2,
-    "last_episode": 10,
-    "last_modified": 1775801787
+    "last_episode": 11,
+    "last_modified": 1777120657
   },
   "4933": {
     "name": "THE HUNTING WIVES  (2025)",
@@ -44966,8 +44966,8 @@
   "10494": {
     "name": "ASCENDANCE OF A BOOKWORM SEASON 4  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1776512110
+    "last_episode": 4,
+    "last_modified": 1777120657
   },
   "10495": {
     "name": "A HUNDRED SCENES OF AWAJIMA  (2026) İNGİLİZCE",
@@ -45512,8 +45512,8 @@
   "10585": {
     "name": "WELCOME TO DEMON SCHOOL, IRUMA-KUN 4  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1776512110
+    "last_episode": 4,
+    "last_modified": 1777120657
   },
   "10586": {
     "name": "WITCH HAT ATELIER  (2026) İNGİLİZCE",
@@ -45638,8 +45638,8 @@
   "10606": {
     "name": "POKEMON HORIZONS: THE SERIES  (2023) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 134,
-    "last_modified": 1776512110
+    "last_episode": 135,
+    "last_modified": 1777120657
   },
   "10607": {
     "name": "GOMORRAH: THE ORIGINS  (2026)",
@@ -46084,5 +46084,11 @@
     "last_season": 1,
     "last_episode": 10,
     "last_modified": 1777052454
+  },
+  "10681": {
+    "name": "GIRIGO  (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1777120657
   }
 }
