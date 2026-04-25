@@ -290,7 +290,7 @@
   "/dizi/happy-s-place": {
     "group": "Happy’s Place",
     "last_season": 2,
-    "last_episode": 16,
+    "last_episode": 17,
     "start_episode": 1,
     "year": "2024",
     "imdb": "5.3",
@@ -1073,7 +1073,7 @@
   "/dizi/sold-out-on-you": {
     "group": "Sold out on You",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.6",
