@@ -1,26 +1,14 @@
 {
-  "/dizi-izle/if-wishes-could-kill": {
-    "group": "IF WISHES COULD KILL",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
-    "imdb": 10.0
+  "/dizi-izle/running-point": {
+    "group": "RUNNING POINT",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/q8KnHFt3igvQXKYDLtfERSYAY7F.jpg",
+    "imdb": 7.1
   },
-  "/dizi-izle/stranger-things-tales-from-85": {
-    "group": "STRANGER THINGS: TALES FROM '85",
+  "/dizi-izle/sold-out-on-you": {
+    "group": "SOLD OUT ON YOU",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/2orq3F4a1prP3RnJjYSWzSjHYZQ.jpg",
-    "imdb": 9.7
-  },
-  "/dizi-izle/privileges": {
-    "group": "PRIVILEGES",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/bFmWIfzkcuiDZ4WqkOfVaHb4pR8.jpg",
-    "imdb": 7.25
-  },
-  "/dizi-izle/half-man": {
-    "group": "HALF MAN",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/fV1XBxZSl0nxiMIhDuorIbfW8kG.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
     "imdb": 9.0
   },
   "/dizi-izle/monarch-legacy-of-monsters": {
@@ -29,17 +17,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
     "imdb": 7.693
   },
-  "/dizi-izle/running-point": {
-    "group": "RUNNING POINT",
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/q8KnHFt3igvQXKYDLtfERSYAY7F.jpg",
-    "imdb": 7.1
+  "/dizi-izle/flunked": {
+    "group": "FLUNKED",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/lpETg8eOSPT1KTYaE386M1O6VV0.jpg",
+    "imdb": 3.0
   },
-  "/dizi-izle/for-all-mankind": {
-    "group": "FOR ALL MANKIND",
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
-    "imdb": 7.7
+  "/dizi-izle/privileges": {
+    "group": "PRIVILEGES",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/bFmWIfzkcuiDZ4WqkOfVaHb4pR8.jpg",
+    "imdb": 7.25
   },
   "/dizi-izle/your-friends-neighbors": {
     "group": "YOUR FRIENDS & NEIGHBORS",
@@ -47,22 +35,34 @@
     "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg",
     "imdb": 7.4
   },
-  "/dizi-izle/sold-out-on-you": {
-    "group": "SOLD OUT ON YOU",
+  "/dizi-izle/if-wishes-could-kill": {
+    "group": "IF WISHES COULD KILL",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
-    "imdb": 9.0
+    "poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+    "imdb": 10.0
   },
-  "/dizi-izle/flunked": {
-    "group": "FLUNKED",
+  "/dizi-izle/half-man": {
+    "group": "HALF MAN",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/lpETg8eOSPT1KTYaE386M1O6VV0.jpg",
-    "imdb": 3.0
+    "poster": "https://image.tmdb.org/t/p/w500/fV1XBxZSl0nxiMIhDuorIbfW8kG.jpg",
+    "imdb": 9.0
   },
   "/dizi-izle/hacks": {
     "group": "HACKS",
     "year": "2021",
     "poster": "https://image.tmdb.org/t/p/w500/ulBzMy5DZjBeUo6wHqn8ao0Zn6j.jpg",
     "imdb": 7.4
+  },
+  "/dizi-izle/for-all-mankind": {
+    "group": "FOR ALL MANKIND",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
+    "imdb": 7.7
+  },
+  "/dizi-izle/stranger-things-tales-from-85": {
+    "group": "STRANGER THINGS: TALES FROM '85",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/2orq3F4a1prP3RnJjYSWzSjHYZQ.jpg",
+    "imdb": 9.7
   }
 }
