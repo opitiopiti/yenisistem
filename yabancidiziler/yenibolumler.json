@@ -1,4 +1,31 @@
 {
+  "/dizi/beyond-paradise": {
+    "group": "Beyond Paradise",
+    "last_season": 4,
+    "last_episode": 4,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/7zwbypEzcjOyNuTLSD43fTB9kR8.jpg"
+  },
+  "/dizi/boston-blue": {
+    "group": "Boston Blue",
+    "last_season": 1,
+    "last_episode": 15,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "6.9",
+    "poster": "https://image.tmdb.org/t/p/w500/8pyxutHxpgBt8ZwbIG2TZWCW394.jpg"
+  },
+  "/dizi/fire-country": {
+    "group": "Fire Country",
+    "last_season": 4,
+    "last_episode": 15,
+    "start_episode": 1,
+    "year": "2022",
+    "imdb": "7.1",
+    "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg"
+  },
   "/dizi/animal-control": {
     "group": "Animal Control",
     "last_season": 4,
