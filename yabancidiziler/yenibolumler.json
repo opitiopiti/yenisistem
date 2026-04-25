@@ -2,7 +2,7 @@
   "/dizi/beyond-paradise": {
     "group": "Beyond Paradise",
     "last_season": 4,
-    "last_episode": 4,
+    "last_episode": 5,
     "start_episode": 1,
     "year": "2023",
     "imdb": "7.3",
@@ -11,7 +11,7 @@
   "/dizi/boston-blue": {
     "group": "Boston Blue",
     "last_season": 1,
-    "last_episode": 15,
+    "last_episode": 16,
     "start_episode": 1,
     "year": "2025",
     "imdb": "6.9",
@@ -20,7 +20,7 @@
   "/dizi/fire-country": {
     "group": "Fire Country",
     "last_season": 4,
-    "last_episode": 15,
+    "last_episode": 16,
     "start_episode": 1,
     "year": "2022",
     "imdb": "7.1",
