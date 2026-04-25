@@ -3638,8 +3638,8 @@
   "3606": {
     "name": "BOSTON BLUE  (2025)",
     "last_season": 1,
-    "last_episode": 15,
-    "last_modified": 1776528797
+    "last_episode": 16,
+    "last_modified": 1777137187
   },
   "3607": {
     "name": "BREF  (2011)",
@@ -44942,8 +44942,8 @@
   "10490": {
     "name": "AKANE-BANASHI  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1776547708
+    "last_episode": 4,
+    "last_modified": 1777137187
   },
   "10491": {
     "name": "ALWAYS A CATCH!  (2026) İNGİLİZCE",
@@ -45032,8 +45032,8 @@
   "10505": {
     "name": "DETECTIVE CONAN  (1996) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1198,
-    "last_modified": 1776528797
+    "last_episode": 1199,
+    "last_modified": 1777137187
   },
   "10506": {
     "name": "DIGIMON BEATBREAK  (2025) İNGİLİZCE",
@@ -45446,8 +45446,8 @@
   "10574": {
     "name": "THE GREAT SAGE RYDDEL AND THE HANDS OF TIME  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1776528797
+    "last_episode": 4,
+    "last_modified": 1777137187
   },
   "10575": {
     "name": "THE KLUTZY CLASS MONITOR AND THE GIRL WITH THE SHORT SKIRT  (2026) İNGİLİZCE",
@@ -45476,8 +45476,8 @@
   "10579": {
     "name": "THE STRONGEST JOB IS APPARENTLY NOT A HERO OR A SAGE, BUT AN APPRAISER (PROVISIONAL)!  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1776528797
+    "last_episode": 5,
+    "last_modified": 1777137187
   },
   "10580": {
     "name": "THE VILLAINESS IS ADORED BY THE PRINCE OF THE NEIGHBOR KINGDOM  (2026) İNGİLİZCE",
@@ -45656,14 +45656,14 @@
   "10609": {
     "name": "KILL BLUE  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1776528797
+    "last_episode": 3,
+    "last_modified": 1777137187
   },
   "10610": {
     "name": "YOWAYOWA TEACHER  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1776528797
+    "last_episode": 3,
+    "last_modified": 1777137187
   },
   "10611": {
     "name": "ICHIJOUMA MANKITSUGURASHI!  (2026) İNGİLİZCE",
@@ -46090,5 +46090,11 @@
     "last_season": 1,
     "last_episode": 8,
     "last_modified": 1777120657
+  },
+  "10682": {
+    "name": "THE PLOT AGAINST AMERICA(BILINMIYOR)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1777137187
   }
 }
