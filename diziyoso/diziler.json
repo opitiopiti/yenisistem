@@ -30106,5 +30106,29 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
     "imdb": 7.7
+  },
+  "/dizi/girigo": {
+    "group": "Girigo",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/late-bloomer": {
+    "group": "Late Bloomer",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/cdyKElGB4whoIS6zcJqNWQNaVsj.jpg",
+    "imdb": 8.8
+  },
+  "/dizi/animal-control": {
+    "group": "Animal Control",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/h2dXm0CXMkycA9LrZbXMUD8SuTL.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/girigo/": {
+    "group": "Girigo",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+    "imdb": 7.3
   }
 }

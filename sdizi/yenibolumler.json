@@ -1,4 +1,10 @@
 {
+  "/diziler/if-wishes-could-kill.html": {
+    "group": "IF WISHES COULD KILL",
+    "year": "2026",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg"
+  },
   "/diziler/phantom-lawyer.html": {
     "group": "PHANTOM LAWYER",
     "year": "2026",
@@ -82,11 +88,5 @@
     "year": "2016",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/aRwmcX36r1ZpR5Xq5mmFcpUDQ8J.jpg"
-  },
-  "/diziler/classroom-of-the-elite.html": {
-    "group": "CLASSROOM OF THE ELITE",
-    "year": "2017",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg"
   }
 }

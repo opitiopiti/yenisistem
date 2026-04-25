@@ -1,33 +1,15 @@
 {
-  "/dizi-izle/monarch-legacy-of-monsters": {
-    "group": "MONARCH: LEGACY OF MONSTERS",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
-    "imdb": 7.693
-  },
   "/dizi-izle/phantom-lawyer": {
     "group": "PHANTOM LAWYER",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg",
     "imdb": 7.5
   },
-  "/dizi-izle/flunked": {
-    "group": "FLUNKED",
+  "/dizi-izle/stranger-things-tales-from-85": {
+    "group": "STRANGER THINGS: TALES FROM '85",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/lpETg8eOSPT1KTYaE386M1O6VV0.jpg",
-    "imdb": 3.0
-  },
-  "/dizi-izle/hacks": {
-    "group": "HACKS",
-    "year": "2021",
-    "poster": "https://image.tmdb.org/t/p/w500/ulBzMy5DZjBeUo6wHqn8ao0Zn6j.jpg",
-    "imdb": 7.4
-  },
-  "/dizi-izle/if-wishes-could-kill": {
-    "group": "IF WISHES COULD KILL",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
-    "imdb": 10.0
+    "poster": "https://image.tmdb.org/t/p/w500/2orq3F4a1prP3RnJjYSWzSjHYZQ.jpg",
+    "imdb": 9.7
   },
   "/dizi-izle/half-man": {
     "group": "HALF MAN",
@@ -41,17 +23,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/q8KnHFt3igvQXKYDLtfERSYAY7F.jpg",
     "imdb": 7.1
   },
-  "/dizi-izle/absolute-value-of-romance": {
-    "group": "ABSOLUTE VALUE OF ROMANCE",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
-    "imdb": 8.5
-  },
-  "/dizi-izle/stranger-things-tales-from-85": {
-    "group": "STRANGER THINGS: TALES FROM '85",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/2orq3F4a1prP3RnJjYSWzSjHYZQ.jpg",
-    "imdb": 9.7
+  "/dizi-izle/monarch-legacy-of-monsters": {
+    "group": "MONARCH: LEGACY OF MONSTERS",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
+    "imdb": 7.693
   },
   "/dizi-izle/your-friends-neighbors": {
     "group": "YOUR FRIENDS & NEIGHBORS",
@@ -65,10 +41,34 @@
     "poster": "https://image.tmdb.org/t/p/w500/bFmWIfzkcuiDZ4WqkOfVaHb4pR8.jpg",
     "imdb": 7.25
   },
+  "/dizi-izle/absolute-value-of-romance": {
+    "group": "ABSOLUTE VALUE OF ROMANCE",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
+    "imdb": 8.5
+  },
+  "/dizi-izle/if-wishes-could-kill": {
+    "group": "IF WISHES COULD KILL",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+    "imdb": 10.0
+  },
   "/dizi-izle/for-all-mankind": {
     "group": "FOR ALL MANKIND",
     "year": "2019",
     "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
     "imdb": 7.7
+  },
+  "/dizi-izle/flunked": {
+    "group": "FLUNKED",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/lpETg8eOSPT1KTYaE386M1O6VV0.jpg",
+    "imdb": 3.0
+  },
+  "/dizi-izle/hacks": {
+    "group": "HACKS",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/ulBzMy5DZjBeUo6wHqn8ao0Zn6j.jpg",
+    "imdb": 7.4
   }
 }
