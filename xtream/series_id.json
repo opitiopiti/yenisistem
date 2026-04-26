@@ -4736,8 +4736,8 @@
   "3789": {
     "name": "SHERIFF COUNTRY  (2025)",
     "last_season": 1,
-    "last_episode": 15,
-    "last_modified": 1776528797
+    "last_episode": 16,
+    "last_modified": 1777176161
   },
   "3790": {
     "name": "SHUANG CHENG GU SHI  (2018)",
@@ -46114,5 +46114,23 @@
     "last_season": 1,
     "last_episode": 4,
     "last_modified": 1777155814
+  },
+  "10686": {
+    "name": "OWARIMONOGATARI  (2015) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 13,
+    "last_modified": 1777176161
+  },
+  "10687": {
+    "name": "OWARIMONOGATARI II  (2017) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 7,
+    "last_modified": 1777176161
+  },
+  "10688": {
+    "name": "ZOKU OWARIMONOGATARI  (2018) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1777176161
   }
 }
