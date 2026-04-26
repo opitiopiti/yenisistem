@@ -1,4 +1,13 @@
 {
+  "/dizi/we-are-all-trying-here": {
+    "group": "We Are All Trying Here",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/c2jswCrMoqDEBEXwSAlrCWtXdfZ.jpg"
+  },
   "/dizi/beyond-paradise": {
     "group": "Beyond Paradise",
     "last_season": 4,

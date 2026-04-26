@@ -161,6 +161,18 @@
     "poster": "https://image.tmdb.org/t/p/w500/3dehoKPCwLwKTWATfzGqoJ2Psdl.jpg",
     "imdb": 6.1
   },
+  "/dizi/medalist/": {
+    "group": "Medalist",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/hK5eKFaj99mZwpmILnvKehWe9t1.jpg",
+    "imdb": 8.0
+  },
+  "/dizi/wandance/": {
+    "group": "Wandance",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/tb09vxLJ5yf7pMbmWqRvWE6bL5y.jpg",
+    "imdb": 6.6
+  },
   "/dizi/due-spicci/": {
     "group": "Due spicci",
     "year": 2026,
@@ -316,17 +328,5 @@
     "year": 2026,
     "poster": "https://dzycdn.com/img/t/163x245/babies-2026.webp",
     "imdb": 6.4
-  },
-  "/dizi/alguien-tiene-que-saber/": {
-    "group": "Alguien Tiene Que Saber",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/zhlfKxe6nf3bLyhzCRuaRaxtlrZ.jpg",
-    "imdb": 10.0
-  },
-  "/dizi/the-dark-wizard/": {
-    "group": "The Dark Wizard",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/qGbsQ6fhZPBhx9kgN0utAIyGRry.jpg",
-    "imdb": 8.1
   }
 }

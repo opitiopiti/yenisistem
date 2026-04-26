@@ -30136,5 +30136,17 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/6x2Jn045qsaevVtUuCKBjrDBwD3.jpg",
     "imdb": 0.0
+  },
+  "/dizi/medalist/": {
+    "group": "Medalist",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/hK5eKFaj99mZwpmILnvKehWe9t1.jpg",
+    "imdb": 8.0
+  },
+  "/dizi/wandance/": {
+    "group": "Wandance",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/tb09vxLJ5yf7pMbmWqRvWE6bL5y.jpg",
+    "imdb": 6.6
   }
 }
