@@ -53,6 +53,30 @@
     "poster": "https://image.tmdb.org/t/p/w500/4SWP79aer5YBv3pCKCVCD8sRiZL.jpg",
     "imdb": 0.0
   },
+  "/dizi/sheriff-country": {
+    "group": "Sheriff Country",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/fire-country": {
+    "group": "Fire Country",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
+    "imdb": 8.2
+  },
+  "/dizi/boston-blue": {
+    "group": "Boston Blue",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/8pyxutHxpgBt8ZwbIG2TZWCW394.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/beyond-paradise": {
+    "group": "Beyond Paradise",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/7zwbypEzcjOyNuTLSD43fTB9kR8.jpg",
+    "imdb": 7.4
+  },
   "/dizi/sold-out-on-you": {
     "group": "Sold Out on You",
     "year": 2026,
@@ -131,35 +155,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/zsKWS6BwdKbS9nrE38V0500TKoX.jpg",
     "imdb": 6.8
   },
-  "/dizi/hulk-hogan-real-american": {
-    "group": "Hulk Hogan: Real American",
+  "/dizi/happys-place": {
+    "group": "Happy’s Place",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/3dehoKPCwLwKTWATfzGqoJ2Psdl.jpg",
+    "imdb": 6.1
+  },
+  "/dizi/due-spicci/": {
+    "group": "Due spicci",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/pdEEOQystKjHtC71RV6yRobY8bk.jpg",
-    "imdb": 6.5
-  },
-  "/dizi/santita": {
-    "group": "Santita",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/v3kDHO5LFIvzqmOYNDPzwXnfMyq.jpg",
-    "imdb": 5.5
-  },
-  "/dizi/this-is-a-gardening-show": {
-    "group": "This Is a Gardening Show",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg",
-    "imdb": 8.0
-  },
-  "/dizi/chicago-p-d": {
-    "group": "Chicago P.D.",
-    "year": 2014,
-    "poster": "https://image.tmdb.org/t/p/w500/bez40PgT36RUu4gstD2A6GSM0tP.jpg",
-    "imdb": 8.4
-  },
-  "/dizi/chicago-med": {
-    "group": "Chicago Med",
-    "year": 2015,
-    "poster": "https://image.tmdb.org/t/p/w500/9eym662FRJJb9wdgCiDKPDciZzf.jpg",
-    "imdb": 8.3
+    "poster": "https://image.tmdb.org/t/p/w500/6x2Jn045qsaevVtUuCKBjrDBwD3.jpg",
+    "imdb": 0.0
   },
   "/dizi/girigo/": {
     "group": "Girigo",
@@ -322,11 +328,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/qGbsQ6fhZPBhx9kgN0utAIyGRry.jpg",
     "imdb": 8.1
-  },
-  "/dizi/kevin/": {
-    "group": "Kevin",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/lVWCnwKiximQRGBH1WqCwzQIFPB.jpg",
-    "imdb": 10.0
   }
 }

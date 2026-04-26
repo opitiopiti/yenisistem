@@ -30130,5 +30130,11 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
     "imdb": 7.3
+  },
+  "/dizi/due-spicci/": {
+    "group": "Due spicci",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/6x2Jn045qsaevVtUuCKBjrDBwD3.jpg",
+    "imdb": 0.0
   }
 }
