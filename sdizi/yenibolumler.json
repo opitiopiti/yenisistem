@@ -1,27 +1,33 @@
 {
+  "/diziler/we-are-all-trying-here.html": {
+    "group": "WE ARE ALL TRYING HERE",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/hMrBaA68y4mlmE5zjC3NM2cN1IV.jpg"
+  },
+  "/diziler/one-piece-izle.html": {
+    "group": "ONE PIECE",
+    "year": "1999",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
+  },
   "/diziler/margos-got-money-troubles.html": {
     "group": "MARGO'S GOT MONEY TROUBLES",
-    "year": null,
-    "imdb": null,
-    "poster": null
+    "year": "2026",
+    "imdb": "6.9",
+    "poster": "https://image.tmdb.org/t/p/w500/kMb8hCou8RZf7uXE1rTE8ZDgcvg.jpg"
   },
   "/diziler/my-brother-the-minotaur.html": {
     "group": "MY BROTHER THE MINOTAUR",
-    "year": null,
-    "imdb": null,
-    "poster": null
+    "year": "2026",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/iKvNRK9ThYLgxkmalt2CrQyvEpQ.jpg"
   },
   "/diziler/nippon-sangoku-the-three-nations-of-the-crimson-sun.html": {
     "group": "NIPPON SANGOKU: THE THREE NATIONS OF THE CRIMSON SUN",
     "year": "2026",
     "imdb": "8.3",
     "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg"
-  },
-  "/diziler/we-are-all-trying-here.html": {
-    "group": "WE ARE ALL TRYING HERE",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/hMrBaA68y4mlmE5zjC3NM2cN1IV.jpg"
   },
   "/diziler/phantom-lawyer.html": {
     "group": "PHANTOM LAWYER",
@@ -70,17 +76,5 @@
     "year": "2023",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg"
-  },
-  "/diziler/for-all-mankind.html": {
-    "group": "FOR ALL MANKIND",
-    "year": "2019",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
-  },
-  "/diziler/o11ce-new-generation.html": {
-    "group": "O11CE: NEW GENERATION",
-    "year": "2026",
-    "imdb": "8.9",
-    "poster": "https://image.tmdb.org/t/p/w500/noguKCrUu1SqLlA5Ktrbl7W8op.jpg"
   }
 }
