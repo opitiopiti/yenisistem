@@ -1,9 +1,21 @@
 {
-  "/dizi/going-dutch": {
-    "group": "Going Dutch",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/jq0sB0UMVjRnAfYDQ9Wd1i4vt1L.jpg",
-    "imdb": 5.6
+  "/dizi/euphoria": {
+    "group": "Euphoria",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
+    "imdb": 8.3
+  },
+  "/dizi/the-comeback": {
+    "group": "The Comeback",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/rooster": {
+    "group": "Rooster",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
+    "imdb": 7.4
   },
   "/dizi/sin-i-rang-beom-nyul-sa-mu-so": {
     "group": "Sin-i-rang Beom-nyul-sa-mu-so",
@@ -53,6 +65,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/4SWP79aer5YBv3pCKCVCD8sRiZL.jpg",
     "imdb": 0.0
   },
+  "/dizi/outlander": {
+    "group": "Outlander",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/bxBmfyzK0ARF9hqf2pbFWsddH14.jpg",
+    "imdb": 8.2
+  },
   "/dizi/sheriff-country": {
     "group": "Sheriff Country",
     "year": 2025,
@@ -101,6 +119,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/cdyKElGB4whoIS6zcJqNWQNaVsj.jpg",
     "imdb": 8.8
   },
+  "/dizi/going-dutch": {
+    "group": "Going Dutch",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/jq0sB0UMVjRnAfYDQ9Wd1i4vt1L.jpg",
+    "imdb": 5.6
+  },
   "/dizi/georgie-mandys-first-marriage": {
     "group": "Georgie & Mandy’s First Marriage",
     "year": 2024,
@@ -142,24 +166,6 @@
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
     "imdb": 7.7
-  },
-  "/dizi/for-all-mankind": {
-    "group": "For All Mankind",
-    "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
-    "imdb": 7.7
-  },
-  "/dizi/recale": {
-    "group": "Recalé",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/zsKWS6BwdKbS9nrE38V0500TKoX.jpg",
-    "imdb": 6.8
-  },
-  "/dizi/happys-place": {
-    "group": "Happy’s Place",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/3dehoKPCwLwKTWATfzGqoJ2Psdl.jpg",
-    "imdb": 6.1
   },
   "/dizi/medalist/": {
     "group": "Medalist",

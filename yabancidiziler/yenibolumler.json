@@ -1,4 +1,31 @@
 {
+  "/dizi/rooster": {
+    "group": "Rooster",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.2",
+    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg"
+  },
+  "/dizi/the-comeback": {
+    "group": "The Comeback",
+    "last_season": 3,
+    "last_episode": 5,
+    "start_episode": 1,
+    "year": "2005",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg"
+  },
+  "/dizi/nippon-sangoku": {
+    "group": "Nippon Sangoku",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/qHQnNHefuHI8N4lCoRQQP6pckMr.jpg"
+  },
   "/dizi/we-are-all-trying-here": {
     "group": "We Are All Trying Here",
     "last_season": 1,

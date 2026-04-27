@@ -1,4 +1,10 @@
 {
+  "/diziler/star-wars-maul-shadow-lord.html": {
+    "group": "STAR WARS: MAUL - SHADOW LORD",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/eNbAxoeEARfHmm7fd6u2eSxNQ8k.jpg"
+  },
   "/diziler/tales-of-the-teenage-mutant-ninja-turtles.html": {
     "group": "TALES OF THE TEENAGE MUTANT NINJA TURTLES",
     "year": "2024",
@@ -64,17 +70,5 @@
     "year": "2026",
     "imdb": "7.3",
     "poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg"
-  },
-  "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
-    "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
-    "year": "2018",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg"
-  },
-  "/diziler/absolute-value-of-romance.html": {
-    "group": "ABSOLUTE VALUE OF ROMANCE",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg"
   }
 }
