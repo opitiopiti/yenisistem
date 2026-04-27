@@ -1,4 +1,28 @@
 {
+  "/diziler/the-testaments.html": {
+    "group": "THE TESTAMENTS",
+    "year": "2026",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg"
+  },
+  "/diziler/the-comeback.html": {
+    "group": "THE COMEBACK",
+    "year": "2005",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg"
+  },
+  "/diziler/rooster.html": {
+    "group": "ROOSTER",
+    "year": "2026",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg"
+  },
+  "/diziler/euphoria.html": {
+    "group": "EUPHORIA",
+    "year": "2019",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg"
+  },
   "/diziler/star-wars-maul-shadow-lord.html": {
     "group": "STAR WARS: MAUL - SHADOW LORD",
     "year": "2026",
@@ -52,23 +76,5 @@
     "year": "2026",
     "imdb": "8.3",
     "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg"
-  },
-  "/diziler/phantom-lawyer.html": {
-    "group": "PHANTOM LAWYER",
-    "year": "2026",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg"
-  },
-  "/diziler/the-plot-against-america.html": {
-    "group": "THE PLOT AGAINST AMERICA",
-    "year": "2020",
-    "imdb": "7.3",
-    "poster": "https://image.tmdb.org/t/p/w500/rC5GUHvKxlk3WPyCh4mQ5q6HDxG.jpg"
-  },
-  "/diziler/if-wishes-could-kill.html": {
-    "group": "IF WISHES COULD KILL",
-    "year": "2026",
-    "imdb": "7.3",
-    "poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg"
   }
 }

@@ -30148,5 +30148,17 @@
     "year": 2025,
     "poster": "https://image.tmdb.org/t/p/w500/tb09vxLJ5yf7pMbmWqRvWE6bL5y.jpg",
     "imdb": 6.6
+  },
+  "/dizi/twenty-twenty-six/": {
+    "group": "Twenty Twenty Six",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/tOMHB1sHMf4ASjB909y7AQFuX3q.jpg",
+    "imdb": 5.8
+  },
+  "/dizi/missed-call/": {
+    "group": "Missed Call",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/1JnmMXeaBD4zSAa5Qn6NFA09cBU.jpg",
+    "imdb": 5.2
   }
 }

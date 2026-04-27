@@ -5,6 +5,18 @@
     "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
     "imdb": 8.3
   },
+  "/dizi/star-wars-maul-shadow-lord": {
+    "group": "Star Wars: Maul – Shadow Lord",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/the-audacity": {
+    "group": "The Audacity",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
+    "imdb": 5.1
+  },
   "/dizi/the-comeback": {
     "group": "The Comeback",
     "year": 2005,
@@ -149,23 +161,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/q8KnHFt3igvQXKYDLtfERSYAY7F.jpg",
     "imdb": 7.1
   },
-  "/dizi/hacks": {
-    "group": "Hacks",
-    "year": 2021,
-    "poster": "https://image.tmdb.org/t/p/w500/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
-    "imdb": 7.4
+  "/dizi/twenty-twenty-six/": {
+    "group": "Twenty Twenty Six",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/tOMHB1sHMf4ASjB909y7AQFuX3q.jpg",
+    "imdb": 5.8
   },
-  "/dizi/your-friends-neighbors": {
-    "group": "Your Friends & Neighbors",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/lxmNQ1392ClqU56W0kx2h2ONF4V.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/monarch-legacy-of-monsters": {
-    "group": "Monarch: Legacy of Monsters",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
-    "imdb": 7.7
+  "/dizi/missed-call/": {
+    "group": "Missed Call",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/1JnmMXeaBD4zSAa5Qn6NFA09cBU.jpg",
+    "imdb": 5.2
   },
   "/dizi/medalist/": {
     "group": "Medalist",
@@ -322,17 +328,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/6Axq4SOmgo4LsLwS0gpbocSQMRQ.jpg",
     "imdb": 0.0
-  },
-  "/dizi/gomorra-le-origini/": {
-    "group": "Gomorra – Le Origini",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/j8EOKHTlSaorhXOKRT25ssEie6a.jpg",
-    "imdb": 7.1
-  },
-  "/dizi/babies-2026/": {
-    "group": "Babies 2026",
-    "year": 2026,
-    "poster": "https://dzycdn.com/img/t/163x245/babies-2026.webp",
-    "imdb": 6.4
   }
 }
