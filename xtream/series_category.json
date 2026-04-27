@@ -2382,7 +2382,8 @@
     {"name": "SCHEDA", "year": "2025"},
     {"name": "MARIACHIS", "year": "2023"},
     {"name": "THE DARK WIZARD", "year": "2026"},
-    {"name": "BIG LOVE", "year": "2006"}
+    {"name": "BIG LOVE", "year": "2006"},
+    {"name": "SLEPNAC OD SWIATEL", "year": "2018"}
   ],
   "AMAZON PRIME DİZİLERİ": [
     {"name": "BAIT", "year": "2026"},
@@ -7777,7 +7778,8 @@
   "BLUTV DİZİLERİ": [
     {"name": "İLK VE SON", "year": "2021"},
     {"name": "BONKIS", "year": "2021"},
-    {"name": "ALEF", "year": "2020"}
+    {"name": "ALEF", "year": "2020"},
+    {"name": "BEN BU BOŞLUĞU NASIL?", "year": "2023"}
   ],
   "ATV DİZİLERİ": [
     {"name": "KAÇAK", "year": "2013"},
