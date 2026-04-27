@@ -1,4 +1,22 @@
 {
+  "/diziler/tales-of-the-teenage-mutant-ninja-turtles.html": {
+    "group": "TALES OF THE TEENAGE MUTANT NINJA TURTLES",
+    "year": "2024",
+    "imdb": "6.9",
+    "poster": "https://image.tmdb.org/t/p/w500/o0ZlpvK0Ewd3iJYUyYPfwAAeR88.jpg"
+  },
+  "/diziler/fire-country.html": {
+    "group": "FIRE COUNTRY",
+    "year": "2022",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg"
+  },
+  "/diziler/will-trent.html": {
+    "group": "WILL TRENT",
+    "year": "2023",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/qG5O46gUxxYGImld03tl2zLhvrg.jpg"
+  },
   "/diziler/we-are-all-trying-here.html": {
     "group": "WE ARE ALL TRYING HERE",
     "year": "2026",
@@ -58,23 +76,5 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg"
-  },
-  "/diziler/half-man.html": {
-    "group": "HALF MAN",
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/1XcDgszF8YJqXZw4zYDR4JYaVlM.jpg"
-  },
-  "/diziler/your-friends-neighbors.html": {
-    "group": "YOUR FRIENDS & NEIGHBORS",
-    "year": "2025",
-    "imdb": "7.9",
-    "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg"
-  },
-  "/diziler/monarch-legacy-of-monsters.html": {
-    "group": "MONARCH: LEGACY OF MONSTERS",
-    "year": "2023",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg"
   }
 }
