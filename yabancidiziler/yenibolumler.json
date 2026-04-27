@@ -53,6 +53,15 @@
     "imdb": "8.3",
     "poster": "https://image.tmdb.org/t/p/w500/esU4D2XSA7hNHC8G2bmMkvX5g5H.jpg"
   },
+  "/dizi/tracker": {
+    "group": "Tracker",
+    "last_season": 3,
+    "last_episode": 17,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "6.4",
+    "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg"
+  },
   "/dizi/watson": {
     "group": "Watson",
     "last_season": 2,

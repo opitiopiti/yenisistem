@@ -1,4 +1,10 @@
 {
+  "/dizi/funny-af-with-kevin-hart": {
+    "group": "Funny AF with Kevin Hart",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/Aw52lH93fDOeaw15Kspd81zZi1y.jpg",
+    "imdb": 5.8
+  },
   "/dizi/euphoria": {
     "group": "Euphoria",
     "year": 2019,
@@ -75,7 +81,7 @@
     "group": "Temiz Para",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/4SWP79aer5YBv3pCKCVCD8sRiZL.jpg",
-    "imdb": 0.0
+    "imdb": 7.0
   },
   "/dizi/outlander": {
     "group": "Outlander",
@@ -149,17 +155,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/h2dXm0CXMkycA9LrZbXMUD8SuTL.jpg",
     "imdb": 6.8
   },
-  "/dizi/stranger-things-tales-from-85": {
-    "group": "Stranger Things: Tales from ’85",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/2orq3F4a1prP3RnJjYSWzSjHYZQ.jpg",
-    "imdb": 4.2
+  "/dizi/ben-bu-boslugu-nasil/": {
+    "group": "Ben Bu Boşluğu Nasıl?",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/2vr2JwKdGTwb6b0I4FHk5eCTO9J.jpg",
+    "imdb": 4.8
   },
-  "/dizi/running-point": {
-    "group": "Running Point",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/q8KnHFt3igvQXKYDLtfERSYAY7F.jpg",
-    "imdb": 7.1
+  "/dizi/slepnac-od-swiatel/": {
+    "group": "Slepnac od swiatel",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/p3gtx495e5KnqSKU0dfgtKaQJmt.jpg",
+    "imdb": 7.8
   },
   "/dizi/twenty-twenty-six/": {
     "group": "Twenty Twenty Six",
@@ -225,7 +231,7 @@
     "group": "Temiz Para",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/4SWP79aer5YBv3pCKCVCD8sRiZL.jpg",
-    "imdb": 0.0
+    "imdb": 7.0
   },
   "/dizi/recale/": {
     "group": "Recalé",
@@ -316,17 +322,5 @@
     "year": 2025,
     "poster": "https://image.tmdb.org/t/p/w500/r63OnehBj6lZhdzvfnoRU9GkNli.jpg",
     "imdb": 7.6
-  },
-  "/dizi/ronaldinho-gaucho/": {
-    "group": "Ronaldinho Gaúcho",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/b2ieiH9EtAplTq2cIA0aKKLhxm3.jpg",
-    "imdb": 6.083
-  },
-  "/dizi/kara-kis/": {
-    "group": "Kara Kış",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/6Axq4SOmgo4LsLwS0gpbocSQMRQ.jpg",
-    "imdb": 0.0
   }
 }

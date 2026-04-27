@@ -30033,7 +30033,7 @@
     "group": "Temiz Para",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/4SWP79aer5YBv3pCKCVCD8sRiZL.jpg",
-    "imdb": 0.0
+    "imdb": 7.0
   },
   "/dizi/recale": {
     "group": "Recalé",
@@ -30045,7 +30045,7 @@
     "group": "Temiz Para",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/4SWP79aer5YBv3pCKCVCD8sRiZL.jpg",
-    "imdb": 0.0
+    "imdb": 7.0
   },
   "/dizi/recale/": {
     "group": "Recalé",
@@ -30160,5 +30160,17 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/1JnmMXeaBD4zSAa5Qn6NFA09cBU.jpg",
     "imdb": 5.2
+  },
+  "/dizi/ben-bu-boslugu-nasil/": {
+    "group": "Ben Bu Boşluğu Nasıl?",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/2vr2JwKdGTwb6b0I4FHk5eCTO9J.jpg",
+    "imdb": 4.8
+  },
+  "/dizi/slepnac-od-swiatel/": {
+    "group": "Slepnac od swiatel",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/p3gtx495e5KnqSKU0dfgtKaQJmt.jpg",
+    "imdb": 7.8
   }
 }
