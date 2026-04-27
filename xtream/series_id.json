@@ -6452,8 +6452,8 @@
   "4075": {
     "name": "WATSON  (2025)",
     "last_season": 2,
-    "last_episode": 18,
-    "last_modified": 1776878815
+    "last_episode": 19,
+    "last_modified": 1777296343
   },
   "4076": {
     "name": "WAYWARD PINES  (2015)",
@@ -44804,8 +44804,8 @@
   "10467": {
     "name": "STAR WARS: MAUL - SHADOW LORD  (2026)",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1776686146
+    "last_episode": 8,
+    "last_modified": 1777296343
   },
   "10468": {
     "name": "THE TESTAMENTS  (2026)",
@@ -45698,8 +45698,8 @@
   "10616": {
     "name": "THE AUDACITY  (2026)",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1776616665
+    "last_episode": 4,
+    "last_modified": 1777296343
   },
   "10617": {
     "name": "MIRA: HER ŞEY YOLUNDAYMIŞ GIBI  (2026) TR",
@@ -45716,8 +45716,8 @@
   "10619": {
     "name": "STAR WARS: MAUL – SHADOW LORD  (2026)",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1776686146
+    "last_episode": 8,
+    "last_modified": 1777296343
   },
   "10620": {
     "name": "O11CE: NEW GENERATION  (2026)",
@@ -46162,5 +46162,29 @@
     "last_season": 1,
     "last_episode": 47,
     "last_modified": 1777261366
+  },
+  "10694": {
+    "name": "MISSED CALL  (2026)",
+    "last_season": 1,
+    "last_episode": 5,
+    "last_modified": 1777296343
+  },
+  "10695": {
+    "name": "TWENTY TWENTY SIX  (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1777296343
+  },
+  "10696": {
+    "name": "STRAIGHT TO HELL  (2026)",
+    "last_season": 1,
+    "last_episode": 9,
+    "last_modified": 1777296343
+  },
+  "10697": {
+    "name": "THE OTHER BENNET SISTER  (2026)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1777296343
   }
 }
