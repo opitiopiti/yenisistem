@@ -1,4 +1,22 @@
 {
+  "/dizi/fbi": {
+    "group": "FBI",
+    "last_season": 8,
+    "last_episode": 18,
+    "start_episode": 1,
+    "year": "2018",
+    "imdb": "7.1",
+    "poster": "https://image.tmdb.org/t/p/w500/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg"
+  },
+  "/dizi/the-cage": {
+    "group": "The Cage",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.7",
+    "poster": "https://image.tmdb.org/t/p/w500/ecky8BZcvQMDJFdMNFrmliS0rtU.jpg"
+  },
   "/dizi/happy-s-place": {
     "group": "Happy’s Place",
     "last_season": 2,

@@ -30202,5 +30202,17 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/yWkVOpu2dTYWSM0sodSIriVZnNn.jpg",
     "imdb": 8.4
+  },
+  "/dizi/eristyksissa/": {
+    "group": "Eristyksissä",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/bzBIJAQ6xQBgX1Uwwi59qyISQme.jpg",
+    "imdb": 9.0
+  },
+  "/dizi/en-casa/": {
+    "group": "En casa",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/90JZFtUBLZDayyTuWPFazNzwkGe.jpg",
+    "imdb": 6.9
   }
 }

@@ -1096,5 +1096,14 @@
     "year": "2026",
     "imdb": "8.3",
     "poster": "https://image.tmdb.org/t/p/w500/esU4D2XSA7hNHC8G2bmMkvX5g5H.jpg"
+  },
+  "/dizi/the-cage": {
+    "group": "The Cage",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.7",
+    "poster": "https://image.tmdb.org/t/p/w500/ecky8BZcvQMDJFdMNFrmliS0rtU.jpg"
   }
 }

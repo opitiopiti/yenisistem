@@ -155,6 +155,18 @@
     "poster": "https://image.tmdb.org/t/p/w500/jq0sB0UMVjRnAfYDQ9Wd1i4vt1L.jpg",
     "imdb": 5.6
   },
+  "/dizi/eristyksissa/": {
+    "group": "Eristyksissä",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/bzBIJAQ6xQBgX1Uwwi59qyISQme.jpg",
+    "imdb": 9.0
+  },
+  "/dizi/en-casa/": {
+    "group": "En casa",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/90JZFtUBLZDayyTuWPFazNzwkGe.jpg",
+    "imdb": 6.9
+  },
   "/dizi/jigoku-ni-ochiru-wa-yo/": {
     "group": "Jigoku ni ochiru wa yo",
     "year": 2026,
@@ -310,17 +322,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/cAWIMbCmzVBi86kEOHKjHZCKGyo.jpg",
     "imdb": 7.4
-  },
-  "/dizi/ida-tar-ansvar/": {
-    "group": "Ida tar ansvar",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/rkgnZzP7njWxgg18ivTt1eoiCXs.jpg",
-    "imdb": 6.2
-  },
-  "/dizi/dandelion/": {
-    "group": "Dandelion",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/r5Cq5wax0sQ1ModcZXWKyXF1xpy.jpg",
-    "imdb": 8.5
   }
 }
