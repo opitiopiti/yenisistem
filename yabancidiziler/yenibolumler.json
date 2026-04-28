@@ -2,7 +2,7 @@
   "/dizi/fbi": {
     "group": "FBI",
     "last_season": 8,
-    "last_episode": 18,
+    "last_episode": 19,
     "start_episode": 1,
     "year": "2018",
     "imdb": "7.1",
@@ -11,7 +11,7 @@
   "/dizi/the-cage": {
     "group": "The Cage",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.7",
