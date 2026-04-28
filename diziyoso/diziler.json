@@ -30172,5 +30172,23 @@
     "year": 2018,
     "poster": "https://image.tmdb.org/t/p/w500/p3gtx495e5KnqSKU0dfgtKaQJmt.jpg",
     "imdb": 7.8
+  },
+  "/dizi/nippon-sangoku": {
+    "group": "Nippon Sangoku",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg",
+    "imdb": 8.3
+  },
+  "/dizi/nippon-sangoku/": {
+    "group": "Nippon Sangoku",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg",
+    "imdb": 8.3
+  },
+  "/dizi/jojo-no-kimyo-na-boken/": {
+    "group": "JoJo no Kimyô na Bôken",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+    "imdb": 8.6
   }
 }

@@ -35,6 +35,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
     "imdb": 7.4
   },
+  "/dizi/nippon-sangoku": {
+    "group": "Nippon Sangoku",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg",
+    "imdb": 8.3
+  },
   "/dizi/sin-i-rang-beom-nyul-sa-mu-so": {
     "group": "Sin-i-rang Beom-nyul-sa-mu-so",
     "year": 2026,
@@ -149,11 +155,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
     "imdb": 7.7
   },
-  "/dizi/animal-control": {
-    "group": "Animal Control",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/h2dXm0CXMkycA9LrZbXMUD8SuTL.jpg",
-    "imdb": 6.8
+  "/dizi/nippon-sangoku/": {
+    "group": "Nippon Sangoku",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg",
+    "imdb": 8.3
+  },
+  "/dizi/jojo-no-kimyo-na-boken/": {
+    "group": "JoJo no Kimyô na Bôken",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
+    "imdb": 8.6
   },
   "/dizi/ben-bu-boslugu-nasil/": {
     "group": "Ben Bu Boşluğu Nasıl?",
@@ -310,17 +322,5 @@
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/9MMDK85gpE9usy6QCCLGgTzgroW.jpg",
     "imdb": 7.0
-  },
-  "/dizi/luka-makan-cinta/": {
-    "group": "Luka, Makan, Cinta",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/8ABlh4OrPJxpbOoXfZavfZ1XFSI.jpg",
-    "imdb": 7.2
-  },
-  "/dizi/million-dollar-secret/": {
-    "group": "Million Dollar Secret",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/r63OnehBj6lZhdzvfnoRU9GkNli.jpg",
-    "imdb": 7.6
   }
 }

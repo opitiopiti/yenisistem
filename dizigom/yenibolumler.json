@@ -5,35 +5,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
     "imdb": 7.693
   },
-  "/dizi-izle/running-point": {
-    "group": "RUNNING POINT",
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/q8KnHFt3igvQXKYDLtfERSYAY7F.jpg",
-    "imdb": 7.1
-  },
   "/dizi-izle/star-wars-maul-shadow-lord": {
     "group": "STAR WARS: MAUL - SHADOW LORD",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
     "imdb": 7.3
-  },
-  "/dizi-izle/straight-to-hell": {
-    "group": "STRAIGHT TO HELL",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/8FK9esQsOZtOHtDJYHVyDXFcfJE.jpg",
-    "imdb": 10.0
-  },
-  "/dizi-izle/half-man": {
-    "group": "HALF MAN",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/fV1XBxZSl0nxiMIhDuorIbfW8kG.jpg",
-    "imdb": 9.0
-  },
-  "/dizi-izle/flunked": {
-    "group": "FLUNKED",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/lpETg8eOSPT1KTYaE386M1O6VV0.jpg",
-    "imdb": 3.0
   },
   "/dizi-izle/the-comeback": {
     "group": "THE COMEBACK",
@@ -47,11 +23,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg",
     "imdb": 8.0
   },
-  "/dizi-izle/if-wishes-could-kill": {
-    "group": "IF WISHES COULD KILL",
+  "/dizi-izle/stranger-things-tales-from-85": {
+    "group": "STRANGER THINGS: TALES FROM '85",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
-    "imdb": 10.0
+    "poster": "https://image.tmdb.org/t/p/w500/2orq3F4a1prP3RnJjYSWzSjHYZQ.jpg",
+    "imdb": 9.7
   },
   "/dizi-izle/privileges": {
     "group": "PRIVILEGES",
@@ -59,29 +35,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/bFmWIfzkcuiDZ4WqkOfVaHb4pR8.jpg",
     "imdb": 7.25
   },
-  "/dizi-izle/stranger-things-tales-from-85": {
-    "group": "STRANGER THINGS: TALES FROM '85",
+  "/dizi-izle/straight-to-hell": {
+    "group": "STRAIGHT TO HELL",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/2orq3F4a1prP3RnJjYSWzSjHYZQ.jpg",
-    "imdb": 9.7
-  },
-  "/dizi-izle/phantom-lawyer": {
-    "group": "PHANTOM LAWYER",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg",
-    "imdb": 7.5
-  },
-  "/dizi-izle/we-are-all-trying-here": {
-    "group": "WE ARE ALL TRYING HERE",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/c2jswCrMoqDEBEXwSAlrCWtXdfZ.jpg",
-    "imdb": 8.75
-  },
-  "/dizi-izle/absolute-value-of-romance": {
-    "group": "ABSOLUTE VALUE OF ROMANCE",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
-    "imdb": 8.5
+    "poster": "https://image.tmdb.org/t/p/w500/8FK9esQsOZtOHtDJYHVyDXFcfJE.jpg",
+    "imdb": 10.0
   },
   "/dizi-izle/rooster": {
     "group": "ROOSTER",
@@ -89,10 +47,52 @@
     "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
     "imdb": 7.3
   },
+  "/dizi-izle/if-wishes-could-kill": {
+    "group": "IF WISHES COULD KILL",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
+    "imdb": 10.0
+  },
+  "/dizi-izle/phantom-lawyer": {
+    "group": "PHANTOM LAWYER",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg",
+    "imdb": 7.5
+  },
   "/dizi-izle/euphoria": {
     "group": "EUPHORIA",
     "year": "2019",
     "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
     "imdb": 8.284
+  },
+  "/dizi-izle/half-man": {
+    "group": "HALF MAN",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/fV1XBxZSl0nxiMIhDuorIbfW8kG.jpg",
+    "imdb": 9.0
+  },
+  "/dizi-izle/absolute-value-of-romance": {
+    "group": "ABSOLUTE VALUE OF ROMANCE",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
+    "imdb": 8.5
+  },
+  "/dizi-izle/running-point": {
+    "group": "RUNNING POINT",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/q8KnHFt3igvQXKYDLtfERSYAY7F.jpg",
+    "imdb": 7.1
+  },
+  "/dizi-izle/flunked": {
+    "group": "FLUNKED",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/lpETg8eOSPT1KTYaE386M1O6VV0.jpg",
+    "imdb": 3.0
+  },
+  "/dizi-izle/we-are-all-trying-here": {
+    "group": "WE ARE ALL TRYING HERE",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/c2jswCrMoqDEBEXwSAlrCWtXdfZ.jpg",
+    "imdb": 8.75
   }
 }
