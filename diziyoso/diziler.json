@@ -30190,5 +30190,17 @@
     "year": 2012,
     "poster": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
     "imdb": 8.6
+  },
+  "/dizi/jigoku-ni-ochiru-wa-yo": {
+    "group": "Jigoku ni ochiru wa yo",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/yWkVOpu2dTYWSM0sodSIriVZnNn.jpg",
+    "imdb": 8.4
+  },
+  "/dizi/jigoku-ni-ochiru-wa-yo/": {
+    "group": "Jigoku ni ochiru wa yo",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/yWkVOpu2dTYWSM0sodSIriVZnNn.jpg",
+    "imdb": 8.4
   }
 }

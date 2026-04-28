@@ -17,6 +17,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
     "imdb": 7.3
   },
+  "/dizi/jigoku-ni-ochiru-wa-yo": {
+    "group": "Jigoku ni ochiru wa yo",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/yWkVOpu2dTYWSM0sodSIriVZnNn.jpg",
+    "imdb": 8.4
+  },
   "/dizi/the-audacity": {
     "group": "The Audacity",
     "year": 2026,
@@ -149,11 +155,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/jq0sB0UMVjRnAfYDQ9Wd1i4vt1L.jpg",
     "imdb": 5.6
   },
-  "/dizi/georgie-mandys-first-marriage": {
-    "group": "Georgie & Mandy’s First Marriage",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
-    "imdb": 7.7
+  "/dizi/jigoku-ni-ochiru-wa-yo/": {
+    "group": "Jigoku ni ochiru wa yo",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/yWkVOpu2dTYWSM0sodSIriVZnNn.jpg",
+    "imdb": 8.4
   },
   "/dizi/nippon-sangoku/": {
     "group": "Nippon Sangoku",
@@ -316,11 +322,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/r5Cq5wax0sQ1ModcZXWKyXF1xpy.jpg",
     "imdb": 8.5
-  },
-  "/dizi/at-home-with-the-furys/": {
-    "group": "At Home with the Furys",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/9MMDK85gpE9usy6QCCLGgTzgroW.jpg",
-    "imdb": 7.0
   }
 }
