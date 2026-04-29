@@ -332,8 +332,8 @@
   "3055": {
     "name": "CIA  (2026)",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1776791083
+    "last_episode": 9,
+    "last_modified": 1777484828
   },
   "3056": {
     "name": "CAFÉ MINAMDANG  (2022)",
@@ -32570,8 +32570,8 @@
   "8428": {
     "name": "NCIS: SYDNEY  (2023)",
     "last_season": 3,
-    "last_episode": 16,
-    "last_modified": 1776878815
+    "last_episode": 17,
+    "last_modified": 1777484828
   },
   "8429": {
     "name": "NEDE  (2022)",
@@ -41570,8 +41570,8 @@
   "9928": {
     "name": "AŞKIN GÜCÜ  (2022) TR",
     "last_season": 1,
-    "last_episode": 142,
-    "last_modified": 1777434491
+    "last_episode": 144,
+    "last_modified": 1777484828
   },
   "9929": {
     "name": "KUS UÇUSU  (2022) TR",
@@ -44948,8 +44948,8 @@
   "10491": {
     "name": "ALWAYS A CATCH!  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1776878815
+    "last_episode": 5,
+    "last_modified": 1777484828
   },
   "10492": {
     "name": "ANONYMOUS NOISE  (2017) İNGİLİZCE",
@@ -45008,8 +45008,8 @@
   "10501": {
     "name": "CLASSROOM OF THE ELITE 4TH SEASON  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1776878815
+    "last_episode": 8,
+    "last_modified": 1777484828
   },
   "10502": {
     "name": "DAEMONS OF THE SHADOW REALM  (2026) İNGİLİZCE",
@@ -45044,8 +45044,8 @@
   "10507": {
     "name": "DOROHEDORO 2  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1776878815
+    "last_episode": 7,
+    "last_modified": 1777484828
   },
   "10508": {
     "name": "DR. STONE: SCIENCE FUTURE - PART III  (2026) İNGİLİZCE",
@@ -45098,8 +45098,8 @@
   "10516": {
     "name": "GALS CAN’T BE KIND TO OTAKU!?  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1776878815
+    "last_episode": 4,
+    "last_modified": 1777484828
   },
   "10517": {
     "name": "GANGLION  (2025) İNGİLİZCE",
@@ -45326,8 +45326,8 @@
   "10554": {
     "name": "REBORN AS A VENDING MACHINE, I NOW WANDER THE DUNGEON 3RD SEASON  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1776878815
+    "last_episode": 5,
+    "last_modified": 1777484828
   },
   "10555": {
     "name": "REINCARNATED AS A DRAGON HATCHLING  (2026) İNGİLİZCE",
@@ -45350,8 +45350,8 @@
   "10558": {
     "name": "RENT-A-GIRLFRIEND SEASON 5  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1776878815
+    "last_episode": 4,
+    "last_modified": 1777484828
   },
   "10559": {
     "name": "RE:ZERO: STARTING LIFE IN ANOTHER WORLD SEASON 3  (2024) İNGİLİZCE",
@@ -45362,8 +45362,8 @@
   "10560": {
     "name": "RE:ZERO: STARTING LIFE IN ANOTHER WORLD SEASON 4  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1776878815
+    "last_episode": 4,
+    "last_modified": 1777484828
   },
   "10561": {
     "name": "ROOSTER FIGHTER  (2026) İNGİLİZCE",
@@ -45422,8 +45422,8 @@
   "10570": {
     "name": "THE BEGINNING AFTER THE END SEASON 2  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1776894500
+    "last_episode": 5,
+    "last_modified": 1777484828
   },
   "10571": {
     "name": "THE DARK HISTORY OF THE REINCARNATED VILLAINESS  (2025) İNGİLİZCE",
@@ -45722,8 +45722,8 @@
   "10620": {
     "name": "O11CE: NEW GENERATION  (2026)",
     "last_season": 1,
-    "last_episode": 17,
-    "last_modified": 1776981604
+    "last_episode": 20,
+    "last_modified": 1777484828
   },
   "10621": {
     "name": "SMILING FRIENDS  (2020)",
@@ -46264,5 +46264,23 @@
     "last_season": 1,
     "last_episode": 3,
     "last_modified": 1777466129
+  },
+  "10711": {
+    "name": "THE CAGE 2026  (2026)",
+    "last_season": 1,
+    "last_episode": 5,
+    "last_modified": 1777484828
+  },
+  "10712": {
+    "name": "TOUGEN ANKI  (2025)",
+    "last_season": 1,
+    "last_episode": 24,
+    "last_modified": 1777484828
+  },
+  "10713": {
+    "name": "SOLD OUT ON YOU(BILINMIYOR)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1777484828
   }
 }
