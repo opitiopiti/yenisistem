@@ -2135,7 +2135,8 @@
     {"name": "GIRIGO", "year": "2026"},
     {"name": "DUE SPICCI", "year": "2026"},
     {"name": "STRAIGHT TO HELL", "year": "2026"},
-    {"name": "JIGOKU NI OCHIRU WA YO", "year": "2026"}
+    {"name": "JIGOKU NI OCHIRU WA YO", "year": "2026"},
+    {"name": "SHOULD I MARRY A MURDERER?", "year": "2026"}
   ],
   "HBO DİZİLERİ": [
     {"name": "THE PITT", "year": "2025"},
@@ -2765,7 +2766,9 @@
     {"name": "NIPPON SANGOKU", "year": "2026"},
     {"name": "NIPPON SANGOKU: THE THREE NATIONS OF THE CRIMSON SUN", "year": "2026"},
     {"name": "KEVIN", "year": "2026"},
-    {"name": "CANGAÇO NOVO", "year": "2023"}
+    {"name": "CANGAÇO NOVO", "year": "2023"},
+    {"name": "LA CASA DE LOS ESPÍRITUS", "year": "2026"},
+    {"name": "THE HOUSE OF THE SPIRITS", "year": "2026"}
   ],
   "APPLE TV+ DİZİLERİ": [
     {"name": "THE LAST THING HE TOLD ME", "year": "2023"},
@@ -3535,7 +3538,8 @@
     {"name": "THE MUPPETS MAYHEM", "year": "2023"},
     {"name": "STAR WARS: MAUL - SHADOW LORD", "year": "2026"},
     {"name": "MARVEL'S AVENGERS", "year": "2013"},
-    {"name": "BIZE BI'ŞEY OLMAZ", "year": "2026"}
+    {"name": "BIZE BI'ŞEY OLMAZ", "year": "2026"},
+    {"name": "GOLD LAND", "year": "2026"}
   ],
   "HUNAN TV DİZİLERİ": [
     {"name": "MIDSUMMER NIGHT", "year": "2013"},
