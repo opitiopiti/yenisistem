@@ -30244,5 +30244,47 @@
     "year": 2004,
     "poster": "https://image.tmdb.org/t/p/w500/gnOwOb82chSJkQEZ9pd6jf2ZrEX.jpg",
     "imdb": 8.3
+  },
+  "/dizi/envidiosa": {
+    "group": "Envidiosa",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/qYw979lIT163wN2z2P6DHoVEftj.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/should-i-marry-a-murderer": {
+    "group": "Should I Marry A Murderer?",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/AeY7DEEGn7cH3HoUDd9K8FZ1jCv.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/the-cage-2026": {
+    "group": "The Cage 2026",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/294x441/the-cage-2026.webp",
+    "imdb": 6.4
+  },
+  "/dizi/the-other-bennet-sister/": {
+    "group": "The Other Bennet Sister",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/esU4D2XSA7hNHC8G2bmMkvX5g5H.jpg",
+    "imdb": 8.3
+  },
+  "/dizi/the-cage-2026/": {
+    "group": "The Cage 2026",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/163x245/the-cage-2026.webp",
+    "imdb": 6.4
+  },
+  "/dizi/tougen-anki/": {
+    "group": "Tougen Anki",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/vnasRNhwT5M3OvTAMzYn4i5fQcT.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/should-i-marry-a-murderer/": {
+    "group": "Should I Marry A Murderer?",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/AeY7DEEGn7cH3HoUDd9K8FZ1jCv.jpg",
+    "imdb": 0.0
   }
 }

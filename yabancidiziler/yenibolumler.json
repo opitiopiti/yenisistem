@@ -116,6 +116,15 @@
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg"
   },
+  "/dizi/will-trent": {
+    "group": "Will Trent",
+    "last_season": 4,
+    "last_episode": 15,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/qG5O46gUxxYGImld03tl2zLhvrg.jpg"
+  },
   "/dizi/dmv": {
     "group": "DMV",
     "last_season": 1,
