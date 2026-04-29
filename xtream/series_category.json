@@ -2957,7 +2957,8 @@
     {"name": "MAXIMUM PLEASURE GUARANTEED", "year": "2026"},
     {"name": "MARGO'S GOT MONEY TROUBLES", "year": "2026"},
     {"name": "MY BROTHER THE MINOTAUR", "year": "2026"},
-    {"name": "WIDOW’S BAY", "year": "2026"}
+    {"name": "WIDOW’S BAY", "year": "2026"},
+    {"name": "WIDOW'S BAY", "year": "2026"}
   ],
   "TV TOKYO DİZİLERİ": [
     {"name": "THE DARWIN INCIDENT", "year": "2026"},
@@ -4042,7 +4043,8 @@
     {"name": "BLUE EXORCIST", "year": "2011"},
     {"name": "HELLSING ULTIMATE", "year": "2006"},
     {"name": "PEOPLE OF EARTH", "year": "2016"},
-    {"name": "THE RAMPARTS OF ICE", "year": "2026"}
+    {"name": "THE RAMPARTS OF ICE", "year": "2026"},
+    {"name": "KOORI NO JOUHEKI", "year": "2026"}
   ],
   "MGM+ DİZİLERİ": [
     {"name": "NINE BODIES IN A MEXICAN MORGUE", "year": "2025"},
@@ -4475,7 +4477,10 @@
     {"name": "BLACK LAGOON", "year": "2006"},
     {"name": "HAI SUKOA GARU", "year": "2018"},
     {"name": "DR. STONE", "year": "2019"},
-    {"name": "KARA KIŞ", "year": "2017"}
+    {"name": "KARA KIŞ", "year": "2017"},
+    {"name": "HOKUTO NO KEN: FIST OF THE NORTH STAR", "year": "2026"},
+    {"name": "TENGOKU DAIMAKYOU", "year": "2023"},
+    {"name": "MUSHOKU TENSEI: ISEKAI ITTARA HONKI DASU", "year": "2021"}
   ],
   "AMC+ DİZİLERİ": [
     {"name": "DARK WINDS", "year": "2022"},
@@ -6490,7 +6495,8 @@
     {"name": "SENTENCED TO BE A HERO", "year": "2026"},
     {"name": "KAIJU NO. 8", "year": "2024"},
     {"name": "HELL'S PARADISE", "year": "2023"},
-    {"name": "BLEACH", "year": "2004"}
+    {"name": "BLEACH", "year": "2004"},
+    {"name": "YOZAKURA-SAN CHI NO DAISAKUSEN", "year": "2024"}
   ],
   "BBC TWO DİZİLERİ": [
     {"name": "INSIDE NO. 9", "year": "2014"},
