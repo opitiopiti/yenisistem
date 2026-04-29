@@ -1,4 +1,10 @@
 {
+  "/dizi/the-boys": {
+    "group": "The Boys",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+    "imdb": 8.4
+  },
   "/dizi/daredevil-born-again": {
     "group": "Daredevil: Born Again",
     "year": 2025,
@@ -16,6 +22,12 @@
     "year": 2024,
     "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
     "imdb": 6.9
+  },
+  "/dizi/la-casa-de-los-espiritus": {
+    "group": "La Casa de los Espíritus",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/lzy5lANYtUp24VTnX0NnnwAnvJa.jpg",
+    "imdb": 8.1
   },
   "/dizi/the-dark-wizard": {
     "group": "The Dark Wizard",
@@ -137,29 +149,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/4SWP79aer5YBv3pCKCVCD8sRiZL.jpg",
     "imdb": 7.0
   },
-  "/dizi/outlander": {
-    "group": "Outlander",
-    "year": 2014,
-    "poster": "https://image.tmdb.org/t/p/w500/bxBmfyzK0ARF9hqf2pbFWsddH14.jpg",
-    "imdb": 8.2
+  "/dizi/la-casa-de-los-espiritus/": {
+    "group": "La Casa de los Espíritus",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/lzy5lANYtUp24VTnX0NnnwAnvJa.jpg",
+    "imdb": 8.1
   },
-  "/dizi/sheriff-country": {
-    "group": "Sheriff Country",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
-    "imdb": 6.6
-  },
-  "/dizi/fire-country": {
-    "group": "Fire Country",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
-    "imdb": 8.2
-  },
-  "/dizi/boston-blue": {
-    "group": "Boston Blue",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/8pyxutHxpgBt8ZwbIG2TZWCW394.jpg",
-    "imdb": 6.2
+  "/dizi/rescue-me/": {
+    "group": "Rescue Me",
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/gnOwOb82chSJkQEZ9pd6jf2ZrEX.jpg",
+    "imdb": 8.3
   },
   "/dizi/widows-bay/": {
     "group": "Widow’s Bay",
@@ -316,17 +316,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/73dpQI4dVkq5ajPOn0muqSPBKYD.jpg",
     "imdb": 8.0
-  },
-  "/dizi/mint/": {
-    "group": "Mint",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/Ae8jSNjUgdD4re3tNvFTcamQk3k.jpg",
-    "imdb": 5.1
-  },
-  "/dizi/big-mood/": {
-    "group": "Big Mood",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/80IgGVqEAep4Pjzyg3HZbRL7G4N.jpg",
-    "imdb": 6.9
   }
 }

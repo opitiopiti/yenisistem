@@ -30226,5 +30226,23 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
     "imdb": 6.5
+  },
+  "/dizi/la-casa-de-los-espiritus": {
+    "group": "La Casa de los Espíritus",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/lzy5lANYtUp24VTnX0NnnwAnvJa.jpg",
+    "imdb": 8.1
+  },
+  "/dizi/la-casa-de-los-espiritus/": {
+    "group": "La Casa de los Espíritus",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/lzy5lANYtUp24VTnX0NnnwAnvJa.jpg",
+    "imdb": 8.1
+  },
+  "/dizi/rescue-me/": {
+    "group": "Rescue Me",
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/gnOwOb82chSJkQEZ9pd6jf2ZrEX.jpg",
+    "imdb": 8.3
   }
 }
