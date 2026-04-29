@@ -1184,8 +1184,8 @@
   "3197": {
     "name": "R.J. DECKER  (2026)",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1776878815
+    "last_episode": 9,
+    "last_modified": 1777466129
   },
   "3198": {
     "name": "RAMUNE MONKÎ  (2026)",
@@ -3704,8 +3704,8 @@
   "3617": {
     "name": "DMV  (2025)",
     "last_season": 1,
-    "last_episode": 16,
-    "last_modified": 1776185973
+    "last_episode": 18,
+    "last_modified": 1777466129
   },
   "3618": {
     "name": "DOTA: DRAGON’S BLOOD  (2021)",
@@ -45992,8 +45992,8 @@
   "10665": {
     "name": "MARGO'S GOT MONEY TROUBLES  (2026)",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1776915527
+    "last_episode": 5,
+    "last_modified": 1777466129
   },
   "10666": {
     "name": "SOLD OUT ON YOU  (2026)",
@@ -46228,5 +46228,41 @@
     "last_season": 1,
     "last_episode": 2,
     "last_modified": 1777451556
+  },
+  "10705": {
+    "name": "LA CASA DE LOS ESPÍRITUS  (2026)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1777466129
+  },
+  "10706": {
+    "name": "GOLD LAND  (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1777466129
+  },
+  "10707": {
+    "name": "ENVIDIOSA  (2024)",
+    "last_season": 4,
+    "last_episode": 12,
+    "last_modified": 1777466129
+  },
+  "10708": {
+    "name": "GOLD LAND  (2022)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1777466129
+  },
+  "10709": {
+    "name": "SHOULD I MARRY A MURDERER?  (2026)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1777466129
+  },
+  "10710": {
+    "name": "THE HOUSE OF THE SPIRITS  (2026)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1777466129
   }
 }
