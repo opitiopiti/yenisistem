@@ -1,4 +1,46 @@
 {
+  "/dizi/daredevil-born-again": {
+    "group": "Daredevil: Born Again",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/the-testaments": {
+    "group": "The Testaments",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/criminal-record": {
+    "group": "Criminal Record",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/the-dark-wizard": {
+    "group": "The Dark Wizard",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/qGbsQ6fhZPBhx9kgN0utAIyGRry.jpg",
+    "imdb": 8.1
+  },
+  "/dizi/margos-got-money-troubles": {
+    "group": "Margo’s Got Money Troubles",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg",
+    "imdb": 9.0
+  },
+  "/dizi/imperfect-women": {
+    "group": "Imperfect Women",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg",
+    "imdb": 5.5
+  },
+  "/dizi/widows-bay": {
+    "group": "Widow’s Bay",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
+    "imdb": 6.5
+  },
   "/dizi/funny-af-with-kevin-hart": {
     "group": "Funny AF with Kevin Hart",
     "year": 2026,
@@ -119,41 +161,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/8pyxutHxpgBt8ZwbIG2TZWCW394.jpg",
     "imdb": 6.2
   },
-  "/dizi/beyond-paradise": {
-    "group": "Beyond Paradise",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/7zwbypEzcjOyNuTLSD43fTB9kR8.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/sold-out-on-you": {
-    "group": "Sold Out on You",
+  "/dizi/widows-bay/": {
+    "group": "Widow’s Bay",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
-    "imdb": 7.7
-  },
-  "/dizi/the-hunting-party": {
-    "group": "The Hunting Party",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/mjJMOLr966Q78YUPu0pVA0ydBIP.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/matlock": {
-    "group": "Matlock",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/6kEAVyhalzv4HCAfnLfXUcF3nQZ.jpg",
-    "imdb": 7.1
-  },
-  "/dizi/late-bloomer": {
-    "group": "Late Bloomer",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/cdyKElGB4whoIS6zcJqNWQNaVsj.jpg",
-    "imdb": 8.8
-  },
-  "/dizi/going-dutch": {
-    "group": "Going Dutch",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/jq0sB0UMVjRnAfYDQ9Wd1i4vt1L.jpg",
-    "imdb": 5.6
+    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
+    "imdb": 6.5
   },
   "/dizi/eristyksissa/": {
     "group": "Eristyksissä",
@@ -316,11 +328,5 @@
     "year": 2024,
     "poster": "https://image.tmdb.org/t/p/w500/80IgGVqEAep4Pjzyg3HZbRL7G4N.jpg",
     "imdb": 6.9
-  },
-  "/dizi/matka-king/": {
-    "group": "Matka King",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/cAWIMbCmzVBi86kEOHKjHZCKGyo.jpg",
-    "imdb": 7.4
   }
 }

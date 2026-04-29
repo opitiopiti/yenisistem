@@ -30214,5 +30214,17 @@
     "year": 2020,
     "poster": "https://image.tmdb.org/t/p/w500/90JZFtUBLZDayyTuWPFazNzwkGe.jpg",
     "imdb": 6.9
+  },
+  "/dizi/widows-bay": {
+    "group": "Widow’s Bay",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/widows-bay/": {
+    "group": "Widow’s Bay",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
+    "imdb": 6.5
   }
 }
