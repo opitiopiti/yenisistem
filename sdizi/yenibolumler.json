@@ -1,4 +1,10 @@
 {
+  "/diziler/the-secret-saturdays.html": {
+    "group": "THE SECRET SATURDAYS",
+    "year": "2008",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/A6ulaU7kehrXmMOhuaBW98qx2aL.jpg"
+  },
   "/diziler/dorohedoro.html": {
     "group": "DOROHEDORO",
     "year": "2020",
@@ -13,9 +19,9 @@
   },
   "/diziler/sold-out-on-you.html": {
     "group": "SOLD OUT ON YOU",
-    "year": null,
-    "imdb": null,
-    "poster": null
+    "year": "2026",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg"
   },
   "/diziler/classroom-of-the-elite.html": {
     "group": "CLASSROOM OF THE ELITE",

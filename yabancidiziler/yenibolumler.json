@@ -124,32 +124,5 @@
     "year": "2023",
     "imdb": "7.7",
     "poster": "https://image.tmdb.org/t/p/w500/qG5O46gUxxYGImld03tl2zLhvrg.jpg"
-  },
-  "/dizi/dmv": {
-    "group": "DMV",
-    "last_season": 1,
-    "last_episode": 18,
-    "start_episode": 1,
-    "year": "2025",
-    "imdb": "5.6",
-    "poster": "https://image.tmdb.org/t/p/w500/nLCpxH7BhFwP50lF0VFpxeeFjmM.jpg"
-  },
-  "/dizi/fbi": {
-    "group": "FBI",
-    "last_season": 8,
-    "last_episode": 19,
-    "start_episode": 1,
-    "year": "2018",
-    "imdb": "7.1",
-    "poster": "https://image.tmdb.org/t/p/w500/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg"
-  },
-  "/dizi/the-cage": {
-    "group": "The Cage",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "6.7",
-    "poster": "https://image.tmdb.org/t/p/w500/ecky8BZcvQMDJFdMNFrmliS0rtU.jpg"
   }
 }

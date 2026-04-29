@@ -30286,5 +30286,59 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/AeY7DEEGn7cH3HoUDd9K8FZ1jCv.jpg",
     "imdb": 0.0
+  },
+  "/dizi/the-way-home": {
+    "group": "The Way Home",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/black%e2%98%85%e2%98%85rock-shooter-dawn-fall/": {
+    "group": "Black★★Rock Shooter: Dawn Fall",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/fjwT6zU73MTptIkqta16dBKycGq.jpg",
+    "imdb": 5.6
+  },
+  "/dizi/hokuto-no-ken-fist-of-the-north-star/": {
+    "group": "Hokuto no Ken: Fist of the North Star",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/fVJfKk7MkRlw90FWeLdduOeTxcp.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/hi-no-tori-eden-no-sora/": {
+    "group": "Hi no tori: Eden no sora",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/zMhJg3twKFWzOWeUYN8XEQAtGlZ.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/koori-no-jouheki/": {
+    "group": "Koori no Jouheki",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/rke9UC2QrogvxiQD9TGpbvqDosi.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/summertime-render/": {
+    "group": "Summertime Render",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/m9e7chRW8Q8Go1Dv00RCUHbMoNe.jpg",
+    "imdb": 8.2
+  },
+  "/dizi/tengoku-daimakyou/": {
+    "group": "Tengoku Daimakyou",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/74EYbgajUt8X2kxpu62dMR7q8jH.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/yozakura-san-chi-no-daisakusen/": {
+    "group": "Yozakura-san Chi no Daisakusen",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/dTtXbR0DenriganfBidZxFLk4Xx.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/mushoku-tensei-isekai-ittara-honki-dasu/": {
+    "group": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+    "imdb": 8.2
   }
 }

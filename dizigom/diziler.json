@@ -29242,5 +29242,29 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/8FK9esQsOZtOHtDJYHVyDXFcfJE.jpg",
     "imdb": 10.0
+  },
+  "/dizi-izle/the-house-of-the-spirits": {
+    "group": "THE HOUSE OF THE SPIRITS",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/yb682O0KCZlS5qRydxOytO5A6co.jpg",
+    "imdb": 0.0
+  },
+  "/dizi-izle/should-i-marry-a-murderer": {
+    "group": "SHOULD I MARRY A MURDERER?",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/kSnudctwOTHPArz78vHmf4Emc1B.jpg",
+    "imdb": 0.0
+  },
+  "/dizi-izle/gold-land": {
+    "group": "GOLD LAND",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/ixBHQ96ryMa8Q0uIOFdUCjqRyy8.jpg",
+    "imdb": 9.0
+  },
+  "/dizi-izle/widows-bay": {
+    "group": "WIDOW'S BAY",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
+    "imdb": 7.2
   }
 }

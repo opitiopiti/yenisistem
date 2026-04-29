@@ -125,6 +125,18 @@
     "poster": "https://image.tmdb.org/t/p/w500/yWkVOpu2dTYWSM0sodSIriVZnNn.jpg",
     "imdb": 8.4
   },
+  "/dizi/happys-place": {
+    "group": "Happy’s Place",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/3dehoKPCwLwKTWATfzGqoJ2Psdl.jpg",
+    "imdb": 6.1
+  },
+  "/dizi/the-way-home": {
+    "group": "The Way Home",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg",
+    "imdb": 7.5
+  },
   "/dizi/the-cage-2026": {
     "group": "The Cage 2026",
     "year": 2026,
@@ -137,17 +149,53 @@
     "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
     "imdb": 5.1
   },
-  "/dizi/the-comeback": {
-    "group": "The Comeback",
-    "year": 2005,
-    "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg",
-    "imdb": 7.3
+  "/dizi/black%e2%98%85%e2%98%85rock-shooter-dawn-fall/": {
+    "group": "Black★★Rock Shooter: Dawn Fall",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/fjwT6zU73MTptIkqta16dBKycGq.jpg",
+    "imdb": 5.6
   },
-  "/dizi/rooster": {
-    "group": "Rooster",
+  "/dizi/hokuto-no-ken-fist-of-the-north-star/": {
+    "group": "Hokuto no Ken: Fist of the North Star",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
-    "imdb": 7.4
+    "poster": "https://image.tmdb.org/t/p/w500/fVJfKk7MkRlw90FWeLdduOeTxcp.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/hi-no-tori-eden-no-sora/": {
+    "group": "Hi no tori: Eden no sora",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/zMhJg3twKFWzOWeUYN8XEQAtGlZ.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/koori-no-jouheki/": {
+    "group": "Koori no Jouheki",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/rke9UC2QrogvxiQD9TGpbvqDosi.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/summertime-render/": {
+    "group": "Summertime Render",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/m9e7chRW8Q8Go1Dv00RCUHbMoNe.jpg",
+    "imdb": 8.2
+  },
+  "/dizi/tengoku-daimakyou/": {
+    "group": "Tengoku Daimakyou",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/74EYbgajUt8X2kxpu62dMR7q8jH.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/yozakura-san-chi-no-daisakusen/": {
+    "group": "Yozakura-san Chi no Daisakusen",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/dTtXbR0DenriganfBidZxFLk4Xx.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/mushoku-tensei-isekai-ittara-honki-dasu/": {
+    "group": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
+    "imdb": 8.2
   },
   "/dizi/the-other-bennet-sister/": {
     "group": "The Other Bennet Sister",
@@ -268,53 +316,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
     "imdb": 7.3
-  },
-  "/dizi/sold-out-on-you/": {
-    "group": "Sold Out on You",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
-    "imdb": 7.7
-  },
-  "/dizi/cangaco-novo/": {
-    "group": "Cangaço Novo",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/rBiDQaJRWnQQABHKkxBdxPfmkyP.jpg",
-    "imdb": 8.2
-  },
-  "/dizi/cochinas/": {
-    "group": "Cochinas",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/mwHiEXTdby9chLpuNrWGSUt8C8p.jpg",
-    "imdb": 5.2
-  },
-  "/dizi/my-brother-the-minotaur/": {
-    "group": "My Brother the Minotaur",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/iKvNRK9ThYLgxkmalt2CrQyvEpQ.jpg",
-    "imdb": 10.0
-  },
-  "/dizi/temiz-para/": {
-    "group": "Temiz Para",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/4SWP79aer5YBv3pCKCVCD8sRiZL.jpg",
-    "imdb": 7.0
-  },
-  "/dizi/recale/": {
-    "group": "Recalé",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/zsKWS6BwdKbS9nrE38V0500TKoX.jpg",
-    "imdb": 6.8
-  },
-  "/dizi/stranger-things-tales-from-85/": {
-    "group": "Stranger Things: Tales from ’85",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/2orq3F4a1prP3RnJjYSWzSjHYZQ.jpg",
-    "imdb": 4.2
-  },
-  "/dizi/betrayal-secrets-lies/": {
-    "group": "Betrayal: Secrets & Lies",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/d7KMM6MFMgVboi0aUOUcpbEpFQB.jpg",
-    "imdb": 6.5
   }
 }
