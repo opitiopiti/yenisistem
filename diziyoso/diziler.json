@@ -30346,5 +30346,17 @@
     "year": 2022,
     "poster": "https://image.tmdb.org/t/p/w500/A6mxBwvvv63JXZm3xXKv4SugE0L.jpg",
     "imdb": 8.4
+  },
+  "/dizi/man-on-fire": {
+    "group": "Man on Fire",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/5LpGrQkDPOg3bsJsuNhrH9hymMS.jpg",
+    "imdb": 5.5
+  },
+  "/dizi/man-on-fire/": {
+    "group": "Man on Fire",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/5LpGrQkDPOg3bsJsuNhrH9hymMS.jpg",
+    "imdb": 5.5
   }
 }

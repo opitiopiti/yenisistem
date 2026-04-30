@@ -1141,5 +1141,14 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/yb682O0KCZlS5qRydxOytO5A6co.jpg"
+  },
+  "/dizi/man-on-fire": {
+    "group": "Man on Fire",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/5LpGrQkDPOg3bsJsuNhrH9hymMS.jpg"
   }
 }

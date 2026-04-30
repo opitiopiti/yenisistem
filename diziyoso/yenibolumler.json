@@ -1,4 +1,10 @@
 {
+  "/dizi/man-on-fire": {
+    "group": "Man on Fire",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/5LpGrQkDPOg3bsJsuNhrH9hymMS.jpg",
+    "imdb": 5.5
+  },
   "/dizi/the-boys": {
     "group": "The Boys",
     "year": 2019,
@@ -143,11 +149,11 @@
     "poster": "https://dzycdn.com/img/t/294x441/the-cage-2026.webp",
     "imdb": 6.4
   },
-  "/dizi/the-audacity": {
-    "group": "The Audacity",
+  "/dizi/man-on-fire/": {
+    "group": "Man on Fire",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
-    "imdb": 5.1
+    "poster": "https://image.tmdb.org/t/p/w500/5LpGrQkDPOg3bsJsuNhrH9hymMS.jpg",
+    "imdb": 5.5
   },
   "/dizi/sono-bisque-doll-wa-koi-wo-suru/": {
     "group": "Sono Bisque Doll wa Koi wo Suru",
@@ -310,11 +316,5 @@
     "year": 2025,
     "poster": "https://image.tmdb.org/t/p/w500/tb09vxLJ5yf7pMbmWqRvWE6bL5y.jpg",
     "imdb": 6.6
-  },
-  "/dizi/due-spicci/": {
-    "group": "Due spicci",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/6x2Jn045qsaevVtUuCKBjrDBwD3.jpg",
-    "imdb": 0.0
   }
 }

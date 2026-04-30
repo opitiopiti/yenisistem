@@ -1,4 +1,10 @@
 {
+  "/diziler/man-on-fire.html": {
+    "group": "MAN ON FIRE",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
   "/diziler/high-potential.html": {
     "group": "HIGH POTENTIAL",
     "year": "2024",
@@ -76,11 +82,5 @@
     "year": "2024",
     "imdb": "7.3",
     "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg"
-  },
-  "/diziler/this-city-is-ours.html": {
-    "group": "THIS CITY IS OURS",
-    "year": "2025",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/fQpJFVWX8MCdOkwoutDw7tjhvgp.jpg"
   }
 }

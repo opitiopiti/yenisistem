@@ -8,6 +8,15 @@
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg"
   },
+  "/dizi/man-on-fire": {
+    "group": "Man on Fire",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/5LpGrQkDPOg3bsJsuNhrH9hymMS.jpg"
+  },
   "/dizi/sold-out-on-you": {
     "group": "Sold out on You",
     "last_season": 1,
