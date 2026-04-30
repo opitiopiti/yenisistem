@@ -1,27 +1,33 @@
 {
-  "/dizi-izle/million-dollar-secret": {
-    "group": "MILLION DOLLAR SECRET",
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/iC6xzFgRRq5yHngSnmusXkNL928.jpg",
-    "imdb": 7.5
-  },
-  "/dizi-izle/gold-land": {
-    "group": "GOLD LAND",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/ixBHQ96ryMa8Q0uIOFdUCjqRyy8.jpg",
-    "imdb": 9.0
-  },
-  "/dizi-izle/criminal-record": {
-    "group": "CRIMINAL RECORD",
-    "year": "2024",
-    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
-    "imdb": 6.9
+  "/dizi-izle/the-boys": {
+    "group": "THE BOYS",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+    "imdb": 8.437
   },
   "/dizi-izle/widows-bay": {
     "group": "WIDOW'S BAY",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
     "imdb": 7.2
+  },
+  "/dizi-izle/daredevil-born-again": {
+    "group": "DAREDEVIL: BORN AGAIN",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+    "imdb": 8.0
+  },
+  "/dizi-izle/imperfect-women": {
+    "group": "IMPERFECT WOMEN",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg",
+    "imdb": 5.923
+  },
+  "/dizi-izle/the-house-of-the-spirits": {
+    "group": "THE HOUSE OF THE SPIRITS",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/yb682O0KCZlS5qRydxOytO5A6co.jpg",
+    "imdb": 10.0
   },
   "/dizi-izle/the-dark-wizard": {
     "group": "THE DARK WIZARD",
@@ -35,47 +41,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/kSnudctwOTHPArz78vHmf4Emc1B.jpg",
     "imdb": 0.0
   },
-  "/dizi-izle/envious": {
-    "group": "ENVIOUS",
-    "year": "2024",
-    "poster": "https://image.tmdb.org/t/p/w500/qYw979lIT163wN2z2P6DHoVEftj.jpg",
-    "imdb": 7.7
-  },
-  "/dizi-izle/the-boys": {
-    "group": "THE BOYS",
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
-    "imdb": 8.437
-  },
-  "/dizi-izle/margos-got-money-troubles": {
-    "group": "MARGO'S GOT MONEY TROUBLES",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/5iVWUVfxOS1JFudntvPcLyHBw9y.jpg",
-    "imdb": 7.972
-  },
-  "/dizi-izle/daredevil-born-again": {
-    "group": "DAREDEVIL: BORN AGAIN",
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
-    "imdb": 8.0
-  },
-  "/dizi-izle/straight-to-hell": {
-    "group": "STRAIGHT TO HELL",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/8FK9esQsOZtOHtDJYHVyDXFcfJE.jpg",
-    "imdb": 10.0
-  },
-  "/dizi-izle/the-testaments": {
-    "group": "THE TESTAMENTS",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
-    "imdb": 6.2
-  },
   "/dizi-izle/star-wars-maul-shadow-lord": {
     "group": "STAR WARS: MAUL - SHADOW LORD",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
     "imdb": 7.3
+  },
+  "/dizi-izle/envious": {
+    "group": "ENVIOUS",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/qYw979lIT163wN2z2P6DHoVEftj.jpg",
+    "imdb": 7.7
   },
   "/dizi-izle/sold-out-on-you": {
     "group": "SOLD OUT ON YOU",
@@ -83,16 +59,40 @@
     "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
     "imdb": 9.0
   },
-  "/dizi-izle/the-house-of-the-spirits": {
-    "group": "THE HOUSE OF THE SPIRITS",
+  "/dizi-izle/the-testaments": {
+    "group": "THE TESTAMENTS",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/yb682O0KCZlS5qRydxOytO5A6co.jpg",
-    "imdb": 10.0
+    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
+    "imdb": 6.2
   },
-  "/dizi-izle/imperfect-women": {
-    "group": "IMPERFECT WOMEN",
+  "/dizi-izle/criminal-record": {
+    "group": "CRIMINAL RECORD",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
+    "imdb": 6.9
+  },
+  "/dizi-izle/gold-land": {
+    "group": "GOLD LAND",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg",
-    "imdb": 5.923
+    "poster": "https://image.tmdb.org/t/p/w500/ixBHQ96ryMa8Q0uIOFdUCjqRyy8.jpg",
+    "imdb": 9.0
+  },
+  "/dizi-izle/margos-got-money-troubles": {
+    "group": "MARGO'S GOT MONEY TROUBLES",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/5iVWUVfxOS1JFudntvPcLyHBw9y.jpg",
+    "imdb": 7.972
+  },
+  "/dizi-izle/million-dollar-secret": {
+    "group": "MILLION DOLLAR SECRET",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/iC6xzFgRRq5yHngSnmusXkNL928.jpg",
+    "imdb": 7.5
+  },
+  "/dizi-izle/straight-to-hell": {
+    "group": "STRAIGHT TO HELL",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/8FK9esQsOZtOHtDJYHVyDXFcfJE.jpg",
+    "imdb": 10.0
   }
 }

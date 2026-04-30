@@ -1,4 +1,10 @@
 {
+  "/diziler/sold-out-on-you.html": {
+    "group": "SOLD OUT ON YOU",
+    "year": "2026",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg"
+  },
   "/diziler/dr-stone.html": {
     "group": "DR. STONE",
     "year": "2019",
@@ -35,12 +41,6 @@
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/aRwmcX36r1ZpR5Xq5mmFcpUDQ8J.jpg"
   },
-  "/diziler/sold-out-on-you.html": {
-    "group": "SOLD OUT ON YOU",
-    "year": "2026",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg"
-  },
   "/diziler/classroom-of-the-elite.html": {
     "group": "CLASSROOM OF THE ELITE",
     "year": "2017",
@@ -76,11 +76,5 @@
     "year": "2026",
     "imdb": "6.9",
     "poster": "https://image.tmdb.org/t/p/w500/kMb8hCou8RZf7uXE1rTE8ZDgcvg.jpg"
-  },
-  "/diziler/imperfect-women.html": {
-    "group": "IMPERFECT WOMEN",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg"
   }
 }
