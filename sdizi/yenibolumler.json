@@ -1,4 +1,10 @@
 {
+  "/diziler/high-potential.html": {
+    "group": "HIGH POTENTIAL",
+    "year": "2024",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg"
+  },
   "/diziler/the-secret-saturdays.html": {
     "group": "THE SECRET SATURDAYS",
     "year": "2008",
@@ -76,11 +82,5 @@
     "year": "2025",
     "imdb": "7.8",
     "poster": "https://image.tmdb.org/t/p/w500/fQpJFVWX8MCdOkwoutDw7tjhvgp.jpg"
-  },
-  "/diziler/straight-to-hell.html": {
-    "group": "STRAIGHT TO HELL",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/8FK9esQsOZtOHtDJYHVyDXFcfJE.jpg"
   }
 }
