@@ -149,6 +149,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
     "imdb": 5.1
   },
+  "/dizi/sono-bisque-doll-wa-koi-wo-suru/": {
+    "group": "Sono Bisque Doll wa Koi wo Suru",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/A6mxBwvvv63JXZm3xXKv4SugE0L.jpg",
+    "imdb": 8.4
+  },
   "/dizi/black%e2%98%85%e2%98%85rock-shooter-dawn-fall/": {
     "group": "Black★★Rock Shooter: Dawn Fall",
     "year": 2022,
@@ -310,11 +316,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/6x2Jn045qsaevVtUuCKBjrDBwD3.jpg",
     "imdb": 0.0
-  },
-  "/dizi/girigo/": {
-    "group": "Girigo",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/2CfTNVaR8kZQkWtWWE3Cntaiq33.jpg",
-    "imdb": 7.3
   }
 }

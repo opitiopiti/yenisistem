@@ -1,4 +1,22 @@
 {
+  "/dizi/dorohedoro": {
+    "group": "Dorohedoro",
+    "last_season": 2,
+    "last_episode": 6,
+    "start_episode": 1,
+    "year": "2020",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg"
+  },
+  "/dizi/sold-out-on-you": {
+    "group": "Sold out on You",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg"
+  },
   "/dizi/criminal-record": {
     "group": "Criminal Record",
     "last_season": 2,
