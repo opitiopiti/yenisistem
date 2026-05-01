@@ -10664,8 +10664,8 @@
   "4777": {
     "name": "PHANTOM LAWYER  (2026)",
     "last_season": 1,
-    "last_episode": 14,
-    "last_modified": 1777155814
+    "last_episode": 15,
+    "last_modified": 1777671628
   },
   "4778": {
     "name": "PHYSICAL: 100  (2023)",
@@ -45620,14 +45620,14 @@
   "10603": {
     "name": "BOTAN KAMIINA FULLY BLOSSOMS WHEN DRUNK  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1777069097
+    "last_episode": 4,
+    "last_modified": 1777671628
   },
   "10604": {
     "name": "FIST OF THE NORTH STAR (2026)  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1777069097
+    "last_episode": 6,
+    "last_modified": 1777671628
   },
   "10605": {
     "name": "DEXTER NEW BLOOD  (2021)",
@@ -46366,5 +46366,11 @@
     "last_season": 1,
     "last_episode": 2,
     "last_modified": 1777638365
+  },
+  "10728": {
+    "name": "MIRA: HER ŞEY YOLUNDAYMIŞ GIBI  (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1777671628
   }
 }
