@@ -1,4 +1,10 @@
 {
+  "/diziler/absolute-value-of-romance.html": {
+    "group": "ABSOLUTE VALUE OF ROMANCE",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg"
+  },
   "/diziler/half-man.html": {
     "group": "HALF MAN",
     "year": "2026",
@@ -76,11 +82,5 @@
     "year": "2026",
     "imdb": "8.9",
     "poster": "https://image.tmdb.org/t/p/w500/noguKCrUu1SqLlA5Ktrbl7W8op.jpg"
-  },
-  "/diziler/gold-land.html": {
-    "group": "GOLD LAND",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/ixBHQ96ryMa8Q0uIOFdUCjqRyy8.jpg"
   }
 }
