@@ -1,4 +1,28 @@
 {
+  "/diziler/mira-her-sey-yolundaymis-gibi.html": {
+    "group": "MIRA: HER ŞEY YOLUNDAYMIŞ GIBI",
+    "year": "2026",
+    "imdb": "6.2",
+    "poster": "https://image.tmdb.org/t/p/w500/sPTDlNpTCJkbDxVPlQvnOItDzuf.jpg"
+  },
+  "/diziler/bize-bisey-olmaz.html": {
+    "group": "BIZE BI'ŞEY OLMAZ",
+    "year": "2026",
+    "imdb": "6.1",
+    "poster": "https://image.tmdb.org/t/p/w500/tVNvaGS607lH5jTi1VLvWYV23sp.jpg"
+  },
+  "/diziler/lovely-runner.html": {
+    "group": "LOVELY RUNNER",
+    "year": "2024",
+    "imdb": "8.5",
+    "poster": "https://image.tmdb.org/t/p/w500/xJQyrif5M4UMoVBrBlwUabtaRxB.jpg"
+  },
+  "/diziler/phantom-lawyer.html": {
+    "group": "PHANTOM LAWYER",
+    "year": "2026",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg"
+  },
   "/diziler/absolute-value-of-romance.html": {
     "group": "ABSOLUTE VALUE OF ROMANCE",
     "year": "2026",
@@ -64,23 +88,5 @@
     "year": "2020",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg"
-  },
-  "/diziler/re-zero-starting-life-in-another-world.html": {
-    "group": "RE: ZERO - STARTING LIFE IN ANOTHER WORLD",
-    "year": "2016",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/aRwmcX36r1ZpR5Xq5mmFcpUDQ8J.jpg"
-  },
-  "/diziler/classroom-of-the-elite.html": {
-    "group": "CLASSROOM OF THE ELITE",
-    "year": "2017",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg"
-  },
-  "/diziler/o11ce-new-generation.html": {
-    "group": "O11CE: NEW GENERATION",
-    "year": "2026",
-    "imdb": "8.9",
-    "poster": "https://image.tmdb.org/t/p/w500/noguKCrUu1SqLlA5Ktrbl7W8op.jpg"
   }
 }

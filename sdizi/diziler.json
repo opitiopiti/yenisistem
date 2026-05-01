@@ -16702,5 +16702,23 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/5LpGrQkDPOg3bsJsuNhrH9hymMS.jpg"
+  },
+  "/diziler/mira-her-sey-yolundaymis-gibi.html": {
+    "group": "MIRA: HER ŞEY YOLUNDAYMIŞ GIBI",
+    "year": "2026",
+    "imdb": "6.2",
+    "poster": "https://image.tmdb.org/t/p/w500/sPTDlNpTCJkbDxVPlQvnOItDzuf.jpg"
+  },
+  "/diziler/bize-bisey-olmaz.html": {
+    "group": "BIZE BI'ŞEY OLMAZ",
+    "year": "2026",
+    "imdb": "6.1",
+    "poster": "https://image.tmdb.org/t/p/w500/tVNvaGS607lH5jTi1VLvWYV23sp.jpg"
+  },
+  "/diziler/lovely-runner.html": {
+    "group": "LOVELY RUNNER",
+    "year": "2024",
+    "imdb": "8.5",
+    "poster": "https://image.tmdb.org/t/p/w500/xJQyrif5M4UMoVBrBlwUabtaRxB.jpg"
   }
 }
