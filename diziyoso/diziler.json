@@ -30358,5 +30358,17 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/5LpGrQkDPOg3bsJsuNhrH9hymMS.jpg",
     "imdb": 5.5
+  },
+  "/dizi/goldeu-laendeu": {
+    "group": "Goldeu Laendeu",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/294x441/gold-land-2026.webp",
+    "imdb": 8.2
+  },
+  "/dizi/goldeu-laendeu/": {
+    "group": "Goldeu Laendeu",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/163x245/gold-land-2026.webp",
+    "imdb": 8.2
   }
 }

@@ -1150,5 +1150,14 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/5LpGrQkDPOg3bsJsuNhrH9hymMS.jpg"
+  },
+  "/dizi/9-1-1": {
+    "group": "9-1-1",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2018",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/6njUqsd3By2mJsdZm1P0moPLzs3.jpg"
   }
 }

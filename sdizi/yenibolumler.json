@@ -1,4 +1,28 @@
 {
+  "/diziler/half-man.html": {
+    "group": "HALF MAN",
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/1XcDgszF8YJqXZw4zYDR4JYaVlM.jpg"
+  },
+  "/diziler/your-friends-neighbors.html": {
+    "group": "YOUR FRIENDS & NEIGHBORS",
+    "year": "2025",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg"
+  },
+  "/diziler/for-all-mankind.html": {
+    "group": "FOR ALL MANKIND",
+    "year": "2019",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
+  },
+  "/diziler/monarch-legacy-of-monsters.html": {
+    "group": "MONARCH: LEGACY OF MONSTERS",
+    "year": "2023",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg"
+  },
   "/diziler/sold-out-on-you.html": {
     "group": "SOLD OUT ON YOU",
     "year": "2026",
@@ -58,23 +82,5 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/ixBHQ96ryMa8Q0uIOFdUCjqRyy8.jpg"
-  },
-  "/diziler/the-testaments.html": {
-    "group": "THE TESTAMENTS",
-    "year": "2026",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg"
-  },
-  "/diziler/daredevil-born-again.html": {
-    "group": "DAREDEVIL: BORN AGAIN",
-    "year": "2025",
-    "imdb": "8.5",
-    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg"
-  },
-  "/diziler/margos-got-money-troubles.html": {
-    "group": "MARGO'S GOT MONEY TROUBLES",
-    "year": "2026",
-    "imdb": "6.9",
-    "poster": "https://image.tmdb.org/t/p/w500/kMb8hCou8RZf7uXE1rTE8ZDgcvg.jpg"
   }
 }
