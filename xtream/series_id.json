@@ -1040,8 +1040,8 @@
   "3173": {
     "name": "MIRA  (2026) TR",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1777035301
+    "last_episode": 8,
+    "last_modified": 1777638365
   },
   "3174": {
     "name": "MISEUTEORI SUSADAN  (2024)",
@@ -1178,8 +1178,8 @@
   "3196": {
     "name": "PRIVILÈGES  (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1777035301
+    "last_episode": 6,
+    "last_modified": 1777638365
   },
   "3197": {
     "name": "R.J. DECKER  (2026)",
@@ -45560,8 +45560,8 @@
   "10593": {
     "name": "GEORGIE AND MANDY’S FIRST MARRIAGE  (2024)",
     "last_season": 2,
-    "last_episode": 17,
-    "last_modified": 1777035301
+    "last_episode": 18,
+    "last_modified": 1777638365
   },
   "10594": {
     "name": "JURY DUTY  (2026)",
@@ -45584,8 +45584,8 @@
   "10597": {
     "name": "MIRA  (2026)",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1777069097
+    "last_episode": 8,
+    "last_modified": 1777638365
   },
   "10598": {
     "name": "RABO DE PEIXE  (2023)",
@@ -46034,8 +46034,8 @@
   "10672": {
     "name": "HALF MAN  (2026)",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1777018767
+    "last_episode": 2,
+    "last_modified": 1777638365
   },
   "10673": {
     "name": "TEMIZ PARA(NONE) TR",
@@ -46360,5 +46360,11 @@
     "last_season": 1,
     "last_episode": 7,
     "last_modified": 1777553577
+  },
+  "10727": {
+    "name": "GOLDEU LAENDEU  (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1777638365
   }
 }
