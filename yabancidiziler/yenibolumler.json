@@ -8,6 +8,15 @@
     "imdb": "7.9",
     "poster": "https://image.tmdb.org/t/p/w500/6njUqsd3By2mJsdZm1P0moPLzs3.jpg"
   },
+  "/dizi/elsbeth": {
+    "group": "Elsbeth",
+    "last_season": 3,
+    "last_episode": 16,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/7lnNSbT90qwtrn1h9TvEkVFMz2P.jpg"
+  },
   "/dizi/for-all-mankind": {
     "group": "For All Mankind",
     "last_season": 5,
@@ -34,6 +43,15 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/1XcDgszF8YJqXZw4zYDR4JYaVlM.jpg"
+  },
+  "/dizi/late-bloomer": {
+    "group": "Late Bloomer",
+    "last_season": 3,
+    "last_episode": 2,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/cdyKElGB4whoIS6zcJqNWQNaVsj.jpg"
   },
   "/dizi/mira": {
     "group": "Mira",
@@ -62,6 +80,15 @@
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/bFmWIfzkcuiDZ4WqkOfVaHb4pR8.jpg"
   },
+  "/dizi/the-hunting-party": {
+    "group": "The Hunting Party",
+    "last_season": 2,
+    "last_episode": 9,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "6.2",
+    "poster": "https://image.tmdb.org/t/p/w500/mjJMOLr966Q78YUPu0pVA0ydBIP.jpg"
+  },
   "/dizi/the-trades": {
     "group": "The Trades",
     "last_season": 3,
@@ -79,41 +106,5 @@
     "year": "2025",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/lxmNQ1392ClqU56W0kx2h2ONF4V.jpg"
-  },
-  "/dizi/dorohedoro": {
-    "group": "Dorohedoro",
-    "last_season": 2,
-    "last_episode": 7,
-    "start_episode": 1,
-    "year": "2020",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg"
-  },
-  "/dizi/hacks": {
-    "group": "Hacks",
-    "last_season": 5,
-    "last_episode": 5,
-    "start_episode": 1,
-    "year": "2021",
-    "imdb": "8.2",
-    "poster": "https://image.tmdb.org/t/p/w500/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg"
-  },
-  "/dizi/man-on-fire": {
-    "group": "Man on Fire",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/5LpGrQkDPOg3bsJsuNhrH9hymMS.jpg"
-  },
-  "/dizi/sold-out-on-you": {
-    "group": "Sold out on You",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg"
   }
 }
