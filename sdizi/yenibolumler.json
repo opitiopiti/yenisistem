@@ -1,4 +1,22 @@
 {
+  "/diziler/we-are-all-trying-here.html": {
+    "group": "WE ARE ALL TRYING HERE",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/hMrBaA68y4mlmE5zjC3NM2cN1IV.jpg"
+  },
+  "/diziler/my-hero-academia.html": {
+    "group": "MY HERO ACADEMIA",
+    "year": "2016",
+    "imdb": "8.3",
+    "poster": "https://image.tmdb.org/t/p/w500/phuYuzqWW9ru8EA3HVjE9W2Rr3M.jpg"
+  },
+  "/diziler/phantom-lawyer.html": {
+    "group": "PHANTOM LAWYER",
+    "year": "2026",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg"
+  },
   "/diziler/the-jetty.html": {
     "group": "THE JETTY",
     "year": "2024",
@@ -22,12 +40,6 @@
     "year": "2024",
     "imdb": "8.5",
     "poster": "https://image.tmdb.org/t/p/w500/xJQyrif5M4UMoVBrBlwUabtaRxB.jpg"
-  },
-  "/diziler/phantom-lawyer.html": {
-    "group": "PHANTOM LAWYER",
-    "year": "2026",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg"
   },
   "/diziler/absolute-value-of-romance.html": {
     "group": "ABSOLUTE VALUE OF ROMANCE",
@@ -70,23 +82,5 @@
     "year": "2019",
     "imdb": "8.2",
     "poster": "https://image.tmdb.org/t/p/w500/ve1Sv3sVArmE0nlFjzadcNv1G8r.jpg"
-  },
-  "/diziler/man-on-fire.html": {
-    "group": "MAN ON FIRE",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/5LpGrQkDPOg3bsJsuNhrH9hymMS.jpg"
-  },
-  "/diziler/high-potential.html": {
-    "group": "HIGH POTENTIAL",
-    "year": "2024",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg"
-  },
-  "/diziler/the-secret-saturdays.html": {
-    "group": "THE SECRET SATURDAYS",
-    "year": "2008",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/A6ulaU7kehrXmMOhuaBW98qx2aL.jpg"
   }
 }
