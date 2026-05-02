@@ -29,7 +29,7 @@
   "/dizi/elsbeth": {
     "group": "Elsbeth",
     "last_season": 3,
-    "last_episode": 16,
+    "last_episode": 17,
     "start_episode": 1,
     "year": "2024",
     "imdb": "7.8",
@@ -128,7 +128,7 @@
   "/dizi/the-hunting-party": {
     "group": "The Hunting Party",
     "last_season": 2,
-    "last_episode": 9,
+    "last_episode": 12,
     "start_episode": 1,
     "year": "2025",
     "imdb": "6.2",
@@ -1046,7 +1046,7 @@
   "/dizi/late-bloomer": {
     "group": "Late Bloomer",
     "last_season": 3,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1,
     "year": "2024",
     "imdb": "8.4",
