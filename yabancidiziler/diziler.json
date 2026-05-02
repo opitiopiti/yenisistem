@@ -1159,5 +1159,23 @@
     "year": "2018",
     "imdb": "7.9",
     "poster": "https://image.tmdb.org/t/p/w500/6njUqsd3By2mJsdZm1P0moPLzs3.jpg"
+  },
+  "/dizi/interrogator": {
+    "group": "Interrogator",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2022",
+    "imdb": "7.1",
+    "poster": "https://image.tmdb.org/t/p/w500/ex9NwZW07bBWdVt48gSWRp7NP0v.jpg"
+  },
+  "/dizi/law-order-toronto-criminal-intent": {
+    "group": "Law & Order Toronto: Criminal Intent",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/eqD7W5EGue5Nvg0BNEnoRyMQAcz.jpg"
   }
 }

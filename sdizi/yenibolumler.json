@@ -1,4 +1,10 @@
 {
+  "/diziler/the-jetty.html": {
+    "group": "THE JETTY",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
   "/diziler/mira-her-sey-yolundaymis-gibi.html": {
     "group": "MIRA: HER ŞEY YOLUNDAYMIŞ GIBI",
     "year": "2026",
@@ -82,11 +88,5 @@
     "year": "2008",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/A6ulaU7kehrXmMOhuaBW98qx2aL.jpg"
-  },
-  "/diziler/dorohedoro.html": {
-    "group": "DOROHEDORO",
-    "year": "2020",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg"
   }
 }
