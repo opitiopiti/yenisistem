@@ -2,7 +2,7 @@
   "/dizi/absolute-value-of-romance": {
     "group": "Absolute Value of Romance",
     "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -11,7 +11,7 @@
   "/dizi/interrogator": {
     "group": "Interrogator",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 9,
     "start_episode": 1,
     "year": "2022",
     "imdb": "7.1",
@@ -19,8 +19,8 @@
   },
   "/dizi/law-order-toronto-criminal-intent": {
     "group": "Law & Order Toronto: Criminal Intent",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2024",
     "imdb": "7.0",
