@@ -1,21 +1,27 @@
 {
+  "/diziler/we-are-all-trying-here.html": {
+    "group": "WE ARE ALL TRYING HERE",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/hMrBaA68y4mlmE5zjC3NM2cN1IV.jpg"
+  },
+  "/diziler/one-piece-izle.html": {
+    "group": "ONE PIECE",
+    "year": "1999",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
+  },
   "/diziler/4-blocks.html": {
     "group": "4 BLOCKS",
-    "year": null,
-    "imdb": null,
-    "poster": null
+    "year": "2017",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/jVObyxtNxuPbG5czuKvm7pW56EV.jpg"
   },
   "/diziler/nippon-sangoku-the-three-nations-of-the-crimson-sun.html": {
     "group": "NIPPON SANGOKU: THE THREE NATIONS OF THE CRIMSON SUN",
     "year": "2026",
     "imdb": "8.3",
     "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg"
-  },
-  "/diziler/we-are-all-trying-here.html": {
-    "group": "WE ARE ALL TRYING HERE",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/hMrBaA68y4mlmE5zjC3NM2cN1IV.jpg"
   },
   "/diziler/my-hero-academia.html": {
     "group": "MY HERO ACADEMIA",
@@ -70,17 +76,5 @@
     "year": "2025",
     "imdb": "7.9",
     "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg"
-  },
-  "/diziler/for-all-mankind.html": {
-    "group": "FOR ALL MANKIND",
-    "year": "2019",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
-  },
-  "/diziler/monarch-legacy-of-monsters.html": {
-    "group": "MONARCH: LEGACY OF MONSTERS",
-    "year": "2023",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg"
   }
 }
