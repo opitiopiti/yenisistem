@@ -2,7 +2,7 @@
   "/dizi/marshals": {
     "group": "Marshals",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 10,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.3",
@@ -38,7 +38,7 @@
   "/dizi/tracker": {
     "group": "Tracker",
     "last_season": 3,
-    "last_episode": 18,
+    "last_episode": 19,
     "start_episode": 1,
     "year": "2024",
     "imdb": "6.4",
