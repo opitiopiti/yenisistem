@@ -362,7 +362,7 @@
   "/dizi/rooster": {
     "group": "Rooster",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 9,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.2",
@@ -371,7 +371,7 @@
   "/dizi/the-comeback": {
     "group": "The Comeback",
     "last_season": 3,
-    "last_episode": 5,
+    "last_episode": 7,
     "start_episode": 1,
     "year": "2005",
     "imdb": "8.0",
@@ -623,7 +623,7 @@
   "/dizi/star-wars-maul-shadow-lord": {
     "group": "Star Wars: Maul - Shadow Lord",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 10,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
