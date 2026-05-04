@@ -43,14 +43,5 @@
     "year": "2024",
     "imdb": "6.4",
     "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg"
-  },
-  "/dizi/secret-service": {
-    "group": "Secret Service",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "6.3",
-    "poster": "https://image.tmdb.org/t/p/w500/f7tksyddK3VvismfoWCwpXPqz0x.jpg"
   }
 }
