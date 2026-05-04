@@ -1,4 +1,28 @@
 {
+  "/dizi/euphoria": {
+    "group": "Euphoria",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
+    "imdb": 8.3
+  },
+  "/dizi/star-wars-maul-shadow-lord": {
+    "group": "Star Wars: Maul – Shadow Lord",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/the-comeback": {
+    "group": "The Comeback",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/rooster": {
+    "group": "Rooster",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
+    "imdb": 7.4
+  },
   "/dizi/privileges": {
     "group": "Privilèges",
     "year": 2026,
@@ -112,36 +136,6 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/bkMdvmjj1zEnVqZTPskBREDzTuS.jpg",
     "imdb": 7.4
-  },
-  "/dizi/ncis-sydney": {
-    "group": "NCIS: Sydney",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/6dYDa6h1AOZ7iZ1zv3nlw7qhErX.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/ncis-origins": {
-    "group": "NCIS: Origins",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/waWeC84DExojP5AHFbWaybj3wxv.jpg",
-    "imdb": 7.6
-  },
-  "/dizi/the-dark-wizard": {
-    "group": "The Dark Wizard",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/qGbsQ6fhZPBhx9kgN0utAIyGRry.jpg",
-    "imdb": 8.1
-  },
-  "/dizi/margos-got-money-troubles": {
-    "group": "Margo’s Got Money Troubles",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg",
-    "imdb": 9.0
-  },
-  "/dizi/imperfect-women": {
-    "group": "Imperfect Women",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/wW7rimhnokiQ8V6ha6VKIwHg8IV.jpg",
-    "imdb": 5.5
   },
   "/dizi/goldeu-laendeu/": {
     "group": "Goldeu Laendeu",

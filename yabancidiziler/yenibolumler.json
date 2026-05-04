@@ -1,4 +1,13 @@
 {
+  "/dizi/marshals": {
+    "group": "Marshals",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.3",
+    "poster": "https://image.tmdb.org/t/p/w500/nInfaveN1iFpRIcMGNKENoVVUT2.jpg"
+  },
   "/dizi/rooster": {
     "group": "Rooster",
     "last_season": 1,
@@ -25,6 +34,15 @@
     "year": "2005",
     "imdb": "8.0",
     "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg"
+  },
+  "/dizi/tracker": {
+    "group": "Tracker",
+    "last_season": 3,
+    "last_episode": 18,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "6.4",
+    "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg"
   },
   "/dizi/secret-service": {
     "group": "Secret Service",
