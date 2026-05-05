@@ -1186,5 +1186,14 @@
     "year": "2026",
     "imdb": "6.3",
     "poster": "https://image.tmdb.org/t/p/w500/f7tksyddK3VvismfoWCwpXPqz0x.jpg"
+  },
+  "/dizi/vitrerie-joyal": {
+    "group": "Vitrerie Joyal",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "8.7",
+    "poster": "https://image.tmdb.org/t/p/w500/g6NaDwfnNctv1JDjhWIQzOnnPgV.jpg"
   }
 }
