@@ -668,7 +668,7 @@
   "/dizi/dmv": {
     "group": "DMV",
     "last_season": 1,
-    "last_episode": 18,
+    "last_episode": 19,
     "start_episode": 1,
     "year": "2025",
     "imdb": "5.6",
@@ -929,7 +929,7 @@
   "/dizi/the-way-home": {
     "group": "The Way Home",
     "last_season": 4,
-    "last_episode": 1,
+    "last_episode": 3,
     "start_episode": 1,
     "year": "2023",
     "imdb": "8.0",
@@ -1190,7 +1190,7 @@
   "/dizi/vitrerie-joyal": {
     "group": "Vitrerie Joyal",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2026",
     "imdb": "8.7",
