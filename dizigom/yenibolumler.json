@@ -1,15 +1,57 @@
 {
+  "/dizi-izle/we-are-all-trying-here": {
+    "group": "WE ARE ALL TRYING HERE",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/c2jswCrMoqDEBEXwSAlrCWtXdfZ.jpg",
+    "imdb": 8.75
+  },
+  "/dizi-izle/monarch-legacy-of-monsters": {
+    "group": "MONARCH: LEGACY OF MONSTERS",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
+    "imdb": 7.693
+  },
+  "/dizi-izle/the-comeback": {
+    "group": "THE COMEBACK",
+    "year": "2005",
+    "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg",
+    "imdb": 7.3
+  },
+  "/dizi-izle/should-i-marry-a-murderer": {
+    "group": "SHOULD I MARRY A MURDERER?",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/kSnudctwOTHPArz78vHmf4Emc1B.jpg",
+    "imdb": 5.0
+  },
+  "/dizi-izle/rooster": {
+    "group": "ROOSTER",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
+    "imdb": 7.3
+  },
   "/dizi-izle/phantom-lawyer": {
     "group": "PHANTOM LAWYER",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg",
     "imdb": 7.5
   },
-  "/dizi-izle/the-boys": {
-    "group": "THE BOYS",
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
-    "imdb": 8.437
+  "/dizi-izle/the-testaments": {
+    "group": "THE TESTAMENTS",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
+    "imdb": 6.2
+  },
+  "/dizi-izle/envious": {
+    "group": "ENVIOUS",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/qYw979lIT163wN2z2P6DHoVEftj.jpg",
+    "imdb": 7.7
+  },
+  "/dizi-izle/sold-out-on-you": {
+    "group": "SOLD OUT ON YOU",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
+    "imdb": 9.0
   },
   "/dizi-izle/privileges": {
     "group": "PRIVILEGES",
@@ -17,17 +59,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/bFmWIfzkcuiDZ4WqkOfVaHb4pR8.jpg",
     "imdb": 7.25
   },
-  "/dizi-izle/for-all-mankind": {
-    "group": "FOR ALL MANKIND",
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
-    "imdb": 7.7
-  },
-  "/dizi-izle/should-i-marry-a-murderer": {
-    "group": "SHOULD I MARRY A MURDERER?",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/kSnudctwOTHPArz78vHmf4Emc1B.jpg",
-    "imdb": 5.0
+  "/dizi-izle/hacks": {
+    "group": "HACKS",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/ulBzMy5DZjBeUo6wHqn8ao0Zn6j.jpg",
+    "imdb": 7.4
   },
   "/dizi-izle/the-ramparts-of-ice": {
     "group": "THE RAMPARTS OF ICE",
@@ -41,41 +77,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg",
     "imdb": 8.5
   },
-  "/dizi-izle/sold-out-on-you": {
-    "group": "SOLD OUT ON YOU",
+  "/dizi-izle/euphoria": {
+    "group": "EUPHORIA",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
+    "imdb": 8.284
+  },
+  "/dizi-izle/star-wars-maul-shadow-lord": {
+    "group": "STAR WARS: MAUL - SHADOW LORD",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
-    "imdb": 9.0
-  },
-  "/dizi-izle/hacks": {
-    "group": "HACKS",
-    "year": "2021",
-    "poster": "https://image.tmdb.org/t/p/w500/ulBzMy5DZjBeUo6wHqn8ao0Zn6j.jpg",
-    "imdb": 7.4
-  },
-  "/dizi-izle/we-are-all-trying-here": {
-    "group": "WE ARE ALL TRYING HERE",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/c2jswCrMoqDEBEXwSAlrCWtXdfZ.jpg",
-    "imdb": 8.75
-  },
-  "/dizi-izle/the-testaments": {
-    "group": "THE TESTAMENTS",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
-    "imdb": 6.2
-  },
-  "/dizi-izle/half-man": {
-    "group": "HALF MAN",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/fV1XBxZSl0nxiMIhDuorIbfW8kG.jpg",
-    "imdb": 9.0
-  },
-  "/dizi-izle/your-friends-neighbors": {
-    "group": "YOUR FRIENDS & NEIGHBORS",
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg",
-    "imdb": 7.4
+    "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
+    "imdb": 7.3
   },
   "/dizi-izle/man-on-fire": {
     "group": "MAN ON FIRE",
@@ -83,11 +95,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/9cZzmT8rhBXbZ1QFBPs3ggABYB3.jpg",
     "imdb": 5.381
   },
-  "/dizi-izle/monarch-legacy-of-monsters": {
-    "group": "MONARCH: LEGACY OF MONSTERS",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
-    "imdb": 7.693
+  "/dizi-izle/half-man": {
+    "group": "HALF MAN",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/fV1XBxZSl0nxiMIhDuorIbfW8kG.jpg",
+    "imdb": 9.0
+  },
+  "/dizi-izle/the-boys": {
+    "group": "THE BOYS",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+    "imdb": 8.437
   },
   "/dizi-izle/million-dollar-secret": {
     "group": "MILLION DOLLAR SECRET",
@@ -95,10 +113,16 @@
     "poster": "https://image.tmdb.org/t/p/w500/iC6xzFgRRq5yHngSnmusXkNL928.jpg",
     "imdb": 7.5
   },
-  "/dizi-izle/envious": {
-    "group": "ENVIOUS",
-    "year": "2024",
-    "poster": "https://image.tmdb.org/t/p/w500/qYw979lIT163wN2z2P6DHoVEftj.jpg",
+  "/dizi-izle/your-friends-neighbors": {
+    "group": "YOUR FRIENDS & NEIGHBORS",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg",
+    "imdb": 7.4
+  },
+  "/dizi-izle/for-all-mankind": {
+    "group": "FOR ALL MANKIND",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
     "imdb": 7.7
   }
 }

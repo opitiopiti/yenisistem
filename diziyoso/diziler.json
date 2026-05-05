@@ -30370,5 +30370,17 @@
     "year": 2026,
     "poster": "https://dzycdn.com/img/t/163x245/gold-land-2026.webp",
     "imdb": 8.2
+  },
+  "/dizi/secret-service": {
+    "group": "Secret Service",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/f7tksyddK3VvismfoWCwpXPqz0x.jpg",
+    "imdb": 6.4
+  },
+  "/dizi/secret-service/": {
+    "group": "Secret Service",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/f7tksyddK3VvismfoWCwpXPqz0x.jpg",
+    "imdb": 6.4
   }
 }

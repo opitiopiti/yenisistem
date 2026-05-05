@@ -1,4 +1,10 @@
 {
+  "/dizi/secret-service": {
+    "group": "Secret Service",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/f7tksyddK3VvismfoWCwpXPqz0x.jpg",
+    "imdb": 6.4
+  },
   "/dizi/euphoria": {
     "group": "Euphoria",
     "year": 2019,
@@ -23,6 +29,24 @@
     "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
     "imdb": 7.4
   },
+  "/dizi/watson": {
+    "group": "Watson",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/b1sELCj9LK5a3olbLhPZlP8Liba.jpg",
+    "imdb": 4.9
+  },
+  "/dizi/the-way-home": {
+    "group": "The Way Home",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/the-audacity": {
+    "group": "The Audacity",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
+    "imdb": 5.1
+  },
   "/dizi/privileges": {
     "group": "Privilèges",
     "year": 2026,
@@ -34,6 +58,30 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/sPTDlNpTCJkbDxVPlQvnOItDzuf.jpg",
     "imdb": 10.0
+  },
+  "/dizi/sheriff-country": {
+    "group": "Sheriff Country",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/fire-country": {
+    "group": "Fire Country",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
+    "imdb": 8.2
+  },
+  "/dizi/boston-blue": {
+    "group": "Boston Blue",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/8pyxutHxpgBt8ZwbIG2TZWCW394.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/beyond-paradise": {
+    "group": "Beyond Paradise",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/7zwbypEzcjOyNuTLSD43fTB9kR8.jpg",
+    "imdb": 7.4
   },
   "/dizi/man-on-fire": {
     "group": "Man on Fire",
@@ -77,65 +125,41 @@
     "poster": "https://image.tmdb.org/t/p/w500/1XcDgszF8YJqXZw4zYDR4JYaVlM.jpg",
     "imdb": 10.0
   },
+  "/dizi/the-hunting-party": {
+    "group": "The Hunting Party",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/mjJMOLr966Q78YUPu0pVA0ydBIP.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/late-bloomer": {
+    "group": "Late Bloomer",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/cdyKElGB4whoIS6zcJqNWQNaVsj.jpg",
+    "imdb": 8.8
+  },
+  "/dizi/georgie-mandys-first-marriage": {
+    "group": "Georgie & Mandy’s First Marriage",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/elsbeth": {
+    "group": "Elsbeth",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/7lnNSbT90qwtrn1h9TvEkVFMz2P.jpg",
+    "imdb": 6.9
+  },
   "/dizi/goldeu-laendeu": {
     "group": "Goldeu Laendeu",
     "year": 2026,
     "poster": "https://dzycdn.com/img/t/294x441/gold-land-2026.webp",
     "imdb": 8.2
   },
-  "/dizi/million-dollar-secret": {
-    "group": "Million Dollar Secret",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/r63OnehBj6lZhdzvfnoRU9GkNli.jpg",
-    "imdb": 7.6
-  },
-  "/dizi/the-boys": {
-    "group": "The Boys",
-    "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
-    "imdb": 8.4
-  },
-  "/dizi/daredevil-born-again": {
-    "group": "Daredevil: Born Again",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
-    "imdb": 7.9
-  },
-  "/dizi/the-testaments": {
-    "group": "The Testaments",
+  "/dizi/secret-service/": {
+    "group": "Secret Service",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
-    "imdb": 6.5
-  },
-  "/dizi/criminal-record": {
-    "group": "Criminal Record",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/la-casa-de-los-espiritus": {
-    "group": "La Casa de los Espíritus",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/lzy5lANYtUp24VTnX0NnnwAnvJa.jpg",
-    "imdb": 8.1
-  },
-  "/dizi/envidiosa": {
-    "group": "Envidiosa",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/qYw979lIT163wN2z2P6DHoVEftj.jpg",
-    "imdb": 7.7
-  },
-  "/dizi/should-i-marry-a-murderer": {
-    "group": "Should I Marry A Murderer?",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/AeY7DEEGn7cH3HoUDd9K8FZ1jCv.jpg",
-    "imdb": 5.0
-  },
-  "/dizi/r-j-decker": {
-    "group": "R.J. Decker",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/bkMdvmjj1zEnVqZTPskBREDzTuS.jpg",
-    "imdb": 7.4
+    "poster": "https://image.tmdb.org/t/p/w500/f7tksyddK3VvismfoWCwpXPqz0x.jpg",
+    "imdb": 6.4
   },
   "/dizi/goldeu-laendeu/": {
     "group": "Goldeu Laendeu",
@@ -298,11 +322,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/1JnmMXeaBD4zSAa5Qn6NFA09cBU.jpg",
     "imdb": 5.2
-  },
-  "/dizi/medalist/": {
-    "group": "Medalist",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/hK5eKFaj99mZwpmILnvKehWe9t1.jpg",
-    "imdb": 8.0
   }
 }
