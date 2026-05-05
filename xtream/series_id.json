@@ -3704,8 +3704,8 @@
   "3617": {
     "name": "DMV  (2025)",
     "last_season": 1,
-    "last_episode": 18,
-    "last_modified": 1777466129
+    "last_episode": 19,
+    "last_modified": 1777982620
   },
   "3618": {
     "name": "DOTA: DRAGON’S BLOOD  (2021)",
@@ -46420,5 +46420,11 @@
     "last_season": 1,
     "last_episode": 12,
     "last_modified": 1777951122
+  },
+  "10737": {
+    "name": "VITRERIE JOYAL  (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1777982620
   }
 }
