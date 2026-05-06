@@ -1,4 +1,10 @@
 {
+  "/diziler/high-potential.html": {
+    "group": "HIGH POTENTIAL",
+    "year": "2024",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg"
+  },
   "/diziler/the-comeback.html": {
     "group": "THE COMEBACK",
     "year": "2005",
@@ -70,11 +76,5 @@
     "year": "2024",
     "imdb": "6.4",
     "poster": "https://image.tmdb.org/t/p/w500/8NFkGx0L6tobGOeoHohO6ycXt6G.jpg"
-  },
-  "/diziler/mira-her-sey-yolundaymis-gibi.html": {
-    "group": "MIRA: HER ŞEY YOLUNDAYMIŞ GIBI",
-    "year": "2026",
-    "imdb": "6.2",
-    "poster": "https://image.tmdb.org/t/p/w500/sPTDlNpTCJkbDxVPlQvnOItDzuf.jpg"
   }
 }
