@@ -30382,5 +30382,23 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/f7tksyddK3VvismfoWCwpXPqz0x.jpg",
     "imdb": 6.4
+  },
+  "/dizi/vitrerie-joyal": {
+    "group": "Vitrerie Joyal",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/g6NaDwfnNctv1JDjhWIQzOnnPgV.jpg",
+    "imdb": 8.7
+  },
+  "/dizi/vitrerie-joyal/": {
+    "group": "Vitrerie Joyal",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/g6NaDwfnNctv1JDjhWIQzOnnPgV.jpg",
+    "imdb": 8.7
+  },
+  "/dizi/la-ultima/": {
+    "group": "La Última",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/axcClmqyXbRDXzt1rTWP6Kt7nQT.jpg",
+    "imdb": 6.0
   }
 }

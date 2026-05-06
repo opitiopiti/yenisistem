@@ -1,4 +1,67 @@
 {
+  "/dizi/criminal-record": {
+    "group": "Criminal Record",
+    "last_season": 2,
+    "last_episode": 2,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "8.7",
+    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg"
+  },
+  "/dizi/daredevil-born-again": {
+    "group": "Daredevil: Born Again",
+    "last_season": 2,
+    "last_episode": 7,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg"
+  },
+  "/dizi/gold-land": {
+    "group": "Gold Land",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1,
+    "year": "2022",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/ixBHQ96ryMa8Q0uIOFdUCjqRyy8.jpg"
+  },
+  "/dizi/margo-s-got-money-troubles": {
+    "group": "Margo’s Got Money Troubles",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.6",
+    "poster": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg"
+  },
+  "/dizi/the-dark-wizard": {
+    "group": "The Dark Wizard",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/qGbsQ6fhZPBhx9kgN0utAIyGRry.jpg"
+  },
+  "/dizi/widow-sharp039-s-bay": {
+    "group": "Widow's Bay",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg"
+  },
+  "/dizi/cia": {
+    "group": "CIA",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/8XbgWv137Umc8resTDeWh9ff7Y0.jpg"
+  },
   "/dizi/dmv": {
     "group": "DMV",
     "last_season": 1,
@@ -7,6 +70,15 @@
     "year": "2025",
     "imdb": "5.6",
     "poster": "https://image.tmdb.org/t/p/w500/nLCpxH7BhFwP50lF0VFpxeeFjmM.jpg"
+  },
+  "/dizi/fbi": {
+    "group": "FBI",
+    "last_season": 8,
+    "last_episode": 19,
+    "start_episode": 1,
+    "year": "2018",
+    "imdb": "7.1",
+    "poster": "https://image.tmdb.org/t/p/w500/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg"
   },
   "/dizi/vitrerie-joyal": {
     "group": "Vitrerie Joyal",

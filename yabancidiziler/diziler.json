@@ -1195,5 +1195,14 @@
     "year": "2026",
     "imdb": "8.7",
     "poster": "https://image.tmdb.org/t/p/w500/g6NaDwfnNctv1JDjhWIQzOnnPgV.jpg"
+  },
+  "/dizi/widow-sharp039-s-bay": {
+    "group": "Widow's Bay",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg"
   }
 }

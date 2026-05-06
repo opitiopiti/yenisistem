@@ -1,9 +1,63 @@
 {
+  "/dizi/the-testaments": {
+    "group": "The Testaments",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/goldeu-laendeu": {
+    "group": "Goldeu Laendeu",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/294x441/gold-land-2026.webp",
+    "imdb": 8.2
+  },
+  "/dizi/criminal-record": {
+    "group": "Criminal Record",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/the-boys": {
+    "group": "The Boys",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+    "imdb": 8.4
+  },
+  "/dizi/the-dark-wizard": {
+    "group": "The Dark Wizard",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/qGbsQ6fhZPBhx9kgN0utAIyGRry.jpg",
+    "imdb": 8.1
+  },
+  "/dizi/widows-bay": {
+    "group": "Widow’s Bay",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/margos-got-money-troubles": {
+    "group": "Margo’s Got Money Troubles",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg",
+    "imdb": 9.0
+  },
+  "/dizi/daredevil-born-again": {
+    "group": "Daredevil: Born Again",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+    "imdb": 7.9
+  },
   "/dizi/secret-service": {
     "group": "Secret Service",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/f7tksyddK3VvismfoWCwpXPqz0x.jpg",
     "imdb": 6.4
+  },
+  "/dizi/dmv": {
+    "group": "DMV",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/nLCpxH7BhFwP50lF0VFpxeeFjmM.jpg",
+    "imdb": 6.0
   },
   "/dizi/euphoria": {
     "group": "Euphoria",
@@ -16,6 +70,12 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
     "imdb": 7.3
+  },
+  "/dizi/nippon-sangoku": {
+    "group": "Nippon Sangoku",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg",
+    "imdb": 8.3
   },
   "/dizi/the-comeback": {
     "group": "The Comeback",
@@ -47,6 +107,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
     "imdb": 5.1
   },
+  "/dizi/vitrerie-joyal": {
+    "group": "Vitrerie Joyal",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/g6NaDwfnNctv1JDjhWIQzOnnPgV.jpg",
+    "imdb": 8.7
+  },
   "/dizi/privileges": {
     "group": "Privilèges",
     "year": 2026,
@@ -59,101 +125,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/sPTDlNpTCJkbDxVPlQvnOItDzuf.jpg",
     "imdb": 10.0
   },
-  "/dizi/sheriff-country": {
-    "group": "Sheriff Country",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
-    "imdb": 6.6
+  "/dizi/vitrerie-joyal/": {
+    "group": "Vitrerie Joyal",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/g6NaDwfnNctv1JDjhWIQzOnnPgV.jpg",
+    "imdb": 8.7
   },
-  "/dizi/fire-country": {
-    "group": "Fire Country",
+  "/dizi/la-ultima/": {
+    "group": "La Última",
     "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
-    "imdb": 8.2
-  },
-  "/dizi/boston-blue": {
-    "group": "Boston Blue",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/8pyxutHxpgBt8ZwbIG2TZWCW394.jpg",
-    "imdb": 6.2
-  },
-  "/dizi/beyond-paradise": {
-    "group": "Beyond Paradise",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/7zwbypEzcjOyNuTLSD43fTB9kR8.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/man-on-fire": {
-    "group": "Man on Fire",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/5LpGrQkDPOg3bsJsuNhrH9hymMS.jpg",
-    "imdb": 5.5
-  },
-  "/dizi/sold-out-on-you": {
-    "group": "Sold Out on You",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
-    "imdb": 7.7
-  },
-  "/dizi/hacks": {
-    "group": "Hacks",
-    "year": 2021,
-    "poster": "https://image.tmdb.org/t/p/w500/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/your-friends-neighbors": {
-    "group": "Your Friends & Neighbors",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/lxmNQ1392ClqU56W0kx2h2ONF4V.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/monarch-legacy-of-monsters": {
-    "group": "Monarch: Legacy of Monsters",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg",
-    "imdb": 7.7
-  },
-  "/dizi/for-all-mankind": {
-    "group": "For All Mankind",
-    "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
-    "imdb": 7.7
-  },
-  "/dizi/half-man": {
-    "group": "Half Man",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/1XcDgszF8YJqXZw4zYDR4JYaVlM.jpg",
-    "imdb": 10.0
-  },
-  "/dizi/the-hunting-party": {
-    "group": "The Hunting Party",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/mjJMOLr966Q78YUPu0pVA0ydBIP.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/late-bloomer": {
-    "group": "Late Bloomer",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/cdyKElGB4whoIS6zcJqNWQNaVsj.jpg",
-    "imdb": 8.8
-  },
-  "/dizi/georgie-mandys-first-marriage": {
-    "group": "Georgie & Mandy’s First Marriage",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
-    "imdb": 7.7
-  },
-  "/dizi/elsbeth": {
-    "group": "Elsbeth",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/7lnNSbT90qwtrn1h9TvEkVFMz2P.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/goldeu-laendeu": {
-    "group": "Goldeu Laendeu",
-    "year": 2026,
-    "poster": "https://dzycdn.com/img/t/294x441/gold-land-2026.webp",
-    "imdb": 8.2
+    "poster": "https://image.tmdb.org/t/p/w500/axcClmqyXbRDXzt1rTWP6Kt7nQT.jpg",
+    "imdb": 6.0
   },
   "/dizi/secret-service/": {
     "group": "Secret Service",
@@ -310,17 +292,5 @@
     "year": 2018,
     "poster": "https://image.tmdb.org/t/p/w500/p3gtx495e5KnqSKU0dfgtKaQJmt.jpg",
     "imdb": 7.8
-  },
-  "/dizi/twenty-twenty-six/": {
-    "group": "Twenty Twenty Six",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/tOMHB1sHMf4ASjB909y7AQFuX3q.jpg",
-    "imdb": 5.8
-  },
-  "/dizi/missed-call/": {
-    "group": "Missed Call",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/1JnmMXeaBD4zSAa5Qn6NFA09cBU.jpg",
-    "imdb": 5.2
   }
 }

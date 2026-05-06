@@ -1,4 +1,22 @@
 {
+  "/diziler/criminal-record.html": {
+    "group": "CRIMINAL RECORD",
+    "year": "2024",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg"
+  },
+  "/diziler/margos-got-money-troubles.html": {
+    "group": "MARGO'S GOT MONEY TROUBLES",
+    "year": "2026",
+    "imdb": "6.9",
+    "poster": "https://image.tmdb.org/t/p/w500/kMb8hCou8RZf7uXE1rTE8ZDgcvg.jpg"
+  },
+  "/diziler/daredevil-born-again.html": {
+    "group": "DAREDEVIL: BORN AGAIN",
+    "year": "2025",
+    "imdb": "8.5",
+    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg"
+  },
   "/diziler/high-potential.html": {
     "group": "HIGH POTENTIAL",
     "year": "2024",
@@ -58,23 +76,5 @@
     "year": "2026",
     "imdb": "8.3",
     "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg"
-  },
-  "/diziler/my-hero-academia.html": {
-    "group": "MY HERO ACADEMIA",
-    "year": "2016",
-    "imdb": "8.3",
-    "poster": "https://image.tmdb.org/t/p/w500/phuYuzqWW9ru8EA3HVjE9W2Rr3M.jpg"
-  },
-  "/diziler/phantom-lawyer.html": {
-    "group": "PHANTOM LAWYER",
-    "year": "2026",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/j3w0uZi4THuRh1JB8gF452mRLq7.jpg"
-  },
-  "/diziler/the-jetty.html": {
-    "group": "THE JETTY",
-    "year": "2024",
-    "imdb": "6.4",
-    "poster": "https://image.tmdb.org/t/p/w500/8NFkGx0L6tobGOeoHohO6ycXt6G.jpg"
   }
 }
