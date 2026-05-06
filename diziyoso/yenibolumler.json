@@ -1,27 +1,27 @@
 {
-  "/dizi/the-testaments": {
-    "group": "The Testaments",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
-    "imdb": 6.5
-  },
-  "/dizi/goldeu-laendeu": {
-    "group": "Goldeu Laendeu",
-    "year": 2026,
-    "poster": "https://dzycdn.com/img/t/294x441/gold-land-2026.webp",
-    "imdb": 8.2
-  },
-  "/dizi/criminal-record": {
-    "group": "Criminal Record",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
-    "imdb": 6.9
-  },
   "/dizi/the-boys": {
     "group": "The Boys",
     "year": 2019,
     "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
     "imdb": 8.4
+  },
+  "/dizi/daredevil-born-again": {
+    "group": "Daredevil: Born Again",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/citadel": {
+    "group": "Citadel",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/rIuJpbBcZjROIqvu9OKr3psP0zv.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/the-testaments": {
+    "group": "The Testaments",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
+    "imdb": 6.5
   },
   "/dizi/the-dark-wizard": {
     "group": "The Dark Wizard",
@@ -41,11 +41,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg",
     "imdb": 9.0
   },
-  "/dizi/daredevil-born-again": {
-    "group": "Daredevil: Born Again",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
-    "imdb": 7.9
+  "/dizi/criminal-record": {
+    "group": "Criminal Record",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/goldeu-laendeu": {
+    "group": "Goldeu Laendeu",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/294x441/gold-land-2026.webp",
+    "imdb": 8.2
   },
   "/dizi/secret-service": {
     "group": "Secret Service",
@@ -124,6 +130,30 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/sPTDlNpTCJkbDxVPlQvnOItDzuf.jpg",
     "imdb": 10.0
+  },
+  "/dizi/sheriff-country": {
+    "group": "Sheriff Country",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/fire-country": {
+    "group": "Fire Country",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
+    "imdb": 8.2
+  },
+  "/dizi/boston-blue": {
+    "group": "Boston Blue",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/8pyxutHxpgBt8ZwbIG2TZWCW394.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/beyond-paradise": {
+    "group": "Beyond Paradise",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/7zwbypEzcjOyNuTLSD43fTB9kR8.jpg",
+    "imdb": 7.4
   },
   "/dizi/vitrerie-joyal/": {
     "group": "Vitrerie Joyal",

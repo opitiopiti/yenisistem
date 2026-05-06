@@ -30400,5 +30400,11 @@
     "year": 2022,
     "poster": "https://image.tmdb.org/t/p/w500/axcClmqyXbRDXzt1rTWP6Kt7nQT.jpg",
     "imdb": 6.0
+  },
+  "/dizi/citadel": {
+    "group": "Citadel",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/rIuJpbBcZjROIqvu9OKr3psP0zv.jpg",
+    "imdb": 6.8
   }
 }

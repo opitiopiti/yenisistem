@@ -1204,5 +1204,14 @@
     "year": "2026",
     "imdb": "8.0",
     "poster": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg"
+  },
+  "/dizi/worst-ex-ever": {
+    "group": "Worst Ex Ever",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/s7D1qWOGSFyicpToIfXL0HRMCT7.jpg"
   }
 }

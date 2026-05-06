@@ -17,6 +17,15 @@
     "imdb": "7.8",
     "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg"
   },
+  "/dizi/dorohedoro": {
+    "group": "Dorohedoro",
+    "last_season": 2,
+    "last_episode": 7,
+    "start_episode": 1,
+    "year": "2020",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg"
+  },
   "/dizi/gold-land": {
     "group": "Gold Land",
     "last_season": 1,
@@ -35,6 +44,24 @@
     "imdb": "6.6",
     "poster": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg"
   },
+  "/dizi/ncis-origins": {
+    "group": "NCIS: Origins",
+    "last_season": 2,
+    "last_episode": 17,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/waWeC84DExojP5AHFbWaybj3wxv.jpg"
+  },
+  "/dizi/ncis-sydney": {
+    "group": "NCIS: Sydney",
+    "last_season": 3,
+    "last_episode": 16,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "5.9",
+    "poster": "https://image.tmdb.org/t/p/w500/6dYDa6h1AOZ7iZ1zv3nlw7qhErX.jpg"
+  },
   "/dizi/the-dark-wizard": {
     "group": "The Dark Wizard",
     "last_season": 1,
@@ -44,6 +71,15 @@
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/qGbsQ6fhZPBhx9kgN0utAIyGRry.jpg"
   },
+  "/dizi/the-house-of-the-spirits": {
+    "group": "The House of the Spirits",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/yb682O0KCZlS5qRydxOytO5A6co.jpg"
+  },
   "/dizi/widow-sharp039-s-bay": {
     "group": "Widow's Bay",
     "last_season": 1,
@@ -52,6 +88,24 @@
     "year": "2026",
     "imdb": "8.0",
     "poster": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg"
+  },
+  "/dizi/will-trent": {
+    "group": "Will Trent",
+    "last_season": 4,
+    "last_episode": 17,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/qG5O46gUxxYGImld03tl2zLhvrg.jpg"
+  },
+  "/dizi/worst-ex-ever": {
+    "group": "Worst Ex Ever",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/s7D1qWOGSFyicpToIfXL0HRMCT7.jpg"
   },
   "/dizi/cia": {
     "group": "CIA",
