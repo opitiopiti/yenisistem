@@ -106,41 +106,5 @@
     "year": "2024",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/s7D1qWOGSFyicpToIfXL0HRMCT7.jpg"
-  },
-  "/dizi/cia": {
-    "group": "CIA",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.3",
-    "poster": "https://image.tmdb.org/t/p/w500/8XbgWv137Umc8resTDeWh9ff7Y0.jpg"
-  },
-  "/dizi/dmv": {
-    "group": "DMV",
-    "last_season": 1,
-    "last_episode": 19,
-    "start_episode": 1,
-    "year": "2025",
-    "imdb": "5.6",
-    "poster": "https://image.tmdb.org/t/p/w500/nLCpxH7BhFwP50lF0VFpxeeFjmM.jpg"
-  },
-  "/dizi/fbi": {
-    "group": "FBI",
-    "last_season": 8,
-    "last_episode": 20,
-    "start_episode": 1,
-    "year": "2018",
-    "imdb": "7.1",
-    "poster": "https://image.tmdb.org/t/p/w500/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg"
-  },
-  "/dizi/vitrerie-joyal": {
-    "group": "Vitrerie Joyal",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "8.7",
-    "poster": "https://image.tmdb.org/t/p/w500/g6NaDwfnNctv1JDjhWIQzOnnPgV.jpg"
   }
 }
