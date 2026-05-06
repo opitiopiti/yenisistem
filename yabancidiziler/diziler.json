@@ -452,7 +452,7 @@
   "/dizi/will-trent": {
     "group": "Will Trent",
     "last_season": 4,
-    "last_episode": 17,
+    "last_episode": 18,
     "start_episode": 1,
     "year": "2023",
     "imdb": "7.7",
@@ -470,7 +470,7 @@
   "/dizi/ncis-origins": {
     "group": "NCIS: Origins",
     "last_season": 2,
-    "last_episode": 17,
+    "last_episode": 18,
     "start_episode": 1,
     "year": "2024",
     "imdb": "7.6",
@@ -740,7 +740,7 @@
   "/dizi/ncis-sydney": {
     "group": "NCIS: Sydney",
     "last_season": 3,
-    "last_episode": 16,
+    "last_episode": 18,
     "start_episode": 1,
     "year": "2023",
     "imdb": "5.9",
@@ -794,7 +794,7 @@
   "/dizi/dorohedoro": {
     "group": "Dorohedoro",
     "last_season": 2,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2020",
     "imdb": "7.0",
@@ -1136,7 +1136,7 @@
   "/dizi/the-house-of-the-spirits": {
     "group": "The House of the Spirits",
     "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 5,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -1207,8 +1207,8 @@
   },
   "/dizi/worst-ex-ever": {
     "group": "Worst Ex Ever",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 4,
     "start_episode": 1,
     "year": "2024",
     "imdb": "7.0",
