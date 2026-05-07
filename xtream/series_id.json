@@ -7,9 +7,9 @@
   },
   "3001": {
     "name": "10 BIN ADIM  (2020) TR",
-    "last_season": 2,
+    "last_season": 3,
     "last_episode": 10,
-    "last_modified": 1775801787
+    "last_modified": 1778157454
   },
   "3002": {
     "name": "100 DAYS TO VICTORY  (2018)",
@@ -46444,5 +46444,17 @@
     "last_season": 1,
     "last_episode": 5,
     "last_modified": 1778072389
+  },
+  "10741": {
+    "name": "LEGENDS 2026  (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1778157454
+  },
+  "10742": {
+    "name": "CITADEL(BILINMIYOR)",
+    "last_season": 2,
+    "last_episode": 7,
+    "last_modified": 1778157454
   }
 }
