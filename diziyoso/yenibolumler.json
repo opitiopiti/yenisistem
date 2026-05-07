@@ -1,4 +1,22 @@
 {
+  "/dizi/legends-2026": {
+    "group": "Legends 2026",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/294x441/legends-2026.webp",
+    "imdb": 0.0
+  },
+  "/dizi/10-bin-adim": {
+    "group": "10 Bin Adım",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/s3qr2K8LjVCTIBoWOnkFd6bQqcM.jpg",
+    "imdb": 7.8
+  },
+  "/dizi/worst-ex-ever": {
+    "group": "Worst Ex Ever",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/s7D1qWOGSFyicpToIfXL0HRMCT7.jpg",
+    "imdb": 7.7
+  },
   "/dizi/the-boys": {
     "group": "The Boys",
     "year": 2019,
@@ -137,23 +155,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
     "imdb": 6.6
   },
-  "/dizi/fire-country": {
-    "group": "Fire Country",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
-    "imdb": 8.2
-  },
-  "/dizi/boston-blue": {
-    "group": "Boston Blue",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/8pyxutHxpgBt8ZwbIG2TZWCW394.jpg",
-    "imdb": 6.2
-  },
-  "/dizi/beyond-paradise": {
-    "group": "Beyond Paradise",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/7zwbypEzcjOyNuTLSD43fTB9kR8.jpg",
-    "imdb": 7.4
+  "/dizi/legends-2026/": {
+    "group": "Legends 2026",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/163x245/legends-2026.webp",
+    "imdb": 0.0
   },
   "/dizi/vitrerie-joyal/": {
     "group": "Vitrerie Joyal",
@@ -316,11 +322,5 @@
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/2vr2JwKdGTwb6b0I4FHk5eCTO9J.jpg",
     "imdb": 4.8
-  },
-  "/dizi/slepnac-od-swiatel/": {
-    "group": "Slepnac od swiatel",
-    "year": 2018,
-    "poster": "https://image.tmdb.org/t/p/w500/p3gtx495e5KnqSKU0dfgtKaQJmt.jpg",
-    "imdb": 7.8
   }
 }

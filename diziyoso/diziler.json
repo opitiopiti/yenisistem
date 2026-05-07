@@ -30406,5 +30406,29 @@
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/rIuJpbBcZjROIqvu9OKr3psP0zv.jpg",
     "imdb": 6.8
+  },
+  "/dizi/legends-2026": {
+    "group": "Legends 2026",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/294x441/legends-2026.webp",
+    "imdb": 0.0
+  },
+  "/dizi/10-bin-adim": {
+    "group": "10 Bin Adım",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/s3qr2K8LjVCTIBoWOnkFd6bQqcM.jpg",
+    "imdb": 7.8
+  },
+  "/dizi/worst-ex-ever": {
+    "group": "Worst Ex Ever",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/s7D1qWOGSFyicpToIfXL0HRMCT7.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/legends-2026/": {
+    "group": "Legends 2026",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/163x245/legends-2026.webp",
+    "imdb": 0.0
   }
 }
