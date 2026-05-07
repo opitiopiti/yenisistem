@@ -1,4 +1,16 @@
 {
+  "/diziler/the-chestnut-man.html": {
+    "group": "THE CHESTNUT MAN",
+    "year": "2021",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/tdLJTZJ184PsO9QkK9aPeeAXLlo.jpg"
+  },
+  "/diziler/sold-out-on-you.html": {
+    "group": "SOLD OUT ON YOU",
+    "year": "2026",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg"
+  },
   "/diziler/dr-stone.html": {
     "group": "DR. STONE",
     "year": "2019",
@@ -10,12 +22,6 @@
     "year": "2023",
     "imdb": "6.2",
     "poster": "https://image.tmdb.org/t/p/w500/5MHtxPEfmN4b0rHzfEZRcm6v9WI.jpg"
-  },
-  "/diziler/sold-out-on-you.html": {
-    "group": "SOLD OUT ON YOU",
-    "year": "2026",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg"
   },
   "/diziler/re-zero-starting-life-in-another-world.html": {
     "group": "RE: ZERO - STARTING LIFE IN ANOTHER WORLD",
@@ -70,17 +76,5 @@
     "year": "2024",
     "imdb": "7.6",
     "poster": "https://image.tmdb.org/t/p/w500/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg"
-  },
-  "/diziler/the-comeback.html": {
-    "group": "THE COMEBACK",
-    "year": "2005",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg"
-  },
-  "/diziler/rooster.html": {
-    "group": "ROOSTER",
-    "year": "2026",
-    "imdb": "7.2",
-    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg"
   }
 }
