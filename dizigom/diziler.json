@@ -29205,7 +29205,7 @@
     "group": "THE DARK WIZARD",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/phkGAfV7NTYCIv4jIFYTbCMb9xC.jpg",
-    "imdb": 0.0
+    "imdb": 8.0
   },
   "/dizi-izle/flunked": {
     "group": "FLUNKED",
@@ -29272,5 +29272,11 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/9cZzmT8rhBXbZ1QFBPs3ggABYB3.jpg",
     "imdb": 5.381
+  },
+  "/dizi-izle/citadel": {
+    "group": "CITADEL",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/5MHtxPEfmN4b0rHzfEZRcm6v9WI.jpg",
+    "imdb": 6.828
   }
 }
