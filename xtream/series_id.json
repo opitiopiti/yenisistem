@@ -26515,9 +26515,9 @@
   },
   "7419": {
     "name": "KASTANJEMANDEN  (2021)",
-    "last_season": 1,
+    "last_season": 2,
     "last_episode": 6,
-    "last_modified": 1775801787
+    "last_modified": 1778277635
   },
   "7420": {
     "name": "LA COCINERA DE CASTAMAR  (2021)",
@@ -45620,14 +45620,14 @@
   "10603": {
     "name": "BOTAN KAMIINA FULLY BLOSSOMS WHEN DRUNK  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1777671628
+    "last_episode": 5,
+    "last_modified": 1778277635
   },
   "10604": {
     "name": "FIST OF THE NORTH STAR (2026)  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1777671628
+    "last_episode": 7,
+    "last_modified": 1778277635
   },
   "10605": {
     "name": "DEXTER NEW BLOOD  (2021)",
@@ -45926,8 +45926,8 @@
   "10654": {
     "name": "FUNNY AF WITH KEVIN HART  (2026)",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1777312822
+    "last_episode": 8,
+    "last_modified": 1778277635
   },
   "10655": {
     "name": "KEVIN  (2026)",
@@ -46466,8 +46466,8 @@
   "10744": {
     "name": "91 DAYS  (2016) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1778259914
+    "last_episode": 13,
+    "last_modified": 1778277635
   },
   "10745": {
     "name": "DEAR KILLER NANNIES: CRIADO POR SICARIOS  (2026)",
@@ -46480,5 +46480,17 @@
     "last_season": 1,
     "last_episode": 2,
     "last_modified": 1778259914
+  },
+  "10747": {
+    "name": "MY ROYAL NEMESIS  (2026)",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1778277635
+  },
+  "10748": {
+    "name": "PALU AILESI: KARANLIK SARMAL  (2026)",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1778277635
   }
 }
