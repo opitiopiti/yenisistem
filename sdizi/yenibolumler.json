@@ -1,4 +1,28 @@
 {
+  "/diziler/half-man.html": {
+    "group": "HALF MAN",
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/1XcDgszF8YJqXZw4zYDR4JYaVlM.jpg"
+  },
+  "/diziler/for-all-mankind.html": {
+    "group": "FOR ALL MANKIND",
+    "year": "2019",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
+  },
+  "/diziler/your-friends-neighbors.html": {
+    "group": "YOUR FRIENDS & NEIGHBORS",
+    "year": "2025",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg"
+  },
+  "/diziler/legends-2206.html": {
+    "group": "LEGENDS",
+    "year": "2026",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/dGienbU1xNZJcbY8i8ubJusjDwD.jpg"
+  },
   "/diziler/the-chestnut-man.html": {
     "group": "THE CHESTNUT MAN",
     "year": "2021",
@@ -52,29 +76,5 @@
     "year": "2026",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg"
-  },
-  "/diziler/criminal-record.html": {
-    "group": "CRIMINAL RECORD",
-    "year": "2024",
-    "imdb": "7.3",
-    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg"
-  },
-  "/diziler/margos-got-money-troubles.html": {
-    "group": "MARGO'S GOT MONEY TROUBLES",
-    "year": "2026",
-    "imdb": "6.9",
-    "poster": "https://image.tmdb.org/t/p/w500/kMb8hCou8RZf7uXE1rTE8ZDgcvg.jpg"
-  },
-  "/diziler/daredevil-born-again.html": {
-    "group": "DAREDEVIL: BORN AGAIN",
-    "year": "2025",
-    "imdb": "8.5",
-    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg"
-  },
-  "/diziler/high-potential.html": {
-    "group": "HIGH POTENTIAL",
-    "year": "2024",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/xCtaUDBUP1iKqtoqpHfeH1T2pWF.jpg"
   }
 }
