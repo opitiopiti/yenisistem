@@ -2275,9 +2275,9 @@
   },
   "3379": {
     "name": "KIMLER GELDI KIMLER GEÇTI  (2024) TR",
-    "last_season": 2,
+    "last_season": 3,
     "last_episode": 8,
-    "last_modified": 1775801787
+    "last_modified": 1778259914
   },
   "3380": {
     "name": "KOALA MAN  (2023)",
@@ -7651,9 +7651,9 @@
   },
   "4275": {
     "name": "THE TERROR  (2018)",
-    "last_season": 2,
+    "last_season": 3,
     "last_episode": 10,
-    "last_modified": 1775801787
+    "last_modified": 1778259914
   },
   "4276": {
     "name": "THE TEST  (2020)",
@@ -11594,8 +11594,8 @@
   "4932": {
     "name": "THE HUNTING PARTY  (2025)",
     "last_season": 2,
-    "last_episode": 12,
-    "last_modified": 1777692991
+    "last_episode": 13,
+    "last_modified": 1778259914
   },
   "4933": {
     "name": "THE HUNTING WIVES  (2025)",
@@ -44960,8 +44960,8 @@
   "10493": {
     "name": "AN OBSERVATION LOG OF MY FIANCÉE WHO CALLS HERSELF A VILLAINESS  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1777655381
+    "last_episode": 6,
+    "last_modified": 1778259914
   },
   "10494": {
     "name": "ASCENDANCE OF A BOOKWORM SEASON 4  (2026) İNGİLİZCE",
@@ -45386,8 +45386,8 @@
   "10564": {
     "name": "SNOWBALL EARTH  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1777655381
+    "last_episode": 6,
+    "last_modified": 1778259914
   },
   "10565": {
     "name": "THAT TIME I GOT REINCARNATED AS A SLIME SEASON 3  (2024) İNGİLİZCE",
@@ -45398,8 +45398,8 @@
   "10566": {
     "name": "THAT TIME I GOT REINCARNATED AS A SLIME SEASON 4  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1777052454
+    "last_episode": 5,
+    "last_modified": 1778259914
   },
   "10567": {
     "name": "THERE WAS A CUTE GIRL IN THE HERO’S PARTY, SO I TRIED CONFESSING TO HER  (2026) İNGİLİZCE",
@@ -45410,8 +45410,8 @@
   "10568": {
     "name": "THE ANGEL NEXT DOOR SPOILS ME ROTTEN SEASON 2  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1777655381
+    "last_episode": 6,
+    "last_modified": 1778259914
   },
   "10569": {
     "name": "THE BARBARIAN'S BRIDE  (2026) İNGİLİZCE",
@@ -45560,8 +45560,8 @@
   "10593": {
     "name": "GEORGIE AND MANDY’S FIRST MARRIAGE  (2024)",
     "last_season": 2,
-    "last_episode": 18,
-    "last_modified": 1777638365
+    "last_episode": 19,
+    "last_modified": 1778259914
   },
   "10594": {
     "name": "JURY DUTY  (2026)",
@@ -45602,8 +45602,8 @@
   "10600": {
     "name": "THE DROPS OF GOD  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1777655381
+    "last_episode": 5,
+    "last_modified": 1778259914
   },
   "10601": {
     "name": "LA CAGE THE CAGE  (2024)",
@@ -45872,8 +45872,8 @@
   "10645": {
     "name": "ABSOLUTE VALUE OF ROMANCE  (2026)",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1777655381
+    "last_episode": 10,
+    "last_modified": 1778259914
   },
   "10646": {
     "name": "ABSOLUTE VALUE OF ROMANCE(BILINMIYOR)",
@@ -46462,5 +46462,23 @@
     "last_season": 1,
     "last_episode": 6,
     "last_modified": 1778241536
+  },
+  "10744": {
+    "name": "91 DAYS  (2016) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1778259914
+  },
+  "10745": {
+    "name": "DEAR KILLER NANNIES: CRIADO POR SICARIOS  (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1778259914
+  },
+  "10746": {
+    "name": "UNCONDITIONAL  (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1778259914
   }
 }
