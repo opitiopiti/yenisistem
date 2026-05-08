@@ -1,9 +1,27 @@
 {
-  "/dizi/kimler-geldi-kimler-gecti": {
-    "group": "Kimler Geldi Kimler Geçti",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/q3tO7n5GbRcnPwnTfbimY4y3yv4.jpg",
-    "imdb": 5.7
+  "/dizi/palu-ailesi-karanlik-sarmal": {
+    "group": "Palu Ailesi: Karanlık Sarmal",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/i70MAvdqFuXGFXwhbFVkgylFbgg.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/your-friends-neighbors": {
+    "group": "Your Friends & Neighbors",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/lxmNQ1392ClqU56W0kx2h2ONF4V.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/for-all-mankind": {
+    "group": "For All Mankind",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/kastanjemanden": {
+    "group": "Kastanjemanden",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/tdLJTZJ184PsO9QkK9aPeeAXLlo.jpg",
+    "imdb": 7.5
   },
   "/dizi/legends-2026": {
     "group": "Legends 2026",
@@ -71,6 +89,12 @@
     "poster": "https://dzycdn.com/img/t/294x441/gold-land-2026.webp",
     "imdb": 8.2
   },
+  "/dizi/funny-af-with-kevin-hart": {
+    "group": "Funny AF with Kevin Hart",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/Aw52lH93fDOeaw15Kspd81zZi1y.jpg",
+    "imdb": 5.8
+  },
   "/dizi/secret-service": {
     "group": "Secret Service",
     "year": 2026,
@@ -125,35 +149,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg",
     "imdb": 7.5
   },
-  "/dizi/the-audacity": {
-    "group": "The Audacity",
+  "/dizi/unconditional/": {
+    "group": "Unconditional",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
-    "imdb": 5.1
+    "poster": "https://image.tmdb.org/t/p/w500/l8fk8AvFzOT47LO13BcaKglqNZQ.jpg",
+    "imdb": 4.8
   },
-  "/dizi/vitrerie-joyal": {
-    "group": "Vitrerie Joyal",
+  "/dizi/palu-ailesi-karanlik-sarmal/": {
+    "group": "Palu Ailesi: Karanlık Sarmal",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/g6NaDwfnNctv1JDjhWIQzOnnPgV.jpg",
-    "imdb": 8.7
-  },
-  "/dizi/privileges": {
-    "group": "Privilèges",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/bFmWIfzkcuiDZ4WqkOfVaHb4pR8.jpg",
-    "imdb": 7.8
-  },
-  "/dizi/mira": {
-    "group": "Mira",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/sPTDlNpTCJkbDxVPlQvnOItDzuf.jpg",
-    "imdb": 10.0
-  },
-  "/dizi/sheriff-country": {
-    "group": "Sheriff Country",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
-    "imdb": 6.6
+    "poster": "https://image.tmdb.org/t/p/w500/i70MAvdqFuXGFXwhbFVkgylFbgg.jpg",
+    "imdb": 0.0
   },
   "/dizi/legends-2026/": {
     "group": "Legends 2026",
@@ -310,17 +316,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg",
     "imdb": 8.3
-  },
-  "/dizi/jojo-no-kimyo-na-boken/": {
-    "group": "JoJo no Kimyô na Bôken",
-    "year": 2012,
-    "poster": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg",
-    "imdb": 8.6
-  },
-  "/dizi/ben-bu-boslugu-nasil/": {
-    "group": "Ben Bu Boşluğu Nasıl?",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/2vr2JwKdGTwb6b0I4FHk5eCTO9J.jpg",
-    "imdb": 4.8
   }
 }

@@ -30436,5 +30436,29 @@
     "year": 2024,
     "poster": "https://image.tmdb.org/t/p/w500/q3tO7n5GbRcnPwnTfbimY4y3yv4.jpg",
     "imdb": 5.7
+  },
+  "/dizi/palu-ailesi-karanlik-sarmal": {
+    "group": "Palu Ailesi: Karanlık Sarmal",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/i70MAvdqFuXGFXwhbFVkgylFbgg.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/kastanjemanden": {
+    "group": "Kastanjemanden",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/tdLJTZJ184PsO9QkK9aPeeAXLlo.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/unconditional/": {
+    "group": "Unconditional",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/l8fk8AvFzOT47LO13BcaKglqNZQ.jpg",
+    "imdb": 4.8
+  },
+  "/dizi/palu-ailesi-karanlik-sarmal/": {
+    "group": "Palu Ailesi: Karanlık Sarmal",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/i70MAvdqFuXGFXwhbFVkgylFbgg.jpg",
+    "imdb": 0.0
   }
 }
