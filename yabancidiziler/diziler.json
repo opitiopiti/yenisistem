@@ -1213,5 +1213,32 @@
     "year": "2024",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/s7D1qWOGSFyicpToIfXL0HRMCT7.jpg"
+  },
+  "/dizi/dear-killer-nannies-criado-por-sicarios": {
+    "group": "Dear Killer Nannies: Criado por sicarios",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.2",
+    "poster": "https://image.tmdb.org/t/p/w500/bGRezoCqNtiKwNDB9hszImOs6ut.jpg"
+  },
+  "/dizi/the-terror": {
+    "group": "The Terror",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2018",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/2nMZzKlMj158RVb6tjmIunoaNdo.jpg"
+  },
+  "/dizi/unconditional": {
+    "group": "Unconditional",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "4.8",
+    "poster": "https://image.tmdb.org/t/p/w500/l8fk8AvFzOT47LO13BcaKglqNZQ.jpg"
   }
 }

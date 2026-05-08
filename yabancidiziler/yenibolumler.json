@@ -1,110 +1,110 @@
 {
-  "/dizi/criminal-record": {
-    "group": "Criminal Record",
-    "last_season": 2,
-    "last_episode": 3,
+  "/dizi/9-1-1": {
+    "group": "9-1-1",
+    "last_season": 9,
+    "last_episode": 17,
+    "start_episode": 1,
+    "year": "2018",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/6njUqsd3By2mJsdZm1P0moPLzs3.jpg"
+  },
+  "/dizi/dear-killer-nannies-criado-por-sicarios": {
+    "group": "Dear Killer Nannies: Criado por sicarios",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.2",
+    "poster": "https://image.tmdb.org/t/p/w500/bGRezoCqNtiKwNDB9hszImOs6ut.jpg"
+  },
+  "/dizi/elsbeth": {
+    "group": "Elsbeth",
+    "last_season": 3,
+    "last_episode": 17,
     "start_episode": 1,
     "year": "2024",
-    "imdb": "8.7",
-    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg"
-  },
-  "/dizi/daredevil-born-again": {
-    "group": "Daredevil: Born Again",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2025",
     "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/7lnNSbT90qwtrn1h9TvEkVFMz2P.jpg"
   },
-  "/dizi/dorohedoro": {
-    "group": "Dorohedoro",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2020",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg"
-  },
-  "/dizi/gold-land": {
-    "group": "Gold Land",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1,
-    "year": "2022",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/ixBHQ96ryMa8Q0uIOFdUCjqRyy8.jpg"
-  },
-  "/dizi/margo-s-got-money-troubles": {
-    "group": "Margo’s Got Money Troubles",
-    "last_season": 1,
+  "/dizi/for-all-mankind": {
+    "group": "For All Mankind",
+    "last_season": 5,
     "last_episode": 6,
     "start_episode": 1,
-    "year": "2026",
-    "imdb": "6.6",
-    "poster": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg"
+    "year": "2019",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
   },
-  "/dizi/ncis-origins": {
-    "group": "NCIS: Origins",
+  "/dizi/georgie-and-mandy-s-first-marriage": {
+    "group": "Georgie and Mandy’s First Marriage",
     "last_season": 2,
     "last_episode": 18,
     "start_episode": 1,
     "year": "2024",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/waWeC84DExojP5AHFbWaybj3wxv.jpg"
+    "imdb": "7.1",
+    "poster": "https://image.tmdb.org/t/p/w500/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg"
   },
-  "/dizi/ncis-sydney": {
-    "group": "NCIS: Sydney",
-    "last_season": 3,
-    "last_episode": 18,
-    "start_episode": 1,
-    "year": "2023",
-    "imdb": "5.9",
-    "poster": "https://image.tmdb.org/t/p/w500/6dYDa6h1AOZ7iZ1zv3nlw7qhErX.jpg"
-  },
-  "/dizi/the-dark-wizard": {
-    "group": "The Dark Wizard",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/qGbsQ6fhZPBhx9kgN0utAIyGRry.jpg"
-  },
-  "/dizi/the-house-of-the-spirits": {
-    "group": "The House of the Spirits",
-    "last_season": 1,
+  "/dizi/hacks": {
+    "group": "Hacks",
+    "last_season": 5,
     "last_episode": 5,
     "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/yb682O0KCZlS5qRydxOytO5A6co.jpg"
+    "year": "2021",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg"
   },
-  "/dizi/widow-sharp039-s-bay": {
-    "group": "Widow's Bay",
+  "/dizi/half-man": {
+    "group": "Half Man",
     "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 2,
     "start_episode": 1,
     "year": "2026",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg"
-  },
-  "/dizi/will-trent": {
-    "group": "Will Trent",
-    "last_season": 4,
-    "last_episode": 18,
-    "start_episode": 1,
-    "year": "2023",
-    "imdb": "7.7",
-    "poster": "https://image.tmdb.org/t/p/w500/qG5O46gUxxYGImld03tl2zLhvrg.jpg"
-  },
-  "/dizi/worst-ex-ever": {
-    "group": "Worst Ex Ever",
-    "last_season": 2,
-    "last_episode": 4,
-    "start_episode": 1,
-    "year": "2024",
     "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/s7D1qWOGSFyicpToIfXL0HRMCT7.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/1XcDgszF8YJqXZw4zYDR4JYaVlM.jpg"
+  },
+  "/dizi/outlander": {
+    "group": "Outlander",
+    "last_season": 8,
+    "last_episode": 8,
+    "start_episode": 1,
+    "year": "2014",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/bxBmfyzK0ARF9hqf2pbFWsddH14.jpg"
+  },
+  "/dizi/the-hunting-party": {
+    "group": "The Hunting Party",
+    "last_season": 2,
+    "last_episode": 12,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "6.2",
+    "poster": "https://image.tmdb.org/t/p/w500/mjJMOLr966Q78YUPu0pVA0ydBIP.jpg"
+  },
+  "/dizi/the-terror": {
+    "group": "The Terror",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2018",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/2nMZzKlMj158RVb6tjmIunoaNdo.jpg"
+  },
+  "/dizi/unconditional": {
+    "group": "Unconditional",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "4.8",
+    "poster": "https://image.tmdb.org/t/p/w500/l8fk8AvFzOT47LO13BcaKglqNZQ.jpg"
+  },
+  "/dizi/your-friends-neighbors": {
+    "group": "Your Friends & Neighbors",
+    "last_season": 2,
+    "last_episode": 5,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/lxmNQ1392ClqU56W0kx2h2ONF4V.jpg"
   }
 }

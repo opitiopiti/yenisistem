@@ -1,15 +1,15 @@
 {
+  "/dizi/kimler-geldi-kimler-gecti": {
+    "group": "Kimler Geldi Kimler Geçti",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/q3tO7n5GbRcnPwnTfbimY4y3yv4.jpg",
+    "imdb": 5.7
+  },
   "/dizi/legends-2026": {
     "group": "Legends 2026",
     "year": 2026,
     "poster": "https://dzycdn.com/img/t/294x441/legends-2026.webp",
     "imdb": 0.0
-  },
-  "/dizi/10-bin-adim": {
-    "group": "10 Bin Adım",
-    "year": 2020,
-    "poster": "https://image.tmdb.org/t/p/w500/s3qr2K8LjVCTIBoWOnkFd6bQqcM.jpg",
-    "imdb": 7.8
   },
   "/dizi/worst-ex-ever": {
     "group": "Worst Ex Ever",
