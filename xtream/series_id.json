@@ -46034,8 +46034,8 @@
   "10672": {
     "name": "HALF MAN  (2026)",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1777638365
+    "last_episode": 3,
+    "last_modified": 1778241536
   },
   "10673": {
     "name": "TEMIZ PARA(NONE) TR",
@@ -46456,5 +46456,11 @@
     "last_season": 2,
     "last_episode": 7,
     "last_modified": 1778157454
+  },
+  "10743": {
+    "name": "LEGENDS  (2206)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1778241536
   }
 }
