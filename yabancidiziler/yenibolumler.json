@@ -2,7 +2,7 @@
   "/dizi/9-1-1": {
     "group": "9-1-1",
     "last_season": 9,
-    "last_episode": 17,
+    "last_episode": 18,
     "start_episode": 1,
     "year": "2018",
     "imdb": "7.9",
@@ -11,7 +11,7 @@
   "/dizi/dear-killer-nannies-criado-por-sicarios": {
     "group": "Dear Killer Nannies: Criado por sicarios",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.2",
@@ -20,7 +20,7 @@
   "/dizi/elsbeth": {
     "group": "Elsbeth",
     "last_season": 3,
-    "last_episode": 17,
+    "last_episode": 18,
     "start_episode": 1,
     "year": "2024",
     "imdb": "7.8",
@@ -29,7 +29,7 @@
   "/dizi/for-all-mankind": {
     "group": "For All Mankind",
     "last_season": 5,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1,
     "year": "2019",
     "imdb": "8.1",
@@ -38,7 +38,7 @@
   "/dizi/georgie-and-mandy-s-first-marriage": {
     "group": "Georgie and Mandy’s First Marriage",
     "last_season": 2,
-    "last_episode": 18,
+    "last_episode": 19,
     "start_episode": 1,
     "year": "2024",
     "imdb": "7.1",
@@ -47,7 +47,7 @@
   "/dizi/hacks": {
     "group": "Hacks",
     "last_season": 5,
-    "last_episode": 5,
+    "last_episode": 7,
     "start_episode": 1,
     "year": "2021",
     "imdb": "8.2",
@@ -56,7 +56,7 @@
   "/dizi/half-man": {
     "group": "Half Man",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -65,7 +65,7 @@
   "/dizi/outlander": {
     "group": "Outlander",
     "last_season": 8,
-    "last_episode": 8,
+    "last_episode": 9,
     "start_episode": 1,
     "year": "2014",
     "imdb": "8.4",
@@ -74,7 +74,7 @@
   "/dizi/the-hunting-party": {
     "group": "The Hunting Party",
     "last_season": 2,
-    "last_episode": 12,
+    "last_episode": 13,
     "start_episode": 1,
     "year": "2025",
     "imdb": "6.2",
@@ -82,8 +82,8 @@
   },
   "/dizi/the-terror": {
     "group": "The Terror",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 1,
     "start_episode": 1,
     "year": "2018",
     "imdb": "7.8",
@@ -92,7 +92,7 @@
   "/dizi/unconditional": {
     "group": "Unconditional",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2,
     "start_episode": 1,
     "year": "2026",
     "imdb": "4.8",
@@ -101,7 +101,7 @@
   "/dizi/your-friends-neighbors": {
     "group": "Your Friends & Neighbors",
     "last_season": 2,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2025",
     "imdb": "7.0",
