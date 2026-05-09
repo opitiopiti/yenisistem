@@ -45860,8 +45860,8 @@
   "10643": {
     "name": "THE RAMPARTS OF ICE  (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1777655381
+    "last_episode": 6,
+    "last_modified": 1778314382
   },
   "10644": {
     "name": "IDA TAR ANSVAR  (2026)",
@@ -46490,7 +46490,19 @@
   "10748": {
     "name": "PALU AILESI: KARANLIK SARMAL  (2026)",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1778277635
+    "last_episode": 3,
+    "last_modified": 1778314382
+  },
+  "10749": {
+    "name": "THANK YOU, NEXT  (2024)",
+    "last_season": 0,
+    "last_episode": 0,
+    "last_modified": 1778314382
+  },
+  "10750": {
+    "name": "THE PALU FAMILY: UNDER A DARK SPELL  (2026)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1778314382
   }
 }
