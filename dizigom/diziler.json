@@ -29284,5 +29284,17 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/rYLQbyIvbEd0lF84iXrx7CbPcBB.jpg",
     "imdb": 0.0
+  },
+  "/dizi-izle/thank-you-next": {
+    "group": "THANK YOU, NEXT",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/q3tO7n5GbRcnPwnTfbimY4y3yv4.jpg",
+    "imdb": 7.4
+  },
+  "/dizi-izle/the-palu-family-under-a-dark-spell": {
+    "group": "THE PALU FAMILY: UNDER A DARK SPELL",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/i70MAvdqFuXGFXwhbFVkgylFbgg.jpg",
+    "imdb": 0.0
   }
 }
