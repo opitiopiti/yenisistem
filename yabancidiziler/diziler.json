@@ -254,7 +254,7 @@
   "/dizi/boston-blue": {
     "group": "Boston Blue",
     "last_season": 1,
-    "last_episode": 17,
+    "last_episode": 18,
     "start_episode": 1,
     "year": "2025",
     "imdb": "6.9",
@@ -263,7 +263,7 @@
   "/dizi/fire-country": {
     "group": "Fire Country",
     "last_season": 4,
-    "last_episode": 17,
+    "last_episode": 18,
     "start_episode": 1,
     "year": "2022",
     "imdb": "7.1",
@@ -299,7 +299,7 @@
   "/dizi/sheriff-country": {
     "group": "Sheriff Country",
     "last_season": 1,
-    "last_episode": 17,
+    "last_episode": 18,
     "start_episode": 1,
     "year": "2025",
     "imdb": "7.2",
@@ -1046,7 +1046,7 @@
   "/dizi/late-bloomer": {
     "group": "Late Bloomer",
     "last_season": 3,
-    "last_episode": 3,
+    "last_episode": 4,
     "start_episode": 1,
     "year": "2024",
     "imdb": "8.4",
@@ -1172,7 +1172,7 @@
   "/dizi/law-order-toronto-criminal-intent": {
     "group": "Law & Order Toronto: Criminal Intent",
     "last_season": 3,
-    "last_episode": 8,
+    "last_episode": 9,
     "start_episode": 1,
     "year": "2024",
     "imdb": "7.0",
@@ -1244,7 +1244,7 @@
   "/dizi/number-one-fan": {
     "group": "Number One Fan",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1,
     "year": "2026",
     "imdb": "5.4",
