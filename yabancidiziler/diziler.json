@@ -1240,5 +1240,14 @@
     "year": "2026",
     "imdb": "4.8",
     "poster": "https://image.tmdb.org/t/p/w500/l8fk8AvFzOT47LO13BcaKglqNZQ.jpg"
+  },
+  "/dizi/number-one-fan": {
+    "group": "Number One Fan",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "5.4",
+    "poster": "https://image.tmdb.org/t/p/w500/uhFSX44LJBoc2exwRWUq7q1mZLd.jpg"
   }
 }
