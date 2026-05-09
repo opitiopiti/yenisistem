@@ -137,6 +137,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg",
     "imdb": 8.3
   },
+  "/dizi/the-finder/": {
+    "group": "The Finder",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/1ssqed8krPnhVJCxGtw6Z3KrINw.jpg",
+    "imdb": 7.7
+  },
   "/dizi/unconditional/": {
     "group": "Unconditional",
     "year": 2026,
@@ -298,11 +304,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/yWkVOpu2dTYWSM0sodSIriVZnNn.jpg",
     "imdb": 8.4
-  },
-  "/dizi/nippon-sangoku/": {
-    "group": "Nippon Sangoku",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg",
-    "imdb": 8.3
   }
 }

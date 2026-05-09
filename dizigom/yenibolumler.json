@@ -1,51 +1,21 @@
 {
-  "/dizi-izle/citadel": {
-    "group": "CITADEL",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/5MHtxPEfmN4b0rHzfEZRcm6v9WI.jpg",
-    "imdb": 6.828
-  },
-  "/dizi-izle/the-boys": {
-    "group": "THE BOYS",
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
-    "imdb": 8.437
-  },
-  "/dizi-izle/thank-you-next": {
-    "group": "THANK YOU, NEXT",
-    "year": "2024",
-    "poster": "https://image.tmdb.org/t/p/w500/q3tO7n5GbRcnPwnTfbimY4y3yv4.jpg",
-    "imdb": 7.4
-  },
-  "/dizi-izle/the-palu-family-under-a-dark-spell": {
-    "group": "THE PALU FAMILY: UNDER A DARK SPELL",
+  "/dizi-izle/the-testaments": {
+    "group": "THE TESTAMENTS",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/i70MAvdqFuXGFXwhbFVkgylFbgg.jpg",
-    "imdb": 0.0
+    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
+    "imdb": 6.2
   },
-  "/dizi-izle/half-man": {
-    "group": "HALF MAN",
+  "/dizi-izle/the-ramparts-of-ice": {
+    "group": "THE RAMPARTS OF ICE",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/fV1XBxZSl0nxiMIhDuorIbfW8kG.jpg",
-    "imdb": 9.0
+    "poster": "https://image.tmdb.org/t/p/w500/rke9UC2QrogvxiQD9TGpbvqDosi.jpg",
+    "imdb": 7.167
   },
   "/dizi-izle/the-house-of-the-spirits": {
     "group": "THE HOUSE OF THE SPIRITS",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/yb682O0KCZlS5qRydxOytO5A6co.jpg",
     "imdb": 10.0
-  },
-  "/dizi-izle/your-friends-neighbors": {
-    "group": "YOUR FRIENDS & NEIGHBORS",
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg",
-    "imdb": 7.4
-  },
-  "/dizi-izle/the-chestnut-man": {
-    "group": "THE CHESTNUT MAN",
-    "year": "2021",
-    "poster": "https://image.tmdb.org/t/p/w500/tdLJTZJ184PsO9QkK9aPeeAXLlo.jpg",
-    "imdb": 7.482
   },
   "/dizi-izle/sold-out-on-you": {
     "group": "SOLD OUT ON YOU",
@@ -59,17 +29,23 @@
     "poster": "https://image.tmdb.org/t/p/w500/ulBzMy5DZjBeUo6wHqn8ao0Zn6j.jpg",
     "imdb": 7.4
   },
-  "/dizi-izle/the-testaments": {
-    "group": "THE TESTAMENTS",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
-    "imdb": 6.2
+  "/dizi-izle/your-friends-neighbors": {
+    "group": "YOUR FRIENDS & NEIGHBORS",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg",
+    "imdb": 7.4
   },
-  "/dizi-izle/for-all-mankind": {
-    "group": "FOR ALL MANKIND",
+  "/dizi-izle/thank-you-next": {
+    "group": "THANK YOU, NEXT",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/q3tO7n5GbRcnPwnTfbimY4y3yv4.jpg",
+    "imdb": 7.4
+  },
+  "/dizi-izle/the-boys": {
+    "group": "THE BOYS",
     "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
-    "imdb": 7.7
+    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+    "imdb": 8.437
   },
   "/dizi-izle/absolute-value-of-romance": {
     "group": "ABSOLUTE VALUE OF ROMANCE",
@@ -83,10 +59,34 @@
     "poster": "https://image.tmdb.org/t/p/w500/rYLQbyIvbEd0lF84iXrx7CbPcBB.jpg",
     "imdb": 0.0
   },
-  "/dizi-izle/the-ramparts-of-ice": {
-    "group": "THE RAMPARTS OF ICE",
+  "/dizi-izle/for-all-mankind": {
+    "group": "FOR ALL MANKIND",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
+    "imdb": 7.7
+  },
+  "/dizi-izle/the-chestnut-man": {
+    "group": "THE CHESTNUT MAN",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/w500/tdLJTZJ184PsO9QkK9aPeeAXLlo.jpg",
+    "imdb": 7.482
+  },
+  "/dizi-izle/citadel": {
+    "group": "CITADEL",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/5MHtxPEfmN4b0rHzfEZRcm6v9WI.jpg",
+    "imdb": 6.828
+  },
+  "/dizi-izle/half-man": {
+    "group": "HALF MAN",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/rke9UC2QrogvxiQD9TGpbvqDosi.jpg",
-    "imdb": 7.167
+    "poster": "https://image.tmdb.org/t/p/w500/fV1XBxZSl0nxiMIhDuorIbfW8kG.jpg",
+    "imdb": 9.0
+  },
+  "/dizi-izle/the-palu-family-under-a-dark-spell": {
+    "group": "THE PALU FAMILY: UNDER A DARK SPELL",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/i70MAvdqFuXGFXwhbFVkgylFbgg.jpg",
+    "imdb": 0.0
   }
 }

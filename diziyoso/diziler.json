@@ -30460,5 +30460,11 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/i70MAvdqFuXGFXwhbFVkgylFbgg.jpg",
     "imdb": 0.0
+  },
+  "/dizi/the-finder/": {
+    "group": "The Finder",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/1ssqed8krPnhVJCxGtw6Z3KrINw.jpg",
+    "imdb": 7.7
   }
 }
