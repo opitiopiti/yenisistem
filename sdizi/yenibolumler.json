@@ -1,4 +1,10 @@
 {
+  "/diziler/we-are-all-trying-here.html": {
+    "group": "WE ARE ALL TRYING HERE",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/hMrBaA68y4mlmE5zjC3NM2cN1IV.jpg"
+  },
   "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
     "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
     "year": "2018",
@@ -76,11 +82,5 @@
     "year": "2017",
     "imdb": "7.6",
     "poster": "https://image.tmdb.org/t/p/w500/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg"
-  },
-  "/diziler/gold-land.html": {
-    "group": "GOLD LAND",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/ixBHQ96ryMa8Q0uIOFdUCjqRyy8.jpg"
   }
 }
