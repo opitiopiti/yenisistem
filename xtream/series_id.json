@@ -3638,8 +3638,8 @@
   "3606": {
     "name": "BOSTON BLUE  (2025)",
     "last_season": 1,
-    "last_episode": 17,
-    "last_modified": 1777740190
+    "last_episode": 18,
+    "last_modified": 1778346654
   },
   "3607": {
     "name": "BREF  (2011)",
@@ -4736,8 +4736,8 @@
   "3789": {
     "name": "SHERIFF COUNTRY  (2025)",
     "last_season": 1,
-    "last_episode": 17,
-    "last_modified": 1777740190
+    "last_episode": 18,
+    "last_modified": 1778346654
   },
   "3790": {
     "name": "SHUANG CHENG GU SHI  (2018)",
@@ -45032,8 +45032,8 @@
   "10505": {
     "name": "DETECTIVE CONAN  (1996) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1200,
-    "last_modified": 1777740190
+    "last_episode": 1201,
+    "last_modified": 1778346654
   },
   "10506": {
     "name": "DIGIMON BEATBREAK  (2025) İNGİLİZCE",
@@ -45476,8 +45476,8 @@
   "10579": {
     "name": "THE STRONGEST JOB IS APPARENTLY NOT A HERO OR A SAGE, BUT AN APPRAISER (PROVISIONAL)!  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1777740190
+    "last_episode": 7,
+    "last_modified": 1778346654
   },
   "10580": {
     "name": "THE VILLAINESS IS ADORED BY THE PRINCE OF THE NEIGHBOR KINGDOM  (2026) İNGİLİZCE",
@@ -45656,14 +45656,14 @@
   "10609": {
     "name": "KILL BLUE  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1777740190
+    "last_episode": 5,
+    "last_modified": 1778346654
   },
   "10610": {
     "name": "YOWAYOWA TEACHER  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1777740190
+    "last_episode": 5,
+    "last_modified": 1778346654
   },
   "10611": {
     "name": "ICHIJOUMA MANKITSUGURASHI!  (2026) İNGİLİZCE",
@@ -46504,5 +46504,11 @@
     "last_season": 1,
     "last_episode": 3,
     "last_modified": 1778314382
+  },
+  "10751": {
+    "name": "NUMBER ONE FAN  (2026)",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1778346654
   }
 }
