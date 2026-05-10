@@ -1,4 +1,10 @@
 {
+  "/diziler/nippon-sangoku-the-three-nations-of-the-crimson-sun.html": {
+    "group": "NIPPON SANGOKU: THE THREE NATIONS OF THE CRIMSON SUN",
+    "year": "2026",
+    "imdb": "8.3",
+    "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg"
+  },
   "/diziler/we-are-all-trying-here.html": {
     "group": "WE ARE ALL TRYING HERE",
     "year": "2026",
@@ -76,11 +82,5 @@
     "year": "2020",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg"
-  },
-  "/diziler/classroom-of-the-elite.html": {
-    "group": "CLASSROOM OF THE ELITE",
-    "year": "2017",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg"
   }
 }

@@ -1249,5 +1249,23 @@
     "year": "2026",
     "imdb": "5.4",
     "poster": "https://image.tmdb.org/t/p/w500/uhFSX44LJBoc2exwRWUq7q1mZLd.jpg"
+  },
+  "/dizi/lukkhe": {
+    "group": "Lukkhe",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/w8GLkht5ceCi7KQ3AMD77mzkxBc.jpg"
+  },
+  "/dizi/my-royal-nemesis": {
+    "group": "My Royal Nemesis",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/rYLQbyIvbEd0lF84iXrx7CbPcBB.jpg"
   }
 }
