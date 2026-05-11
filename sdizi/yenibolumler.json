@@ -1,4 +1,16 @@
 {
+  "/diziler/rooster.html": {
+    "group": "ROOSTER",
+    "year": "2026",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg"
+  },
+  "/diziler/euphoria.html": {
+    "group": "EUPHORIA",
+    "year": "2019",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg"
+  },
   "/diziler/regular-show-the-lost-tapes.html": {
     "group": "REGULAR SHOW: THE LOST TAPES",
     "year": "2026",
@@ -70,17 +82,5 @@
     "year": "2026",
     "imdb": "7.8",
     "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg"
-  },
-  "/diziler/dr-stone.html": {
-    "group": "DR. STONE",
-    "year": "2019",
-    "imdb": "8.2",
-    "poster": "https://image.tmdb.org/t/p/w500/ve1Sv3sVArmE0nlFjzadcNv1G8r.jpg"
-  },
-  "/diziler/citadel-izle.html": {
-    "group": "CITADEL",
-    "year": "2023",
-    "imdb": "6.2",
-    "poster": "https://image.tmdb.org/t/p/w500/5MHtxPEfmN4b0rHzfEZRcm6v9WI.jpg"
   }
 }

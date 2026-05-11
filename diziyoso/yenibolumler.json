@@ -1,4 +1,22 @@
 {
+  "/dizi/euphoria": {
+    "group": "Euphoria",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
+    "imdb": 8.3
+  },
+  "/dizi/the-comeback": {
+    "group": "The Comeback",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/rooster": {
+    "group": "Rooster",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
+    "imdb": 7.4
+  },
   "/dizi/palu-ailesi-karanlik-sarmal": {
     "group": "Palu Ailesi: Karanlık Sarmal",
     "year": 2026,
@@ -119,23 +137,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/nLCpxH7BhFwP50lF0VFpxeeFjmM.jpg",
     "imdb": 6.0
   },
-  "/dizi/euphoria": {
-    "group": "Euphoria",
-    "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
-    "imdb": 8.3
-  },
   "/dizi/star-wars-maul-shadow-lord": {
     "group": "Star Wars: Maul – Shadow Lord",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
     "imdb": 7.3
-  },
-  "/dizi/nippon-sangoku": {
-    "group": "Nippon Sangoku",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg",
-    "imdb": 8.3
   },
   "/dizi/the-finder/": {
     "group": "The Finder",
