@@ -41210,8 +41210,8 @@
   "9868": {
     "name": "MARSHALS  (2026)",
     "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1777899473
+    "last_episode": 11,
+    "last_modified": 1778506214
   },
   "9869": {
     "name": "MAYFAIR WITCHES  (2023)",
@@ -45218,8 +45218,8 @@
   "10536": {
     "name": "MAGICAL SISTERS LULUTTO LILLY  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1777899473
+    "last_episode": 6,
+    "last_modified": 1778506214
   },
   "10537": {
     "name": "MAO  (2026) İNGİLİZCE",
@@ -46516,5 +46516,11 @@
     "last_season": 1,
     "last_episode": 8,
     "last_modified": 1778430496
+  },
+  "10753": {
+    "name": "REGULAR SHOW: THE LOST TAPES  (2026)",
+    "last_season": 1,
+    "last_episode": 5,
+    "last_modified": 1778506214
   }
 }
