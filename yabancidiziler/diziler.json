@@ -1267,5 +1267,14 @@
     "year": "2026",
     "imdb": "9.0",
     "poster": "https://image.tmdb.org/t/p/w500/rYLQbyIvbEd0lF84iXrx7CbPcBB.jpg"
+  },
+  "/dizi/angels-of-death": {
+    "group": "Angels of Death",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2021",
+    "imdb": "6.5",
+    "poster": "https://image.tmdb.org/t/p/w500/7QxkJNK2CWDELPpC0zZssQ9iOI0.jpg"
   }
 }

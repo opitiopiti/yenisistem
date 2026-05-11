@@ -1,4 +1,13 @@
 {
+  "/dizi/angels-of-death": {
+    "group": "Angels of Death",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2021",
+    "imdb": "6.5",
+    "poster": "https://image.tmdb.org/t/p/w500/7QxkJNK2CWDELPpC0zZssQ9iOI0.jpg"
+  },
   "/dizi/marshals": {
     "group": "Marshals",
     "last_season": 1,
@@ -25,6 +34,15 @@
     "year": "2005",
     "imdb": "8.0",
     "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg"
+  },
+  "/dizi/the-way-home": {
+    "group": "The Way Home",
+    "last_season": 4,
+    "last_episode": 3,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg"
   },
   "/dizi/tracker": {
     "group": "Tracker",
