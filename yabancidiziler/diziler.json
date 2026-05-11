@@ -353,7 +353,7 @@
   "/dizi/marshals": {
     "group": "Marshals",
     "last_season": 1,
-    "last_episode": 10,
+    "last_episode": 11,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.3",
@@ -362,7 +362,7 @@
   "/dizi/rooster": {
     "group": "Rooster",
     "last_season": 1,
-    "last_episode": 9,
+    "last_episode": 10,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.2",
@@ -371,7 +371,7 @@
   "/dizi/the-comeback": {
     "group": "The Comeback",
     "last_season": 3,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2005",
     "imdb": "8.0",
@@ -632,7 +632,7 @@
   "/dizi/tracker": {
     "group": "Tracker",
     "last_season": 3,
-    "last_episode": 19,
+    "last_episode": 20,
     "start_episode": 1,
     "year": "2024",
     "imdb": "6.4",
@@ -857,7 +857,7 @@
   "/dizi/we-are-all-trying-here": {
     "group": "We Are All Trying Here",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2026",
     "imdb": "8.0",
