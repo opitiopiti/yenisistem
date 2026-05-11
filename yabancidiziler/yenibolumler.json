@@ -52,50 +52,5 @@
     "year": "2024",
     "imdb": "6.4",
     "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg"
-  },
-  "/dizi/lukkhe": {
-    "group": "Lukkhe",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/w8GLkht5ceCi7KQ3AMD77mzkxBc.jpg"
-  },
-  "/dizi/my-royal-nemesis": {
-    "group": "My Royal Nemesis",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/rYLQbyIvbEd0lF84iXrx7CbPcBB.jpg"
-  },
-  "/dizi/nippon-sangoku": {
-    "group": "Nippon Sangoku",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/qHQnNHefuHI8N4lCoRQQP6pckMr.jpg"
-  },
-  "/dizi/we-are-all-trying-here": {
-    "group": "We Are All Trying Here",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/c2jswCrMoqDEBEXwSAlrCWtXdfZ.jpg"
-  },
-  "/dizi/when-hope-calls": {
-    "group": "When Hope Calls",
-    "last_season": 3,
-    "last_episode": 4,
-    "start_episode": 1,
-    "year": "2019",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/6XsUEyIu9uPgiUFFbGNmpYqkw71.jpg"
   }
 }
