@@ -617,21 +617,20 @@ jobs:
         run: |
           echo "Cache temizleme isteği atılıyor..."
 
-          if [ -n "$CLEAN_CACHE" ]; then
-            STATUS=$(curl -L -s -o /dev/null -w "%{http_code}" "$CLEAN_CACHE" 2>/dev/null)
+          RESPONSE=$(curl -L -s "$CLEAN_CACHE")
+          STATUS=$(curl -L -s -o /dev/null -w "%{http_code}" "$CLEAN_CACHE")
 
-            if [ "$STATUS" -eq 200 ]; then
-              echo "✅ Cache temizlendi"
-              echo "success=true" >> $GITHUB_OUTPUT
-            else
-              echo "❌ Cache temizlenemedi (Kod: $STATUS)"
-              echo "success=false" >> $GITHUB_OUTPUT
-            fi
+          echo "HTTP STATUS: $STATUS"
+          echo "RESPONSE: $RESPONSE"
+
+          if [[ "$STATUS" == "200" ]] && [[ "$RESPONSE" == *"reloaded"* ]]; then
+            echo "✅ Cache temizlendi"
+            echo "success=true" >> $GITHUB_OUTPUT
           else
-            echo "CLEAN_CACHE tanımlı değil, atlanıyor"
+            echo "❌ Cache temizlenemedi"
             echo "success=false" >> $GITHUB_OUTPUT
           fi
-
+          
       - name: Telegram Success Notification
         if: steps.cache_step.outputs.success == 'true' && steps.cache_proxy.outputs.success == 'true'
         env:
