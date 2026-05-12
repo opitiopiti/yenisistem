@@ -1276,5 +1276,14 @@
     "year": "2021",
     "imdb": "6.5",
     "poster": "https://image.tmdb.org/t/p/w500/7QxkJNK2CWDELPpC0zZssQ9iOI0.jpg"
+  },
+  "/dizi/devil-may-cry": {
+    "group": "Devil May Cry",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/mX9tqfpjqwreONJHhap7SnSSowe.jpg"
   }
 }

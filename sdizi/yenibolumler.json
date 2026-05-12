@@ -1,4 +1,10 @@
 {
+  "/diziler/devil-may-cry.html": {
+    "group": "DEVIL MAY CRY",
+    "year": "2025",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/mX9tqfpjqwreONJHhap7SnSSowe.jpg"
+  },
   "/diziler/elsbeth.html": {
     "group": "ELSBETH",
     "year": "2024",
@@ -76,11 +82,5 @@
     "year": "2025",
     "imdb": "7.9",
     "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg"
-  },
-  "/diziler/legends-2206.html": {
-    "group": "LEGENDS",
-    "year": "2026",
-    "imdb": "7.9",
-    "poster": "https://image.tmdb.org/t/p/w500/dGienbU1xNZJcbY8i8ubJusjDwD.jpg"
   }
 }

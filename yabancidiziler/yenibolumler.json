@@ -1,4 +1,22 @@
 {
+  "/dizi/devil-may-cry": {
+    "group": "Devil May Cry",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/mX9tqfpjqwreONJHhap7SnSSowe.jpg"
+  },
+  "/dizi/dmv": {
+    "group": "DMV",
+    "last_season": 1,
+    "last_episode": 19,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "5.6",
+    "poster": "https://image.tmdb.org/t/p/w500/nLCpxH7BhFwP50lF0VFpxeeFjmM.jpg"
+  },
   "/dizi/angels-of-death": {
     "group": "Angels of Death",
     "last_season": 1,
