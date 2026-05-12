@@ -20,7 +20,7 @@
   "/dizi/fbi": {
     "group": "FBI",
     "last_season": 8,
-    "last_episode": 20,
+    "last_episode": 21,
     "start_episode": 1,
     "year": "2018",
     "imdb": "7.1",
@@ -29,7 +29,7 @@
   "/dizi/the-audacity": {
     "group": "The Audacity",
     "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.7",
