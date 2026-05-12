@@ -10942,5 +10942,11 @@
     "year": 2006,
     "imdb": 8.6,
     "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg"
+  },
+  "/dizi/regular-show-the-lost-tapes/": {
+    "group": "Regular Show: The Lost Tapes",
+    "year": 2026,
+    "imdb": 9.0,
+    "poster": "https://image.tmdb.org/t/p/w500/krDKFsp8JSz678lDKLrV1Qy0Xfe.jpg"
   }
 }
