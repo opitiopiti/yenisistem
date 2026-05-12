@@ -45,6 +45,9 @@ jobs:
       - name: Run YabanciDiziler JSON Script
         run: python private_py/yabancidiziler/yabancidizilerjson.py || true
 
+      - name: Run Setfilmizle JSON Script
+        run: python private_py/setfilmizle/dizilerjson.py || true
+        
       - name: Commit and Push All JSONs to public repo
         run: |
           git config user.name "GitHub Actions"
@@ -186,7 +189,7 @@ jobs:
           git add . || echo "No files"
           git commit -m "Dizigom çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
-
+          
   part5:
     name: diziyoso
     runs-on: ubuntu-latest
@@ -352,7 +355,7 @@ jobs:
           git push origin main
           
   part9:
-    name: vavoo - dizigomfilmler - sinewix
+    name: vavoo - dizigomfilmler - setfilmizlefimler - dizibolyerli
     runs-on: ubuntu-latest
     needs: part2
     env:
@@ -380,7 +383,59 @@ jobs:
           
       - name: Run vavoo.py Script
         run: python private_py/genelkodlar/vavoo.py || true
+        
+      - name: Run dizigomfilmler.py Script
+        run: python private_py/dizigom/dizigomfilmler.py || true
 
+      - name: Run dizibolyerli.py Script
+        run: python private_py/dizibol/yenibolumler.py || true
+
+      - name: Run setfilmizlefilmleri.py Script
+        run: python private_py/setfilmizle/filmler.py || true
+
+      - name: Sync M3U outputs to private repo
+        run: |
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/m3ufile.git privaate_m3u8file
+
+          cp v/vavoo.m3u privaate_m3u8file/vavoo.m3u || echo "v/vavoo.m3u bulunamadı"
+          cp dizigomfilmler.m3u privaate_m3u8file/dizigomfilmler.m3u || echo "dizigomfilmler bulunamadı"
+          cp dizibolyerli.m3u privaate_m3u8file/dizibolyerli.m3u || echo "dizibolyerl bulunamadi"
+          cp setfilmizlefilmler.m3u privaate_m3u8file/setfilmizlefilmler.m3u || echo "setfilmizlefilmler bulunamadi"
+          
+          cd privaate_m3u8file
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Auto playlist update" || echo "No changes"
+          git push origin main
+          
+  part14:
+    name: sinewix
+    runs-on: ubuntu-latest
+    needs: part2
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+      
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv httpx
+          
       - name: Run sinewixanime.py Script
         run: python private_py/sinewix/sinewixanimeler.py || true
 
@@ -390,35 +445,25 @@ jobs:
       - name: Run sinewixseries.py Script
         run: python private_py/sinewix/sinewixseries.py || true
         
-      - name: Run dizigomfilmler.py Script
-        run: python private_py/dizigom/dizigomfilmler.py || true
-
-      - name: Run dizibolyerli.py Script
-        run: python private_py/dizibol/yenibolumler.py || true
-
-
       - name: Sync M3U outputs to private repo
         run: |
-          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/m3ufile.git privaate_m3u8file
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/sinewix.git privaate_sinewix
 
-          cp v/vavoo.m3u privaate_m3u8file/vavoo.m3u || echo "v/vavoo.m3u bulunamadı"
-          cp sinewix_filmler.m3u privaate_m3u8file/sinewix_filmler.m3u || echo "sinewix_filmler bulunamadı"
-          cp sinewix_animeler.m3u privaate_m3u8file/sinewix_animeler.m3u || echo "sinewix_animeler bulunamadı"
-          cp sinewix_diziler.m3u privaate_m3u8file/sinewix_diziler.m3u || echo "sinewix_diziler bulunamadı"
-          cp dizigomfilmler.m3u privaate_m3u8file/dizigomfilmler.m3u || echo "dizigomfilmler bulunamadı"
-          cp dizibolyerli.m3u privaate_m3u8file/dizibolyerli.m3u || echo "dizibolyerl bulunamadi"
+          cp sinewix_filmler.m3u privaate_sinewix/sinewix_filmler.m3u || echo "sinewix_filmler bulunamadı"
+          cp sinewix_animeler.m3u privaate_sinewix/sinewix_animeler.m3u || echo "sinewix_animeler bulunamadı"
+          cp sinewix_diziler.m3u privaate_sinewix/sinewix_diziler.m3u || echo "sinewix_diziler bulunamadı"
           
-          cd privaate_m3u8file
+          cd privaate_sinewix
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add .
-          git commit -m "Auto playlist update" || echo "No changes"
+          git commit -m "Auto sinewix playlist update" || echo "No changes"
           git push origin main
           
   part10:
     name: xtreamsistemigecis
     runs-on: ubuntu-latest
-    needs: [part1, part2, part3, part4 , part5 , part6, part7, part8, part9]  # Tüm partların tamamlanmasını bekle
+    needs: [part1, part2, part3, part4 , part5 , part6, part7, part8, part9, part14]  # Tüm partların tamamlanmasını bekle
     steps:
       - name: Wait and Transition to Python Code
         run: |
