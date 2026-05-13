@@ -1,4 +1,28 @@
 {
+  "/diziler/good-omens.html": {
+    "group": "GOOD OMENS",
+    "year": "2019",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/omgCpyBV5sUT8AkeIcEwdPPgKZC.jpg"
+  },
+  "/diziler/gold-land.html": {
+    "group": "GOLD LAND",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/ixBHQ96ryMa8Q0uIOFdUCjqRyy8.jpg"
+  },
+  "/diziler/the-punisher.html": {
+    "group": "THE PUNISHER",
+    "year": "2017",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg"
+  },
+  "/diziler/the-testaments.html": {
+    "group": "THE TESTAMENTS",
+    "year": "2026",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg"
+  },
   "/diziler/criminal-record.html": {
     "group": "CRIMINAL RECORD",
     "year": "2024",
@@ -58,29 +82,5 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/hMrBaA68y4mlmE5zjC3NM2cN1IV.jpg"
-  },
-  "/diziler/one-piece-izle.html": {
-    "group": "ONE PIECE",
-    "year": "1999",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
-  },
-  "/diziler/nippon-sangoku-the-three-nations-of-the-crimson-sun.html": {
-    "group": "NIPPON SANGOKU: THE THREE NATIONS OF THE CRIMSON SUN",
-    "year": "2026",
-    "imdb": "8.3",
-    "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg"
-  },
-  "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
-    "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
-    "year": "2018",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg"
-  },
-  "/diziler/absolute-value-of-romance.html": {
-    "group": "ABSOLUTE VALUE OF ROMANCE",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg"
   }
 }

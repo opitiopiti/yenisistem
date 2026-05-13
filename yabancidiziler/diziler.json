@@ -1285,5 +1285,23 @@
     "year": "2025",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/mX9tqfpjqwreONJHhap7SnSSowe.jpg"
+  },
+  "/dizi/good-omens": {
+    "group": "Good Omens",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2019",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/omgCpyBV5sUT8AkeIcEwdPPgKZC.jpg"
+  },
+  "/dizi/haantjes": {
+    "group": "Haantjes",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.8",
+    "poster": "https://image.tmdb.org/t/p/w500/ptvAD3TI60HHT7FNv35QssNiM79.jpg"
   }
 }
