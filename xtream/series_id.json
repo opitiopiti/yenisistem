@@ -45758,8 +45758,8 @@
   "10626": {
     "name": "MARGO’S GOT MONEY TROUBLES  (2026)",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1778072389
+    "last_episode": 7,
+    "last_modified": 1778662080
   },
   "10627": {
     "name": "THE DARK WIZARD  (2026)",
@@ -45992,8 +45992,8 @@
   "10665": {
     "name": "MARGO'S GOT MONEY TROUBLES  (2026)",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1778072389
+    "last_episode": 7,
+    "last_modified": 1778662080
   },
   "10666": {
     "name": "SOLD OUT ON YOU  (2026)",
@@ -46226,8 +46226,8 @@
   "10704": {
     "name": "WIDOW’S BAY  (2026)",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1778072389
+    "last_episode": 4,
+    "last_modified": 1778662080
   },
   "10705": {
     "name": "LA CASA DE LOS ESPÍRITUS  (2026)",
@@ -46528,5 +46528,17 @@
     "last_season": 1,
     "last_episode": 10,
     "last_modified": 1778524137
+  },
+  "10755": {
+    "name": "OFF CAMPUS  (2026)",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1778662080
+  },
+  "10756": {
+    "name": "THE GRAND-ISH TOUR  (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1778662080
   }
 }
