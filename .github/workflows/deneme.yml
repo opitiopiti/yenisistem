@@ -11,14 +11,14 @@ jobs:
       - name: Clean Cache Xtream
         id: cache_step
         env:
-          CLEAN_CACHE: ${{ secrets.CLEAN_CACHE }}
+          CLEAN_CACHE_URL: ${{ secrets.CLEAN_CACHE_URL }}
         run: |
           echo "Cache temizleme isteği atılıyor..."
 
           STATUS=$(curl -L -s \
             -o /dev/null \
             -w "%{http_code}" \
-            "$CLEAN_CACHE")
+            "$CLEAN_CACHE_URL")
 
           echo "HTTP STATUS: $STATUS"
 
