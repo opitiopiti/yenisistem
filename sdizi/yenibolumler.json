@@ -1,4 +1,10 @@
 {
+  "/diziler/tracker.html": {
+    "group": "TRACKER",
+    "year": "2024",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg"
+  },
   "/diziler/devil-may-cry.html": {
     "group": "DEVIL MAY CRY",
     "year": "2025",
@@ -76,11 +82,5 @@
     "year": "2019",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
-  },
-  "/diziler/your-friends-neighbors.html": {
-    "group": "YOUR FRIENDS & NEIGHBORS",
-    "year": "2025",
-    "imdb": "7.9",
-    "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg"
   }
 }
