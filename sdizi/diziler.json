@@ -11971,9 +11971,9 @@
   },
   "/diziler/family-guy.html": {
     "group": "FAMILY GUY",
-    "year": "1998",
-    "imdb": "8.1",
-    "poster": null
+    "year": "1999",
+    "imdb": "7.398",
+    "poster": "https://image.tmdb.org/t/p/w500/3PFsEuAiyLkWsP4GG6dIV37Q6gu.jpg"
   },
   "/diziler/the-stand.html": {
     "group": "THE STAND",
@@ -16750,5 +16750,11 @@
     "year": "2026",
     "imdb": "7.9",
     "poster": "https://image.tmdb.org/t/p/w500/dGienbU1xNZJcbY8i8ubJusjDwD.jpg"
+  },
+  "/diziler/off-campus.html": {
+    "group": "OFF CAMPUS",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg"
   }
 }

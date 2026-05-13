@@ -1,4 +1,46 @@
 {
+  "/dizi/gold-land/": {
+    "group": "Gold Land",
+    "year": 2026,
+    "imdb": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w500/exAqL4Hbh2M712QlFwGDTqZeiAl.jpg"
+  },
+  "/dizi/widows-bay/": {
+    "group": "Widow’s Bay",
+    "year": 2026,
+    "imdb": 6.5,
+    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
+  },
+  "/dizi/margos-got-money-troubles/": {
+    "group": "Margo’s Got Money Troubles",
+    "year": 2026,
+    "imdb": 6.3,
+    "poster": "https://image.tmdb.org/t/p/w500/uqyiKpqtyqJElBKZIQGF9rFuYAD.jpg"
+  },
+  "/dizi/criminal-record/": {
+    "group": "Criminal Record",
+    "year": 2024,
+    "imdb": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w500/kpnfeVRExCutHXFVXzaSdT8tAJl.jpg"
+  },
+  "/dizi/tracker/": {
+    "group": "Tracker",
+    "year": 2024,
+    "imdb": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg"
+  },
+  "/dizi/the-house-of-the-spirits/": {
+    "group": "The House of the Spirits",
+    "year": 2026,
+    "imdb": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w500/yb682O0KCZlS5qRydxOytO5A6co.jpg"
+  },
+  "/dizi/abbott-elementary/": {
+    "group": "Abbott Elementary",
+    "year": 2021,
+    "imdb": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w500/nBe1e3JJEZ6veGrVXNF0fRoLu56.jpg"
+  },
   "/dizi/regular-show-the-lost-tapes/": {
     "group": "Regular Show: The Lost Tapes",
     "year": 2026,
@@ -59,12 +101,6 @@
     "imdb": 6.2,
     "poster": "https://image.tmdb.org/t/p/w500/5MHtxPEfmN4b0rHzfEZRcm6v9WI.jpg"
   },
-  "/dizi/the-house-of-the-spirits/": {
-    "group": "The House of the Spirits",
-    "year": 2026,
-    "imdb": 7.7,
-    "poster": "https://image.tmdb.org/t/p/w500/yb682O0KCZlS5qRydxOytO5A6co.jpg"
-  },
   "/dizi/the-boys/": {
     "group": "The Boys",
     "year": 2019,
@@ -77,35 +113,11 @@
     "imdb": 6.2,
     "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg"
   },
-  "/dizi/gold-land/": {
-    "group": "Gold Land",
-    "year": 2026,
-    "imdb": 8.2,
-    "poster": "https://image.tmdb.org/t/p/w500/exAqL4Hbh2M712QlFwGDTqZeiAl.jpg"
-  },
   "/dizi/daredevil-born-again/": {
     "group": "Daredevil: Born Again",
     "year": 2025,
     "imdb": 8.0,
     "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg"
-  },
-  "/dizi/widows-bay/": {
-    "group": "Widow’s Bay",
-    "year": 2026,
-    "imdb": 6.5,
-    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
-  },
-  "/dizi/margos-got-money-troubles/": {
-    "group": "Margo’s Got Money Troubles",
-    "year": 2026,
-    "imdb": 6.3,
-    "poster": "https://image.tmdb.org/t/p/w500/uqyiKpqtyqJElBKZIQGF9rFuYAD.jpg"
-  },
-  "/dizi/criminal-record/": {
-    "group": "Criminal Record",
-    "year": 2024,
-    "imdb": 7.1,
-    "poster": "https://image.tmdb.org/t/p/w500/kpnfeVRExCutHXFVXzaSdT8tAJl.jpg"
   },
   "/dizi/high-potential/": {
     "group": "High Potential",
@@ -136,29 +148,5 @@
     "year": 2026,
     "imdb": 6.8,
     "poster": "https://image.tmdb.org/t/p/w500/oXMvLzMjBfQSKmSAqqaOZhfYvKE.jpg"
-  },
-  "/dizi/arrow/": {
-    "group": "Arrow",
-    "year": 2012,
-    "imdb": 7.5,
-    "poster": "https://image.tmdb.org/t/p/w500/u8ZHFj1jC384JEkTt3vNg1DfWEb.jpg"
-  },
-  "/dizi/mira-her-sey-yolundaymis-gibi/": {
-    "group": "Mira: Her Şey Yolundaymış Gibi",
-    "year": 2026,
-    "imdb": 7.5,
-    "poster": "https://image.tmdb.org/t/p/w500/bCoLLuCXN4crruP5tPzagoTb2WH.jpg"
-  },
-  "/dizi/privileges/": {
-    "group": "Privileges",
-    "year": 2026,
-    "imdb": 6.2,
-    "poster": "https://image.tmdb.org/t/p/w500/cjJBNmSLqwhDL5nob2xu6nMOQgp.jpg"
-  },
-  "/dizi/monarch-legacy-of-monsters-2023-izle/": {
-    "group": "Monarch: Legacy of Monsters",
-    "year": 2023,
-    "imdb": 7.0,
-    "poster": "https://image.tmdb.org/t/p/w500/7LBbaEaLSbqdviBYaSS1rRPMnrs.jpg"
   }
 }
