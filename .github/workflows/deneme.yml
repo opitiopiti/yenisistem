@@ -15,8 +15,13 @@ jobs:
         run: |
           echo "Cache temizleme isteği atılıyor..."
 
-          RESPONSE=$(curl -L -s "$CLEAN_CACHE")
-          STATUS=$(curl -L -s -o /dev/null -w "%{http_code}" "$CLEAN_CACHE")
+          RESPONSE=$(curl -A "Mozilla/5.0" \
+            -H "Accept: application/json" \
+            -L -s "$CLEAN_CACHE")
+
+          STATUS=$(curl -A "Mozilla/5.0" \
+            -H "Accept: application/json" \
+            -L -s -o /dev/null -w "%{http_code}" "$CLEAN_CACHE")
 
           echo "HTTP STATUS: $STATUS"
           echo "RESPONSE: $RESPONSE"
