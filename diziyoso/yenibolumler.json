@@ -1,4 +1,34 @@
 {
+  "/dizi/off-campus": {
+    "group": "Off Campus",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
+    "imdb": 10.0
+  },
+  "/dizi/the-boys": {
+    "group": "The Boys",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+    "imdb": 8.4
+  },
+  "/dizi/criminal-record": {
+    "group": "Criminal Record",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/margos-got-money-troubles": {
+    "group": "Margo’s Got Money Troubles",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg",
+    "imdb": 9.0
+  },
+  "/dizi/widows-bay": {
+    "group": "Widow’s Bay",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
+    "imdb": 6.5
+  },
   "/dizi/euphoria": {
     "group": "Euphoria",
     "year": 2019,
@@ -16,6 +46,18 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
     "imdb": 7.4
+  },
+  "/dizi/the-way-home": {
+    "group": "The Way Home",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/the-grand-ish-tour": {
+    "group": "The Grand-ish Tour",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/cPvIgIgysI3S067aA670pMYAjI4.jpg",
+    "imdb": 6.1
   },
   "/dizi/palu-ailesi-karanlik-sarmal": {
     "group": "Palu Ailesi: Karanlık Sarmal",
@@ -47,6 +89,18 @@
     "poster": "https://dzycdn.com/img/t/294x441/legends-2026.webp",
     "imdb": 0.0
   },
+  "/dizi/the-hunting-party": {
+    "group": "The Hunting Party",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/mjJMOLr966Q78YUPu0pVA0ydBIP.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/the-terror": {
+    "group": "The Terror",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/2nMZzKlMj158RVb6tjmIunoaNdo.jpg",
+    "imdb": 7.3
+  },
   "/dizi/half-man": {
     "group": "Half Man",
     "year": 2026,
@@ -64,12 +118,6 @@
     "year": 2024,
     "poster": "https://image.tmdb.org/t/p/w500/s7D1qWOGSFyicpToIfXL0HRMCT7.jpg",
     "imdb": 7.7
-  },
-  "/dizi/the-boys": {
-    "group": "The Boys",
-    "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
-    "imdb": 8.4
   },
   "/dizi/daredevil-born-again": {
     "group": "Daredevil: Born Again",
@@ -95,53 +143,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/qGbsQ6fhZPBhx9kgN0utAIyGRry.jpg",
     "imdb": 8.1
   },
-  "/dizi/widows-bay": {
-    "group": "Widow’s Bay",
+  "/dizi/off-campus/": {
+    "group": "Off Campus",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/QVyjW4MRsZgqUXbTMlcIWMNEXq.jpg",
+    "imdb": 10.0
+  },
+  "/dizi/the-grand-ish-tour/": {
+    "group": "The Grand-ish Tour",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
-    "imdb": 6.5
-  },
-  "/dizi/margos-got-money-troubles": {
-    "group": "Margo’s Got Money Troubles",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg",
-    "imdb": 9.0
-  },
-  "/dizi/criminal-record": {
-    "group": "Criminal Record",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/goldeu-laendeu": {
-    "group": "Goldeu Laendeu",
-    "year": 2026,
-    "poster": "https://dzycdn.com/img/t/294x441/gold-land-2026.webp",
-    "imdb": 8.2
-  },
-  "/dizi/funny-af-with-kevin-hart": {
-    "group": "Funny AF with Kevin Hart",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/Aw52lH93fDOeaw15Kspd81zZi1y.jpg",
-    "imdb": 5.8
-  },
-  "/dizi/secret-service": {
-    "group": "Secret Service",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/f7tksyddK3VvismfoWCwpXPqz0x.jpg",
-    "imdb": 6.4
-  },
-  "/dizi/dmv": {
-    "group": "DMV",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/nLCpxH7BhFwP50lF0VFpxeeFjmM.jpg",
-    "imdb": 6.0
-  },
-  "/dizi/star-wars-maul-shadow-lord": {
-    "group": "Star Wars: Maul – Shadow Lord",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/fTfLd3s9yBNOzbFHD2aXvwEs93H.jpg",
-    "imdb": 7.3
+    "poster": "https://image.tmdb.org/t/p/w500/cPvIgIgysI3S067aA670pMYAjI4.jpg",
+    "imdb": 6.1
   },
   "/dizi/the-finder/": {
     "group": "The Finder",
@@ -298,17 +310,5 @@
     "year": 2020,
     "poster": "https://image.tmdb.org/t/p/w500/bzBIJAQ6xQBgX1Uwwi59qyISQme.jpg",
     "imdb": 9.0
-  },
-  "/dizi/en-casa/": {
-    "group": "En casa",
-    "year": 2020,
-    "poster": "https://image.tmdb.org/t/p/w500/90JZFtUBLZDayyTuWPFazNzwkGe.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/jigoku-ni-ochiru-wa-yo/": {
-    "group": "Jigoku ni ochiru wa yo",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/yWkVOpu2dTYWSM0sodSIriVZnNn.jpg",
-    "imdb": 8.4
   }
 }

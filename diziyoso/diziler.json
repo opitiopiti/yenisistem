@@ -135,7 +135,7 @@
     "group": "Off Campus",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/QVyjW4MRsZgqUXbTMlcIWMNEXq.jpg",
-    "imdb": 0.0
+    "imdb": 10.0
   },
   "/dizi/onbesliler/": {
     "group": "Onbeşliler",
@@ -30466,5 +30466,29 @@
     "year": 2012,
     "poster": "https://image.tmdb.org/t/p/w500/1ssqed8krPnhVJCxGtw6Z3KrINw.jpg",
     "imdb": 7.7
+  },
+  "/dizi/off-campus": {
+    "group": "Off Campus",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
+    "imdb": 10.0
+  },
+  "/dizi/the-grand-ish-tour": {
+    "group": "The Grand-ish Tour",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/cPvIgIgysI3S067aA670pMYAjI4.jpg",
+    "imdb": 6.1
+  },
+  "/dizi/the-terror": {
+    "group": "The Terror",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/2nMZzKlMj158RVb6tjmIunoaNdo.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/the-grand-ish-tour/": {
+    "group": "The Grand-ish Tour",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/cPvIgIgysI3S067aA670pMYAjI4.jpg",
+    "imdb": 6.1
   }
 }
