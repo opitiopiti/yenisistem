@@ -79,41 +79,5 @@
     "year": "2026",
     "imdb": "8.0",
     "poster": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg"
-  },
-  "/dizi/devil-may-cry": {
-    "group": "Devil May Cry",
-    "last_season": 2,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2025",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/mX9tqfpjqwreONJHhap7SnSSowe.jpg"
-  },
-  "/dizi/dmv": {
-    "group": "DMV",
-    "last_season": 1,
-    "last_episode": 20,
-    "start_episode": 1,
-    "year": "2025",
-    "imdb": "5.6",
-    "poster": "https://image.tmdb.org/t/p/w500/nLCpxH7BhFwP50lF0VFpxeeFjmM.jpg"
-  },
-  "/dizi/fbi": {
-    "group": "FBI",
-    "last_season": 8,
-    "last_episode": 21,
-    "start_episode": 1,
-    "year": "2018",
-    "imdb": "7.1",
-    "poster": "https://image.tmdb.org/t/p/w500/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg"
-  },
-  "/dizi/the-audacity": {
-    "group": "The Audacity",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "6.7",
-    "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg"
   }
 }
