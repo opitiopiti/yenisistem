@@ -1,0 +1,54 @@
+name: Cache Temizlik Telegram
+
+on:
+  workflow_dispatch:
+
+jobs:
+  cachetemizlik-telegram:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clean Cache Xtream
+        id: cache_step
+        env:
+          CLEAN_CACHE: ${{ secrets.CLEAN_CACHE }}
+        run: |
+          echo "Cache temizleme isteği atılıyor..."
+
+          RESPONSE=$(curl -L -s "$CLEAN_CACHE")
+          STATUS=$(curl -L -s -o /dev/null -w "%{http_code}" "$CLEAN_CACHE")
+
+          echo "HTTP STATUS: $STATUS"
+          echo "RESPONSE: $RESPONSE"
+
+          if [[ "$STATUS" == "200" ]] && [[ "$RESPONSE" == *"reloaded"* ]]; then
+            echo "✅ Cache temizlendi"
+            echo "success=true" >> $GITHUB_OUTPUT
+          else
+            echo "❌ Cache temizlenemedi"
+            echo "success=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Telegram Success Notification
+        if: steps.cache_step.outputs.success == 'true'
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          MESSAGE="🚀✨ XTREAM SISTEMI BASARIYLA GUNCELLENDI ✅🔥"
+
+          curl -s -o /dev/null -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
+            -d chat_id="$TELEGRAM_CHAT_ID" \
+            -d text="$MESSAGE"
+
+      - name: Telegram Fail Notification
+        if: steps.cache_step.outputs.success == 'false'
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          MESSAGE="❌⚠️ XTREAM SISTEMI GUNCELLENEMEDI!"
+
+          curl -s -o /dev/null -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
+            -d chat_id="$TELEGRAM_CHAT_ID" \
+            -d text="$MESSAGE"
