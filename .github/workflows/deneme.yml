@@ -15,10 +15,14 @@ jobs:
         run: |
           echo "Cache temizleme isteği atılıyor..."
 
-          STATUS=$(curl -L -s \
+          STATUS=$(curl -sS -L \
+            --max-redirs 5 \
+            --retry 3 \
+            --retry-delay 2 \
+            --fail-with-body \
             -o /dev/null \
             -w "%{http_code}" \
-            "$CLEAN_CACHE_URL")
+            "$CLEAN_CACHE_URL") || STATUS="000"
 
           echo "HTTP STATUS: $STATUS"
 
