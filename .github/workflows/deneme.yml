@@ -11,7 +11,7 @@ jobs:
       - name: Clean Cache Xtream
         id: cache_step
         env:
-          CLEAN_CACHE_URL: ${{ secrets.CLEAN_CACHE_URL }}
+          CLEAN_CACHE_URL: ${{ secrets.CLEAN_CACHE }}
         run: |
           echo "Cache temizleme isteği atılıyor..."
 
