@@ -10,22 +10,21 @@ jobs:
     steps:
       - name: Clean Cache Xtream
         id: cache_step
+        env:
+          CLEAN_CACHE: ${{ secrets.CLEAN_CACHE }}
         run: |
           echo "Cache temizleme isteği atılıyor..."
 
-          URL="https://iptv.zeroipday.workers.dev/system/clear-cache?key=SUPER_SESSION_SECRET_123456"
-
-          RESPONSE=$(curl -L -s "$URL")
-          STATUS=$(curl -L -s -o /dev/null -w "%{http_code}" "$URL")
+          STATUS=$(curl -L -s \
+            -o /dev/null \
+            -w "%{http_code}" \
+            "$CLEAN_CACHE")
 
           echo "HTTP STATUS: $STATUS"
-          echo "RESPONSE: $RESPONSE"
 
-          if [[ "$STATUS" == "200" ]] && [[ "$RESPONSE" == *"reloaded"* ]]; then
-            echo "✅ Cache temizlendi"
+          if [[ "$STATUS" == "200" ]]; then
             echo "success=true" >> $GITHUB_OUTPUT
           else
-            echo "❌ Cache temizlenemedi"
             echo "success=false" >> $GITHUB_OUTPUT
           fi
 
@@ -35,12 +34,10 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          MESSAGE="🚀✨ XTREAM SISTEMI BASARIYLA GUNCELLENDI ✅🔥"
-
           curl -s -o /dev/null -X POST \
             "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
             -d chat_id="$TELEGRAM_CHAT_ID" \
-            -d text="$MESSAGE"
+            -d text="🚀✨ XTREAM SISTEMI BASARIYLA GUNCELLENDI ✅🔥"
 
       - name: Telegram Fail Notification
         if: steps.cache_step.outputs.success == 'false'
@@ -48,9 +45,7 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          MESSAGE="❌⚠️ XTREAM SISTEMI GUNCELLENEMEDI!"
-
           curl -s -o /dev/null -X POST \
             "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
             -d chat_id="$TELEGRAM_CHAT_ID" \
-            -d text="$MESSAGE"
+            -d text="❌⚠️ XTREAM SISTEMI GUNCELLENEMEDI!"
