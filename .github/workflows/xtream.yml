@@ -613,44 +613,45 @@ jobs:
       - name: Clean Cache Xtream
         id: cache_step
         env:
-          CLEAN_CACHE: ${{ secrets.CLEAN_CACHE }}
+          CLEAN_CACHE_URL: ${{ secrets.CLEAN_CACHE }}
         run: |
           echo "Cache temizleme isteği atılıyor..."
 
-          RESPONSE=$(curl -L -s "$CLEAN_CACHE")
-          STATUS=$(curl -L -s -o /dev/null -w "%{http_code}" "$CLEAN_CACHE")
+          STATUS=$(curl -sS -L \
+            --max-redirs 5 \
+            --retry 3 \
+            --retry-delay 2 \
+            --fail-with-body \
+            -o /dev/null \
+            -w "%{http_code}" \
+            "$CLEAN_CACHE_URL") || STATUS="000"
 
           echo "HTTP STATUS: $STATUS"
-          echo "RESPONSE: $RESPONSE"
 
-          if [[ "$STATUS" == "200" ]] && [[ "$RESPONSE" == *"reloaded"* ]]; then
-            echo "✅ Cache temizlendi"
+          if [[ "$STATUS" == "200" ]]; then
             echo "success=true" >> $GITHUB_OUTPUT
           else
-            echo "❌ Cache temizlenemedi"
             echo "success=false" >> $GITHUB_OUTPUT
           fi
-          
+
       - name: Telegram Success Notification
-        if: steps.cache_step.outputs.success == 'true' && steps.cache_proxy.outputs.success == 'true'
+        if: steps.cache_step.outputs.success == 'true'
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          MESSAGE="🚀✨ XTREAM SISTEMI BASARIYLA GUNCELLENDI ✅🔥"
-
-          curl -s -o /dev/null -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
+          curl -s -o /dev/null -X POST \
+            "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
             -d chat_id="$TELEGRAM_CHAT_ID" \
-            -d text="$MESSAGE"
+            -d text="🚀✨ XTREAM SISTEMI BASARIYLA GUNCELLENDI ✅🔥"
 
-      - name: Telegram Fail Notification (Opsiyonel)
-        if: steps.cache_step.outputs.success == 'false' || steps.cache_proxy.outputs.success == 'false'
+      - name: Telegram Fail Notification
+        if: steps.cache_step.outputs.success == 'false'
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          MESSAGE="❌⚠️ XTREAM SISTEMI GUNCELLENEMEDI!"
-
-          curl -s -o /dev/null -X POST "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
+          curl -s -o /dev/null -X POST \
+            "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
             -d chat_id="$TELEGRAM_CHAT_ID" \
-            -d text="$MESSAGE"
+            -d text="❌⚠️ XTREAM SISTEMI GUNCELLENEMEDI!"
