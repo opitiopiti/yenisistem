@@ -1135,9 +1135,9 @@
   },
   "3189": {
     "name": "PERFECT MATCH  (2023)",
-    "last_season": 3,
+    "last_season": 4,
     "last_episode": 12,
-    "last_modified": 1775801787
+    "last_modified": 1778765299
   },
   "3190": {
     "name": "PERSONA  (2025) TR",
@@ -46232,8 +46232,8 @@
   "10705": {
     "name": "LA CASA DE LOS ESPÍRITUS  (2026)",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1777466129
+    "last_episode": 8,
+    "last_modified": 1778765299
   },
   "10706": {
     "name": "GOLD LAND  (2026)",
@@ -46262,8 +46262,8 @@
   "10710": {
     "name": "THE HOUSE OF THE SPIRITS  (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1778089630
+    "last_episode": 8,
+    "last_modified": 1778765299
   },
   "10711": {
     "name": "THE CAGE 2026  (2026)",
@@ -46558,5 +46558,29 @@
     "last_season": 1,
     "last_episode": 13,
     "last_modified": 1778696722
+  },
+  "10760": {
+    "name": "M.I.A.  (2026)",
+    "last_season": 1,
+    "last_episode": 9,
+    "last_modified": 1778765299
+  },
+  "10761": {
+    "name": "EVERYONE IS DOING  (2018)",
+    "last_season": 2,
+    "last_episode": 8,
+    "last_modified": 1778765299
+  },
+  "10762": {
+    "name": "LOVE IS BLIND: POLSKA  (2026)",
+    "last_season": 1,
+    "last_episode": 9,
+    "last_modified": 1778765299
+  },
+  "10763": {
+    "name": "SOUL MATE  (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1778765299
   }
 }
