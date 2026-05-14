@@ -1,4 +1,10 @@
 {
+  "/dizi/good-omens/": {
+    "group": "Good Omens",
+    "year": 2019,
+    "imdb": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w500/omgCpyBV5sUT8AkeIcEwdPPgKZC.jpg"
+  },
   "/dizi/off-campus/": {
     "group": "Off Campus",
     "year": 2026,
@@ -124,11 +130,5 @@
     "year": 2025,
     "imdb": 8.0,
     "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg"
-  },
-  "/dizi/high-potential/": {
-    "group": "High Potential",
-    "year": 2024,
-    "imdb": 7.5,
-    "poster": "https://image.tmdb.org/t/p/w500/xTCFYqx11WHUZRUDKpNLdkXRYJ6.jpg"
   }
 }

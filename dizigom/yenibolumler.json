@@ -1,9 +1,57 @@
 {
+  "/dizi-izle/roosters": {
+    "group": "ROOSTERS",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/2erxK4ZjSl9BzQE8c7AwJUGbKWn.jpg",
+    "imdb": 6.0
+  },
+  "/dizi-izle/sold-out-on-you": {
+    "group": "SOLD OUT ON YOU",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
+    "imdb": 9.0
+  },
+  "/dizi-izle/nippon-sangoku-the-three-nations-of-the-crimson-sun": {
+    "group": "NIPPON SANGOKU: THE THREE NATIONS OF THE CRIMSON SUN",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg",
+    "imdb": 8.0
+  },
+  "/dizi-izle/devil-may-cry": {
+    "group": "DEVIL MAY CRY",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/mX9tqfpjqwreONJHhap7SnSSowe.jpg",
+    "imdb": 7.907
+  },
   "/dizi-izle/margos-got-money-troubles": {
     "group": "MARGO'S GOT MONEY TROUBLES",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/5iVWUVfxOS1JFudntvPcLyHBw9y.jpg",
     "imdb": 7.972
+  },
+  "/dizi-izle/the-testaments": {
+    "group": "THE TESTAMENTS",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
+    "imdb": 6.2
+  },
+  "/dizi-izle/rooster": {
+    "group": "ROOSTER",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
+    "imdb": 7.3
+  },
+  "/dizi-izle/euphoria": {
+    "group": "EUPHORIA",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
+    "imdb": 8.284
+  },
+  "/dizi-izle/off-campus": {
+    "group": "OFF CAMPUS",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
+    "imdb": 7.7
   },
   "/dizi-izle/widows-bay": {
     "group": "WIDOW'S BAY",
@@ -17,35 +65,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/omgCpyBV5sUT8AkeIcEwdPPgKZC.jpg",
     "imdb": 8.003
   },
-  "/dizi-izle/the-testaments": {
-    "group": "THE TESTAMENTS",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
-    "imdb": 6.2
-  },
-  "/dizi-izle/devil-may-cry": {
-    "group": "DEVIL MAY CRY",
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/mX9tqfpjqwreONJHhap7SnSSowe.jpg",
-    "imdb": 7.907
-  },
-  "/dizi-izle/nippon-sangoku-the-three-nations-of-the-crimson-sun": {
-    "group": "NIPPON SANGOKU: THE THREE NATIONS OF THE CRIMSON SUN",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg",
-    "imdb": 8.0
-  },
-  "/dizi-izle/from": {
-    "group": "FROM",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
-    "imdb": 8.167
-  },
-  "/dizi-izle/criminal-record": {
-    "group": "CRIMINAL RECORD",
-    "year": "2024",
-    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
-    "imdb": 6.9
+  "/dizi-izle/the-comeback": {
+    "group": "THE COMEBACK",
+    "year": "2005",
+    "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg",
+    "imdb": 7.3
   },
   "/dizi-izle/we-are-all-trying-here": {
     "group": "WE ARE ALL TRYING HERE",
@@ -53,35 +77,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/c2jswCrMoqDEBEXwSAlrCWtXdfZ.jpg",
     "imdb": 8.75
   },
-  "/dizi-izle/euphoria": {
-    "group": "EUPHORIA",
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
-    "imdb": 8.284
-  },
-  "/dizi-izle/rooster": {
-    "group": "ROOSTER",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
-    "imdb": 7.3
-  },
   "/dizi-izle/gold-land": {
     "group": "GOLD LAND",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/ixBHQ96ryMa8Q0uIOFdUCjqRyy8.jpg",
     "imdb": 9.0
   },
-  "/dizi-izle/off-campus": {
-    "group": "OFF CAMPUS",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
-    "imdb": 7.7
-  },
-  "/dizi-izle/the-comeback": {
-    "group": "THE COMEBACK",
-    "year": "2005",
-    "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg",
-    "imdb": 7.3
+  "/dizi-izle/from": {
+    "group": "FROM",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/pRtJagIxpfODzzb0T0NAvZSzErC.jpg",
+    "imdb": 8.167
   },
   "/dizi-izle/my-royal-nemesis": {
     "group": "MY ROYAL NEMESIS",
@@ -95,10 +101,10 @@
     "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
     "imdb": 8.437
   },
-  "/dizi-izle/roosters": {
-    "group": "ROOSTERS",
-    "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/w500/2erxK4ZjSl9BzQE8c7AwJUGbKWn.jpg",
-    "imdb": 6.0
+  "/dizi-izle/criminal-record": {
+    "group": "CRIMINAL RECORD",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
+    "imdb": 6.9
   }
 }

@@ -5,6 +5,12 @@
     "imdb": "7.8",
     "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg"
   },
+  "/diziler/dr-stone.html": {
+    "group": "DR. STONE",
+    "year": "2019",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/ve1Sv3sVArmE0nlFjzadcNv1G8r.jpg"
+  },
   "/diziler/off-campus.html": {
     "group": "OFF CAMPUS",
     "year": "2026",
@@ -70,17 +76,5 @@
     "year": "2024",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg"
-  },
-  "/diziler/devil-may-cry.html": {
-    "group": "DEVIL MAY CRY",
-    "year": "2025",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/mX9tqfpjqwreONJHhap7SnSSowe.jpg"
-  },
-  "/diziler/elsbeth.html": {
-    "group": "ELSBETH",
-    "year": "2024",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/7lnNSbT90qwtrn1h9TvEkVFMz2P.jpg"
   }
 }
