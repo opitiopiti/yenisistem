@@ -3435,7 +3435,7 @@
     "group": "ROOSTERS",
     "year": "2025",
     "poster": "https://image.tmdb.org/t/p/w500/2erxK4ZjSl9BzQE8c7AwJUGbKWn.jpg",
-    "imdb": 0.0
+    "imdb": 6.0
   },
   "/dizi-izle/a-man-on-the-inside": {
     "group": "A MAN ON THE INSIDE",
@@ -29296,5 +29296,11 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/i70MAvdqFuXGFXwhbFVkgylFbgg.jpg",
     "imdb": 3.0
+  },
+  "/dizi-izle/off-campus": {
+    "group": "OFF CAMPUS",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
+    "imdb": 7.7
   }
 }
