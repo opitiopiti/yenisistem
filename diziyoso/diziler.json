@@ -29685,7 +29685,7 @@
     "group": "M.I.A.",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/8voJ9AKuyrSyzxfoxwR4tpio82h.jpg",
-    "imdb": 0.0
+    "imdb": 6.3
   },
   "/dizi/the-testaments": {
     "group": "The Testaments",
@@ -30490,5 +30490,11 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/cPvIgIgysI3S067aA670pMYAjI4.jpg",
     "imdb": 6.1
+  },
+  "/dizi/number-one-fan/": {
+    "group": "Number One Fan",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/uhFSX44LJBoc2exwRWUq7q1mZLd.jpg",
+    "imdb": 5.4
   }
 }

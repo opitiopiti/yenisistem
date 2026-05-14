@@ -1,4 +1,16 @@
 {
+  "/dizi/the-audacity": {
+    "group": "The Audacity",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
+    "imdb": 5.1
+  },
+  "/dizi/la-casa-de-los-espiritus": {
+    "group": "La Casa de los Espíritus",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/lzy5lANYtUp24VTnX0NnnwAnvJa.jpg",
+    "imdb": 8.1
+  },
   "/dizi/off-campus": {
     "group": "Off Campus",
     "year": 2026,
@@ -29,6 +41,24 @@
     "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
     "imdb": 6.5
   },
+  "/dizi/cia": {
+    "group": "CIA",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/8XbgWv137Umc8resTDeWh9ff7Y0.jpg",
+    "imdb": 6.4
+  },
+  "/dizi/dmv": {
+    "group": "DMV",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/nLCpxH7BhFwP50lF0VFpxeeFjmM.jpg",
+    "imdb": 6.0
+  },
+  "/dizi/fbi": {
+    "group": "FBI",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg",
+    "imdb": 7.9
+  },
   "/dizi/euphoria": {
     "group": "Euphoria",
     "year": 2019,
@@ -52,6 +82,24 @@
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg",
     "imdb": 7.5
+  },
+  "/dizi/boston-blue": {
+    "group": "Boston Blue",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/8pyxutHxpgBt8ZwbIG2TZWCW394.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/fire-country": {
+    "group": "Fire Country",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
+    "imdb": 8.2
+  },
+  "/dizi/sheriff-country": {
+    "group": "Sheriff Country",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+    "imdb": 6.6
   },
   "/dizi/the-grand-ish-tour": {
     "group": "The Grand-ish Tour",
@@ -89,59 +137,29 @@
     "poster": "https://dzycdn.com/img/t/294x441/legends-2026.webp",
     "imdb": 0.0
   },
-  "/dizi/the-hunting-party": {
-    "group": "The Hunting Party",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/mjJMOLr966Q78YUPu0pVA0ydBIP.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/the-terror": {
-    "group": "The Terror",
-    "year": 2018,
-    "poster": "https://image.tmdb.org/t/p/w500/2nMZzKlMj158RVb6tjmIunoaNdo.jpg",
-    "imdb": 7.3
-  },
-  "/dizi/half-man": {
-    "group": "Half Man",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/1XcDgszF8YJqXZw4zYDR4JYaVlM.jpg",
-    "imdb": 10.0
-  },
-  "/dizi/hacks": {
-    "group": "Hacks",
-    "year": 2021,
-    "poster": "https://image.tmdb.org/t/p/w500/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/worst-ex-ever": {
-    "group": "Worst Ex Ever",
+  "/dizi/georgie-mandys-first-marriage": {
+    "group": "Georgie & Mandy’s First Marriage",
     "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/s7D1qWOGSFyicpToIfXL0HRMCT7.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
     "imdb": 7.7
   },
-  "/dizi/daredevil-born-again": {
-    "group": "Daredevil: Born Again",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg",
-    "imdb": 7.9
+  "/dizi/late-bloomer": {
+    "group": "Late Bloomer",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/cdyKElGB4whoIS6zcJqNWQNaVsj.jpg",
+    "imdb": 8.8
   },
-  "/dizi/citadel": {
-    "group": "Citadel",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/rIuJpbBcZjROIqvu9OKr3psP0zv.jpg",
-    "imdb": 6.8
-  },
-  "/dizi/the-testaments": {
-    "group": "The Testaments",
+  "/dizi/m-i-a/": {
+    "group": "M.I.A.",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
-    "imdb": 6.5
+    "poster": "https://image.tmdb.org/t/p/w500/8voJ9AKuyrSyzxfoxwR4tpio82h.jpg",
+    "imdb": 6.3
   },
-  "/dizi/the-dark-wizard": {
-    "group": "The Dark Wizard",
+  "/dizi/number-one-fan/": {
+    "group": "Number One Fan",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/qGbsQ6fhZPBhx9kgN0utAIyGRry.jpg",
-    "imdb": 8.1
+    "poster": "https://image.tmdb.org/t/p/w500/uhFSX44LJBoc2exwRWUq7q1mZLd.jpg",
+    "imdb": 5.4
   },
   "/dizi/off-campus/": {
     "group": "Off Campus",
@@ -298,17 +316,5 @@
     "year": 2004,
     "poster": "https://image.tmdb.org/t/p/w500/gnOwOb82chSJkQEZ9pd6jf2ZrEX.jpg",
     "imdb": 8.3
-  },
-  "/dizi/widows-bay/": {
-    "group": "Widow’s Bay",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
-    "imdb": 6.5
-  },
-  "/dizi/eristyksissa/": {
-    "group": "Eristyksissä",
-    "year": 2020,
-    "poster": "https://image.tmdb.org/t/p/w500/bzBIJAQ6xQBgX1Uwwi59qyISQme.jpg",
-    "imdb": 9.0
   }
 }

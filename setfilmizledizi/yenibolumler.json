@@ -1,4 +1,10 @@
 {
+  "/dizi/off-campus/": {
+    "group": "Off Campus",
+    "year": 2026,
+    "imdb": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg"
+  },
   "/dizi/the-boys/": {
     "group": "The Boys",
     "year": 2019,
@@ -124,29 +130,5 @@
     "year": 2024,
     "imdb": 7.5,
     "poster": "https://image.tmdb.org/t/p/w500/xTCFYqx11WHUZRUDKpNLdkXRYJ6.jpg"
-  },
-  "/dizi/star-wars-maul-shadow-lord/": {
-    "group": "Star Wars: Maul – Shadow Lord",
-    "year": 2026,
-    "imdb": 7.5,
-    "poster": "https://image.tmdb.org/t/p/w500/cCUQAclLHCDQH6nduHwuqMdezmm.jpg"
-  },
-  "/dizi/arayis-2023-izle/": {
-    "group": "Arayış",
-    "year": 2023,
-    "imdb": 4.5,
-    "poster": "https://image.tmdb.org/t/p/w500/rt92S7wMB5qnNDnjP068rwT4LKS.jpg"
-  },
-  "/dizi/aktris/": {
-    "group": "Aktris",
-    "year": 2023,
-    "imdb": 5.5,
-    "poster": "https://image.tmdb.org/t/p/w500/fA7pIct280xzovtILkM5dfqY9P4.jpg"
-  },
-  "/dizi/p-a-y/": {
-    "group": "P.A.Y",
-    "year": 2026,
-    "imdb": 6.8,
-    "poster": "https://image.tmdb.org/t/p/w500/oXMvLzMjBfQSKmSAqqaOZhfYvKE.jpg"
   }
 }

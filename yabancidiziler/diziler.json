@@ -1303,5 +1303,50 @@
     "year": "2026",
     "imdb": "6.8",
     "poster": "https://image.tmdb.org/t/p/w500/ptvAD3TI60HHT7FNv35QssNiM79.jpg"
+  },
+  "/dizi/everyone-is-doing": {
+    "group": "Everyone Is Doing",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2018",
+    "imdb": "6.9",
+    "poster": "https://image.tmdb.org/t/p/w500/ePOMnujKaCmA4xpQnRQfWDGgnjK.jpg"
+  },
+  "/dizi/love-is-blind-polska": {
+    "group": "Love is Blind: Polska",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.8",
+    "poster": "https://image.tmdb.org/t/p/w500/eEjcdcegR6bzfe2I1jLP30n3UCa.jpg"
+  },
+  "/dizi/soul-mate": {
+    "group": "Soul Mate",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/koWJdCFLPLI2VSWQhssoF91k5al.jpg"
+  },
+  "/dizi/off-campus": {
+    "group": "Off Campus",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg"
+  },
+  "/dizi/perfect-match": {
+    "group": "Perfect Match",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "5.9",
+    "poster": "https://image.tmdb.org/t/p/w500/yzC8RVSrxyCil0ZVjlbARsjK18E.jpg"
   }
 }

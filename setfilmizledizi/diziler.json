@@ -10948,5 +10948,11 @@
     "year": 2026,
     "imdb": 9.0,
     "poster": "https://image.tmdb.org/t/p/w500/krDKFsp8JSz678lDKLrV1Qy0Xfe.jpg"
+  },
+  "/dizi/off-campus/": {
+    "group": "Off Campus",
+    "year": 2026,
+    "imdb": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg"
   }
 }
