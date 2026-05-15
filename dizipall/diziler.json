@@ -25438,5 +25438,41 @@
     "year": 2025,
     "poster": "https://image.tmdb.org/t/p/w500/tKiQ7H60U8hLCzCBQpzbHGfFGTm.jpg",
     "imdb": 5.4
+  },
+  "off-campus": {
+    "group": "OFF CAMPUS",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/gtoV2udbEnUgkMuCNX8zJrEwm7N.jpg",
+    "imdb": 8.7
+  },
+  "les-crues": {
+    "group": "LES CRUES",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/sDdBHBnCilBY148xXLAdYzg6xeN.jpg",
+    "imdb": 0.0
+  },
+  "the-grand-ish-tour": {
+    "group": "THE GRAND-ISH TOUR",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/cPvIgIgysI3S067aA670pMYAjI4.jpg",
+    "imdb": 8.0
+  },
+  "soul-mate": {
+    "group": "SOUL MATE",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/koWJdCFLPLI2VSWQhssoF91k5al.jpg",
+    "imdb": 8.0
+  },
+  "berlin-y-la-dama-del-armino": {
+    "group": "BERLÍN Y LA DAMA DEL ARMIÑO",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/kru9Y5uRXdZFcUyeRlcv4bP4hOr.jpg",
+    "imdb": 10.0
+  },
+  "dutton-ranch": {
+    "group": "DUTTON RANCH",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+    "imdb": 9.6
   }
 }
