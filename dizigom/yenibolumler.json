@@ -1,51 +1,15 @@
 {
-  "/dizi-izle/the-testaments": {
-    "group": "THE TESTAMENTS",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
-    "imdb": 6.2
-  },
-  "/dizi-izle/the-boys": {
-    "group": "THE BOYS",
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
-    "imdb": 8.437
-  },
-  "/dizi-izle/gold-land": {
-    "group": "GOLD LAND",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/ixBHQ96ryMa8Q0uIOFdUCjqRyy8.jpg",
-    "imdb": 9.0
-  },
   "/dizi-izle/roosters": {
     "group": "ROOSTERS",
     "year": "2025",
     "poster": "https://image.tmdb.org/t/p/w500/2erxK4ZjSl9BzQE8c7AwJUGbKWn.jpg",
     "imdb": 6.0
   },
-  "/dizi-izle/on-the-roam": {
-    "group": "ON THE ROAM",
-    "year": "2024",
-    "poster": "https://image.tmdb.org/t/p/w500/gUiODjPOFhJygwsWvxADr3EjMfs.jpg",
-    "imdb": 6.7
-  },
-  "/dizi-izle/sold-out-on-you": {
-    "group": "SOLD OUT ON YOU",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
-    "imdb": 9.0
-  },
-  "/dizi-izle/off-campus": {
-    "group": "OFF CAMPUS",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
-    "imdb": 7.7
-  },
-  "/dizi-izle/criminal-record": {
-    "group": "CRIMINAL RECORD",
-    "year": "2024",
-    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
-    "imdb": 6.9
+  "/dizi-izle/the-boys": {
+    "group": "THE BOYS",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+    "imdb": 8.437
   },
   "/dizi-izle/good-omens": {
     "group": "GOOD OMENS",
@@ -58,5 +22,41 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/koWJdCFLPLI2VSWQhssoF91k5al.jpg",
     "imdb": 8.0
+  },
+  "/dizi-izle/on-the-roam": {
+    "group": "ON THE ROAM",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/gUiODjPOFhJygwsWvxADr3EjMfs.jpg",
+    "imdb": 6.7
+  },
+  "/dizi-izle/the-testaments": {
+    "group": "THE TESTAMENTS",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg",
+    "imdb": 6.2
+  },
+  "/dizi-izle/criminal-record": {
+    "group": "CRIMINAL RECORD",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
+    "imdb": 6.9
+  },
+  "/dizi-izle/sold-out-on-you": {
+    "group": "SOLD OUT ON YOU",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg",
+    "imdb": 9.0
+  },
+  "/dizi-izle/gold-land": {
+    "group": "GOLD LAND",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/ixBHQ96ryMa8Q0uIOFdUCjqRyy8.jpg",
+    "imdb": 9.0
+  },
+  "/dizi-izle/off-campus": {
+    "group": "OFF CAMPUS",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
+    "imdb": 7.7
   }
 }
