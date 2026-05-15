@@ -1,4 +1,28 @@
 {
+  "/diziler/rivals.html": {
+    "group": "RIVALS",
+    "year": "2024",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/2JGsqTciDo5YEUDQAD8FN59NL3G.jpg"
+  },
+  "/diziler/your-friends-neighbors.html": {
+    "group": "YOUR FRIENDS & NEIGHBORS",
+    "year": "2025",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg"
+  },
+  "/diziler/for-all-mankind.html": {
+    "group": "FOR ALL MANKIND",
+    "year": "2019",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
+  },
+  "/diziler/half-man.html": {
+    "group": "HALF MAN",
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/1XcDgszF8YJqXZw4zYDR4JYaVlM.jpg"
+  },
   "/diziler/sold-out-on-you.html": {
     "group": "SOLD OUT ON YOU",
     "year": "2026",
@@ -52,29 +76,5 @@
     "year": "2017",
     "imdb": "8.4",
     "poster": "https://image.tmdb.org/t/p/w500/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg"
-  },
-  "/diziler/the-testaments.html": {
-    "group": "THE TESTAMENTS",
-    "year": "2026",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg"
-  },
-  "/diziler/criminal-record.html": {
-    "group": "CRIMINAL RECORD",
-    "year": "2024",
-    "imdb": "7.3",
-    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg"
-  },
-  "/diziler/margos-got-money-troubles.html": {
-    "group": "MARGO'S GOT MONEY TROUBLES",
-    "year": "2026",
-    "imdb": "6.9",
-    "poster": "https://image.tmdb.org/t/p/w500/kMb8hCou8RZf7uXE1rTE8ZDgcvg.jpg"
-  },
-  "/diziler/tracker.html": {
-    "group": "TRACKER",
-    "year": "2024",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg"
   }
 }

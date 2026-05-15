@@ -1348,5 +1348,23 @@
     "year": "2023",
     "imdb": "5.9",
     "poster": "https://image.tmdb.org/t/p/w500/yzC8RVSrxyCil0ZVjlbARsjK18E.jpg"
+  },
+  "/dizi/the-grand-ish-tour": {
+    "group": "The Grand-ish Tour",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.2",
+    "poster": "https://image.tmdb.org/t/p/w500/cPvIgIgysI3S067aA670pMYAjI4.jpg"
+  },
+  "/dizi/welcome-to-wrexham": {
+    "group": "Welcome to Wrexham",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/65Bs500TJ84QcgLQNBGmoWHtlna.jpg"
   }
 }
