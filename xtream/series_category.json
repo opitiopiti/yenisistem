@@ -2289,7 +2289,8 @@
     {"name": "LA LEY DE LA SELVA", "year": "2023"},
     {"name": "TODO DIA A MESMA NOITE", "year": "2023"},
     {"name": "SOCIAL CURRENCY", "year": "2023"},
-    {"name": "ILARY", "year": "2025"}
+    {"name": "ILARY", "year": "2025"},
+    {"name": "KINGDOM", "year": "2019"}
   ],
   "HBO DİZİLERİ": [
     {"name": "THE PITT", "year": "2025"},
@@ -3957,7 +3958,8 @@
     {"name": "LIVE UP TO YOUR NAME", "year": "2017"},
     {"name": "IT'S OKAY TO NOT BE OKAY", "year": "2020"},
     {"name": "HIDDEN IDENTITY", "year": "2015"},
-    {"name": "FAMILIAR WIFE", "year": "2018"}
+    {"name": "FAMILIAR WIFE", "year": "2018"},
+    {"name": "SHOOTING STARS", "year": "2022"}
   ],
   "BBC IPLAYER DİZİLERİ": [
     {"name": "MANDY", "year": "2019"},
@@ -4102,7 +4104,8 @@
     {"name": "RULES OF THE GAME", "year": "2022"},
     {"name": "PARANORMAL", "year": "2023"},
     {"name": "THE FAMOUS FIVE", "year": "2023"},
-    {"name": "DEATH VALLEY", "year": "2025"}
+    {"name": "DEATH VALLEY", "year": "2025"},
+    {"name": "RED ROSE", "year": "2022"}
   ],
   "STARZ DİZİLERİ": [
     {"name": "POWER BOOK III: RAISING KANAN", "year": "2021"},
@@ -4714,7 +4717,8 @@
     {"name": "Y: THE LAST MAN", "year": "2021"},
     {"name": "EL GRITO DE LAS MARIPOSAS", "year": "2023"},
     {"name": "EL REPATRIADO", "year": "2022"},
-    {"name": "MARVEL'S HIT-MONKEY", "year": "2021"}
+    {"name": "MARVEL'S HIT-MONKEY", "year": "2021"},
+    {"name": "EXPOSURE", "year": "2021"}
   ],
   "TVING DİZİLERİ": [
     {"name": "LOVE IN THE BIG CITY", "year": "2024"},
@@ -5298,7 +5302,8 @@
     {"name": "FIRES", "year": "2021"},
     {"name": "DON'T TRUST THE B---- IN APARTMENT 23", "year": "2012"},
     {"name": "THE STRANGER", "year": "1964"},
-    {"name": "THE F.B.I.", "year": "1965"}
+    {"name": "THE F.B.I.", "year": "1965"},
+    {"name": "SIRENS", "year": "1993"}
   ],
   "FX DİZİLERİ": [
     {"name": "THE OLD MAN", "year": "2022"},
@@ -5671,7 +5676,8 @@
     {"name": "LEOPARD SKIN", "year": "2022"},
     {"name": "PITCH PERFECT: BUMPER IN BERLIN", "year": "2022"},
     {"name": "MR. THROWBACK", "year": "2024"},
-    {"name": "JOHN CARPENTER'S SUBURBAN SCREAMS", "year": "2023"}
+    {"name": "JOHN CARPENTER'S SUBURBAN SCREAMS", "year": "2023"},
+    {"name": "QUEER AS FOLK", "year": "2022"}
   ],
   "ENA DİZİLERİ": [
     {"name": "TASTEFULLY YOURS", "year": "2025"},
@@ -5826,7 +5832,8 @@
     {"name": "ZOEY'S EXTRAORDINARY PLAYLIST", "year": "2020"},
     {"name": "SEARCH", "year": "1972"},
     {"name": "HEIST", "year": "2006"},
-    {"name": "LIFE", "year": "2007"}
+    {"name": "LIFE", "year": "2007"},
+    {"name": "THE REBEL", "year": "1959"}
   ],
   "THE CW DİZİLERİ": [
     {"name": "WALKER", "year": "2021"},
@@ -6234,7 +6241,8 @@
     {"name": "CLAIREBELL", "year": "2025"},
     {"name": "NOTED: ALICIA KEYS THE UNTOLD STORIES", "year": "2021"},
     {"name": "CONNECT", "year": "2025"},
-    {"name": "SUMMER LOVE", "year": "2015"}
+    {"name": "SUMMER LOVE", "year": "2015"},
+    {"name": "STUCK", "year": "2019"}
   ],
   "FUJI TV DİZİLERİ": [
     {"name": "PRAY SPEAK WHAT HAS HAPPENED", "year": "2025"},
@@ -6596,7 +6604,8 @@
     {"name": "LET THE RIGHT ONE IN", "year": "2022"},
     {"name": "AMERICAN GIGOLO", "year": "2022"},
     {"name": "GHOSTS OF BEIRUT", "year": "2023"},
-    {"name": "THE L WORD: GENERATION Q", "year": "2019"}
+    {"name": "THE L WORD: GENERATION Q", "year": "2019"},
+    {"name": "UFO", "year": "2021"}
   ],
   "RTÉ PLAYER DİZİLERİ": [
     {"name": "OBITUARY", "year": "2023"},
@@ -7448,7 +7457,8 @@
     {"name": "ALL CREATURES GREAT AND SMALL", "year": "2020"},
     {"name": "LOVE RAT", "year": "2024"},
     {"name": "PAXMAN ON THE QUEEN'S CHILDREN", "year": "2019"},
-    {"name": "COMPULSION", "year": "2022"}
+    {"name": "COMPULSION", "year": "2022"},
+    {"name": "FINDERS KEEPERS", "year": "2024"}
   ],
   "PARAVI DİZİLERİ": [
     {"name": "JAPAN SINKS: PEOPLE OF HOPE", "year": "2021"},
@@ -7896,7 +7906,8 @@
     {"name": "H2O: JUST ADD WATER", "year": "2006"},
     {"name": "MR. & MRS. MURDER", "year": "2013"},
     {"name": "WORMWOOD", "year": "2007"},
-    {"name": "NORTH SHORE", "year": "2023"}
+    {"name": "NORTH SHORE", "year": "2023"},
+    {"name": "A LEAGUE OF THEIR OWN", "year": "2013"}
   ],
   "CARTOON NETWORK DİZİLERİ": [
     {"name": "ADVENTURE TIME", "year": "2008"},
@@ -8806,5 +8817,14 @@
   ],
   "ELISA VIIHDE DİZİLERİ": [
     {"name": "MÄDÄT OMENAT", "year": "2021"}
+  ],
+  "SNAPCHAT DİZİLERİ": [
+    {"name": "SAVE ME", "year": "2020"}
+  ],
+  "U&YESTERDAY DİZİLERİ": [
+    {"name": "PRIVATE LIVES", "year": "2017"}
+  ],
+  "FAMILY GEKIJO DİZİLERİ": [
+    {"name": "RAY", "year": "2006"}
   ]
 }
