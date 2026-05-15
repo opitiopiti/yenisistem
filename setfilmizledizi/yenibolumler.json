@@ -1,4 +1,34 @@
 {
+  "/dizi/gomorrah-the-origins/": {
+    "group": "Gomorrah: The Origins",
+    "year": 2026,
+    "imdb": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w500/l0RJjiE6k1Ey5m3pYTe60BQbNnZ.jpg"
+  },
+  "/dizi/half-man/": {
+    "group": "Half Man",
+    "year": 2026,
+    "imdb": 6.9,
+    "poster": "https://image.tmdb.org/t/p/w500/fV1XBxZSl0nxiMIhDuorIbfW8kG.jpg"
+  },
+  "/dizi/unconditional/": {
+    "group": "Unconditional",
+    "year": 2026,
+    "imdb": 6.3,
+    "poster": "https://image.tmdb.org/t/p/w500/iSpmc0szhBRykxf6sE2t91m49JE.jpg"
+  },
+  "/dizi/your-friends-and-neighbors/": {
+    "group": "Your Friends and Neighbors",
+    "year": 2025,
+    "imdb": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w500/lcp63INKEsVHUly9eayx7gEEOcG.jpg"
+  },
+  "/dizi/for-all-mankind/": {
+    "group": "For All Mankind",
+    "year": 2019,
+    "imdb": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
+  },
   "/dizi/good-omens/": {
     "group": "Good Omens",
     "year": 2019,
@@ -95,40 +125,10 @@
     "imdb": 5.7,
     "poster": "https://image.tmdb.org/t/p/w500/5K6jZNOjskDCtsZgF0r3nc8l26f.jpg"
   },
-  "/dizi/half-man/": {
-    "group": "Half Man",
-    "year": 2026,
-    "imdb": 6.9,
-    "poster": "https://image.tmdb.org/t/p/w500/fV1XBxZSl0nxiMIhDuorIbfW8kG.jpg"
-  },
-  "/dizi/your-friends-and-neighbors/": {
-    "group": "Your Friends and Neighbors",
-    "year": 2025,
-    "imdb": 7.7,
-    "poster": "https://image.tmdb.org/t/p/w500/lcp63INKEsVHUly9eayx7gEEOcG.jpg"
-  },
-  "/dizi/for-all-mankind/": {
-    "group": "For All Mankind",
-    "year": 2019,
-    "imdb": 8.1,
-    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
-  },
-  "/dizi/unconditional/": {
-    "group": "Unconditional",
-    "year": 2026,
-    "imdb": 6.3,
-    "poster": "https://image.tmdb.org/t/p/w500/iSpmc0szhBRykxf6sE2t91m49JE.jpg"
-  },
   "/dizi/citadel-2023-izle/": {
     "group": "Citadel",
     "year": 2023,
     "imdb": 6.2,
     "poster": "https://image.tmdb.org/t/p/w500/5MHtxPEfmN4b0rHzfEZRcm6v9WI.jpg"
-  },
-  "/dizi/daredevil-born-again/": {
-    "group": "Daredevil: Born Again",
-    "year": 2025,
-    "imdb": 8.0,
-    "poster": "https://image.tmdb.org/t/p/w500/xDUoAsU8lQHOOoRkFiBuarmACDN.jpg"
   }
 }
