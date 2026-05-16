@@ -25468,5 +25468,17 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
     "imdb": 0.0
+  },
+  "gassal": {
+    "group": "GASSAL",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/7Xaw2vjMEn6KyENB6JksVrXIq8W.jpg",
+    "imdb": 8.0
+  },
+  "prens": {
+    "group": "PRENS",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/kgiEixCPFs4W8HTwvfIPqVqkQCk.jpg",
+    "imdb": 8.3
   }
 }
