@@ -1,4 +1,10 @@
 {
+  "/dizi/rivals/": {
+    "group": "Rivals",
+    "year": 2024,
+    "imdb": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w500/3p9t1KDo5iXAn1zsSPn8sdtakWs.jpg"
+  },
   "/dizi/gomorrah-the-origins/": {
     "group": "Gomorrah: The Origins",
     "year": 2026,
