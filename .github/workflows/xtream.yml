@@ -555,7 +555,8 @@ jobs:
           cp diziyoso.m3u privaate_m3ufilee/diziyoso.m3u || echo "diziyoso.m3u bulunamadı"
           cp sezonlukdizi.m3u privaate_m3ufilee/sezonlukdizi.m3u || echo "sezonlukdizi.m3u bulunamadı"
           cp animeheaven.m3u privaate_m3ufilee/animeheaven.m3u || echo "animeheaven.m3u bulunamadi"
-          cp yabancidiziler.m3u privaate_m3ufilee/yabancidiziler.m3u || echo "yabancidiziler.m3u bulunamadi"     
+          cp yabancidiziler.m3u privaate_m3ufilee/yabancidiziler.m3u || echo "yabancidiziler.m3u bulunamadi"
+          cp dizipaldiziler.m3u privaate_m3ufilee/dizipaldiziler.m3u || echo "dizipaldiziler.m3u bulunamadi" 
           
           cd privaate_m3ufilee
           git config user.name "GitHub Actions"
