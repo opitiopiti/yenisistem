@@ -2,7 +2,7 @@
   "/dizi/absolute-value-of-romance": {
     "group": "Absolute Value of Romance",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 12,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -11,7 +11,7 @@
   "/dizi/berlin-and-the-lady-with-an-ermine": {
     "group": "Berlin and the lady with an ermine",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.1",
@@ -20,7 +20,7 @@
   "/dizi/dutton-ranch": {
     "group": "Dutton Ranch",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2,
     "start_episode": 1,
     "year": "2026",
     "imdb": "8.4",
@@ -29,7 +29,7 @@
   "/dizi/elsbeth": {
     "group": "Elsbeth",
     "last_season": 3,
-    "last_episode": 18,
+    "last_episode": 19,
     "start_episode": 1,
     "year": "2024",
     "imdb": "7.8",
@@ -65,7 +65,7 @@
   "/dizi/les-crues": {
     "group": "Les Crues",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.8",
@@ -74,7 +74,7 @@
   "/dizi/my-royal-nemesis": {
     "group": "My Royal Nemesis",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1,
     "year": "2026",
     "imdb": "9.0",
@@ -101,7 +101,7 @@
   "/dizi/the-wonderfools": {
     "group": "The Wonderfools",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2026",
     "imdb": "8.2",
