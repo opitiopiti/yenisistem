@@ -1,4 +1,10 @@
 {
+  "/diziler/the-wonderfools.html": {
+    "group": "THE WONDERFOOLS",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
   "/diziler/berlin-and-the-lady-with-an-ermine.html": {
     "group": "BERLIN AND THE LADY WITH AN ERMINE",
     "year": "2026",
@@ -76,11 +82,5 @@
     "year": "2017",
     "imdb": "7.6",
     "poster": "https://image.tmdb.org/t/p/w500/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg"
-  },
-  "/diziler/good-omens.html": {
-    "group": "GOOD OMENS",
-    "year": "2019",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/omgCpyBV5sUT8AkeIcEwdPPgKZC.jpg"
   }
 }
