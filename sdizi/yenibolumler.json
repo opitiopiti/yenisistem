@@ -1,4 +1,16 @@
 {
+  "/diziler/we-are-all-trying-here.html": {
+    "group": "WE ARE ALL TRYING HERE",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/hMrBaA68y4mlmE5zjC3NM2cN1IV.jpg"
+  },
+  "/diziler/one-piece-izle.html": {
+    "group": "ONE PIECE",
+    "year": "1999",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
+  },
   "/diziler/nippon-sangoku-the-three-nations-of-the-crimson-sun.html": {
     "group": "NIPPON SANGOKU: THE THREE NATIONS OF THE CRIMSON SUN",
     "year": "2026",
@@ -10,12 +22,6 @@
     "year": "2025",
     "imdb": "6.3",
     "poster": "https://image.tmdb.org/t/p/w500/tZnI8fWCtmJ9doCYSJwoJBITBiV.jpg"
-  },
-  "/diziler/we-are-all-trying-here.html": {
-    "group": "WE ARE ALL TRYING HERE",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/hMrBaA68y4mlmE5zjC3NM2cN1IV.jpg"
   },
   "/diziler/the-wonderfools.html": {
     "group": "THE WONDERFOOLS",
@@ -76,11 +82,5 @@
     "year": "2019",
     "imdb": "8.2",
     "poster": "https://image.tmdb.org/t/p/w500/ve1Sv3sVArmE0nlFjzadcNv1G8r.jpg"
-  },
-  "/diziler/off-campus.html": {
-    "group": "OFF CAMPUS",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg"
   }
 }
