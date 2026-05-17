@@ -51242,13 +51242,19 @@
   "11540": {
     "name": "BLACK BUTLER  (2008) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1778968186
+    "last_episode": 25,
+    "last_modified": 1778983508
   },
   "11541": {
     "name": "SCARLET  (2025) İNGİLİZCE",
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1778968186
+  },
+  "11542": {
+    "name": "YOUR FRIENDS AND NEIGHBORS  (2025)",
+    "last_season": 2,
+    "last_episode": 9,
+    "last_modified": 1778983508
   }
 }
