@@ -599,7 +599,7 @@ jobs:
           cp animeheaven.m3u privaate_m3ufilee/animeheaven.m3u || echo "animeheaven.m3u bulunamadi"
           cp yabancidiziler.m3u privaate_m3ufilee/yabancidiziler.m3u || echo "yabancidiziler.m3u bulunamadi"
           cp dizipaldiziler.m3u privaate_m3ufilee/dizipaldiziler.m3u || echo "dizipaldiziler.m3u bulunamadi" 
-          cp setfilmizlediziler.m3u privaate_m3ufilee/setfilmizlediziler.m3u || echo "dizipaldiziler.m3u bulunamadi" 
+          cp setfilmizlediziler.m3u privaate_m3ufilee/setfilmizlediziler.m3u || echo "setfilmizlediziler.m3u bulunamadi" 
           
           cd privaate_m3ufilee
           git config user.name "GitHub Actions"
