@@ -326,7 +326,7 @@
   "/dizi/nippon-sangoku": {
     "group": "Nippon Sangoku",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -353,7 +353,7 @@
   "/dizi/marshals": {
     "group": "Marshals",
     "last_season": 1,
-    "last_episode": 11,
+    "last_episode": 12,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.3",
@@ -614,7 +614,7 @@
   "/dizi/the-audacity": {
     "group": "The Audacity",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.7",
@@ -632,7 +632,7 @@
   "/dizi/tracker": {
     "group": "Tracker",
     "last_season": 3,
-    "last_episode": 20,
+    "last_episode": 21,
     "start_episode": 1,
     "year": "2024",
     "imdb": "6.4",
@@ -857,7 +857,7 @@
   "/dizi/we-are-all-trying-here": {
     "group": "We Are All Trying Here",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 10,
     "start_episode": 1,
     "year": "2026",
     "imdb": "8.0",
