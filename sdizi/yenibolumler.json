@@ -1,4 +1,10 @@
 {
+  "/diziler/euphoria.html": {
+    "group": "EUPHORIA",
+    "year": "2019",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg"
+  },
   "/diziler/regular-show-the-lost-tapes.html": {
     "group": "REGULAR SHOW: THE LOST TAPES",
     "year": "2026",
@@ -76,11 +82,5 @@
     "year": "2019",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
-  },
-  "/diziler/half-man.html": {
-    "group": "HALF MAN",
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/1XcDgszF8YJqXZw4zYDR4JYaVlM.jpg"
   }
 }

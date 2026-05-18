@@ -1,11 +1,47 @@
 {
-  "/dizi/absolute-value-of-romance": {
-    "group": "Absolute Value of Romance",
+  "/dizi/marshals": {
+    "group": "Marshals",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 11,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.3",
+    "poster": "https://image.tmdb.org/t/p/w500/nInfaveN1iFpRIcMGNKENoVVUT2.jpg"
+  },
+  "/dizi/nippon-sangoku": {
+    "group": "Nippon Sangoku",
+    "last_season": 1,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/qHQnNHefuHI8N4lCoRQQP6pckMr.jpg"
+  },
+  "/dizi/tracker": {
+    "group": "Tracker",
+    "last_season": 3,
+    "last_episode": 20,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "6.4",
+    "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg"
+  },
+  "/dizi/we-are-all-trying-here": {
+    "group": "We Are All Trying Here",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/c2jswCrMoqDEBEXwSAlrCWtXdfZ.jpg"
+  },
+  "/dizi/the-audacity": {
+    "group": "The Audacity",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.7",
+    "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg"
   }
 }
