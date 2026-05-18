@@ -1,4 +1,16 @@
 {
+  "/diziler/regular-show-the-lost-tapes.html": {
+    "group": "REGULAR SHOW: THE LOST TAPES",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/jqY3dj70ffSqKpM8XVUEToOEeLG.jpg"
+  },
+  "/diziler/phineas-and-ferb.html": {
+    "group": "PHINEAS AND FERB",
+    "year": "2007",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/g6TidT7be954rrzPPBTIXkSmfXj.jpg"
+  },
   "/diziler/we-are-all-trying-here.html": {
     "group": "WE ARE ALL TRYING HERE",
     "year": "2026",
@@ -70,17 +82,5 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/1XcDgszF8YJqXZw4zYDR4JYaVlM.jpg"
-  },
-  "/diziler/sold-out-on-you.html": {
-    "group": "SOLD OUT ON YOU",
-    "year": "2026",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg"
-  },
-  "/diziler/dr-stone.html": {
-    "group": "DR. STONE",
-    "year": "2019",
-    "imdb": "8.2",
-    "poster": "https://image.tmdb.org/t/p/w500/ve1Sv3sVArmE0nlFjzadcNv1G8r.jpg"
   }
 }
