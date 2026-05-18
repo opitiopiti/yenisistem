@@ -17,6 +17,15 @@
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/qHQnNHefuHI8N4lCoRQQP6pckMr.jpg"
   },
+  "/dizi/the-way-home": {
+    "group": "The Way Home",
+    "last_season": 4,
+    "last_episode": 4,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg"
+  },
   "/dizi/tracker": {
     "group": "Tracker",
     "last_season": 3,
