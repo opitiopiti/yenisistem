@@ -5,6 +5,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
     "imdb": 5.1
   },
+  "/dizi/euphoria": {
+    "group": "Euphoria",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
+    "imdb": 8.3
+  },
   "/dizi/la-casa-de-los-espiritus": {
     "group": "La Casa de los Espíritus",
     "year": 2026,
@@ -58,12 +64,6 @@
     "year": 2018,
     "poster": "https://image.tmdb.org/t/p/w500/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg",
     "imdb": 7.9
-  },
-  "/dizi/euphoria": {
-    "group": "Euphoria",
-    "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
-    "imdb": 8.3
   },
   "/dizi/the-comeback": {
     "group": "The Comeback",
@@ -142,12 +142,6 @@
     "year": 2024,
     "poster": "https://image.tmdb.org/t/p/w500/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
     "imdb": 7.7
-  },
-  "/dizi/late-bloomer": {
-    "group": "Late Bloomer",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/cdyKElGB4whoIS6zcJqNWQNaVsj.jpg",
-    "imdb": 8.8
   },
   "/dizi/m-i-a/": {
     "group": "M.I.A.",
