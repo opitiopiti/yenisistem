@@ -43226,8 +43226,8 @@
   "10204": {
     "name": "PHINEAS AND FERB  (2007)",
     "last_season": 5,
-    "last_episode": 10,
-    "last_modified": 1775801787
+    "last_episode": 39,
+    "last_modified": 1779078515
   },
   "10205": {
     "name": "SCOOBY-DOO! GIZEM AVCILARI  (2010)",
@@ -43346,8 +43346,8 @@
   "10224": {
     "name": "ONE PIECE  (1999)",
     "last_season": 21,
-    "last_episode": 1161,
-    "last_modified": 1778449008
+    "last_episode": 1162,
+    "last_modified": 1779078515
   },
   "10225": {
     "name": "BORUTO: NARUTO NEXT GENERATIONS  (2017)",
@@ -45152,8 +45152,8 @@
   "10525": {
     "name": "INGOKU DANCHI: DEVIANT'S APARTMENT COMPLEX  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1778449008
+    "last_episode": 7,
+    "last_modified": 1779078515
   },
   "10526": {
     "name": "IN THE CLEAR MOONLIT DUSK  (2026) İNGİLİZCE",
@@ -45230,8 +45230,8 @@
   "10538": {
     "name": "MARIKA'S LOVE METER MALFUNCTION  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1778449008
+    "last_episode": 6,
+    "last_modified": 1779078515
   },
   "10539": {
     "name": "MARRIAGETOXIN  (2026) İNGİLİZCE",
@@ -45296,8 +45296,8 @@
   "10549": {
     "name": "ONE PIECE  (1999) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1161,
-    "last_modified": 1778449008
+    "last_episode": 1162,
+    "last_modified": 1779078515
   },
   "10550": {
     "name": "ORANGE  (2016) İNGİLİZCE",
@@ -45902,8 +45902,8 @@
   "10650": {
     "name": "WE ARE ALL TRYING HERE  (2026)",
     "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1778968186
+    "last_episode": 10,
+    "last_modified": 1779078515
   },
   "10651": {
     "name": "IDA TAR ANSVAR  (2022)",
@@ -46520,8 +46520,8 @@
   "10753": {
     "name": "REGULAR SHOW: THE LOST TAPES  (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1778506214
+    "last_episode": 9,
+    "last_modified": 1779078515
   },
   "10754": {
     "name": "ANGELS OF DEATH  (2021)",
@@ -51266,7 +51266,13 @@
   "11544": {
     "name": "BLACK BUTLER 2  (2010) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1779036886
+    "last_episode": 12,
+    "last_modified": 1779078515
+  },
+  "11545": {
+    "name": "NEON GENESIS EVANGELION: THE END OF EVANGELION  (1997) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1779078515
   }
 }
