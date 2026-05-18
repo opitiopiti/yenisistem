@@ -35683,9 +35683,9 @@
   },
   "8947": {
     "name": "WELCOME TO WREXHAM  (2022)",
-    "last_season": 4,
+    "last_season": 5,
     "last_episode": 18,
-    "last_modified": 1775801787
+    "last_modified": 1779128350
   },
   "8948": {
     "name": "A KILLER UNCAGED  (2020)",
@@ -45080,8 +45080,8 @@
   "10513": {
     "name": "FARMING LIFE IN ANOTHER WORLD 2  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1778524137
+    "last_episode": 7,
+    "last_modified": 1779128350
   },
   "10514": {
     "name": "FATE/STRANGE FAKE  (2026) İNGİLİZCE",
@@ -45212,8 +45212,8 @@
   "10535": {
     "name": "LIAR GAME  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1778524137
+    "last_episode": 7,
+    "last_modified": 1779128350
   },
   "10536": {
     "name": "MAGICAL SISTERS LULUTTO LILLY  (2026) İNGİLİZCE",
@@ -45452,8 +45452,8 @@
   "10575": {
     "name": "THE KLUTZY CLASS MONITOR AND THE GIRL WITH THE SHORT SKIRT  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1778524137
+    "last_episode": 7,
+    "last_modified": 1779128350
   },
   "10576": {
     "name": "THE MOST HERETICAL LAST BOSS QUEEN: FROM VILLAINESS TO SAVIOR 2ND SEASON  (2026) İNGİLİZCE",
@@ -45518,8 +45518,8 @@
   "10586": {
     "name": "WITCH HAT ATELIER  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1778524137
+    "last_episode": 8,
+    "last_modified": 1779128350
   },
   "10587": {
     "name": "YONA OF THE DAWN  (2014) İNGİLİZCE",
@@ -46484,8 +46484,8 @@
   "10747": {
     "name": "MY ROYAL NEMESIS  (2026)",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1778932258
+    "last_episode": 4,
+    "last_modified": 1779128350
   },
   "10748": {
     "name": "PALU AILESI: KARANLIK SARMAL  (2026)",
@@ -51274,5 +51274,17 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1779078515
+  },
+  "11546": {
+    "name": "BLACK BUTLER: BOOK OF CIRCUS  (2014) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1779128350
+  },
+  "11547": {
+    "name": "ENTRE PADRE E HIJO  (2026)",
+    "last_season": 1,
+    "last_episode": 20,
+    "last_modified": 1779128350
   }
 }
