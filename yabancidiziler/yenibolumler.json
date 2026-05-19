@@ -1,8 +1,8 @@
 {
   "/dizi/amandaland": {
     "group": "Amandaland",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2025",
     "imdb": "7.5",
@@ -11,7 +11,7 @@
   "/dizi/fbi": {
     "group": "FBI",
     "last_season": 8,
-    "last_episode": 21,
+    "last_episode": 22,
     "start_episode": 1,
     "year": "2018",
     "imdb": "7.1",
@@ -19,8 +19,8 @@
   },
   "/dizi/euphoria": {
     "group": "Euphoria",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2019",
     "imdb": "8.2",
@@ -28,8 +28,8 @@
   },
   "/dizi/margarita": {
     "group": "Margarita",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 1,
     "start_episode": 1,
     "year": "2024",
     "imdb": "7.3",
