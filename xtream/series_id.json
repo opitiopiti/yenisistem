@@ -40969,9 +40969,9 @@
   },
   "9828": {
     "name": "AMANDALAND  (2025)",
-    "last_season": 1,
+    "last_season": 2,
     "last_episode": 7,
-    "last_modified": 1778899554
+    "last_modified": 1779196980
   },
   "9829": {
     "name": "AMAR É PARA OS FORTES  (2023)",
@@ -51292,5 +51292,23 @@
     "last_season": 1,
     "last_episode": 3,
     "last_modified": 1779160569
+  },
+  "11549": {
+    "name": "LEYLA HÂLI  (2026) TR",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1779196980
+  },
+  "11550": {
+    "name": "BOARDING SCHOOL JULIET  (2018) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 12,
+    "last_modified": 1779196980
+  },
+  "11551": {
+    "name": "MARGARITA  (2024)",
+    "last_season": 2,
+    "last_episode": 40,
+    "last_modified": 1779196980
   }
 }
