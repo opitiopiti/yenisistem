@@ -45704,8 +45704,8 @@
   "10617": {
     "name": "MIRA: HER ŞEY YOLUNDAYMIŞ GIBI  (2026) TR",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1777434491
+    "last_episode": 8,
+    "last_modified": 1779160569
   },
   "10618": {
     "name": "UNIVERSAL BASIC GUYS  (2025)",
@@ -51286,5 +51286,11 @@
     "last_season": 1,
     "last_episode": 20,
     "last_modified": 1779128350
+  },
+  "11548": {
+    "name": "PALU AILESI: KARANLIK SARMAL  (2026) TR",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1779160569
   }
 }
