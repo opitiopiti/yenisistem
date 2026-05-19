@@ -1,4 +1,10 @@
 {
+  "/diziler/will-trent.html": {
+    "group": "WILL TRENT",
+    "year": "2023",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/qG5O46gUxxYGImld03tl2zLhvrg.jpg"
+  },
   "/diziler/euphoria.html": {
     "group": "EUPHORIA",
     "year": "2019",
@@ -76,11 +82,5 @@
     "year": "2025",
     "imdb": "7.9",
     "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg"
-  },
-  "/diziler/for-all-mankind.html": {
-    "group": "FOR ALL MANKIND",
-    "year": "2019",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
   }
 }

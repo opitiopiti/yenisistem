@@ -1402,5 +1402,32 @@
     "year": "2026",
     "imdb": "8.2",
     "poster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg"
+  },
+  "/dizi/amandaland": {
+    "group": "Amandaland",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.5",
+    "poster": "https://image.tmdb.org/t/p/w500/xaCUYunTtAlrbZJQy57ZhSvgpB2.jpg"
+  },
+  "/dizi/euphoria": {
+    "group": "Euphoria",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2019",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg"
+  },
+  "/dizi/margarita": {
+    "group": "Margarita",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/h5ie5WyR4kvQBs93TigxjRjLRlr.jpg"
   }
 }
