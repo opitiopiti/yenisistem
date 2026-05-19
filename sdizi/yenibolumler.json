@@ -1,4 +1,10 @@
 {
+  "/diziler/the-house-of-the-spirits.html": {
+    "group": "THE HOUSE OF THE SPIRITS",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
   "/diziler/will-trent.html": {
     "group": "WILL TRENT",
     "year": "2023",
@@ -76,11 +82,5 @@
     "year": "2024",
     "imdb": "8.0",
     "poster": "https://image.tmdb.org/t/p/w500/2JGsqTciDo5YEUDQAD8FN59NL3G.jpg"
-  },
-  "/diziler/your-friends-neighbors.html": {
-    "group": "YOUR FRIENDS & NEIGHBORS",
-    "year": "2025",
-    "imdb": "7.9",
-    "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg"
   }
 }
