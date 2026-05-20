@@ -1,4 +1,10 @@
 {
+  "/dizi/the-boys": {
+    "group": "The Boys",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+    "imdb": 8.4
+  },
   "/dizi/the-audacity": {
     "group": "The Audacity",
     "year": 2026,
@@ -22,12 +28,6 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
     "imdb": 10.0
-  },
-  "/dizi/the-boys": {
-    "group": "The Boys",
-    "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
-    "imdb": 8.4
   },
   "/dizi/criminal-record": {
     "group": "Criminal Record",
@@ -136,12 +136,6 @@
     "year": 2026,
     "poster": "https://dzycdn.com/img/t/294x441/legends-2026.webp",
     "imdb": 0.0
-  },
-  "/dizi/georgie-mandys-first-marriage": {
-    "group": "Georgie & Mandy’s First Marriage",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
-    "imdb": 7.7
   },
   "/dizi/m-i-a/": {
     "group": "M.I.A.",
