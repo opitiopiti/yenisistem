@@ -1,4 +1,16 @@
 {
+  "/diziler/maximum-pleasure-guaranteed.html": {
+    "group": "MAXIMUM PLEASURE GUARANTEED",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/oeD9rnfk7AohNiJTRoCx4SOKhXj.jpg"
+  },
+  "/diziler/gold-land.html": {
+    "group": "GOLD LAND",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/ixBHQ96ryMa8Q0uIOFdUCjqRyy8.jpg"
+  },
   "/diziler/the-testaments.html": {
     "group": "THE TESTAMENTS",
     "year": "2026",
@@ -64,23 +76,5 @@
     "year": "2026",
     "imdb": "8.3",
     "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg"
-  },
-  "/diziler/shifting-gears.html": {
-    "group": "SHIFTING GEARS",
-    "year": "2025",
-    "imdb": "6.3",
-    "poster": "https://image.tmdb.org/t/p/w500/tZnI8fWCtmJ9doCYSJwoJBITBiV.jpg"
-  },
-  "/diziler/the-wonderfools.html": {
-    "group": "THE WONDERFOOLS",
-    "year": "2026",
-    "imdb": "8.2",
-    "poster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg"
-  },
-  "/diziler/berlin-and-the-lady-with-an-ermine.html": {
-    "group": "BERLIN AND THE LADY WITH AN ERMINE",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/kru9Y5uRXdZFcUyeRlcv4bP4hOr.jpg"
   }
 }
