@@ -46238,8 +46238,8 @@
   "10706": {
     "name": "GOLD LAND  (2026)",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1778677479
+    "last_episode": 8,
+    "last_modified": 1779282620
   },
   "10707": {
     "name": "ENVIDIOSA  (2024)",
@@ -51316,5 +51316,11 @@
     "last_season": 1,
     "last_episode": 8,
     "last_modified": 1779215040
+  },
+  "11553": {
+    "name": "MAXIMUM PLEASURE GUARANTEED  (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1779282620
   }
 }
