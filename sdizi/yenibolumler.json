@@ -1,15 +1,15 @@
 {
-  "/diziler/sold-out-on-you.html": {
-    "group": "SOLD OUT ON YOU",
-    "year": "2026",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg"
-  },
   "/diziler/the-boroughs.html": {
     "group": "THE BOROUGHS",
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg"
+  },
+  "/diziler/sold-out-on-you.html": {
+    "group": "SOLD OUT ON YOU",
+    "year": "2026",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg"
   },
   "/diziler/dr-stone.html": {
     "group": "DR. STONE",
