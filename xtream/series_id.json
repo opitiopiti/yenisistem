@@ -45416,8 +45416,8 @@
   "10569": {
     "name": "THE BARBARIAN'S BRIDE  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1778781674
+    "last_episode": 7,
+    "last_modified": 1779372076
   },
   "10570": {
     "name": "THE BEGINNING AFTER THE END SEASON 2  (2026) İNGİLİZCE",
@@ -51334,5 +51334,11 @@
     "last_season": 5,
     "last_episode": 10,
     "last_modified": 1779317213
+  },
+  "11556": {
+    "name": "THE BOROUGHS  (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1779372076
   }
 }
