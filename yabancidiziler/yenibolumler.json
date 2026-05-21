@@ -11,7 +11,7 @@
   "/dizi/dorohedoro": {
     "group": "Dorohedoro",
     "last_season": 2,
-    "last_episode": 9,
+    "last_episode": 10,
     "start_episode": 1,
     "year": "2020",
     "imdb": "7.0",
@@ -29,7 +29,7 @@
   "/dizi/margarita": {
     "group": "Margarita",
     "last_season": 2,
-    "last_episode": 1,
+    "last_episode": 3,
     "start_episode": 1,
     "year": "2024",
     "imdb": "7.3",
@@ -47,7 +47,7 @@
   "/dizi/perfect-match": {
     "group": "Perfect Match",
     "last_season": 4,
-    "last_episode": 5,
+    "last_episode": 7,
     "start_episode": 1,
     "year": "2023",
     "imdb": "5.9",
@@ -56,7 +56,7 @@
   "/dizi/sold-out-on-you": {
     "group": "Sold out on You",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 9,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.6",
