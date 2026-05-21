@@ -1,4 +1,13 @@
 {
+  "/dizi/the-boroughs": {
+    "group": "The Boroughs",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg"
+  },
   "/dizi/criminal-record": {
     "group": "Criminal Record",
     "last_season": 2,
