@@ -91,7 +91,7 @@ jobs:
         run: python private_py/genelkodlar/category.py || true
 
       - name: Run proxy_guncelleme Script
-        run: python dizipod/proxyarama.py || true
+        run: python private_py/dizipod/proxyarama.py || true
         
       - name: Commit and Push Ana JSONs to public repo
         run: |
