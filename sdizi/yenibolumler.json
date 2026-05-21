@@ -5,6 +5,18 @@
     "imdb": "7.8",
     "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg"
   },
+  "/diziler/the-boroughs.html": {
+    "group": "THE BOROUGHS",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg"
+  },
+  "/diziler/dr-stone.html": {
+    "group": "DR. STONE",
+    "year": "2019",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/ve1Sv3sVArmE0nlFjzadcNv1G8r.jpg"
+  },
   "/diziler/re-zero-starting-life-in-another-world.html": {
     "group": "RE: ZERO - STARTING LIFE IN ANOTHER WORLD",
     "year": "2016",
@@ -58,23 +70,5 @@
     "year": "2024",
     "imdb": "7.3",
     "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg"
-  },
-  "/diziler/the-house-of-the-spirits.html": {
-    "group": "THE HOUSE OF THE SPIRITS",
-    "year": "2026",
-    "imdb": "7.7",
-    "poster": "https://image.tmdb.org/t/p/w500/yb682O0KCZlS5qRydxOytO5A6co.jpg"
-  },
-  "/diziler/will-trent.html": {
-    "group": "WILL TRENT",
-    "year": "2023",
-    "imdb": "7.7",
-    "poster": "https://image.tmdb.org/t/p/w500/qG5O46gUxxYGImld03tl2zLhvrg.jpg"
-  },
-  "/diziler/euphoria.html": {
-    "group": "EUPHORIA",
-    "year": "2019",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg"
   }
 }

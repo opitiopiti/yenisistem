@@ -1,4 +1,58 @@
 {
+  "/dizi/maximum-pleasure-guaranteed/": {
+    "group": "Maximum Pleasure Guaranteed",
+    "year": 2026,
+    "imdb": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
+  },
+  "/dizi/the-boys/": {
+    "group": "The Boys",
+    "year": 2019,
+    "imdb": 8.6,
+    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg"
+  },
+  "/dizi/euphoria/": {
+    "group": "Euphoria",
+    "year": 2019,
+    "imdb": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg"
+  },
+  "/dizi/the-testaments/": {
+    "group": "The Testaments",
+    "year": 2026,
+    "imdb": 6.2,
+    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg"
+  },
+  "/dizi/widows-bay/": {
+    "group": "Widow’s Bay",
+    "year": 2026,
+    "imdb": 6.5,
+    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
+  },
+  "/dizi/margos-got-money-troubles/": {
+    "group": "Margo’s Got Money Troubles",
+    "year": 2026,
+    "imdb": 6.3,
+    "poster": "https://image.tmdb.org/t/p/w500/uqyiKpqtyqJElBKZIQGF9rFuYAD.jpg"
+  },
+  "/dizi/criminal-record/": {
+    "group": "Criminal Record",
+    "year": 2024,
+    "imdb": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w500/kpnfeVRExCutHXFVXzaSdT8tAJl.jpg"
+  },
+  "/dizi/gold-land/": {
+    "group": "Gold Land",
+    "year": 2026,
+    "imdb": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w500/exAqL4Hbh2M712QlFwGDTqZeiAl.jpg"
+  },
+  "/dizi/regular-show-the-lost-tapes/": {
+    "group": "Regular Show: The Lost Tapes",
+    "year": 2026,
+    "imdb": 9.0,
+    "poster": "https://image.tmdb.org/t/p/w500/krDKFsp8JSz678lDKLrV1Qy0Xfe.jpg"
+  },
   "/dizi/rivals/": {
     "group": "Rivals",
     "year": 2024,
@@ -47,42 +101,6 @@
     "imdb": 8.3,
     "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg"
   },
-  "/dizi/the-boys/": {
-    "group": "The Boys",
-    "year": 2019,
-    "imdb": 8.6,
-    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg"
-  },
-  "/dizi/the-testaments/": {
-    "group": "The Testaments",
-    "year": 2026,
-    "imdb": 6.2,
-    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg"
-  },
-  "/dizi/gold-land/": {
-    "group": "Gold Land",
-    "year": 2026,
-    "imdb": 8.2,
-    "poster": "https://image.tmdb.org/t/p/w500/exAqL4Hbh2M712QlFwGDTqZeiAl.jpg"
-  },
-  "/dizi/widows-bay/": {
-    "group": "Widow’s Bay",
-    "year": 2026,
-    "imdb": 6.5,
-    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
-  },
-  "/dizi/margos-got-money-troubles/": {
-    "group": "Margo’s Got Money Troubles",
-    "year": 2026,
-    "imdb": 6.3,
-    "poster": "https://image.tmdb.org/t/p/w500/uqyiKpqtyqJElBKZIQGF9rFuYAD.jpg"
-  },
-  "/dizi/criminal-record/": {
-    "group": "Criminal Record",
-    "year": 2024,
-    "imdb": 7.1,
-    "poster": "https://image.tmdb.org/t/p/w500/kpnfeVRExCutHXFVXzaSdT8tAJl.jpg"
-  },
   "/dizi/tracker/": {
     "group": "Tracker",
     "year": 2024,
@@ -101,18 +119,6 @@
     "imdb": 8.2,
     "poster": "https://image.tmdb.org/t/p/w500/nBe1e3JJEZ6veGrVXNF0fRoLu56.jpg"
   },
-  "/dizi/regular-show-the-lost-tapes/": {
-    "group": "Regular Show: The Lost Tapes",
-    "year": 2026,
-    "imdb": 9.0,
-    "poster": "https://image.tmdb.org/t/p/w500/krDKFsp8JSz678lDKLrV1Qy0Xfe.jpg"
-  },
-  "/dizi/euphoria/": {
-    "group": "Euphoria",
-    "year": 2019,
-    "imdb": 8.2,
-    "poster": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg"
-  },
   "/dizi/the-comeback/": {
     "group": "The Comeback",
     "year": 2005,
@@ -130,11 +136,5 @@
     "year": 2024,
     "imdb": 5.7,
     "poster": "https://image.tmdb.org/t/p/w500/5K6jZNOjskDCtsZgF0r3nc8l26f.jpg"
-  },
-  "/dizi/citadel-2023-izle/": {
-    "group": "Citadel",
-    "year": 2023,
-    "imdb": 6.2,
-    "poster": "https://image.tmdb.org/t/p/w500/5MHtxPEfmN4b0rHzfEZRcm6v9WI.jpg"
   }
 }
