@@ -1,8 +1,8 @@
 name: Delete Old Workflow Runs
 
 on:
-#  schedule:
-#    - cron: "0 0 * * *"  # Her gün gece 00:00'da çalışır (24 saatte bir)
+  schedule:
+    - cron: "0 0 * * *"  # Her gün gece 00:00'da çalışır (24 saatte bir)
   workflow_dispatch:
 
 jobs:
