@@ -1,4 +1,13 @@
 {
+  "/dizi/elsbeth": {
+    "group": "Elsbeth",
+    "last_season": 3,
+    "last_episode": 19,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/7lnNSbT90qwtrn1h9TvEkVFMz2P.jpg"
+  },
   "/dizi/for-all-mankind": {
     "group": "For All Mankind",
     "last_season": 5,
@@ -7,6 +16,15 @@
     "year": "2019",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
+  },
+  "/dizi/georgie-and-mandy-s-first-marriage": {
+    "group": "Georgie and Mandy’s First Marriage",
+    "last_season": 2,
+    "last_episode": 20,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.1",
+    "poster": "https://image.tmdb.org/t/p/w500/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg"
   },
   "/dizi/hacks": {
     "group": "Hacks",
@@ -26,6 +44,15 @@
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/1XcDgszF8YJqXZw4zYDR4JYaVlM.jpg"
   },
+  "/dizi/late-bloomer": {
+    "group": "Late Bloomer",
+    "last_season": 3,
+    "last_episode": 5,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/cdyKElGB4whoIS6zcJqNWQNaVsj.jpg"
+  },
   "/dizi/margarita": {
     "group": "Margarita",
     "last_season": 2,
@@ -34,6 +61,42 @@
     "year": "2024",
     "imdb": "7.3",
     "poster": "https://image.tmdb.org/t/p/w500/h5ie5WyR4kvQBs93TigxjRjLRlr.jpg"
+  },
+  "/dizi/mating-season": {
+    "group": "Mating Season",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/dJjPnw3NQHmbGWGUXdlROqtTMuX.jpg"
+  },
+  "/dizi/my-royal-nemesis": {
+    "group": "My Royal Nemesis",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/rYLQbyIvbEd0lF84iXrx7CbPcBB.jpg"
+  },
+  "/dizi/rivals": {
+    "group": "Rivals",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/3p9t1KDo5iXAn1zsSPn8sdtakWs.jpg"
+  },
+  "/dizi/the-chi": {
+    "group": "The Chi",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2018",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg"
   },
   "/dizi/welcome-to-wrexham": {
     "group": "Welcome to Wrexham",
@@ -52,59 +115,5 @@
     "year": "2025",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/lxmNQ1392ClqU56W0kx2h2ONF4V.jpg"
-  },
-  "/dizi/james": {
-    "group": "James.",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/be7cg7V1R8QcfRI5N1pAMwJo62r.jpg"
-  },
-  "/dizi/skymed": {
-    "group": "Skymed",
-    "last_season": 4,
-    "last_episode": 1,
-    "start_episode": 1,
-    "year": "2023",
-    "imdb": "6.4",
-    "poster": "https://image.tmdb.org/t/p/w500/tOKUKERvfaOf7Dy2IAKT5HYYXJJ.jpg"
-  },
-  "/dizi/sold-out-on-you": {
-    "group": "Sold out on You",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg"
-  },
-  "/dizi/the-boroughs": {
-    "group": "The Boroughs",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg"
-  },
-  "/dizi/the-ramparts-of-ice": {
-    "group": "The Ramparts of Ice",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "9.1",
-    "poster": "https://image.tmdb.org/t/p/w500/rke9UC2QrogvxiQD9TGpbvqDosi.jpg"
-  },
-  "/dizi/the-terror": {
-    "group": "The Terror",
-    "last_season": 3,
-    "last_episode": 3,
-    "start_episode": 1,
-    "year": "2018",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/2nMZzKlMj158RVb6tjmIunoaNdo.jpg"
   }
 }
