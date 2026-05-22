@@ -24169,9 +24169,9 @@
   },
   "7028": {
     "name": "THE CHI  (2018)",
-    "last_season": 3,
-    "last_episode": 10,
-    "last_modified": 1775801787
+    "last_season": 8,
+    "last_episode": 16,
+    "last_modified": 1779487463
   },
   "7029": {
     "name": "THE CURSED  (2020)",
@@ -45560,8 +45560,8 @@
   "10593": {
     "name": "GEORGIE AND MANDY’S FIRST MARRIAGE  (2024)",
     "last_season": 2,
-    "last_episode": 20,
-    "last_modified": 1778852623
+    "last_episode": 22,
+    "last_modified": 1779487463
   },
   "10594": {
     "name": "JURY DUTY  (2026)",
@@ -45626,8 +45626,8 @@
   "10604": {
     "name": "FIST OF THE NORTH STAR (2026)  (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1778869486
+    "last_episode": 9,
+    "last_modified": 1779487463
   },
   "10605": {
     "name": "DEXTER NEW BLOOD  (2021)",
@@ -51370,5 +51370,11 @@
     "last_season": 4,
     "last_episode": 9,
     "last_modified": 1779458497
+  },
+  "11562": {
+    "name": "MATING SEASON  (2026)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1779487463
   }
 }
