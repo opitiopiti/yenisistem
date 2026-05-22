@@ -1438,5 +1438,23 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg"
+  },
+  "/dizi/james": {
+    "group": "James.",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/be7cg7V1R8QcfRI5N1pAMwJo62r.jpg"
+  },
+  "/dizi/skymed": {
+    "group": "Skymed",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "6.4",
+    "poster": "https://image.tmdb.org/t/p/w500/tOKUKERvfaOf7Dy2IAKT5HYYXJJ.jpg"
   }
 }

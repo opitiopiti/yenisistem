@@ -1,4 +1,10 @@
 {
+  "/diziler/half-man.html": {
+    "group": "HALF MAN",
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/1XcDgszF8YJqXZw4zYDR4JYaVlM.jpg"
+  },
   "/diziler/your-friends-neighbors.html": {
     "group": "YOUR FRIENDS & NEIGHBORS",
     "year": "2025",
@@ -64,11 +70,5 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/ixBHQ96ryMa8Q0uIOFdUCjqRyy8.jpg"
-  },
-  "/diziler/the-testaments.html": {
-    "group": "THE TESTAMENTS",
-    "year": "2026",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg"
   }
 }
