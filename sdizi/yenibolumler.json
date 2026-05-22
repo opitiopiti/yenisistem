@@ -1,4 +1,28 @@
 {
+  "/diziler/rivals.html": {
+    "group": "RIVALS",
+    "year": "2024",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/2JGsqTciDo5YEUDQAD8FN59NL3G.jpg"
+  },
+  "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
+    "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
+    "year": "2018",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg"
+  },
+  "/diziler/absolute-value-of-romance.html": {
+    "group": "ABSOLUTE VALUE OF ROMANCE",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg"
+  },
+  "/diziler/mating-season.html": {
+    "group": "MATING SEASON",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
   "/diziler/half-man.html": {
     "group": "HALF MAN",
     "year": "2026",
@@ -58,17 +82,5 @@
     "year": "2026",
     "imdb": "8.2",
     "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
-  },
-  "/diziler/maximum-pleasure-guaranteed.html": {
-    "group": "MAXIMUM PLEASURE GUARANTEED",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/oeD9rnfk7AohNiJTRoCx4SOKhXj.jpg"
-  },
-  "/diziler/gold-land.html": {
-    "group": "GOLD LAND",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/ixBHQ96ryMa8Q0uIOFdUCjqRyy8.jpg"
   }
 }
