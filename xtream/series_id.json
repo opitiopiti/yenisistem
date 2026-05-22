@@ -45860,8 +45860,8 @@
   "10643": {
     "name": "THE RAMPARTS OF ICE  (2026)",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1778852623
+    "last_episode": 8,
+    "last_modified": 1779458497
   },
   "10644": {
     "name": "IDA TAR ANSVAR  (2026)",
@@ -51358,5 +51358,17 @@
     "last_season": 1,
     "last_episode": 3,
     "last_modified": 1779410140
+  },
+  "11560": {
+    "name": "JAMES.  (2026)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1779458497
+  },
+  "11561": {
+    "name": "SKYMED  (2023)",
+    "last_season": 4,
+    "last_episode": 9,
+    "last_modified": 1779458497
   }
 }
