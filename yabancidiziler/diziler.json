@@ -1483,5 +1483,14 @@
     "year": "2018",
     "imdb": "7.6",
     "poster": "https://image.tmdb.org/t/p/w500/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg"
+  },
+  "/dizi/death-valley": {
+    "group": "Death Valley",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/vFRBR439sIshJenXDM0TqxyULyl.jpg"
   }
 }
