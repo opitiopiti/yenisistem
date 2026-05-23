@@ -263,7 +263,7 @@
   "/dizi/fire-country": {
     "group": "Fire Country",
     "last_season": 4,
-    "last_episode": 18,
+    "last_episode": 20,
     "start_episode": 1,
     "year": "2022",
     "imdb": "7.1",
@@ -299,7 +299,7 @@
   "/dizi/sheriff-country": {
     "group": "Sheriff Country",
     "last_season": 1,
-    "last_episode": 18,
+    "last_episode": 20,
     "start_episode": 1,
     "year": "2025",
     "imdb": "7.2",
@@ -848,7 +848,7 @@
   "/dizi/absolute-value-of-romance": {
     "group": "Absolute Value of Romance",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 14,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -1486,8 +1486,8 @@
   },
   "/dizi/death-valley": {
     "group": "Death Valley",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2025",
     "imdb": "7.0",
