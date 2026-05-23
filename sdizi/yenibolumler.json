@@ -1,4 +1,10 @@
 {
+  "/diziler/we-are-all-trying-here.html": {
+    "group": "WE ARE ALL TRYING HERE",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/hMrBaA68y4mlmE5zjC3NM2cN1IV.jpg"
+  },
   "/diziler/rivals.html": {
     "group": "RIVALS",
     "year": "2024",
@@ -76,11 +82,5 @@
     "year": "2017",
     "imdb": "7.6",
     "poster": "https://image.tmdb.org/t/p/w500/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg"
-  },
-  "/diziler/widows-bay.html": {
-    "group": "WIDOW'S BAY",
-    "year": "2026",
-    "imdb": "8.2",
-    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
   }
 }
