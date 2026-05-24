@@ -1,4 +1,49 @@
 {
+  "/dizi/bad-thoughts": {
+    "group": "Bad Thoughts",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/zV3XS7gyQs8OGpl0xdJtufy6U2n.jpg"
+  },
+  "/dizi/nippon-sangoku": {
+    "group": "Nippon Sangoku",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/qHQnNHefuHI8N4lCoRQQP6pckMr.jpg"
+  },
+  "/dizi/skymed": {
+    "group": "Skymed",
+    "last_season": 4,
+    "last_episode": 1,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "6.4",
+    "poster": "https://image.tmdb.org/t/p/w500/tOKUKERvfaOf7Dy2IAKT5HYYXJJ.jpg"
+  },
+  "/dizi/the-audacity": {
+    "group": "The Audacity",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.7",
+    "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg"
+  },
+  "/dizi/we-are-all-trying-here": {
+    "group": "We Are All Trying Here",
+    "last_season": 1,
+    "last_episode": 10,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/c2jswCrMoqDEBEXwSAlrCWtXdfZ.jpg"
+  },
   "/dizi/boston-blue": {
     "group": "Boston Blue",
     "last_season": 1,
@@ -16,6 +61,15 @@
     "year": "2022",
     "imdb": "7.1",
     "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg"
+  },
+  "/dizi/my-royal-nemesis": {
+    "group": "My Royal Nemesis",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/rYLQbyIvbEd0lF84iXrx7CbPcBB.jpg"
   },
   "/dizi/sheriff-country": {
     "group": "Sheriff Country",

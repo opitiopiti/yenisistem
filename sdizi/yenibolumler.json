@@ -1,15 +1,27 @@
 {
-  "/diziler/bad-thoughts.html": {
-    "group": "BAD THOUGHTS",
-    "year": "2025",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/5ByjkAKVjiMRwFTCX3AxibwennT.jpg"
-  },
   "/diziler/we-are-all-trying-here.html": {
     "group": "WE ARE ALL TRYING HERE",
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/hMrBaA68y4mlmE5zjC3NM2cN1IV.jpg"
+  },
+  "/diziler/one-piece-izle.html": {
+    "group": "ONE PIECE",
+    "year": "1999",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
+  },
+  "/diziler/nippon-sangoku-the-three-nations-of-the-crimson-sun.html": {
+    "group": "NIPPON SANGOKU: THE THREE NATIONS OF THE CRIMSON SUN",
+    "year": "2026",
+    "imdb": "8.3",
+    "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg"
+  },
+  "/diziler/bad-thoughts.html": {
+    "group": "BAD THOUGHTS",
+    "year": "2025",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/5ByjkAKVjiMRwFTCX3AxibwennT.jpg"
   },
   "/diziler/rivals.html": {
     "group": "RIVALS",
@@ -70,17 +82,5 @@
     "year": "2019",
     "imdb": "8.2",
     "poster": "https://image.tmdb.org/t/p/w500/ve1Sv3sVArmE0nlFjzadcNv1G8r.jpg"
-  },
-  "/diziler/re-zero-starting-life-in-another-world.html": {
-    "group": "RE: ZERO - STARTING LIFE IN ANOTHER WORLD",
-    "year": "2016",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/aRwmcX36r1ZpR5Xq5mmFcpUDQ8J.jpg"
-  },
-  "/diziler/dorohedoro.html": {
-    "group": "DOROHEDORO",
-    "year": "2020",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg"
   }
 }
