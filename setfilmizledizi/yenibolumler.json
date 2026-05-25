@@ -1,4 +1,16 @@
 {
+  "/dizi/rivals/": {
+    "group": "Rivals",
+    "year": 2024,
+    "imdb": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w500/3p9t1KDo5iXAn1zsSPn8sdtakWs.jpg"
+  },
+  "/dizi/perfect-crown/": {
+    "group": "Perfect Crown",
+    "year": 2026,
+    "imdb": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w500/j37wlFXIPcSVEjWOi1KBxzWK0in.jpg"
+  },
   "/dizi/gomorrah-the-origins/": {
     "group": "Gomorrah: The Origins",
     "year": 2026,
@@ -89,12 +101,6 @@
     "imdb": 9.0,
     "poster": "https://image.tmdb.org/t/p/w500/krDKFsp8JSz678lDKLrV1Qy0Xfe.jpg"
   },
-  "/dizi/rivals/": {
-    "group": "Rivals",
-    "year": 2024,
-    "imdb": 7.9,
-    "poster": "https://image.tmdb.org/t/p/w500/3p9t1KDo5iXAn1zsSPn8sdtakWs.jpg"
-  },
   "/dizi/good-omens/": {
     "group": "Good Omens",
     "year": 2019,
@@ -118,29 +124,5 @@
     "year": 2026,
     "imdb": 7.7,
     "poster": "https://image.tmdb.org/t/p/w500/yb682O0KCZlS5qRydxOytO5A6co.jpg"
-  },
-  "/dizi/abbott-elementary/": {
-    "group": "Abbott Elementary",
-    "year": 2021,
-    "imdb": 8.2,
-    "poster": "https://image.tmdb.org/t/p/w500/nBe1e3JJEZ6veGrVXNF0fRoLu56.jpg"
-  },
-  "/dizi/the-comeback/": {
-    "group": "The Comeback",
-    "year": 2005,
-    "imdb": 8.0,
-    "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg"
-  },
-  "/dizi/rooster/": {
-    "group": "Rooster",
-    "year": 2026,
-    "imdb": 7.2,
-    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg"
-  },
-  "/dizi/kimler-geldi-kimler-gecti/": {
-    "group": "Kimler Geldi Kimler Geçti",
-    "year": 2024,
-    "imdb": 5.7,
-    "poster": "https://image.tmdb.org/t/p/w500/5K6jZNOjskDCtsZgF0r3nc8l26f.jpg"
   }
 }
