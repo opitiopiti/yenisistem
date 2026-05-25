@@ -1,4 +1,10 @@
 {
+  "/dizi/euphoria/": {
+    "group": "Euphoria",
+    "year": 2019,
+    "imdb": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg"
+  },
   "/dizi/rivals/": {
     "group": "Rivals",
     "year": 2024,
@@ -58,12 +64,6 @@
     "year": 2019,
     "imdb": 8.6,
     "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg"
-  },
-  "/dizi/euphoria/": {
-    "group": "Euphoria",
-    "year": 2019,
-    "imdb": 8.2,
-    "poster": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg"
   },
   "/dizi/the-testaments/": {
     "group": "The Testaments",
