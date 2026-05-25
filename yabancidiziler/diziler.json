@@ -1415,7 +1415,7 @@
   "/dizi/euphoria": {
     "group": "Euphoria",
     "last_season": 3,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1,
     "year": "2019",
     "imdb": "8.2",
@@ -1424,7 +1424,7 @@
   "/dizi/margarita": {
     "group": "Margarita",
     "last_season": 2,
-    "last_episode": 5,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2024",
     "imdb": "7.3",
@@ -1505,7 +1505,7 @@
   "/dizi/two-weeks-in-august": {
     "group": "Two Weeks in August",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
