@@ -30496,5 +30496,11 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/uhFSX44LJBoc2exwRWUq7q1mZLd.jpg",
     "imdb": 5.4
+  },
+  "/dizi/rick-and-morty": {
+    "group": "Rick and Morty",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
+    "imdb": 9.0
   }
 }

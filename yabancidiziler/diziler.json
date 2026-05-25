@@ -1501,5 +1501,14 @@
     "year": "2025",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/zV3XS7gyQs8OGpl0xdJtufy6U2n.jpg"
+  },
+  "/dizi/two-weeks-in-august": {
+    "group": "Two Weeks in August",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/p14xLu7fWt1Ip0QrDRTwDrDmghD.jpg"
   }
 }

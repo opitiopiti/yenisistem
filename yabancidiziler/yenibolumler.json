@@ -1,4 +1,31 @@
 {
+  "/dizi/euphoria": {
+    "group": "Euphoria",
+    "last_season": 3,
+    "last_episode": 6,
+    "start_episode": 1,
+    "year": "2019",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg"
+  },
+  "/dizi/margarita": {
+    "group": "Margarita",
+    "last_season": 2,
+    "last_episode": 5,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/h5ie5WyR4kvQBs93TigxjRjLRlr.jpg"
+  },
+  "/dizi/two-weeks-in-august": {
+    "group": "Two Weeks in August",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/p14xLu7fWt1Ip0QrDRTwDrDmghD.jpg"
+  },
   "/dizi/bad-thoughts": {
     "group": "Bad Thoughts",
     "last_season": 2,
