@@ -10849,9 +10849,9 @@
   },
   "4808": {
     "name": "RICK AND MORTY  (2013)",
-    "last_season": 8,
+    "last_season": 9,
     "last_episode": 11,
-    "last_modified": 1775801787
+    "last_modified": 1779703132
   },
   "4809": {
     "name": "RIV4LRIES  (2025)",
@@ -51394,5 +51394,17 @@
     "last_season": 1,
     "last_episode": 12,
     "last_modified": 1779683907
+  },
+  "11566": {
+    "name": "ŞULE: SENIN HIKÂYEN  (2026) TR",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1779703132
+  },
+  "11567": {
+    "name": "TWO WEEKS IN AUGUST  (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1779703132
   }
 }
