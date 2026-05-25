@@ -18289,9 +18289,9 @@
   },
   "6048": {
     "name": "EUPHORIA (2019)",
-    "last_season": 2,
-    "last_episode": 10,
-    "last_modified": 1776069351
+    "last_season": 3,
+    "last_episode": 7,
+    "last_modified": 1779747001
   },
   "6049": {
     "name": "EVE (2022)",
@@ -51406,5 +51406,17 @@
     "last_season": 1,
     "last_episode": 2,
     "last_modified": 1779703132
+  },
+  "11568": {
+    "name": "SMOGGIE QUEENS (2024)",
+    "last_season": 2,
+    "last_episode": 6,
+    "last_modified": 1779747001
+  },
+  "11569": {
+    "name": "YOU'RE KILLING ME (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1779747001
   }
 }
