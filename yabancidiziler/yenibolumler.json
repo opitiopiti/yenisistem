@@ -26,6 +26,15 @@
     "imdb": "6.4",
     "poster": "https://image.tmdb.org/t/p/w500/tOKUKERvfaOf7Dy2IAKT5HYYXJJ.jpg"
   },
+  "/dizi/smoggie-queens": {
+    "group": "Smoggie Queens",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/nXW8CbIaLoD74qNSCR1t9LHWy2k.jpg"
+  },
   "/dizi/the-way-home": {
     "group": "The Way Home",
     "last_season": 4,
@@ -44,40 +53,13 @@
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/p14xLu7fWt1Ip0QrDRTwDrDmghD.jpg"
   },
-  "/dizi/bad-thoughts": {
-    "group": "Bad Thoughts",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2025",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/zV3XS7gyQs8OGpl0xdJtufy6U2n.jpg"
-  },
-  "/dizi/nippon-sangoku": {
-    "group": "Nippon Sangoku",
+  "/dizi/you-sharp039-re-killing-me": {
+    "group": "You're Killing Me",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 0,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/qHQnNHefuHI8N4lCoRQQP6pckMr.jpg"
-  },
-  "/dizi/the-audacity": {
-    "group": "The Audacity",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "6.7",
-    "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg"
-  },
-  "/dizi/we-are-all-trying-here": {
-    "group": "We Are All Trying Here",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/c2jswCrMoqDEBEXwSAlrCWtXdfZ.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/vxPvBU1V84mX5O5089N3pNzXfrW.jpg"
   }
 }

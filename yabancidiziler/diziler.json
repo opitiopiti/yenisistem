@@ -1510,5 +1510,23 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/p14xLu7fWt1Ip0QrDRTwDrDmghD.jpg"
+  },
+  "/dizi/smoggie-queens": {
+    "group": "Smoggie Queens",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/nXW8CbIaLoD74qNSCR1t9LHWy2k.jpg"
+  },
+  "/dizi/you-sharp039-re-killing-me": {
+    "group": "You're Killing Me",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/vxPvBU1V84mX5O5089N3pNzXfrW.jpg"
   }
 }
