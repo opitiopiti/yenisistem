@@ -1,12 +1,21 @@
 {
-  "/dizi/euphoria": {
-    "group": "Euphoria",
-    "last_season": 3,
-    "last_episode": 7,
+  "/dizi/desenchantees": {
+    "group": "Desenchantees",
+    "last_season": 1,
+    "last_episode": 0,
     "start_episode": 1,
-    "year": "2019",
-    "imdb": "8.2",
-    "poster": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg"
+    "year": "2025",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/t5aa9matQKtqDWCJiMBuBczFi30.jpg"
+  },
+  "/dizi/falling": {
+    "group": "Falling",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "5.4",
+    "poster": "https://image.tmdb.org/t/p/w500/cez4OCwBHziwIYKuOJtlMxLkTGo.jpg"
   },
   "/dizi/margarita": {
     "group": "Margarita",
@@ -16,6 +25,33 @@
     "year": "2024",
     "imdb": "7.3",
     "poster": "https://image.tmdb.org/t/p/w500/h5ie5WyR4kvQBs93TigxjRjLRlr.jpg"
+  },
+  "/dizi/the-hardacres": {
+    "group": "The Hardacres",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/yHmGO337Fsx9JxWwaiyL7oen3AI.jpg"
+  },
+  "/dizi/two-weeks-in-august": {
+    "group": "Two Weeks in August",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/p14xLu7fWt1Ip0QrDRTwDrDmghD.jpg"
+  },
+  "/dizi/euphoria": {
+    "group": "Euphoria",
+    "last_season": 3,
+    "last_episode": 7,
+    "start_episode": 1,
+    "year": "2019",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg"
   },
   "/dizi/skymed": {
     "group": "Skymed",
@@ -43,15 +79,6 @@
     "year": "2023",
     "imdb": "8.0",
     "poster": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg"
-  },
-  "/dizi/two-weeks-in-august": {
-    "group": "Two Weeks in August",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/p14xLu7fWt1Ip0QrDRTwDrDmghD.jpg"
   },
   "/dizi/you-sharp039-re-killing-me": {
     "group": "You're Killing Me",

@@ -1528,5 +1528,32 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/vxPvBU1V84mX5O5089N3pNzXfrW.jpg"
+  },
+  "/dizi/desenchantees": {
+    "group": "Desenchantees",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/t5aa9matQKtqDWCJiMBuBczFi30.jpg"
+  },
+  "/dizi/falling": {
+    "group": "Falling",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "5.4",
+    "poster": "https://image.tmdb.org/t/p/w500/cez4OCwBHziwIYKuOJtlMxLkTGo.jpg"
+  },
+  "/dizi/the-hardacres": {
+    "group": "The Hardacres",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/yHmGO337Fsx9JxWwaiyL7oen3AI.jpg"
   }
 }
