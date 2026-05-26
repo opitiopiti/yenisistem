@@ -94,7 +94,7 @@ jobs:
         run: python private_py/dizipod/proxyarama.py || true
 
       - name: Run proxy_guncelleme Script
-        run: python private_py/sinewix/proxy.py || true 
+        run: python private_py/sinewix/proxyarama.py || true 
         
       - name: Commit and Push Ana JSONs to public repo
         run: |
