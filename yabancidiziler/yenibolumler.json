@@ -43,50 +43,5 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/p14xLu7fWt1Ip0QrDRTwDrDmghD.jpg"
-  },
-  "/dizi/euphoria": {
-    "group": "Euphoria",
-    "last_season": 3,
-    "last_episode": 7,
-    "start_episode": 1,
-    "year": "2019",
-    "imdb": "8.2",
-    "poster": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg"
-  },
-  "/dizi/skymed": {
-    "group": "Skymed",
-    "last_season": 4,
-    "last_episode": 3,
-    "start_episode": 1,
-    "year": "2023",
-    "imdb": "6.4",
-    "poster": "https://image.tmdb.org/t/p/w500/tOKUKERvfaOf7Dy2IAKT5HYYXJJ.jpg"
-  },
-  "/dizi/smoggie-queens": {
-    "group": "Smoggie Queens",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2024",
-    "imdb": "7.7",
-    "poster": "https://image.tmdb.org/t/p/w500/nXW8CbIaLoD74qNSCR1t9LHWy2k.jpg"
-  },
-  "/dizi/the-way-home": {
-    "group": "The Way Home",
-    "last_season": 4,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2023",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg"
-  },
-  "/dizi/you-sharp039-re-killing-me": {
-    "group": "You're Killing Me",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/vxPvBU1V84mX5O5089N3pNzXfrW.jpg"
   }
 }
