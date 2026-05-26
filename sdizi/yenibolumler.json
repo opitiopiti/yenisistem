@@ -1,4 +1,10 @@
 {
+  "/diziler/perfect-crown.html": {
+    "group": "PERFECT CROWN",
+    "year": "2026",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/nNYwETsj4XxZ4tnouiYCPBQNO2L.jpg"
+  },
   "/diziler/euphoria.html": {
     "group": "EUPHORIA",
     "year": "2019",
@@ -76,11 +82,5 @@
     "year": "2019",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
-  },
-  "/diziler/the-boroughs.html": {
-    "group": "THE BOROUGHS",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg"
   }
 }
