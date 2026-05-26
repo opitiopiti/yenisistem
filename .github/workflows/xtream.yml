@@ -92,6 +92,9 @@ jobs:
 
       - name: Run proxy_guncelleme Script
         run: python private_py/dizipod/proxyarama.py || true
+
+      - name: Run proxy_guncelleme Script
+        run: python private_py/sinewix/proxy.py || true 
         
       - name: Commit and Push Ana JSONs to public repo
         run: |
@@ -99,6 +102,7 @@ jobs:
           git config user.email "actions@github.com"
           git add xtream/series_category.json || echo "No files"
           git add dizipod/pro.txt || echo "No Pro"
+          git add sinewix/pro.txt || echo "No pro sinewix"
           git commit -m "Series Category JSON ve Pro güncellendi [auto]" || echo "No changes"
           git push origin main
 
