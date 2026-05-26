@@ -2,7 +2,7 @@
   "/dizi/desenchantees": {
     "group": "Desenchantees",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1,
     "year": "2025",
     "imdb": "7.7",
@@ -11,7 +11,7 @@
   "/dizi/falling": {
     "group": "Falling",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2026",
     "imdb": "5.4",
@@ -20,7 +20,7 @@
   "/dizi/margarita": {
     "group": "Margarita",
     "last_season": 2,
-    "last_episode": 8,
+    "last_episode": 10,
     "start_episode": 1,
     "year": "2024",
     "imdb": "7.3",
@@ -28,8 +28,8 @@
   },
   "/dizi/the-hardacres": {
     "group": "The Hardacres",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2024",
     "imdb": "7.2",
@@ -38,7 +38,7 @@
   "/dizi/two-weeks-in-august": {
     "group": "Two Weeks in August",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 4,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
