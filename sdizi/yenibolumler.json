@@ -1,4 +1,16 @@
 {
+  "/diziler/a-good-girls-guide-to-murder.html": {
+    "group": "A GOOD GIRL'S GUIDE TO MURDER",
+    "year": "2024",
+    "imdb": "6.8",
+    "poster": "https://image.tmdb.org/t/p/w500/mzkstyDSsTRswCMRvoBD5ULPnIt.jpg"
+  },
+  "/diziler/spider-noir.html": {
+    "group": "SPIDER-NOIR",
+    "year": "2026",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg"
+  },
   "/diziler/sold-out-on-you.html": {
     "group": "SOLD OUT ON YOU",
     "year": "2026",
@@ -22,12 +34,6 @@
     "year": "2017",
     "imdb": "7.6",
     "poster": "https://image.tmdb.org/t/p/w500/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg"
-  },
-  "/diziler/spider-noir.html": {
-    "group": "SPIDER-NOIR",
-    "year": "2026",
-    "imdb": "8.2",
-    "poster": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg"
   },
   "/diziler/gold-land.html": {
     "group": "GOLD LAND",
@@ -70,11 +76,5 @@
     "year": "2019",
     "imdb": "8.4",
     "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg"
-  },
-  "/diziler/rick-and-morty.html": {
-    "group": "RICK AND MORTY",
-    "year": "2013",
-    "imdb": "9.1",
-    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
   }
 }
