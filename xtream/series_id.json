@@ -45008,8 +45008,8 @@
   "10501": {
     "name": "CLASSROOM OF THE ELITE 4TH SEASON (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1779302524
+    "last_episode": 12,
+    "last_modified": 1779891037
   },
   "10502": {
     "name": "DAEMONS OF THE SHADOW REALM (2026) İNGİLİZCE",
@@ -45350,8 +45350,8 @@
   "10558": {
     "name": "RENT-A-GIRLFRIEND SEASON 5 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1779302524
+    "last_episode": 8,
+    "last_modified": 1779891037
   },
   "10559": {
     "name": "RE:ZERO: STARTING LIFE IN ANOTHER WORLD SEASON 3 (2024) İNGİLİZCE",
@@ -46238,8 +46238,8 @@
   "10706": {
     "name": "GOLD LAND (2026)",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1779282620
+    "last_episode": 10,
+    "last_modified": 1779891037
   },
   "10707": {
     "name": "ENVIDIOSA (2024)",
@@ -51442,5 +51442,11 @@
     "last_season": 1,
     "last_episode": 2,
     "last_modified": 1779883303
+  },
+  "11574": {
+    "name": "SPIDER-NOIR (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1779891037
   }
 }
