@@ -1,4 +1,22 @@
 {
+  "/dizi/maximum-pleasure-guaranteed/": {
+    "group": "Maximum Pleasure Guaranteed",
+    "year": 2026,
+    "imdb": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
+  },
+  "/dizi/criminal-record/": {
+    "group": "Criminal Record",
+    "year": 2024,
+    "imdb": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w500/kpnfeVRExCutHXFVXzaSdT8tAJl.jpg"
+  },
+  "/dizi/widows-bay/": {
+    "group": "Widow’s Bay",
+    "year": 2026,
+    "imdb": 6.5,
+    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
+  },
   "/dizi/rick-and-morty/": {
     "group": "Rick and Morty",
     "year": 2013,
@@ -59,12 +77,6 @@
     "imdb": 4.8,
     "poster": "https://image.tmdb.org/t/p/w500/kG9zAggIsUegvSKCBl3IxmlLKWJ.jpg"
   },
-  "/dizi/maximum-pleasure-guaranteed/": {
-    "group": "Maximum Pleasure Guaranteed",
-    "year": 2026,
-    "imdb": 7.1,
-    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
-  },
   "/dizi/the-boys/": {
     "group": "The Boys",
     "year": 2019,
@@ -77,23 +89,11 @@
     "imdb": 6.2,
     "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg"
   },
-  "/dizi/widows-bay/": {
-    "group": "Widow’s Bay",
-    "year": 2026,
-    "imdb": 6.5,
-    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
-  },
   "/dizi/margos-got-money-troubles/": {
     "group": "Margo’s Got Money Troubles",
     "year": 2026,
     "imdb": 6.3,
     "poster": "https://image.tmdb.org/t/p/w500/uqyiKpqtyqJElBKZIQGF9rFuYAD.jpg"
-  },
-  "/dizi/criminal-record/": {
-    "group": "Criminal Record",
-    "year": 2024,
-    "imdb": 7.1,
-    "poster": "https://image.tmdb.org/t/p/w500/kpnfeVRExCutHXFVXzaSdT8tAJl.jpg"
   },
   "/dizi/gold-land/": {
     "group": "Gold Land",
@@ -118,17 +118,5 @@
     "year": 2026,
     "imdb": 8.3,
     "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg"
-  },
-  "/dizi/tracker/": {
-    "group": "Tracker",
-    "year": 2024,
-    "imdb": 7.1,
-    "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg"
-  },
-  "/dizi/the-house-of-the-spirits/": {
-    "group": "The House of the Spirits",
-    "year": 2026,
-    "imdb": 7.7,
-    "poster": "https://image.tmdb.org/t/p/w500/yb682O0KCZlS5qRydxOytO5A6co.jpg"
   }
 }

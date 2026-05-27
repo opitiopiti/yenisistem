@@ -1555,5 +1555,14 @@
     "year": "2024",
     "imdb": "7.2",
     "poster": "https://image.tmdb.org/t/p/w500/yHmGO337Fsx9JxWwaiyL7oen3AI.jpg"
+  },
+  "/dizi/maximum-pleasure-guaranteed": {
+    "group": "Maximum Pleasure Guaranteed",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
   }
 }
