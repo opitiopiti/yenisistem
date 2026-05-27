@@ -2,7 +2,7 @@
   "/dizi/criminal-record": {
     "group": "Criminal Record",
     "last_season": 2,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2024",
     "imdb": "8.7",
@@ -11,7 +11,7 @@
   "/dizi/gold-land": {
     "group": "Gold Land",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 10,
     "start_episode": 1,
     "year": "2022",
     "imdb": "7.0",
@@ -20,7 +20,7 @@
   "/dizi/margarita": {
     "group": "Margarita",
     "last_season": 2,
-    "last_episode": 10,
+    "last_episode": 12,
     "start_episode": 1,
     "year": "2024",
     "imdb": "7.3",
@@ -29,7 +29,7 @@
   "/dizi/maximum-pleasure-guaranteed": {
     "group": "Maximum Pleasure Guaranteed",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -38,7 +38,7 @@
   "/dizi/the-testaments": {
     "group": "The Testaments",
     "last_season": 1,
-    "last_episode": 9,
+    "last_episode": 10,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -47,7 +47,7 @@
   "/dizi/two-weeks-in-august": {
     "group": "Two Weeks in August",
     "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -56,7 +56,7 @@
   "/dizi/widow-sharp039-s-bay": {
     "group": "Widow's Bay",
     "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 7,
     "start_episode": 1,
     "year": "2026",
     "imdb": "8.0",
