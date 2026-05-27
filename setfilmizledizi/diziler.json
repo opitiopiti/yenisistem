@@ -10978,5 +10978,11 @@
     "year": 2026,
     "imdb": 7.9,
     "poster": "https://image.tmdb.org/t/p/w500/j37wlFXIPcSVEjWOi1KBxzWK0in.jpg"
+  },
+  "/dizi/spider-noir/": {
+    "group": "Spider-Noir",
+    "year": 2026,
+    "imdb": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg"
   }
 }

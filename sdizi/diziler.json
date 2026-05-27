@@ -16810,5 +16810,17 @@
     "year": "2026",
     "imdb": "7.9",
     "poster": "https://image.tmdb.org/t/p/w500/nNYwETsj4XxZ4tnouiYCPBQNO2L.jpg"
+  },
+  "/diziler/spider-noir.html": {
+    "group": "SPIDER-NOIR",
+    "year": "2026",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg"
+  },
+  "/diziler/the-middle.html": {
+    "group": "THE MIDDLE",
+    "year": "2009",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/u6FluiFx3ocVS0MgZszfpPKXT2p.jpg"
   }
 }

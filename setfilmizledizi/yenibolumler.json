@@ -1,4 +1,10 @@
 {
+  "/dizi/spider-noir/": {
+    "group": "Spider-Noir",
+    "year": 2026,
+    "imdb": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg"
+  },
   "/dizi/the-testaments/": {
     "group": "The Testaments",
     "year": 2026,
