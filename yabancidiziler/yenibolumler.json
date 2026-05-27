@@ -35,6 +35,15 @@
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
   },
+  "/dizi/spider-noir": {
+    "group": "Spider-Noir",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg"
+  },
   "/dizi/the-testaments": {
     "group": "The Testaments",
     "last_season": 1,

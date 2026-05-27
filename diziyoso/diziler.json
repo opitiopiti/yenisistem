@@ -819,7 +819,7 @@
     "group": "Spider-Noir",
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/w500/cRAzL6mmdM6Q6UuQgc335UMgcfd.jpg",
-    "imdb": 0.0
+    "imdb": 8.2
   },
   "/dizi/bai-wan-ren-tuili/": {
     "group": "Bai wàn rén tuili",
@@ -30502,5 +30502,11 @@
     "year": 2013,
     "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
     "imdb": 9.0
+  },
+  "/dizi/spider-noir": {
+    "group": "Spider-Noir",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+    "imdb": 8.2
   }
 }

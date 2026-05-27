@@ -1,4 +1,10 @@
 {
+  "/dizi/the-testaments/": {
+    "group": "The Testaments",
+    "year": 2026,
+    "imdb": 6.2,
+    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg"
+  },
   "/dizi/maximum-pleasure-guaranteed/": {
     "group": "Maximum Pleasure Guaranteed",
     "year": 2026,
@@ -82,12 +88,6 @@
     "year": 2019,
     "imdb": 8.6,
     "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg"
-  },
-  "/dizi/the-testaments/": {
-    "group": "The Testaments",
-    "year": 2026,
-    "imdb": 6.2,
-    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg"
   },
   "/dizi/margos-got-money-troubles/": {
     "group": "Margo’s Got Money Troubles",

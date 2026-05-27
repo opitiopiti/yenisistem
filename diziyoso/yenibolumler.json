@@ -1,4 +1,10 @@
 {
+  "/dizi/spider-noir": {
+    "group": "Spider-Noir",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+    "imdb": 8.2
+  },
   "/dizi/euphoria": {
     "group": "Euphoria",
     "year": 2019,
@@ -95,41 +101,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/8pyxutHxpgBt8ZwbIG2TZWCW394.jpg",
     "imdb": 6.2
   },
-  "/dizi/fire-country": {
-    "group": "Fire Country",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
+  "/dizi/spider-noir/": {
+    "group": "Spider-Noir",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/w500/cRAzL6mmdM6Q6UuQgc335UMgcfd.jpg",
     "imdb": 8.2
-  },
-  "/dizi/sheriff-country": {
-    "group": "Sheriff Country",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
-    "imdb": 6.6
-  },
-  "/dizi/the-grand-ish-tour": {
-    "group": "The Grand-ish Tour",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/cPvIgIgysI3S067aA670pMYAjI4.jpg",
-    "imdb": 6.1
-  },
-  "/dizi/palu-ailesi-karanlik-sarmal": {
-    "group": "Palu Ailesi: Karanlık Sarmal",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/i70MAvdqFuXGFXwhbFVkgylFbgg.jpg",
-    "imdb": 3.0
-  },
-  "/dizi/your-friends-neighbors": {
-    "group": "Your Friends & Neighbors",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/lxmNQ1392ClqU56W0kx2h2ONF4V.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/for-all-mankind": {
-    "group": "For All Mankind",
-    "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
-    "imdb": 7.7
   },
   "/dizi/m-i-a/": {
     "group": "M.I.A.",
@@ -292,11 +268,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/lzy5lANYtUp24VTnX0NnnwAnvJa.jpg",
     "imdb": 8.1
-  },
-  "/dizi/rescue-me/": {
-    "group": "Rescue Me",
-    "year": 2004,
-    "poster": "https://image.tmdb.org/t/p/w500/gnOwOb82chSJkQEZ9pd6jf2ZrEX.jpg",
-    "imdb": 8.3
   }
 }
