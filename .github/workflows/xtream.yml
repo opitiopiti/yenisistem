@@ -636,6 +636,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv httpx
           
+      - name: Run sistemkontrol.py Script
+        run: python private_py/genelkodlar/proxykontrol.py || true
+        
       - name: Run tekrepoyapma.py Script
         run: python private_py/genelkodlar/repotekyapma.py || true
 
