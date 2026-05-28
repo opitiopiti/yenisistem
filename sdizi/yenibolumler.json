@@ -1,4 +1,16 @@
 {
+  "/diziler/the-four-seasons.html": {
+    "group": "THE FOUR SEASONS",
+    "year": "2025",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/w09XeYl096pwES8riRMZwEA9rnh.jpg"
+  },
+  "/diziler/murder-mindfully.html": {
+    "group": "MURDER MINDFULLY",
+    "year": "2024",
+    "imdb": "7.4",
+    "poster": "https://image.tmdb.org/t/p/w500/3snsd7KLau14equwCz9YLZu9lTO.jpg"
+  },
   "/diziler/sold-out-on-you.html": {
     "group": "SOLD OUT ON YOU",
     "year": "2026",
@@ -64,11 +76,5 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/oeD9rnfk7AohNiJTRoCx4SOKhXj.jpg"
-  },
-  "/diziler/widows-bay.html": {
-    "group": "WIDOW'S BAY",
-    "year": "2026",
-    "imdb": "8.2",
-    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
   }
 }

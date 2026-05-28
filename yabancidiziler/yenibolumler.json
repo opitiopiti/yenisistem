@@ -43,59 +43,5 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/p14xLu7fWt1Ip0QrDRTwDrDmghD.jpg"
-  },
-  "/dizi/criminal-record": {
-    "group": "Criminal Record",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2024",
-    "imdb": "8.7",
-    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg"
-  },
-  "/dizi/gold-land": {
-    "group": "Gold Land",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1,
-    "year": "2022",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/ixBHQ96ryMa8Q0uIOFdUCjqRyy8.jpg"
-  },
-  "/dizi/maximum-pleasure-guaranteed": {
-    "group": "Maximum Pleasure Guaranteed",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
-  },
-  "/dizi/spider-noir": {
-    "group": "Spider-Noir",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg"
-  },
-  "/dizi/the-testaments": {
-    "group": "The Testaments",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg"
-  },
-  "/dizi/widow-sharp039-s-bay": {
-    "group": "Widow's Bay",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg"
   }
 }
