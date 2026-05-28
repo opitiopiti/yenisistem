@@ -1585,8 +1585,8 @@
   },
   "/dizi/achtsam-morden": {
     "group": "Achtsam Morden",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2024",
     "imdb": "7.3",
@@ -1594,8 +1594,8 @@
   },
   "/dizi/the-four-seasons": {
     "group": "The Four Seasons",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2025",
     "imdb": "7.0",
