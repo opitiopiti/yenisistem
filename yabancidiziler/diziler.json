@@ -1582,5 +1582,23 @@
     "year": "2025",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/zsjiNaXqbWUCKFyU72N5HpALcUu.jpg"
+  },
+  "/dizi/achtsam-morden": {
+    "group": "Achtsam Morden",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/rt6SspSLBl5PqWXGstR7HlUM3Nj.jpg"
+  },
+  "/dizi/the-four-seasons": {
+    "group": "The Four Seasons",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/w09XeYl096pwES8riRMZwEA9rnh.jpg"
   }
 }
