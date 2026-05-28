@@ -1,4 +1,31 @@
 {
+  "/dizi/deli-boys": {
+    "group": "Deli Boys",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/zsjiNaXqbWUCKFyU72N5HpALcUu.jpg"
+  },
+  "/dizi/margarita": {
+    "group": "Margarita",
+    "last_season": 2,
+    "last_episode": 12,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/h5ie5WyR4kvQBs93TigxjRjLRlr.jpg"
+  },
+  "/dizi/two-weeks-in-august": {
+    "group": "Two Weeks in August",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/p14xLu7fWt1Ip0QrDRTwDrDmghD.jpg"
+  },
   "/dizi/criminal-record": {
     "group": "Criminal Record",
     "last_season": 2,
@@ -16,15 +43,6 @@
     "year": "2022",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/ixBHQ96ryMa8Q0uIOFdUCjqRyy8.jpg"
-  },
-  "/dizi/margarita": {
-    "group": "Margarita",
-    "last_season": 2,
-    "last_episode": 12,
-    "start_episode": 1,
-    "year": "2024",
-    "imdb": "7.3",
-    "poster": "https://image.tmdb.org/t/p/w500/h5ie5WyR4kvQBs93TigxjRjLRlr.jpg"
   },
   "/dizi/maximum-pleasure-guaranteed": {
     "group": "Maximum Pleasure Guaranteed",
@@ -52,15 +70,6 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg"
-  },
-  "/dizi/two-weeks-in-august": {
-    "group": "Two Weeks in August",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/p14xLu7fWt1Ip0QrDRTwDrDmghD.jpg"
   },
   "/dizi/widow-sharp039-s-bay": {
     "group": "Widow's Bay",
