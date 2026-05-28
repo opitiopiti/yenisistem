@@ -408,7 +408,7 @@ jobs:
           git push origin main
           
   part9:
-    name: vavoo - dizigomfilmler - setfilmizlefimler - dizibolyerli
+    name: vavoo - dizigomfilmler - setfilmizlefimler - dizibolyerli - dizibolfilmler
     runs-on: ubuntu-latest
     needs: part2
     env:
@@ -446,6 +446,9 @@ jobs:
       - name: Run setfilmizlefilmleri.py Script
         run: python private_py/setfilmizle/filmler.py || true
 
+      - name: Run dizibolfilmler.py Script
+        run: python private_py/dizibol/dizibolfilmler.py || true
+
       - name: Sync M3U outputs to private repo
         run: |
           git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/m3ufile.git privaate_m3u8file
@@ -454,6 +457,7 @@ jobs:
           cp dizigomfilmler.m3u privaate_m3u8file/dizigomfilmler.m3u || echo "dizigomfilmler bulunamadı"
           cp dizibolyerli.m3u privaate_m3u8file/dizibolyerli.m3u || echo "dizibolyerl bulunamadi"
           cp setfilmizlefilmler.m3u privaate_m3u8file/setfilmizlefilmler.m3u || echo "setfilmizlefilmler bulunamadi"
+          cp dizibolfilmler.m3u privaate_m3u8file/dizibolfilmler.m3u || echo "dizibolfilmler.m3u bulunamadi"
           
           cd privaate_m3u8file
           git config user.name "GitHub Actions"
