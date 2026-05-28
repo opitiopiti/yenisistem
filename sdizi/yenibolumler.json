@@ -1,4 +1,16 @@
 {
+  "/diziler/sold-out-on-you.html": {
+    "group": "SOLD OUT ON YOU",
+    "year": "2026",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg"
+  },
+  "/diziler/dr-stone.html": {
+    "group": "DR. STONE",
+    "year": "2019",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/ve1Sv3sVArmE0nlFjzadcNv1G8r.jpg"
+  },
   "/diziler/a-good-girls-guide-to-murder.html": {
     "group": "A GOOD GIRL'S GUIDE TO MURDER",
     "year": "2024",
@@ -10,12 +22,6 @@
     "year": "2026",
     "imdb": "8.2",
     "poster": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg"
-  },
-  "/diziler/sold-out-on-you.html": {
-    "group": "SOLD OUT ON YOU",
-    "year": "2026",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg"
   },
   "/diziler/re-zero-starting-life-in-another-world.html": {
     "group": "RE: ZERO - STARTING LIFE IN ANOTHER WORLD",
@@ -64,17 +70,5 @@
     "year": "2026",
     "imdb": "8.2",
     "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
-  },
-  "/diziler/perfect-crown.html": {
-    "group": "PERFECT CROWN",
-    "year": "2026",
-    "imdb": "7.9",
-    "poster": "https://image.tmdb.org/t/p/w500/nNYwETsj4XxZ4tnouiYCPBQNO2L.jpg"
-  },
-  "/diziler/euphoria.html": {
-    "group": "EUPHORIA",
-    "year": "2019",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg"
   }
 }
