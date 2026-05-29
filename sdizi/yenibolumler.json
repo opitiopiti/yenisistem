@@ -1,4 +1,22 @@
 {
+  "/diziler/star-city.html": {
+    "group": "STAR CITY",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
+  "/diziler/rivals.html": {
+    "group": "RIVALS",
+    "year": "2024",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/2JGsqTciDo5YEUDQAD8FN59NL3G.jpg"
+  },
+  "/diziler/your-friends-neighbors.html": {
+    "group": "YOUR FRIENDS & NEIGHBORS",
+    "year": "2025",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg"
+  },
   "/diziler/half-man.html": {
     "group": "HALF MAN",
     "year": "2026",
@@ -58,23 +76,5 @@
     "year": "2020",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/zSMmRTopPIRr6913KX8pyiV6zsK.jpg"
-  },
-  "/diziler/classroom-of-the-elite.html": {
-    "group": "CLASSROOM OF THE ELITE",
-    "year": "2017",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg"
-  },
-  "/diziler/gold-land.html": {
-    "group": "GOLD LAND",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/ixBHQ96ryMa8Q0uIOFdUCjqRyy8.jpg"
-  },
-  "/diziler/criminal-record.html": {
-    "group": "CRIMINAL RECORD",
-    "year": "2024",
-    "imdb": "7.3",
-    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg"
   }
 }

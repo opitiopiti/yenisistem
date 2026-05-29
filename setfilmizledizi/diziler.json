@@ -10984,5 +10984,11 @@
     "year": 2026,
     "imdb": 8.3,
     "poster": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg"
+  },
+  "/dizi/star-city/": {
+    "group": "Star City",
+    "year": 2026,
+    "imdb": 6.0,
+    "poster": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg"
   }
 }

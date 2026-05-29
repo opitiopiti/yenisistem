@@ -1,4 +1,40 @@
 {
+  "/dizi/unconditional/": {
+    "group": "Unconditional",
+    "year": 2026,
+    "imdb": 6.3,
+    "poster": "https://image.tmdb.org/t/p/w500/iSpmc0szhBRykxf6sE2t91m49JE.jpg"
+  },
+  "/dizi/your-friends-and-neighbors/": {
+    "group": "Your Friends and Neighbors",
+    "year": 2025,
+    "imdb": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w500/lcp63INKEsVHUly9eayx7gEEOcG.jpg"
+  },
+  "/dizi/for-all-mankind/": {
+    "group": "For All Mankind",
+    "year": 2019,
+    "imdb": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
+  },
+  "/dizi/star-city/": {
+    "group": "Star City",
+    "year": 2026,
+    "imdb": 6.0,
+    "poster": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg"
+  },
+  "/dizi/gold-land/": {
+    "group": "Gold Land",
+    "year": 2026,
+    "imdb": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w500/exAqL4Hbh2M712QlFwGDTqZeiAl.jpg"
+  },
+  "/dizi/deli-boys/": {
+    "group": "Deli Boys",
+    "year": 2025,
+    "imdb": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w500/zsjiNaXqbWUCKFyU72N5HpALcUu.jpg"
+  },
   "/dizi/spider-noir/": {
     "group": "Spider-Noir",
     "year": 2026,
@@ -65,24 +101,6 @@
     "imdb": 6.9,
     "poster": "https://image.tmdb.org/t/p/w500/fV1XBxZSl0nxiMIhDuorIbfW8kG.jpg"
   },
-  "/dizi/unconditional/": {
-    "group": "Unconditional",
-    "year": 2026,
-    "imdb": 6.3,
-    "poster": "https://image.tmdb.org/t/p/w500/iSpmc0szhBRykxf6sE2t91m49JE.jpg"
-  },
-  "/dizi/your-friends-and-neighbors/": {
-    "group": "Your Friends and Neighbors",
-    "year": 2025,
-    "imdb": 7.7,
-    "poster": "https://image.tmdb.org/t/p/w500/lcp63INKEsVHUly9eayx7gEEOcG.jpg"
-  },
-  "/dizi/for-all-mankind/": {
-    "group": "For All Mankind",
-    "year": 2019,
-    "imdb": 8.1,
-    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
-  },
   "/dizi/leyla-hali/": {
     "group": "Leyla Hâli",
     "year": 2026,
@@ -101,28 +119,10 @@
     "imdb": 6.3,
     "poster": "https://image.tmdb.org/t/p/w500/uqyiKpqtyqJElBKZIQGF9rFuYAD.jpg"
   },
-  "/dizi/gold-land/": {
-    "group": "Gold Land",
-    "year": 2026,
-    "imdb": 8.2,
-    "poster": "https://image.tmdb.org/t/p/w500/exAqL4Hbh2M712QlFwGDTqZeiAl.jpg"
-  },
   "/dizi/regular-show-the-lost-tapes/": {
     "group": "Regular Show: The Lost Tapes",
     "year": 2026,
     "imdb": 9.0,
     "poster": "https://image.tmdb.org/t/p/w500/krDKFsp8JSz678lDKLrV1Qy0Xfe.jpg"
-  },
-  "/dizi/good-omens/": {
-    "group": "Good Omens",
-    "year": 2019,
-    "imdb": 8.0,
-    "poster": "https://image.tmdb.org/t/p/w500/omgCpyBV5sUT8AkeIcEwdPPgKZC.jpg"
-  },
-  "/dizi/off-campus/": {
-    "group": "Off Campus",
-    "year": 2026,
-    "imdb": 8.3,
-    "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg"
   }
 }
