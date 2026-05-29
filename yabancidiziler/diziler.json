@@ -1600,5 +1600,32 @@
     "year": "2025",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/w09XeYl096pwES8riRMZwEA9rnh.jpg"
+  },
+  "/dizi/starcity": {
+    "group": "Starcity",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.7",
+    "poster": null
+  },
+  "/dizi/brilliant-minds": {
+    "group": "Brilliant Minds",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "6.5",
+    "poster": "https://image.tmdb.org/t/p/w500/vG6Bw2IwDf1DVkPd7nZwMExp0U5.jpg"
+  },
+  "/dizi/criminal-minds": {
+    "group": "Criminal Minds",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2005",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/gigxjNnACiXAfrwoMox5WJFgc0I.jpg"
   }
 }

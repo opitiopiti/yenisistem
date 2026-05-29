@@ -1,4 +1,16 @@
 {
+  "/diziler/half-man.html": {
+    "group": "HALF MAN",
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/1XcDgszF8YJqXZw4zYDR4JYaVlM.jpg"
+  },
+  "/diziler/for-all-mankind.html": {
+    "group": "FOR ALL MANKIND",
+    "year": "2019",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
+  },
   "/diziler/the-four-seasons.html": {
     "group": "THE FOUR SEASONS",
     "year": "2025",
@@ -64,17 +76,5 @@
     "year": "2024",
     "imdb": "7.3",
     "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg"
-  },
-  "/diziler/the-testaments.html": {
-    "group": "THE TESTAMENTS",
-    "year": "2026",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg"
-  },
-  "/diziler/maximum-pleasure-guaranteed.html": {
-    "group": "MAXIMUM PLEASURE GUARANTEED",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/oeD9rnfk7AohNiJTRoCx4SOKhXj.jpg"
   }
 }
