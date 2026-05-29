@@ -16822,5 +16822,11 @@
     "year": "2009",
     "imdb": "7.7",
     "poster": "https://image.tmdb.org/t/p/w500/u6FluiFx3ocVS0MgZszfpPKXT2p.jpg"
+  },
+  "/diziler/star-city.html": {
+    "group": "STAR CITY",
+    "year": "2026",
+    "imdb": "5.9",
+    "poster": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg"
   }
 }
