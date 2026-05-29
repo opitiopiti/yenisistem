@@ -10586,8 +10586,8 @@
   "4764": {
     "name": "OUTLANDER (2014)",
     "last_season": 8,
-    "last_episode": 8,
-    "last_modified": 1775801787
+    "last_episode": 10,
+    "last_modified": 1780030588
   },
   "4765": {
     "name": "OVERCOMPENSATING (2025)",
@@ -51460,5 +51460,11 @@
     "last_season": 1,
     "last_episode": 8,
     "last_modified": 1779997538
+  },
+  "11577": {
+    "name": "BELIEVE ME (2026)",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1780030588
   }
 }
