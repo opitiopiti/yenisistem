@@ -7022,8 +7022,8 @@
   "4170": {
     "name": "YOUR FRIENDS & NEIGHBORS (2025)",
     "last_season": 2,
-    "last_episode": 8,
-    "last_modified": 1775801787
+    "last_episode": 9,
+    "last_modified": 1780063999
   },
   "4171": {
     "name": "YOUR HONOR (2020)",
@@ -9475,9 +9475,9 @@
   },
   "4579": {
     "name": "DELI BOYS (2025)",
-    "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1779962199
+    "last_season": 2,
+    "last_episode": 6,
+    "last_modified": 1780063999
   },
   "4580": {
     "name": "DELIRIUM (DELIRIO) (2025)",
@@ -9848,8 +9848,8 @@
   "4641": {
     "name": "HACKS (2021)",
     "last_season": 5,
-    "last_episode": 9,
-    "last_modified": 1775823696
+    "last_episode": 10,
+    "last_modified": 1780063999
   },
   "4642": {
     "name": "HAD I NOT SEEN THE SUN (2025)",
@@ -14132,8 +14132,8 @@
   "5355": {
     "name": "RIVALS (2024)",
     "last_season": 2,
-    "last_episode": 4,
-    "last_modified": 1778852623
+    "last_episode": 5,
+    "last_modified": 1780063999
   },
   "5356": {
     "name": "ROBBIE WILLIAMS (2023)",
@@ -40753,9 +40753,9 @@
   },
   "9792": {
     "name": "A GOOD GIRL’S GUIDE TO MURDER (2024)",
-    "last_season": 1,
+    "last_season": 2,
     "last_episode": 6,
-    "last_modified": 1775801787
+    "last_modified": 1780063999
   },
   "9793": {
     "name": "A MILLION LITTLE THINGS (2018)",
@@ -45860,8 +45860,8 @@
   "10643": {
     "name": "THE RAMPARTS OF ICE (2026)",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1779458497
+    "last_episode": 9,
+    "last_modified": 1780063999
   },
   "10644": {
     "name": "IDA TAR ANSVAR (2026)",
@@ -46478,8 +46478,8 @@
   "10746": {
     "name": "UNCONDITIONAL (2026)",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1779441037
+    "last_episode": 5,
+    "last_modified": 1780063999
   },
   "10747": {
     "name": "MY ROYAL NEMESIS (2026)",
@@ -51254,8 +51254,8 @@
   "11542": {
     "name": "YOUR FRIENDS AND NEIGHBORS (2025)",
     "last_season": 2,
-    "last_episode": 8,
-    "last_modified": 1778983508
+    "last_episode": 9,
+    "last_modified": 1780063999
   },
   "11543": {
     "name": "BERLIN VE KAKIMLI KADIN (2026)",
@@ -51466,5 +51466,47 @@
     "last_season": 1,
     "last_episode": 4,
     "last_modified": 1780030588
+  },
+  "11578": {
+    "name": "BRAZIL ’70: THE THIRD STAR (2026)",
+    "last_season": 1,
+    "last_episode": 5,
+    "last_modified": 1780063999
+  },
+  "11579": {
+    "name": "CALABASAS CONFIDENTIAL (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1780063999
+  },
+  "11580": {
+    "name": "DAZZLING (2026)",
+    "last_season": 1,
+    "last_episode": 7,
+    "last_modified": 1780063999
+  },
+  "11581": {
+    "name": "RAFA (2026)",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1780063999
+  },
+  "11582": {
+    "name": "TRAVIS JAPAN SUMMER VACATION!! IN THE USA (2026)",
+    "last_season": 1,
+    "last_episode": 7,
+    "last_modified": 1780063999
+  },
+  "11583": {
+    "name": "SCIENCE FELL IN LOVE, SO I TRIED TO PROVE IT (2020) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1780063999
+  },
+  "11584": {
+    "name": "STAR CITY (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1780063999
   }
 }
