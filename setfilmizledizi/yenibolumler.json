@@ -1,4 +1,10 @@
 {
+  "/dizi/gomorrah-the-origins/": {
+    "group": "Gomorrah: The Origins",
+    "year": 2026,
+    "imdb": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w500/l0RJjiE6k1Ey5m3pYTe60BQbNnZ.jpg"
+  },
   "/dizi/unconditional/": {
     "group": "Unconditional",
     "year": 2026,
@@ -88,12 +94,6 @@
     "year": 2026,
     "imdb": 7.9,
     "poster": "https://image.tmdb.org/t/p/w500/j37wlFXIPcSVEjWOi1KBxzWK0in.jpg"
-  },
-  "/dizi/gomorrah-the-origins/": {
-    "group": "Gomorrah: The Origins",
-    "year": 2026,
-    "imdb": 7.2,
-    "poster": "https://image.tmdb.org/t/p/w500/l0RJjiE6k1Ey5m3pYTe60BQbNnZ.jpg"
   },
   "/dizi/half-man/": {
     "group": "Half Man",
