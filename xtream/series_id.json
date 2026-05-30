@@ -45626,8 +45626,8 @@
   "10604": {
     "name": "FIST OF THE NORTH STAR (2026) (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1779487463
+    "last_episode": 10,
+    "last_modified": 1780113401
   },
   "10605": {
     "name": "DEXTER NEW BLOOD (2021)",
@@ -51508,5 +51508,11 @@
     "last_season": 1,
     "last_episode": 2,
     "last_modified": 1780063999
+  },
+  "11585": {
+    "name": "SCIENCE FELL IN LOVE, SO I TRIED TO PROVE IT. R=1-SINΘ (2022) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 12,
+    "last_modified": 1780113401
   }
 }
