@@ -2,7 +2,7 @@
   "/dizi/brazil-70-a-saga-do-tri": {
     "group": "Brazil 70: A Saga do Tri",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 5,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.7",
@@ -11,7 +11,7 @@
   "/dizi/calabasas-confidential": {
     "group": "Calabasas Confidential",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2026",
     "imdb": "3.8",
@@ -20,7 +20,7 @@
   "/dizi/dutton-ranch": {
     "group": "Dutton Ranch",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 4,
     "start_episode": 1,
     "year": "2026",
     "imdb": "8.4",
@@ -56,7 +56,7 @@
   "/dizi/late-bloomer": {
     "group": "Late Bloomer",
     "last_season": 3,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1,
     "year": "2024",
     "imdb": "8.4",
@@ -65,7 +65,7 @@
   "/dizi/margarita": {
     "group": "Margarita",
     "last_season": 2,
-    "last_episode": 14,
+    "last_episode": 15,
     "start_episode": 1,
     "year": "2024",
     "imdb": "7.3",
@@ -74,7 +74,7 @@
   "/dizi/rafa": {
     "group": "Rafa",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1,
     "year": "2026",
     "imdb": "8.7",
@@ -101,7 +101,7 @@
   "/dizi/the-chi": {
     "group": "The Chi",
     "last_season": 8,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1,
     "year": "2018",
     "imdb": "7.6",
