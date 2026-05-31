@@ -1,4 +1,22 @@
 {
+  "/dizi/nippon-sangoku": {
+    "group": "Nippon Sangoku",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/qHQnNHefuHI8N4lCoRQQP6pckMr.jpg"
+  },
+  "/dizi/skymed": {
+    "group": "Skymed",
+    "last_season": 4,
+    "last_episode": 7,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "6.4",
+    "poster": "https://image.tmdb.org/t/p/w500/tOKUKERvfaOf7Dy2IAKT5HYYXJJ.jpg"
+  },
   "/dizi/absolute-value-of-romance": {
     "group": "Absolute Value of Romance",
     "last_season": 1,
@@ -16,14 +34,5 @@
     "year": "2026",
     "imdb": "9.0",
     "poster": "https://image.tmdb.org/t/p/w500/rYLQbyIvbEd0lF84iXrx7CbPcBB.jpg"
-  },
-  "/dizi/skymed": {
-    "group": "Skymed",
-    "last_season": 4,
-    "last_episode": 7,
-    "start_episode": 1,
-    "year": "2023",
-    "imdb": "6.4",
-    "poster": "https://image.tmdb.org/t/p/w500/tOKUKERvfaOf7Dy2IAKT5HYYXJJ.jpg"
   }
 }
