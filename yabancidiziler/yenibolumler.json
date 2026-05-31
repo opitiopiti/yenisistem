@@ -1,137 +1,29 @@
 {
-  "/dizi/brazil-70-a-saga-do-tri": {
-    "group": "Brazil 70: A Saga do Tri",
+  "/dizi/absolute-value-of-romance": {
+    "group": "Absolute Value of Romance",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 14,
     "start_episode": 1,
     "year": "2026",
-    "imdb": "6.7",
-    "poster": "https://image.tmdb.org/t/p/w500/u6PBGDVs0CZJsq8IpWI5C4u0eyl.jpg"
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg"
   },
-  "/dizi/calabasas-confidential": {
-    "group": "Calabasas Confidential",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "3.8",
-    "poster": "https://image.tmdb.org/t/p/w500/i9saZWnE3evcp1MCdK6chKY2sxq.jpg"
-  },
-  "/dizi/dutton-ranch": {
-    "group": "Dutton Ranch",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg"
-  },
-  "/dizi/for-all-mankind": {
-    "group": "For All Mankind",
-    "last_season": 5,
-    "last_episode": 10,
-    "start_episode": 1,
-    "year": "2019",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
-  },
-  "/dizi/hacks": {
-    "group": "Hacks",
-    "last_season": 5,
-    "last_episode": 10,
-    "start_episode": 1,
-    "year": "2021",
-    "imdb": "8.2",
-    "poster": "https://image.tmdb.org/t/p/w500/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg"
-  },
-  "/dizi/half-man": {
-    "group": "Half Man",
+  "/dizi/my-royal-nemesis": {
+    "group": "My Royal Nemesis",
     "last_season": 1,
     "last_episode": 6,
     "start_episode": 1,
     "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/1XcDgszF8YJqXZw4zYDR4JYaVlM.jpg"
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/rYLQbyIvbEd0lF84iXrx7CbPcBB.jpg"
   },
-  "/dizi/late-bloomer": {
-    "group": "Late Bloomer",
-    "last_season": 3,
-    "last_episode": 7,
+  "/dizi/skymed": {
+    "group": "Skymed",
+    "last_season": 4,
+    "last_episode": 6,
     "start_episode": 1,
-    "year": "2024",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/cdyKElGB4whoIS6zcJqNWQNaVsj.jpg"
-  },
-  "/dizi/margarita": {
-    "group": "Margarita",
-    "last_season": 2,
-    "last_episode": 15,
-    "start_episode": 1,
-    "year": "2024",
-    "imdb": "7.3",
-    "poster": "https://image.tmdb.org/t/p/w500/h5ie5WyR4kvQBs93TigxjRjLRlr.jpg"
-  },
-  "/dizi/rafa": {
-    "group": "Rafa",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "8.7",
-    "poster": "https://image.tmdb.org/t/p/w500/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg"
-  },
-  "/dizi/rivals": {
-    "group": "Rivals",
-    "last_season": 2,
-    "last_episode": 5,
-    "start_episode": 1,
-    "year": "2024",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/3p9t1KDo5iXAn1zsSPn8sdtakWs.jpg"
-  },
-  "/dizi/starcity": {
-    "group": "Starcity",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "6.7",
-    "poster": "https://image.tmdb.org/t/p/w500/uuQvllHZSG2nij00kfRa8SVzqeL.jpg"
-  },
-  "/dizi/the-chi": {
-    "group": "The Chi",
-    "last_season": 8,
-    "last_episode": 2,
-    "start_episode": 1,
-    "year": "2018",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg"
-  },
-  "/dizi/unconditional": {
-    "group": "Unconditional",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "4.8",
-    "poster": "https://image.tmdb.org/t/p/w500/l8fk8AvFzOT47LO13BcaKglqNZQ.jpg"
-  },
-  "/dizi/welcome-to-wrexham": {
-    "group": "Welcome to Wrexham",
-    "last_season": 5,
-    "last_episode": 4,
-    "start_episode": 1,
-    "year": "2025",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/65Bs500TJ84QcgLQNBGmoWHtlna.jpg"
-  },
-  "/dizi/your-friends-neighbors": {
-    "group": "Your Friends & Neighbors",
-    "last_season": 2,
-    "last_episode": 9,
-    "start_episode": 1,
-    "year": "2025",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/lxmNQ1392ClqU56W0kx2h2ONF4V.jpg"
+    "year": "2023",
+    "imdb": "6.4",
+    "poster": "https://image.tmdb.org/t/p/w500/tOKUKERvfaOf7Dy2IAKT5HYYXJJ.jpg"
   }
 }
