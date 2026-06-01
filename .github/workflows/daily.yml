@@ -30,6 +30,11 @@ jobs:
         run: |
           git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
 
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests
+          
       - name: Run proxy script
         run: python private_py/sinewix/proxyarama.py || true
 
