@@ -16,23 +16,5 @@
     "year": "2023",
     "imdb": "6.4",
     "poster": "https://image.tmdb.org/t/p/w500/tOKUKERvfaOf7Dy2IAKT5HYYXJJ.jpg"
-  },
-  "/dizi/absolute-value-of-romance": {
-    "group": "Absolute Value of Romance",
-    "last_season": 1,
-    "last_episode": 16,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg"
-  },
-  "/dizi/my-royal-nemesis": {
-    "group": "My Royal Nemesis",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/rYLQbyIvbEd0lF84iXrx7CbPcBB.jpg"
   }
 }
