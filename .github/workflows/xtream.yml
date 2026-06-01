@@ -4,7 +4,11 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 */5 * * *'
-    
+
+concurrency:
+  group: xtream-system
+  cancel-in-progress: false
+  
 jobs:
   part1:
     name: Json Olusturma
