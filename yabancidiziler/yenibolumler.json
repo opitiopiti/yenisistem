@@ -1,4 +1,22 @@
 {
+  "/dizi/euphoria": {
+    "group": "Euphoria",
+    "last_season": 3,
+    "last_episode": 7,
+    "start_episode": 1,
+    "year": "2019",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg"
+  },
+  "/dizi/rick-and-morty": {
+    "group": "Rick and Morty",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2013",
+    "imdb": "9.1",
+    "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg"
+  },
   "/dizi/nippon-sangoku": {
     "group": "Nippon Sangoku",
     "last_season": 1,

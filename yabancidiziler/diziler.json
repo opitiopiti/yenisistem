@@ -1654,5 +1654,14 @@
     "year": "2026",
     "imdb": "8.7",
     "poster": "https://image.tmdb.org/t/p/w500/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg"
+  },
+  "/dizi/rick-and-morty": {
+    "group": "Rick and Morty",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2013",
+    "imdb": "9.1",
+    "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg"
   }
 }
