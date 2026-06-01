@@ -2,7 +2,7 @@
   "/dizi/euphoria": {
     "group": "Euphoria",
     "last_season": 3,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2019",
     "imdb": "8.2",
@@ -10,8 +10,8 @@
   },
   "/dizi/rick-and-morty": {
     "group": "Rick and Morty",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 9,
+    "last_episode": 2,
     "start_episode": 1,
     "year": "2013",
     "imdb": "9.1",
