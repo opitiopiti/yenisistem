@@ -1,4 +1,16 @@
 {
+  "/dizi/euphoria/": {
+    "group": "Euphoria",
+    "year": 2019,
+    "imdb": 8.2,
+    "poster": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg"
+  },
+  "/dizi/rick-and-morty/": {
+    "group": "Rick and Morty",
+    "year": 2013,
+    "imdb": 9.0,
+    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
+  },
   "/dizi/half-man/": {
     "group": "Half Man",
     "year": 2026,
@@ -82,18 +94,6 @@
     "year": 2026,
     "imdb": 6.5,
     "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
-  },
-  "/dizi/rick-and-morty/": {
-    "group": "Rick and Morty",
-    "year": 2013,
-    "imdb": 9.0,
-    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
-  },
-  "/dizi/euphoria/": {
-    "group": "Euphoria",
-    "year": 2019,
-    "imdb": 8.2,
-    "poster": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg"
   },
   "/dizi/perfect-crown/": {
     "group": "Perfect Crown",
