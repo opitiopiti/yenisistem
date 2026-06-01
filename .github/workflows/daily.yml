@@ -13,6 +13,8 @@ jobs:
   part1:
     name: Proxy Sistemi
     runs-on: ubuntu-latest
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
 
     steps:
       - name: Checkout public repo
@@ -52,7 +54,9 @@ jobs:
     name: sinewix generator
     runs-on: ubuntu-latest
     needs: part1
-
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+      
     steps:
       - uses: actions/checkout@v4
 
@@ -92,7 +96,9 @@ jobs:
     name: dizibol generator
     runs-on: ubuntu-latest
     needs: part2
-
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+      
     steps:
       - uses: actions/checkout@v4
 
