@@ -5,6 +5,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/7xiRJczgpbMs2NSqDVpVXP5pMTJ.jpg",
     "imdb": 9.1
   },
+  "/dizi/rafa": {
+    "group": "Rafa",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
+    "imdb": 8.8
+  },
   "/dizi/spider-noir": {
     "group": "Spider-Noir",
     "year": 2026,
@@ -83,23 +89,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg",
     "imdb": 7.9
   },
-  "/dizi/the-comeback": {
-    "group": "The Comeback",
-    "year": 2005,
-    "poster": "https://image.tmdb.org/t/p/w500/nFZF0ljINGUEa0wAW5d22Iqxjii.jpg",
-    "imdb": 7.3
-  },
-  "/dizi/rooster": {
-    "group": "Rooster",
+  "/dizi/rafa/": {
+    "group": "Rafa",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/aikvD4Nu7N6ekbrXNua8vJlO8JU.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/the-way-home": {
-    "group": "The Way Home",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg",
-    "imdb": 7.5
+    "poster": "https://image.tmdb.org/t/p/w500/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
+    "imdb": 8.8
   },
   "/dizi/tip-toe/": {
     "group": "Tip Toe",
@@ -262,11 +256,5 @@
     "year": 2025,
     "poster": "https://image.tmdb.org/t/p/w500/vnasRNhwT5M3OvTAMzYn4i5fQcT.jpg",
     "imdb": 6.5
-  },
-  "/dizi/should-i-marry-a-murderer/": {
-    "group": "Should I Marry A Murderer?",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/AeY7DEEGn7cH3HoUDd9K8FZ1jCv.jpg",
-    "imdb": 5.0
   }
 }

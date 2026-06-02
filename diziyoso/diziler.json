@@ -30520,5 +30520,17 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/7xiRJczgpbMs2NSqDVpVXP5pMTJ.jpg",
     "imdb": 4.0
+  },
+  "/dizi/rafa": {
+    "group": "Rafa",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
+    "imdb": 8.8
+  },
+  "/dizi/rafa/": {
+    "group": "Rafa",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
+    "imdb": 8.8
   }
 }
