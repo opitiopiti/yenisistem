@@ -44984,8 +44984,8 @@
   "10497": {
     "name": "BEYOND TWILIGHT (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1779836855
+    "last_episode": 9,
+    "last_modified": 1780412131
   },
   "10498": {
     "name": "BLUE MIBURO: SERIZAWA ASSASSINATION (2025) İNGİLİZCE",
@@ -45458,8 +45458,8 @@
   "10576": {
     "name": "THE MOST HERETICAL LAST BOSS QUEEN: FROM VILLAINESS TO SAVIOR 2ND SEASON (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1779806696
+    "last_episode": 9,
+    "last_modified": 1780412131
   },
   "10577": {
     "name": "THE RAMPARTS OF ICE (2026) İNGİLİZCE",
@@ -51434,8 +51434,8 @@
   "11572": {
     "name": "JAE-SEOK’S B&B RULES! (2026)",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1779806696
+    "last_episode": 10,
+    "last_modified": 1780412131
   },
   "11573": {
     "name": "PROXY KONTROL (2099) İNGİLİZCE",
@@ -51482,8 +51482,8 @@
   "11580": {
     "name": "DAZZLING (2026)",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1780312108
+    "last_episode": 13,
+    "last_modified": 1780412131
   },
   "11581": {
     "name": "RAFA (2026)",
@@ -62134,5 +62134,29 @@
     "last_season": 1,
     "last_episode": 11,
     "last_modified": 1780396508
+  },
+  "13356": {
+    "name": "ASHES TO CROWN (2026)",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1780412131
+  },
+  "13357": {
+    "name": "NOT SUITABLE FOR WORK (2026)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1780412131
+  },
+  "13358": {
+    "name": "SHANGRI-LA FRONTIER (2023)",
+    "last_season": 2,
+    "last_episode": 25,
+    "last_modified": 1780412131
+  },
+  "13359": {
+    "name": "TIP TOE (2026)",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1780412131
   }
 }
