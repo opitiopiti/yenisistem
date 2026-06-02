@@ -1,4 +1,10 @@
 {
+  "/dizi/amandaland": {
+    "group": "Amandaland",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/xaCUYunTtAlrbZJQy57ZhSvgpB2.jpg",
+    "imdb": 7.5
+  },
   "/dizi/tip-toe": {
     "group": "Tip Toe",
     "year": 2026,
@@ -29,11 +35,23 @@
     "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
     "imdb": 9.0
   },
+  "/dizi/boston-blue": {
+    "group": "Boston Blue",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/8pyxutHxpgBt8ZwbIG2TZWCW394.jpg",
+    "imdb": 6.2
+  },
   "/dizi/the-boys": {
     "group": "The Boys",
     "year": 2019,
     "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
     "imdb": 8.4
+  },
+  "/dizi/believe-me": {
+    "group": "Believe Me",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/g8qiv2FzpjAlQ8bWrucVDlpbKSG.jpg",
+    "imdb": 7.6
   },
   "/dizi/the-audacity": {
     "group": "The Audacity",
@@ -59,35 +77,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
     "imdb": 6.9
   },
-  "/dizi/margos-got-money-troubles": {
-    "group": "Margo’s Got Money Troubles",
+  "/dizi/believe-me/": {
+    "group": "Believe Me",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/fRR0Ho2c1nFJQiXWg4LNIgRPbg0.jpg",
-    "imdb": 9.0
-  },
-  "/dizi/widows-bay": {
-    "group": "Widow’s Bay",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
-    "imdb": 6.5
-  },
-  "/dizi/cia": {
-    "group": "CIA",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/8XbgWv137Umc8resTDeWh9ff7Y0.jpg",
-    "imdb": 6.4
-  },
-  "/dizi/dmv": {
-    "group": "DMV",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/nLCpxH7BhFwP50lF0VFpxeeFjmM.jpg",
-    "imdb": 6.0
-  },
-  "/dizi/fbi": {
-    "group": "FBI",
-    "year": 2018,
-    "poster": "https://image.tmdb.org/t/p/w500/zfKS4WL0OZ9udpNoSYZw91VB3aH.jpg",
-    "imdb": 7.9
+    "poster": "https://image.tmdb.org/t/p/w500/g8qiv2FzpjAlQ8bWrucVDlpbKSG.jpg",
+    "imdb": 7.6
   },
   "/dizi/rafa/": {
     "group": "Rafa",
@@ -250,11 +244,5 @@
     "year": 2026,
     "poster": "https://dzycdn.com/img/t/163x245/the-cage-2026.webp",
     "imdb": 6.4
-  },
-  "/dizi/tougen-anki/": {
-    "group": "Tougen Anki",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/vnasRNhwT5M3OvTAMzYn4i5fQcT.jpg",
-    "imdb": 6.5
   }
 }

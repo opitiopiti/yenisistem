@@ -7,50 +7,5 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg"
-  },
-  "/dizi/euphoria": {
-    "group": "Euphoria",
-    "last_season": 3,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2019",
-    "imdb": "8.2",
-    "poster": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg"
-  },
-  "/dizi/rick-and-morty": {
-    "group": "Rick and Morty",
-    "last_season": 9,
-    "last_episode": 2,
-    "start_episode": 1,
-    "year": "2013",
-    "imdb": "9.1",
-    "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg"
-  },
-  "/dizi/the-way-home": {
-    "group": "The Way Home",
-    "last_season": 4,
-    "last_episode": 7,
-    "start_episode": 1,
-    "year": "2023",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg"
-  },
-  "/dizi/tip-toe": {
-    "group": "Tip Toe",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/7xiRJczgpbMs2NSqDVpVXP5pMTJ.jpg"
-  },
-  "/dizi/you-sharp039-re-killing-me": {
-    "group": "You're Killing Me",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/vxPvBU1V84mX5O5089N3pNzXfrW.jpg"
   }
 }

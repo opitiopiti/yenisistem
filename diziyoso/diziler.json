@@ -30532,5 +30532,23 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
     "imdb": 8.8
+  },
+  "/dizi/amandaland": {
+    "group": "Amandaland",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/xaCUYunTtAlrbZJQy57ZhSvgpB2.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/believe-me": {
+    "group": "Believe Me",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/g8qiv2FzpjAlQ8bWrucVDlpbKSG.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/believe-me/": {
+    "group": "Believe Me",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/g8qiv2FzpjAlQ8bWrucVDlpbKSG.jpg",
+    "imdb": 7.6
   }
 }
