@@ -1,4 +1,10 @@
 {
+  "/diziler/the-capture.html": {
+    "group": "THE CAPTURE",
+    "year": "2019",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/bCuTIRmnd6eBNZ9oBBQ2KAtErid.jpg"
+  },
   "/diziler/euphoria.html": {
     "group": "EUPHORIA",
     "year": "2019",
@@ -76,11 +82,5 @@
     "year": "2024",
     "imdb": "7.4",
     "poster": "https://image.tmdb.org/t/p/w500/3snsd7KLau14equwCz9YLZu9lTO.jpg"
-  },
-  "/diziler/sold-out-on-you.html": {
-    "group": "SOLD OUT ON YOU",
-    "year": "2026",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/bcnneY1DWQzmwfvsuhGGnwv9KYD.jpg"
   }
 }

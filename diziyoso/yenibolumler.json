@@ -1,4 +1,10 @@
 {
+  "/dizi/tip-toe": {
+    "group": "Tip Toe",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/7xiRJczgpbMs2NSqDVpVXP5pMTJ.jpg",
+    "imdb": 9.1
+  },
   "/dizi/spider-noir": {
     "group": "Spider-Noir",
     "year": 2026,
@@ -95,11 +101,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg",
     "imdb": 7.5
   },
-  "/dizi/boston-blue": {
-    "group": "Boston Blue",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/8pyxutHxpgBt8ZwbIG2TZWCW394.jpg",
-    "imdb": 6.2
+  "/dizi/tip-toe/": {
+    "group": "Tip Toe",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/7xiRJczgpbMs2NSqDVpVXP5pMTJ.jpg",
+    "imdb": 4.0
   },
   "/dizi/spider-noir/": {
     "group": "Spider-Noir",
@@ -262,11 +268,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/AeY7DEEGn7cH3HoUDd9K8FZ1jCv.jpg",
     "imdb": 5.0
-  },
-  "/dizi/la-casa-de-los-espiritus/": {
-    "group": "La Casa de los Espíritus",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/lzy5lANYtUp24VTnX0NnnwAnvJa.jpg",
-    "imdb": 8.1
   }
 }
