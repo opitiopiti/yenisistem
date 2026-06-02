@@ -2,7 +2,7 @@
   "/dizi/not-suitable-for-work": {
     "group": "Not Suitable for Work",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -29,7 +29,7 @@
   "/dizi/the-way-home": {
     "group": "The Way Home",
     "last_season": 4,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1,
     "year": "2023",
     "imdb": "8.0",
@@ -38,7 +38,7 @@
   "/dizi/tip-toe": {
     "group": "Tip Toe",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.6",
@@ -47,7 +47,7 @@
   "/dizi/you-sharp039-re-killing-me": {
     "group": "You're Killing Me",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
