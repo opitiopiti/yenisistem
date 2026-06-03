@@ -1,4 +1,49 @@
 {
+  "/dizi/clarkson-s-farm": {
+    "group": "Clarkson’s Farm",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2021",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg"
+  },
+  "/dizi/criminal-record": {
+    "group": "Criminal Record",
+    "last_season": 2,
+    "last_episode": 6,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "8.7",
+    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg"
+  },
+  "/dizi/maximum-pleasure-guaranteed": {
+    "group": "Maximum Pleasure Guaranteed",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
+  },
+  "/dizi/the-legend-of-vox-machina": {
+    "group": "The Legend of Vox Machina",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2022",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg"
+  },
+  "/dizi/widow-sharp039-s-bay": {
+    "group": "Widow's Bay",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg"
+  },
   "/dizi/not-suitable-for-work": {
     "group": "Not Suitable for Work",
     "last_season": 1,

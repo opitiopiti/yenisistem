@@ -1,9 +1,9 @@
 {
-  "/dizi/death-valley": {
-    "group": "Death Valley",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/vFRBR439sIshJenXDM0TqxyULyl.jpg",
-    "imdb": 6.4
+  "/dizi/the-hardacres": {
+    "group": "The Hardacres",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/yHmGO337Fsx9JxWwaiyL7oen3AI.jpg",
+    "imdb": 7.8
   },
   "/dizi/amandaland": {
     "group": "Amandaland",
@@ -11,16 +11,58 @@
     "poster": "https://image.tmdb.org/t/p/w500/xaCUYunTtAlrbZJQy57ZhSvgpB2.jpg",
     "imdb": 7.5
   },
+  "/dizi/youre-killing-me": {
+    "group": "You’re Killing Me",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/vxPvBU1V84mX5O5089N3pNzXfrW.jpg",
+    "imdb": 6.2
+  },
   "/dizi/tip-toe": {
     "group": "Tip Toe",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/7xiRJczgpbMs2NSqDVpVXP5pMTJ.jpg",
     "imdb": 9.1
   },
+  "/dizi/the-way-home": {
+    "group": "The Way Home",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/the-chi": {
+    "group": "The Chi",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg",
+    "imdb": 7.8
+  },
+  "/dizi/the-audacity": {
+    "group": "The Audacity",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
+    "imdb": 5.1
+  },
   "/dizi/rafa": {
     "group": "Rafa",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
+    "imdb": 8.8
+  },
+  "/dizi/dutton-ranch": {
+    "group": "Dutton Ranch",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+    "imdb": 8.4
+  },
+  "/dizi/the-terror": {
+    "group": "The Terror",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/2nMZzKlMj158RVb6tjmIunoaNdo.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/late-bloomer": {
+    "group": "Late Bloomer",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/cdyKElGB4whoIS6zcJqNWQNaVsj.jpg",
     "imdb": 8.8
   },
   "/dizi/criminal-minds": {
@@ -35,47 +77,59 @@
     "poster": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
     "imdb": 8.2
   },
+  "/dizi/vengeance-murder-on-the-heath": {
+    "group": "Vengeance: Murder on the Heath",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/153hdFfoEYZrri6Ph1CKfxojUsS.jpg",
+    "imdb": 7.2
+  },
   "/dizi/euphoria": {
     "group": "Euphoria",
     "year": 2019,
     "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
     "imdb": 8.3
   },
-  "/dizi/rick-and-morty": {
-    "group": "Rick and Morty",
-    "year": 2013,
-    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
-    "imdb": 9.0
-  },
-  "/dizi/boston-blue": {
-    "group": "Boston Blue",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/8pyxutHxpgBt8ZwbIG2TZWCW394.jpg",
+  "/dizi/youre-killing-me/": {
+    "group": "You’re Killing Me",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/vxPvBU1V84mX5O5089N3pNzXfrW.jpg",
     "imdb": 6.2
   },
-  "/dizi/the-boys": {
-    "group": "The Boys",
-    "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
+  "/dizi/vengeance-murder-on-the-heath/": {
+    "group": "Vengeance: Murder on the Heath",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/153hdFfoEYZrri6Ph1CKfxojUsS.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/two-weeks-in-august/": {
+    "group": "Two Weeks in August",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/xjkR648bH8FzQVKG9RvQtNCVVDa.jpg",
+    "imdb": 5.6
+  },
+  "/dizi/les-crues/": {
+    "group": "Les Crues",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/sDdBHBnCilBY148xXLAdYzg6xeN.jpg",
+    "imdb": 7.1
+  },
+  "/dizi/falling/": {
+    "group": "Falling",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/cez4OCwBHziwIYKuOJtlMxLkTGo.jpg",
+    "imdb": 5.5
+  },
+  "/dizi/dutton-ranch/": {
+    "group": "Dutton Ranch",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
     "imdb": 8.4
   },
-  "/dizi/cia": {
-    "group": "CIA",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/8XbgWv137Umc8resTDeWh9ff7Y0.jpg",
-    "imdb": 6.4
-  },
-  "/dizi/believe-me": {
-    "group": "Believe Me",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/g8qiv2FzpjAlQ8bWrucVDlpbKSG.jpg",
+  "/dizi/desenchantees/": {
+    "group": "Désenchantées",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/t5aa9matQKtqDWCJiMBuBczFi30.jpg",
     "imdb": 7.6
-  },
-  "/dizi/the-audacity": {
-    "group": "The Audacity",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
-    "imdb": 5.1
   },
   "/dizi/believe-me/": {
     "group": "Believe Me",
@@ -202,47 +256,5 @@
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/zMhJg3twKFWzOWeUYN8XEQAtGlZ.jpg",
     "imdb": 6.6
-  },
-  "/dizi/koori-no-jouheki/": {
-    "group": "Koori no Jouheki",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/rke9UC2QrogvxiQD9TGpbvqDosi.jpg",
-    "imdb": 7.5
-  },
-  "/dizi/summertime-render/": {
-    "group": "Summertime Render",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/m9e7chRW8Q8Go1Dv00RCUHbMoNe.jpg",
-    "imdb": 8.2
-  },
-  "/dizi/tengoku-daimakyou/": {
-    "group": "Tengoku Daimakyou",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/74EYbgajUt8X2kxpu62dMR7q8jH.jpg",
-    "imdb": 7.9
-  },
-  "/dizi/yozakura-san-chi-no-daisakusen/": {
-    "group": "Yozakura-san Chi no Daisakusen",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/dTtXbR0DenriganfBidZxFLk4Xx.jpg",
-    "imdb": 6.8
-  },
-  "/dizi/mushoku-tensei-isekai-ittara-honki-dasu/": {
-    "group": "Mushoku Tensei: Isekai Ittara Honki Dasu",
-    "year": 2021,
-    "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg",
-    "imdb": 8.2
-  },
-  "/dizi/the-other-bennet-sister/": {
-    "group": "The Other Bennet Sister",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/esU4D2XSA7hNHC8G2bmMkvX5g5H.jpg",
-    "imdb": 8.3
-  },
-  "/dizi/the-cage-2026/": {
-    "group": "The Cage 2026",
-    "year": 2026,
-    "poster": "https://dzycdn.com/img/t/163x245/the-cage-2026.webp",
-    "imdb": 6.4
   }
 }

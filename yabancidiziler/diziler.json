@@ -1681,5 +1681,23 @@
     "year": "2026",
     "imdb": "7.6",
     "poster": "https://image.tmdb.org/t/p/w500/7xiRJczgpbMs2NSqDVpVXP5pMTJ.jpg"
+  },
+  "/dizi/clarkson-s-farm": {
+    "group": "Clarkson’s Farm",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2021",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg"
+  },
+  "/dizi/the-legend-of-vox-machina": {
+    "group": "The Legend of Vox Machina",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2022",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg"
   }
 }
