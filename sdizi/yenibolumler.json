@@ -1,4 +1,58 @@
 {
+  "/diziler/re-zero-starting-life-in-another-world.html": {
+    "group": "RE: ZERO - STARTING LIFE IN ANOTHER WORLD",
+    "year": "2016",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/aRwmcX36r1ZpR5Xq5mmFcpUDQ8J.jpg"
+  },
+  "/diziler/elsbeth.html": {
+    "group": "ELSBETH",
+    "year": "2024",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/7lnNSbT90qwtrn1h9TvEkVFMz2P.jpg"
+  },
+  "/diziler/fire-country.html": {
+    "group": "FIRE COUNTRY",
+    "year": "2022",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg"
+  },
+  "/diziler/classroom-of-the-elite.html": {
+    "group": "CLASSROOM OF THE ELITE",
+    "year": "2017",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg"
+  },
+  "/diziler/clarksons-farm.html": {
+    "group": "CLARKSON'S FARM",
+    "year": "2021",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg"
+  },
+  "/diziler/the-legend-of-vox-machina.html": {
+    "group": "THE LEGEND OF VOX MACHINA",
+    "year": "2022",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg"
+  },
+  "/diziler/criminal-record.html": {
+    "group": "CRIMINAL RECORD",
+    "year": "2024",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg"
+  },
+  "/diziler/widows-bay.html": {
+    "group": "WIDOW'S BAY",
+    "year": "2026",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
+  },
+  "/diziler/maximum-pleasure-guaranteed.html": {
+    "group": "MAXIMUM PLEASURE GUARANTEED",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/oeD9rnfk7AohNiJTRoCx4SOKhXj.jpg"
+  },
   "/diziler/the-capture.html": {
     "group": "THE CAPTURE",
     "year": "2019",
@@ -34,53 +88,5 @@
     "year": "2018",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg"
-  },
-  "/diziler/absolute-value-of-romance.html": {
-    "group": "ABSOLUTE VALUE OF ROMANCE",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/wY4rhPE90jJ4bp1JZOFY0MeRJQX.jpg"
-  },
-  "/diziler/star-city.html": {
-    "group": "STAR CITY",
-    "year": "2026",
-    "imdb": "5.9",
-    "poster": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg"
-  },
-  "/diziler/rivals.html": {
-    "group": "RIVALS",
-    "year": "2024",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/2JGsqTciDo5YEUDQAD8FN59NL3G.jpg"
-  },
-  "/diziler/your-friends-neighbors.html": {
-    "group": "YOUR FRIENDS & NEIGHBORS",
-    "year": "2025",
-    "imdb": "7.9",
-    "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg"
-  },
-  "/diziler/half-man.html": {
-    "group": "HALF MAN",
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/1XcDgszF8YJqXZw4zYDR4JYaVlM.jpg"
-  },
-  "/diziler/for-all-mankind.html": {
-    "group": "FOR ALL MANKIND",
-    "year": "2019",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
-  },
-  "/diziler/the-four-seasons.html": {
-    "group": "THE FOUR SEASONS",
-    "year": "2025",
-    "imdb": "7.2",
-    "poster": "https://image.tmdb.org/t/p/w500/w09XeYl096pwES8riRMZwEA9rnh.jpg"
-  },
-  "/diziler/murder-mindfully.html": {
-    "group": "MURDER MINDFULLY",
-    "year": "2024",
-    "imdb": "7.4",
-    "poster": "https://image.tmdb.org/t/p/w500/3snsd7KLau14equwCz9YLZu9lTO.jpg"
   }
 }
