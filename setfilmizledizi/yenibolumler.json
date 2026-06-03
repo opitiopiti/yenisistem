@@ -1,4 +1,28 @@
 {
+  "/dizi/maximum-pleasure-guaranteed/": {
+    "group": "Maximum Pleasure Guaranteed",
+    "year": 2026,
+    "imdb": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
+  },
+  "/dizi/widows-bay/": {
+    "group": "Widow’s Bay",
+    "year": 2026,
+    "imdb": 6.5,
+    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
+  },
+  "/dizi/criminal-record/": {
+    "group": "Criminal Record",
+    "year": 2024,
+    "imdb": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w500/kpnfeVRExCutHXFVXzaSdT8tAJl.jpg"
+  },
+  "/dizi/not-suitable-for-work/": {
+    "group": "Not Suitable for Work",
+    "year": 2026,
+    "imdb": 6.2,
+    "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg"
+  },
   "/dizi/euphoria/": {
     "group": "Euphoria",
     "year": 2019,
@@ -77,24 +101,6 @@
     "imdb": 6.2,
     "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg"
   },
-  "/dizi/maximum-pleasure-guaranteed/": {
-    "group": "Maximum Pleasure Guaranteed",
-    "year": 2026,
-    "imdb": 7.1,
-    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
-  },
-  "/dizi/criminal-record/": {
-    "group": "Criminal Record",
-    "year": 2024,
-    "imdb": 7.1,
-    "poster": "https://image.tmdb.org/t/p/w500/kpnfeVRExCutHXFVXzaSdT8tAJl.jpg"
-  },
-  "/dizi/widows-bay/": {
-    "group": "Widow’s Bay",
-    "year": 2026,
-    "imdb": 6.5,
-    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
-  },
   "/dizi/perfect-crown/": {
     "group": "Perfect Crown",
     "year": 2026,
@@ -112,17 +118,5 @@
     "year": 2019,
     "imdb": 8.6,
     "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg"
-  },
-  "/dizi/margos-got-money-troubles/": {
-    "group": "Margo’s Got Money Troubles",
-    "year": 2026,
-    "imdb": 6.3,
-    "poster": "https://image.tmdb.org/t/p/w500/uqyiKpqtyqJElBKZIQGF9rFuYAD.jpg"
-  },
-  "/dizi/regular-show-the-lost-tapes/": {
-    "group": "Regular Show: The Lost Tapes",
-    "year": 2026,
-    "imdb": 9.0,
-    "poster": "https://image.tmdb.org/t/p/w500/krDKFsp8JSz678lDKLrV1Qy0Xfe.jpg"
   }
 }

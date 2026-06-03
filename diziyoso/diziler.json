@@ -30550,5 +30550,17 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/g8qiv2FzpjAlQ8bWrucVDlpbKSG.jpg",
     "imdb": 7.6
+  },
+  "/dizi/death-valley": {
+    "group": "Death Valley",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/vFRBR439sIshJenXDM0TqxyULyl.jpg",
+    "imdb": 6.4
+  },
+  "/dizi/criminal-minds": {
+    "group": "Criminal Minds",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
+    "imdb": 8.3
   }
 }

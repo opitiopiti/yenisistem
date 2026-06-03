@@ -1,4 +1,10 @@
 {
+  "/dizi/death-valley": {
+    "group": "Death Valley",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/vFRBR439sIshJenXDM0TqxyULyl.jpg",
+    "imdb": 6.4
+  },
   "/dizi/amandaland": {
     "group": "Amandaland",
     "year": 2025,
@@ -16,6 +22,12 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
     "imdb": 8.8
+  },
+  "/dizi/criminal-minds": {
+    "group": "Criminal Minds",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
+    "imdb": 8.3
   },
   "/dizi/spider-noir": {
     "group": "Spider-Noir",
@@ -47,6 +59,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/in1R2dDc421JxsoRWaIIAqVI2KE.jpg",
     "imdb": 8.4
   },
+  "/dizi/cia": {
+    "group": "CIA",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/8XbgWv137Umc8resTDeWh9ff7Y0.jpg",
+    "imdb": 6.4
+  },
   "/dizi/believe-me": {
     "group": "Believe Me",
     "year": 2026,
@@ -58,24 +76,6 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
     "imdb": 5.1
-  },
-  "/dizi/la-casa-de-los-espiritus": {
-    "group": "La Casa de los Espíritus",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/lzy5lANYtUp24VTnX0NnnwAnvJa.jpg",
-    "imdb": 8.1
-  },
-  "/dizi/off-campus": {
-    "group": "Off Campus",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg",
-    "imdb": 10.0
-  },
-  "/dizi/criminal-record": {
-    "group": "Criminal Record",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
-    "imdb": 6.9
   },
   "/dizi/believe-me/": {
     "group": "Believe Me",
