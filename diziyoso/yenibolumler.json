@@ -113,6 +113,24 @@
     "poster": "https://image.tmdb.org/t/p/w500/zsjiNaXqbWUCKFyU72N5HpALcUu.jpg",
     "imdb": 6.6
   },
+  "/dizi/the-terror": {
+    "group": "The Terror",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/2nMZzKlMj158RVb6tjmIunoaNdo.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/late-bloomer": {
+    "group": "Late Bloomer",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/cdyKElGB4whoIS6zcJqNWQNaVsj.jpg",
+    "imdb": 8.8
+  },
+  "/dizi/criminal-minds": {
+    "group": "Criminal Minds",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
+    "imdb": 8.3
+  },
   "/dizi/star-city/": {
     "group": "Star City",
     "year": 2026,

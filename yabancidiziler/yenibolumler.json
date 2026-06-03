@@ -43,14 +43,5 @@
     "year": "2026",
     "imdb": "8.0",
     "poster": "https://image.tmdb.org/t/p/w500/vKq8XEJKxQTHd2Bm5zZMFPUrke7.jpg"
-  },
-  "/dizi/not-suitable-for-work": {
-    "group": "Not Suitable for Work",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg"
   }
 }
