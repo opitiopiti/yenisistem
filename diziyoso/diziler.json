@@ -30135,7 +30135,7 @@
     "group": "Due spicci",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/6x2Jn045qsaevVtUuCKBjrDBwD3.jpg",
-    "imdb": 0.0
+    "imdb": 8.4
   },
   "/dizi/medalist/": {
     "group": "Medalist",
@@ -30634,5 +30634,77 @@
     "year": 2025,
     "poster": "https://image.tmdb.org/t/p/w500/t5aa9matQKtqDWCJiMBuBczFi30.jpg",
     "imdb": 7.6
+  },
+  "/dizi/not-suitable-for-work": {
+    "group": "Not Suitable for Work",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/rivals-2024": {
+    "group": "Rivals 2024",
+    "year": 2024,
+    "poster": "https://dzycdn.com/img/t/294x441/rivals-2024.webp",
+    "imdb": 7.1
+  },
+  "/dizi/calabasas-confidential": {
+    "group": "Calabasas Confidential",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/i9saZWnE3evcp1MCdK6chKY2sxq.jpg",
+    "imdb": 3.0
+  },
+  "/dizi/welcome-to-wrexham": {
+    "group": "Welcome to Wrexham",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/65Bs500TJ84QcgLQNBGmoWHtlna.jpg",
+    "imdb": 8.3
+  },
+  "/dizi/the-four-seasons": {
+    "group": "The Four Seasons",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/w09XeYl096pwES8riRMZwEA9rnh.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/star-city": {
+    "group": "Star City",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/bNMUxvtkqWHKPGynh2IEQlHvHWo.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/deli-boys": {
+    "group": "Deli Boys",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/zsjiNaXqbWUCKFyU72N5HpALcUu.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/star-city/": {
+    "group": "Star City",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/bNMUxvtkqWHKPGynh2IEQlHvHWo.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/not-suitable-for-work/": {
+    "group": "Not Suitable for Work",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/desi-bling/": {
+    "group": "Desi Bling",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/26TTFiR3kLzqrzPw2ZJEavpTPHD.jpg",
+    "imdb": 3.4
+  },
+  "/dizi/calabasas-confidential/": {
+    "group": "Calabasas Confidential",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/i9saZWnE3evcp1MCdK6chKY2sxq.jpg",
+    "imdb": 3.0
+  },
+  "/dizi/entre-padre-e-hijo/": {
+    "group": "Entre padre e hijo",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/uOh3yStvGlWiaktHs4VFtZdquK8.jpg",
+    "imdb": 4.2
   }
 }

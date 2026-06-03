@@ -11,6 +11,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/xaCUYunTtAlrbZJQy57ZhSvgpB2.jpg",
     "imdb": 7.5
   },
+  "/dizi/not-suitable-for-work": {
+    "group": "Not Suitable for Work",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg",
+    "imdb": 6.6
+  },
   "/dizi/youre-killing-me": {
     "group": "You’re Killing Me",
     "year": 2026,
@@ -41,11 +47,23 @@
     "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
     "imdb": 5.1
   },
+  "/dizi/rivals-2024": {
+    "group": "Rivals 2024",
+    "year": 2024,
+    "poster": "https://dzycdn.com/img/t/294x441/rivals-2024.webp",
+    "imdb": 7.1
+  },
   "/dizi/rafa": {
     "group": "Rafa",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
     "imdb": 8.8
+  },
+  "/dizi/calabasas-confidential": {
+    "group": "Calabasas Confidential",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/i9saZWnE3evcp1MCdK6chKY2sxq.jpg",
+    "imdb": 3.0
   },
   "/dizi/dutton-ranch": {
     "group": "Dutton Ranch",
@@ -53,41 +71,83 @@
     "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
     "imdb": 8.4
   },
-  "/dizi/the-terror": {
-    "group": "The Terror",
-    "year": 2018,
-    "poster": "https://image.tmdb.org/t/p/w500/2nMZzKlMj158RVb6tjmIunoaNdo.jpg",
-    "imdb": 7.3
+  "/dizi/your-friends-neighbors": {
+    "group": "Your Friends & Neighbors",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/lxmNQ1392ClqU56W0kx2h2ONF4V.jpg",
+    "imdb": 7.4
   },
-  "/dizi/late-bloomer": {
-    "group": "Late Bloomer",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/cdyKElGB4whoIS6zcJqNWQNaVsj.jpg",
-    "imdb": 8.8
-  },
-  "/dizi/criminal-minds": {
-    "group": "Criminal Minds",
-    "year": 2005,
-    "poster": "https://image.tmdb.org/t/p/w500/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
+  "/dizi/welcome-to-wrexham": {
+    "group": "Welcome to Wrexham",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/65Bs500TJ84QcgLQNBGmoWHtlna.jpg",
     "imdb": 8.3
   },
-  "/dizi/spider-noir": {
-    "group": "Spider-Noir",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
-    "imdb": 8.2
+  "/dizi/the-four-seasons": {
+    "group": "The Four Seasons",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/w09XeYl096pwES8riRMZwEA9rnh.jpg",
+    "imdb": 6.6
   },
-  "/dizi/vengeance-murder-on-the-heath": {
-    "group": "Vengeance: Murder on the Heath",
+  "/dizi/star-city": {
+    "group": "Star City",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/153hdFfoEYZrri6Ph1CKfxojUsS.jpg",
-    "imdb": 7.2
+    "poster": "https://image.tmdb.org/t/p/w500/bNMUxvtkqWHKPGynh2IEQlHvHWo.jpg",
+    "imdb": 6.8
   },
-  "/dizi/euphoria": {
-    "group": "Euphoria",
+  "/dizi/hacks": {
+    "group": "Hacks",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/for-all-mankind": {
+    "group": "For All Mankind",
     "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg",
-    "imdb": 8.3
+    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/deli-boys": {
+    "group": "Deli Boys",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/zsjiNaXqbWUCKFyU72N5HpALcUu.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/star-city/": {
+    "group": "Star City",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/bNMUxvtkqWHKPGynh2IEQlHvHWo.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/not-suitable-for-work/": {
+    "group": "Not Suitable for Work",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/due-spicci/": {
+    "group": "Due spicci",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/6x2Jn045qsaevVtUuCKBjrDBwD3.jpg",
+    "imdb": 8.4
+  },
+  "/dizi/desi-bling/": {
+    "group": "Desi Bling",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/26TTFiR3kLzqrzPw2ZJEavpTPHD.jpg",
+    "imdb": 3.4
+  },
+  "/dizi/calabasas-confidential/": {
+    "group": "Calabasas Confidential",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/i9saZWnE3evcp1MCdK6chKY2sxq.jpg",
+    "imdb": 3.0
+  },
+  "/dizi/entre-padre-e-hijo/": {
+    "group": "Entre padre e hijo",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/uOh3yStvGlWiaktHs4VFtZdquK8.jpg",
+    "imdb": 4.2
   },
   "/dizi/youre-killing-me/": {
     "group": "You’re Killing Me",
@@ -220,41 +280,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/f7tksyddK3VvismfoWCwpXPqz0x.jpg",
     "imdb": 6.4
-  },
-  "/dizi/goldeu-laendeu/": {
-    "group": "Goldeu Laendeu",
-    "year": 2026,
-    "poster": "https://dzycdn.com/img/t/163x245/gold-land-2026.webp",
-    "imdb": 8.2
-  },
-  "/dizi/man-on-fire/": {
-    "group": "Man on Fire",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/5LpGrQkDPOg3bsJsuNhrH9hymMS.jpg",
-    "imdb": 5.5
-  },
-  "/dizi/sono-bisque-doll-wa-koi-wo-suru/": {
-    "group": "Sono Bisque Doll wa Koi wo Suru",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/A6mxBwvvv63JXZm3xXKv4SugE0L.jpg",
-    "imdb": 8.4
-  },
-  "/dizi/black%e2%98%85%e2%98%85rock-shooter-dawn-fall/": {
-    "group": "Black★★Rock Shooter: Dawn Fall",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/fjwT6zU73MTptIkqta16dBKycGq.jpg",
-    "imdb": 5.6
-  },
-  "/dizi/hokuto-no-ken-fist-of-the-north-star/": {
-    "group": "Hokuto no Ken: Fist of the North Star",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/fVJfKk7MkRlw90FWeLdduOeTxcp.jpg",
-    "imdb": 6.8
-  },
-  "/dizi/hi-no-tori-eden-no-sora/": {
-    "group": "Hi no tori: Eden no sora",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/zMhJg3twKFWzOWeUYN8XEQAtGlZ.jpg",
-    "imdb": 6.6
   }
 }
