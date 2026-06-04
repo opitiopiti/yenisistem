@@ -83,12 +83,6 @@
     "poster": "https://image.tmdb.org/t/p/w500/i9saZWnE3evcp1MCdK6chKY2sxq.jpg",
     "imdb": 3.0
   },
-  "/dizi/dutton-ranch": {
-    "group": "Dutton Ranch",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
-    "imdb": 8.4
-  },
   "/dizi/your-friends-neighbors": {
     "group": "Your Friends & Neighbors",
     "year": 2025,
@@ -130,6 +124,12 @@
     "year": 2025,
     "poster": "https://image.tmdb.org/t/p/w500/zsjiNaXqbWUCKFyU72N5HpALcUu.jpg",
     "imdb": 6.6
+  },
+  "/dizi/just-add-magic-mystery-city/": {
+    "group": "Just Add Magic: Mystery City",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/qyxOHsLpn6ktH9gFngCV3AHvG9c.jpg",
+    "imdb": 7.1
   },
   "/dizi/just-add-magic/": {
     "group": "Just Add Magic",
@@ -232,12 +232,6 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/cez4OCwBHziwIYKuOJtlMxLkTGo.jpg",
     "imdb": 5.5
-  },
-  "/dizi/dutton-ranch/": {
-    "group": "Dutton Ranch",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
-    "imdb": 8.4
   },
   "/dizi/desenchantees/": {
     "group": "Désenchantées",
