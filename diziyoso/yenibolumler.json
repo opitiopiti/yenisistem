@@ -131,6 +131,18 @@
     "poster": "https://image.tmdb.org/t/p/w500/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
     "imdb": 8.3
   },
+  "/dizi/preppers/": {
+    "group": "Preppers",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/zoALdQVtRg8g4wzzIHSPxdHkp5z.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/regular-show-the-lost-tapes/": {
+    "group": "Regular Show: The Lost Tapes",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/jqY3dj70ffSqKpM8XVUEToOEeLG.jpg",
+    "imdb": 9.0
+  },
   "/dizi/star-city/": {
     "group": "Star City",
     "year": 2026,
@@ -286,17 +298,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/g6NaDwfnNctv1JDjhWIQzOnnPgV.jpg",
     "imdb": 8.7
-  },
-  "/dizi/la-ultima/": {
-    "group": "La Última",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/axcClmqyXbRDXzt1rTWP6Kt7nQT.jpg",
-    "imdb": 6.0
-  },
-  "/dizi/secret-service/": {
-    "group": "Secret Service",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/f7tksyddK3VvismfoWCwpXPqz0x.jpg",
-    "imdb": 6.4
   }
 }

@@ -30706,5 +30706,17 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/uOh3yStvGlWiaktHs4VFtZdquK8.jpg",
     "imdb": 4.2
+  },
+  "/dizi/preppers/": {
+    "group": "Preppers",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/zoALdQVtRg8g4wzzIHSPxdHkp5z.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/regular-show-the-lost-tapes/": {
+    "group": "Regular Show: The Lost Tapes",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/jqY3dj70ffSqKpM8XVUEToOEeLG.jpg",
+    "imdb": 9.0
   }
 }
