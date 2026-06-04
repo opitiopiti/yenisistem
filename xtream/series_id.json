@@ -45644,8 +45644,8 @@
   "10607": {
     "name": "GOMORRAH: THE ORIGINS (2026)",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1780162321
+    "last_episode": 3,
+    "last_modified": 1780567294
   },
   "10608": {
     "name": "THE MINIATURE WIFE (2026)",
@@ -62200,5 +62200,11 @@
     "last_season": 1,
     "last_episode": 10,
     "last_modified": 1780528764
+  },
+  "13367": {
+    "name": "PREPPERS (2021)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1780567294
   }
 }
