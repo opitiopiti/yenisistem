@@ -1,4 +1,31 @@
 {
+  "/dizi/night-shift-for-cuties": {
+    "group": "Night Shift for Cuties",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/e8Hze00U0XmIRd6IXxP1Egdqw2u.jpg"
+  },
+  "/dizi/the-terror": {
+    "group": "The Terror",
+    "last_season": 3,
+    "last_episode": 4,
+    "start_episode": 1,
+    "year": "2018",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/2nMZzKlMj158RVb6tjmIunoaNdo.jpg"
+  },
+  "/dizi/the-witness": {
+    "group": "The Witness",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/zz99X2bWxpwys6Y4Ew7YltKKtqr.jpg"
+  },
   "/dizi/clarkson-s-farm": {
     "group": "Clarkson’s Farm",
     "last_season": 5,
@@ -25,6 +52,15 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
+  },
+  "/dizi/michael-jackson-the-verdict": {
+    "group": "Michael Jackson: The Verdict",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/8R40yI5AJ931Hd3P4Yf8pdFgwJ1.jpg"
   },
   "/dizi/the-legend-of-vox-machina": {
     "group": "The Legend of Vox Machina",

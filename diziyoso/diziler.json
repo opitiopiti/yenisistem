@@ -30718,5 +30718,35 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/jqY3dj70ffSqKpM8XVUEToOEeLG.jpg",
     "imdb": 9.0
+  },
+  "/dizi/just-add-magic": {
+    "group": "Just Add Magic",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/v7olj5StoSFVsgkBhOihDaR56eJ.jpg",
+    "imdb": 8.3
+  },
+  "/dizi/just-add-magic/": {
+    "group": "Just Add Magic",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/v7olj5StoSFVsgkBhOihDaR56eJ.jpg",
+    "imdb": 8.3
+  },
+  "/dizi/elementary/": {
+    "group": "Elementary",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/q9dObe29W4bDpgzUfOOH3ZnzDbR.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/everyone-is-doing-great/": {
+    "group": "Everyone Is Doing Great",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/ePOMnujKaCmA4xpQnRQfWDGgnjK.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/the-glades/": {
+    "group": "The Glades",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/44mkq0KpOngpJSs22m0LdP37Jpp.jpg",
+    "imdb": 7.4
   }
 }

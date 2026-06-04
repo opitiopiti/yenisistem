@@ -11,6 +11,24 @@
     "poster": "https://image.tmdb.org/t/p/w500/xaCUYunTtAlrbZJQy57ZhSvgpB2.jpg",
     "imdb": 7.5
   },
+  "/dizi/just-add-magic": {
+    "group": "Just Add Magic",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/v7olj5StoSFVsgkBhOihDaR56eJ.jpg",
+    "imdb": 8.3
+  },
+  "/dizi/the-terror": {
+    "group": "The Terror",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/2nMZzKlMj158RVb6tjmIunoaNdo.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/criminal-minds": {
+    "group": "Criminal Minds",
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
+    "imdb": 8.3
+  },
   "/dizi/not-suitable-for-work": {
     "group": "Not Suitable for Work",
     "year": 2026,
@@ -113,23 +131,29 @@
     "poster": "https://image.tmdb.org/t/p/w500/zsjiNaXqbWUCKFyU72N5HpALcUu.jpg",
     "imdb": 6.6
   },
-  "/dizi/the-terror": {
-    "group": "The Terror",
-    "year": 2018,
-    "poster": "https://image.tmdb.org/t/p/w500/2nMZzKlMj158RVb6tjmIunoaNdo.jpg",
-    "imdb": 7.3
-  },
-  "/dizi/late-bloomer": {
-    "group": "Late Bloomer",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/cdyKElGB4whoIS6zcJqNWQNaVsj.jpg",
-    "imdb": 8.8
-  },
-  "/dizi/criminal-minds": {
-    "group": "Criminal Minds",
-    "year": 2005,
-    "poster": "https://image.tmdb.org/t/p/w500/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
+  "/dizi/just-add-magic/": {
+    "group": "Just Add Magic",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/v7olj5StoSFVsgkBhOihDaR56eJ.jpg",
     "imdb": 8.3
+  },
+  "/dizi/elementary/": {
+    "group": "Elementary",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/q9dObe29W4bDpgzUfOOH3ZnzDbR.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/everyone-is-doing-great/": {
+    "group": "Everyone Is Doing Great",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/ePOMnujKaCmA4xpQnRQfWDGgnjK.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/the-glades/": {
+    "group": "The Glades",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/44mkq0KpOngpJSs22m0LdP37Jpp.jpg",
+    "imdb": 7.4
   },
   "/dizi/preppers/": {
     "group": "Preppers",
@@ -274,29 +298,5 @@
     "year": 2012,
     "poster": "https://image.tmdb.org/t/p/w500/1ssqed8krPnhVJCxGtw6Z3KrINw.jpg",
     "imdb": 7.7
-  },
-  "/dizi/unconditional/": {
-    "group": "Unconditional",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/l8fk8AvFzOT47LO13BcaKglqNZQ.jpg",
-    "imdb": 4.8
-  },
-  "/dizi/palu-ailesi-karanlik-sarmal/": {
-    "group": "Palu Ailesi: Karanlık Sarmal",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/i70MAvdqFuXGFXwhbFVkgylFbgg.jpg",
-    "imdb": 3.0
-  },
-  "/dizi/legends-2026/": {
-    "group": "Legends 2026",
-    "year": 2026,
-    "poster": "https://dzycdn.com/img/t/163x245/legends-2026.webp",
-    "imdb": 0.0
-  },
-  "/dizi/vitrerie-joyal/": {
-    "group": "Vitrerie Joyal",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/g6NaDwfnNctv1JDjhWIQzOnnPgV.jpg",
-    "imdb": 8.7
   }
 }
