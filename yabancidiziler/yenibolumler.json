@@ -8,6 +8,15 @@
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/64gCOK6NKcXVI2amtVKk3Xx7cbC.jpg"
   },
+  "/dizi/dutton-ranch": {
+    "group": "Dutton Ranch",
+    "last_season": 1,
+    "last_episode": 4,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg"
+  },
   "/dizi/late-bloomer": {
     "group": "Late Bloomer",
     "last_season": 3,
@@ -16,6 +25,15 @@
     "year": "2024",
     "imdb": "8.4",
     "poster": "https://image.tmdb.org/t/p/w500/cdyKElGB4whoIS6zcJqNWQNaVsj.jpg"
+  },
+  "/dizi/margarita": {
+    "group": "Margarita",
+    "last_season": 2,
+    "last_episode": 15,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/h5ie5WyR4kvQBs93TigxjRjLRlr.jpg"
   },
   "/dizi/rivals": {
     "group": "Rivals",
@@ -34,6 +52,24 @@
     "year": "2026",
     "imdb": "6.7",
     "poster": "https://image.tmdb.org/t/p/w500/uuQvllHZSG2nij00kfRa8SVzqeL.jpg"
+  },
+  "/dizi/teach-you-a-lesson": {
+    "group": "Teach You a Lesson",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/gN7Tq35raryabkPGcKlb4ZKeutm.jpg"
+  },
+  "/dizi/the-chi": {
+    "group": "The Chi",
+    "last_season": 8,
+    "last_episode": 2,
+    "start_episode": 1,
+    "year": "2018",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg"
   },
   "/dizi/unconditional": {
     "group": "Unconditional",
