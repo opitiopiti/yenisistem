@@ -706,48 +706,65 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clean Cache Xtream
-        id: cache_step
-        env:
-          CLEAN_CACHE_URL: ${{ secrets.CLEAN_CACHE }}
-        run: |
-          echo "Cache temizleme isteği atılıyor..."
+    - name: Clean Cache Xtream & Proxy
+      id: cache_step
+      env:
+        CLEAN_CACHE_XTREAM: ${{ secrets.CLEAN_CACHE_XTREAM }}
+        CLEAN_CACHE_PROXY: ${{ secrets.CLEAN_CACHE_PROXY }}
+      run: |
+        echo "XTREAM cache temizleme isteği atılıyor..."
 
-          STATUS=$(curl -sS -L \
-            --max-redirs 5 \
-            --retry 3 \
-            --retry-delay 2 \
-            --fail-with-body \
-            -o /dev/null \
-            -w "%{http_code}" \
-            "$CLEAN_CACHE_URL") || STATUS="000"
+        STATUS_XTREAM=$(curl -sS -L \
+          --max-redirs 5 \
+          --retry 3 \
+          --retry-delay 2 \
+          --fail-with-body \
+          -o /dev/null \
+          -w "%{http_code}" \
+          "$CLEAN_CACHE_XTREAM") || STATUS_XTREAM="000"
 
-          echo "HTTP STATUS: $STATUS"
+        echo "XTREAM STATUS: $STATUS_XTREAM"
 
-          if [[ "$STATUS" == "200" ]]; then
-            echo "success=true" >> $GITHUB_OUTPUT
-          else
-            echo "success=false" >> $GITHUB_OUTPUT
-          fi
+        echo "PROXY cache temizleme isteği atılıyor..."
 
-      - name: Telegram Success Notification
-        if: steps.cache_step.outputs.success == 'true'
-        env:
-          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: |
-          curl -s -o /dev/null -X POST \
-            "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
-            -d chat_id="$TELEGRAM_CHAT_ID" \
-            -d text="🚀✨ XTREAM SISTEMI BASARIYLA GUNCELLENDI ✅🔥"
+        STATUS_PROXY=$(curl -sS -L \
+          --max-redirs 5 \
+          --retry 3 \
+          --retry-delay 2 \
+          --fail-with-body \
+          -o /dev/null \
+          -w "%{http_code}" \
+          "$CLEAN_CACHE_PROXY") || STATUS_PROXY="000"
 
-      - name: Telegram Fail Notification
-        if: steps.cache_step.outputs.success == 'false'
-        env:
-          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
-          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: |
-          curl -s -o /dev/null -X POST \
-            "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
-            -d chat_id="$TELEGRAM_CHAT_ID" \
-            -d text="❌⚠️ XTREAM SISTEMI GUNCELLENEMEDI!"
+        echo "PROXY STATUS: $STATUS_PROXY"
+
+        echo "status_xtream=$STATUS_XTREAM" >> $GITHUB_OUTPUT
+        echo "status_proxy=$STATUS_PROXY" >> $GITHUB_OUTPUT
+
+        if [[ "$STATUS_XTREAM" == "200" && "$STATUS_PROXY" == "200" ]]; then
+          echo "success=true" >> $GITHUB_OUTPUT
+        else
+          echo "success=false" >> $GITHUB_OUTPUT
+        fi
+
+    - name: Telegram Success Notification
+      if: steps.cache_step.outputs.success == 'true'
+      env:
+        TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      run: |
+        curl -s -o /dev/null -X POST \
+          "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
+          -d chat_id="$TELEGRAM_CHAT_ID" \
+          -d text="🚀✨ XTREAM VE PROXY CACHE BASARIYLA TEMIZLENDI ✅🔥"
+
+    - name: Telegram Fail Notification
+      if: steps.cache_step.outputs.success == 'false'
+      env:
+        TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      run: |
+        curl -s -o /dev/null -X POST \
+          "https://api.telegram.org/bot$TELEGRAM_TOKEN/sendMessage" \
+          -d chat_id="$TELEGRAM_CHAT_ID" \
+          -d text="❌ CACHE TEMIZLEME HATASI! XTREAM=${{ steps.cache_step.outputs.status_xtream }} | PROXY=${{ steps.cache_step.outputs.status_proxy }}"
