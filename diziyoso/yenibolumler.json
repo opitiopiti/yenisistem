@@ -29,6 +29,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
     "imdb": 8.3
   },
+  "/dizi/brilliant-minds": {
+    "group": "Brilliant Minds",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/vG6Bw2IwDf1DVkPd7nZwMExp0U5.jpg",
+    "imdb": 7.3
+  },
   "/dizi/not-suitable-for-work": {
     "group": "Not Suitable for Work",
     "year": 2026,
@@ -83,6 +89,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/i9saZWnE3evcp1MCdK6chKY2sxq.jpg",
     "imdb": 3.0
   },
+  "/dizi/brasil-70-a-saga-do-tri": {
+    "group": "Brasil 70: A Saga do Tri",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/u6PBGDVs0CZJsq8IpWI5C4u0eyl.jpg",
+    "imdb": 7.4
+  },
   "/dizi/your-friends-neighbors": {
     "group": "Your Friends & Neighbors",
     "year": 2025,
@@ -107,23 +119,47 @@
     "poster": "https://image.tmdb.org/t/p/w500/bNMUxvtkqWHKPGynh2IEQlHvHWo.jpg",
     "imdb": 6.8
   },
-  "/dizi/hacks": {
-    "group": "Hacks",
-    "year": 2021,
-    "poster": "https://image.tmdb.org/t/p/w500/ca5XiEFgyGsI38QT3wEKa1QVGX.jpg",
+  "/dizi/stargate-sg-1/": {
+    "group": "Stargate SG-1",
+    "year": 1997,
+    "poster": "https://image.tmdb.org/t/p/w500/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg",
+    "imdb": 8.4
+  },
+  "/dizi/great-migrations/": {
+    "group": "Great Migrations",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/qv7nLtGL8i6RCXfQILXhWgR4p0m.jpg",
+    "imdb": 8.0
+  },
+  "/dizi/carisima/": {
+    "group": "Carísima",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/6e4ivA7v8vlzardz4IXPXzqxRrE.jpg",
+    "imdb": 4.9
+  },
+  "/dizi/the-legend-of-korra/": {
+    "group": "The Legend of Korra",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
+    "imdb": 8.3
+  },
+  "/dizi/brasil-70-a-saga-do-tri/": {
+    "group": "Brasil 70: A Saga do Tri",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/u6PBGDVs0CZJsq8IpWI5C4u0eyl.jpg",
     "imdb": 7.4
   },
-  "/dizi/for-all-mankind": {
-    "group": "For All Mankind",
-    "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg",
-    "imdb": 7.7
+  "/dizi/the-wonderfools/": {
+    "group": "The WONDERfools",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
+    "imdb": 7.6
   },
-  "/dizi/deli-boys": {
-    "group": "Deli Boys",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/zsjiNaXqbWUCKFyU72N5HpALcUu.jpg",
-    "imdb": 6.6
+  "/dizi/the-boroughs/": {
+    "group": "The Boroughs",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
+    "imdb": 7.4
   },
   "/dizi/just-add-magic-mystery-city/": {
     "group": "Just Add Magic: Mystery City",
@@ -250,47 +286,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
     "imdb": 8.8
-  },
-  "/dizi/tip-toe/": {
-    "group": "Tip Toe",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/7xiRJczgpbMs2NSqDVpVXP5pMTJ.jpg",
-    "imdb": 4.0
-  },
-  "/dizi/spider-noir/": {
-    "group": "Spider-Noir",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/cRAzL6mmdM6Q6UuQgc335UMgcfd.jpg",
-    "imdb": 8.2
-  },
-  "/dizi/m-i-a/": {
-    "group": "M.I.A.",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/8voJ9AKuyrSyzxfoxwR4tpio82h.jpg",
-    "imdb": 6.3
-  },
-  "/dizi/number-one-fan/": {
-    "group": "Number One Fan",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/uhFSX44LJBoc2exwRWUq7q1mZLd.jpg",
-    "imdb": 5.4
-  },
-  "/dizi/off-campus/": {
-    "group": "Off Campus",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/w500/QVyjW4MRsZgqUXbTMlcIWMNEXq.jpg",
-    "imdb": 10.0
-  },
-  "/dizi/the-grand-ish-tour/": {
-    "group": "The Grand-ish Tour",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/cPvIgIgysI3S067aA670pMYAjI4.jpg",
-    "imdb": 6.1
-  },
-  "/dizi/the-finder/": {
-    "group": "The Finder",
-    "year": 2012,
-    "poster": "https://image.tmdb.org/t/p/w500/1ssqed8krPnhVJCxGtw6Z3KrINw.jpg",
-    "imdb": 7.7
   }
 }

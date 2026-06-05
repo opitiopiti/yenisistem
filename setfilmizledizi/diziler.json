@@ -10996,5 +10996,11 @@
     "year": 2026,
     "imdb": 6.2,
     "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg"
+  },
+  "/dizi/cape-fear/": {
+    "group": "Cape Fear",
+    "year": 2026,
+    "imdb": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w500/64gCOK6NKcXVI2amtVKk3Xx7cbC.jpg"
   }
 }

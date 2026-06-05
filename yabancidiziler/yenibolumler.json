@@ -1,4 +1,67 @@
 {
+  "/dizi/cape-fear": {
+    "group": "Cape Fear",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/64gCOK6NKcXVI2amtVKk3Xx7cbC.jpg"
+  },
+  "/dizi/rivals": {
+    "group": "Rivals",
+    "last_season": 2,
+    "last_episode": 5,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/3p9t1KDo5iXAn1zsSPn8sdtakWs.jpg"
+  },
+  "/dizi/starcity": {
+    "group": "Starcity",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.7",
+    "poster": "https://image.tmdb.org/t/p/w500/uuQvllHZSG2nij00kfRa8SVzqeL.jpg"
+  },
+  "/dizi/unconditional": {
+    "group": "Unconditional",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "4.8",
+    "poster": "https://image.tmdb.org/t/p/w500/l8fk8AvFzOT47LO13BcaKglqNZQ.jpg"
+  },
+  "/dizi/your-friends-neighbors": {
+    "group": "Your Friends & Neighbors",
+    "last_season": 2,
+    "last_episode": 9,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/lxmNQ1392ClqU56W0kx2h2ONF4V.jpg"
+  },
+  "/dizi/brilliant-minds": {
+    "group": "Brilliant Minds",
+    "last_season": 2,
+    "last_episode": 15,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "6.5",
+    "poster": "https://image.tmdb.org/t/p/w500/vG6Bw2IwDf1DVkPd7nZwMExp0U5.jpg"
+  },
+  "/dizi/criminal-minds": {
+    "group": "Criminal Minds",
+    "last_season": 19,
+    "last_episode": 2,
+    "start_episode": 1,
+    "year": "2005",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/gigxjNnACiXAfrwoMox5WJFgc0I.jpg"
+  },
   "/dizi/night-shift-for-cuties": {
     "group": "Night Shift for Cuties",
     "last_season": 1,
@@ -7,6 +70,15 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/e8Hze00U0XmIRd6IXxP1Egdqw2u.jpg"
+  },
+  "/dizi/the-ramparts-of-ice": {
+    "group": "The Ramparts of Ice",
+    "last_season": 1,
+    "last_episode": 9,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "9.1",
+    "poster": "https://image.tmdb.org/t/p/w500/rke9UC2QrogvxiQD9TGpbvqDosi.jpg"
   },
   "/dizi/the-terror": {
     "group": "The Terror",

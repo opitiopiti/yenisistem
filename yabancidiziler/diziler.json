@@ -1726,5 +1726,14 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/8R40yI5AJ931Hd3P4Yf8pdFgwJ1.jpg"
+  },
+  "/dizi/cape-fear": {
+    "group": "Cape Fear",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/64gCOK6NKcXVI2amtVKk3Xx7cbC.jpg"
   }
 }
