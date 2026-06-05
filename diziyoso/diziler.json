@@ -30808,5 +30808,23 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
     "imdb": 7.4
+  },
+  "/dizi/cape-fear": {
+    "group": "Cape Fear",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/mpZjJ0yOxMX2GCCXJ4viTZKhdRX.jpg",
+    "imdb": 4.6
+  },
+  "/dizi/unconditional": {
+    "group": "Unconditional",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/l8fk8AvFzOT47LO13BcaKglqNZQ.jpg",
+    "imdb": 4.8
+  },
+  "/dizi/cape-fear/": {
+    "group": "Cape Fear",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/mpZjJ0yOxMX2GCCXJ4viTZKhdRX.jpg",
+    "imdb": 4.6
   }
 }

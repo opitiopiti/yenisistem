@@ -8,6 +8,15 @@
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/64gCOK6NKcXVI2amtVKk3Xx7cbC.jpg"
   },
+  "/dizi/late-bloomer": {
+    "group": "Late Bloomer",
+    "last_season": 3,
+    "last_episode": 7,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/cdyKElGB4whoIS6zcJqNWQNaVsj.jpg"
+  },
   "/dizi/rivals": {
     "group": "Rivals",
     "last_season": 2,

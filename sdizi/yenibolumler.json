@@ -1,4 +1,22 @@
 {
+  "/diziler/rivals.html": {
+    "group": "RIVALS",
+    "year": "2024",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/2JGsqTciDo5YEUDQAD8FN59NL3G.jpg"
+  },
+  "/diziler/your-friends-neighbors.html": {
+    "group": "YOUR FRIENDS & NEIGHBORS",
+    "year": "2025",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg"
+  },
+  "/diziler/star-city.html": {
+    "group": "STAR CITY",
+    "year": "2026",
+    "imdb": "5.9",
+    "poster": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg"
+  },
   "/diziler/the-witness.html": {
     "group": "THE WITNESS",
     "year": "2026",
@@ -70,23 +88,5 @@
     "year": "2019",
     "imdb": "7.8",
     "poster": "https://image.tmdb.org/t/p/w500/bCuTIRmnd6eBNZ9oBBQ2KAtErid.jpg"
-  },
-  "/diziler/euphoria.html": {
-    "group": "EUPHORIA",
-    "year": "2019",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/zvVt4xPUDR6SglHvUa8ECg8uREV.jpg"
-  },
-  "/diziler/rick-and-morty.html": {
-    "group": "RICK AND MORTY",
-    "year": "2013",
-    "imdb": "9.1",
-    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
-  },
-  "/diziler/one-piece-izle.html": {
-    "group": "ONE PIECE",
-    "year": "1999",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
   }
 }

@@ -1,22 +1,4 @@
 {
-  "/dizi/the-hardacres": {
-    "group": "The Hardacres",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/yHmGO337Fsx9JxWwaiyL7oen3AI.jpg",
-    "imdb": 7.8
-  },
-  "/dizi/amandaland": {
-    "group": "Amandaland",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/xaCUYunTtAlrbZJQy57ZhSvgpB2.jpg",
-    "imdb": 7.5
-  },
-  "/dizi/just-add-magic": {
-    "group": "Just Add Magic",
-    "year": 2016,
-    "poster": "https://image.tmdb.org/t/p/w500/v7olj5StoSFVsgkBhOihDaR56eJ.jpg",
-    "imdb": 8.3
-  },
   "/dizi/the-terror": {
     "group": "The Terror",
     "year": 2018,
@@ -29,6 +11,36 @@
     "poster": "https://image.tmdb.org/t/p/w500/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
     "imdb": 8.3
   },
+  "/dizi/your-friends-neighbors": {
+    "group": "Your Friends & Neighbors",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/lxmNQ1392ClqU56W0kx2h2ONF4V.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/welcome-to-wrexham": {
+    "group": "Welcome to Wrexham",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/65Bs500TJ84QcgLQNBGmoWHtlna.jpg",
+    "imdb": 8.3
+  },
+  "/dizi/star-city": {
+    "group": "Star City",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/bNMUxvtkqWHKPGynh2IEQlHvHWo.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/cape-fear": {
+    "group": "Cape Fear",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/mpZjJ0yOxMX2GCCXJ4viTZKhdRX.jpg",
+    "imdb": 4.6
+  },
+  "/dizi/criminal-record": {
+    "group": "Criminal Record",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
+    "imdb": 6.9
+  },
   "/dizi/brilliant-minds": {
     "group": "Brilliant Minds",
     "year": 2024,
@@ -40,6 +52,12 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg",
     "imdb": 6.6
+  },
+  "/dizi/unconditional": {
+    "group": "Unconditional",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/l8fk8AvFzOT47LO13BcaKglqNZQ.jpg",
+    "imdb": 4.8
   },
   "/dizi/youre-killing-me": {
     "group": "You’re Killing Me",
@@ -95,29 +113,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/u6PBGDVs0CZJsq8IpWI5C4u0eyl.jpg",
     "imdb": 7.4
   },
-  "/dizi/your-friends-neighbors": {
-    "group": "Your Friends & Neighbors",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/lxmNQ1392ClqU56W0kx2h2ONF4V.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/welcome-to-wrexham": {
-    "group": "Welcome to Wrexham",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/65Bs500TJ84QcgLQNBGmoWHtlna.jpg",
-    "imdb": 8.3
-  },
   "/dizi/the-four-seasons": {
     "group": "The Four Seasons",
     "year": 2025,
     "poster": "https://image.tmdb.org/t/p/w500/w09XeYl096pwES8riRMZwEA9rnh.jpg",
     "imdb": 6.6
   },
-  "/dizi/star-city": {
-    "group": "Star City",
+  "/dizi/cape-fear/": {
+    "group": "Cape Fear",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/bNMUxvtkqWHKPGynh2IEQlHvHWo.jpg",
-    "imdb": 6.8
+    "poster": "https://image.tmdb.org/t/p/w500/mpZjJ0yOxMX2GCCXJ4viTZKhdRX.jpg",
+    "imdb": 4.6
   },
   "/dizi/stargate-sg-1/": {
     "group": "Stargate SG-1",
@@ -280,11 +286,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/g8qiv2FzpjAlQ8bWrucVDlpbKSG.jpg",
     "imdb": 7.6
-  },
-  "/dizi/rafa/": {
-    "group": "Rafa",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
-    "imdb": 8.8
   }
 }
