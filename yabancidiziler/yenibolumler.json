@@ -88,59 +88,5 @@
     "year": "2025",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/lxmNQ1392ClqU56W0kx2h2ONF4V.jpg"
-  },
-  "/dizi/brilliant-minds": {
-    "group": "Brilliant Minds",
-    "last_season": 2,
-    "last_episode": 16,
-    "start_episode": 1,
-    "year": "2024",
-    "imdb": "6.5",
-    "poster": "https://image.tmdb.org/t/p/w500/vG6Bw2IwDf1DVkPd7nZwMExp0U5.jpg"
-  },
-  "/dizi/criminal-minds": {
-    "group": "Criminal Minds",
-    "last_season": 19,
-    "last_episode": 3,
-    "start_episode": 1,
-    "year": "2005",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/gigxjNnACiXAfrwoMox5WJFgc0I.jpg"
-  },
-  "/dizi/night-shift-for-cuties": {
-    "group": "Night Shift for Cuties",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/e8Hze00U0XmIRd6IXxP1Egdqw2u.jpg"
-  },
-  "/dizi/the-ramparts-of-ice": {
-    "group": "The Ramparts of Ice",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "9.1",
-    "poster": "https://image.tmdb.org/t/p/w500/rke9UC2QrogvxiQD9TGpbvqDosi.jpg"
-  },
-  "/dizi/the-terror": {
-    "group": "The Terror",
-    "last_season": 3,
-    "last_episode": 5,
-    "start_episode": 1,
-    "year": "2018",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/2nMZzKlMj158RVb6tjmIunoaNdo.jpg"
-  },
-  "/dizi/the-witness": {
-    "group": "The Witness",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/zz99X2bWxpwys6Y4Ew7YltKKtqr.jpg"
   }
 }

@@ -30826,5 +30826,23 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/mpZjJ0yOxMX2GCCXJ4viTZKhdRX.jpg",
     "imdb": 4.6
+  },
+  "/dizi/clarksons-farm": {
+    "group": "Clarkson’s Farm",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/toVhyqMT3ICfahE7Ad8obJvZHpX.jpg",
+    "imdb": 8.5
+  },
+  "/dizi/maximum-pleasure-guaranteed": {
+    "group": "Maximum Pleasure Guaranteed",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/kylie/": {
+    "group": "Kylie",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/89qQzMmXD5r0UOOxH6ob8U6T8ei.jpg",
+    "imdb": 8.1
   }
 }

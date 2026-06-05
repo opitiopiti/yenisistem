@@ -1,15 +1,33 @@
 {
-  "/dizi/the-terror": {
-    "group": "The Terror",
+  "/dizi/the-chi": {
+    "group": "The Chi",
     "year": 2018,
-    "poster": "https://image.tmdb.org/t/p/w500/2nMZzKlMj158RVb6tjmIunoaNdo.jpg",
-    "imdb": 7.3
+    "poster": "https://image.tmdb.org/t/p/w500/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg",
+    "imdb": 7.8
+  },
+  "/dizi/rivals-2024": {
+    "group": "Rivals 2024",
+    "year": 2024,
+    "poster": "https://dzycdn.com/img/t/294x441/rivals-2024.webp",
+    "imdb": 7.1
   },
   "/dizi/criminal-minds": {
     "group": "Criminal Minds",
     "year": 2005,
     "poster": "https://image.tmdb.org/t/p/w500/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
     "imdb": 8.3
+  },
+  "/dizi/late-bloomer": {
+    "group": "Late Bloomer",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/cdyKElGB4whoIS6zcJqNWQNaVsj.jpg",
+    "imdb": 8.8
+  },
+  "/dizi/the-terror": {
+    "group": "The Terror",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/2nMZzKlMj158RVb6tjmIunoaNdo.jpg",
+    "imdb": 7.3
   },
   "/dizi/your-friends-neighbors": {
     "group": "Your Friends & Neighbors",
@@ -35,6 +53,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/mpZjJ0yOxMX2GCCXJ4viTZKhdRX.jpg",
     "imdb": 4.6
   },
+  "/dizi/clarksons-farm": {
+    "group": "Clarkson’s Farm",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/toVhyqMT3ICfahE7Ad8obJvZHpX.jpg",
+    "imdb": 8.5
+  },
   "/dizi/criminal-record": {
     "group": "Criminal Record",
     "year": 2024,
@@ -46,6 +70,18 @@
     "year": 2024,
     "poster": "https://image.tmdb.org/t/p/w500/vG6Bw2IwDf1DVkPd7nZwMExp0U5.jpg",
     "imdb": 7.3
+  },
+  "/dizi/maximum-pleasure-guaranteed": {
+    "group": "Maximum Pleasure Guaranteed",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/widows-bay": {
+    "group": "Widow’s Bay",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
+    "imdb": 6.5
   },
   "/dizi/not-suitable-for-work": {
     "group": "Not Suitable for Work",
@@ -77,23 +113,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg",
     "imdb": 7.5
   },
-  "/dizi/the-chi": {
-    "group": "The Chi",
-    "year": 2018,
-    "poster": "https://image.tmdb.org/t/p/w500/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg",
-    "imdb": 7.8
-  },
   "/dizi/the-audacity": {
     "group": "The Audacity",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
     "imdb": 5.1
-  },
-  "/dizi/rivals-2024": {
-    "group": "Rivals 2024",
-    "year": 2024,
-    "poster": "https://dzycdn.com/img/t/294x441/rivals-2024.webp",
-    "imdb": 7.1
   },
   "/dizi/rafa": {
     "group": "Rafa",
@@ -101,23 +125,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
     "imdb": 8.8
   },
-  "/dizi/calabasas-confidential": {
-    "group": "Calabasas Confidential",
+  "/dizi/kylie/": {
+    "group": "Kylie",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/i9saZWnE3evcp1MCdK6chKY2sxq.jpg",
-    "imdb": 3.0
-  },
-  "/dizi/brasil-70-a-saga-do-tri": {
-    "group": "Brasil 70: A Saga do Tri",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/u6PBGDVs0CZJsq8IpWI5C4u0eyl.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/the-four-seasons": {
-    "group": "The Four Seasons",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/w09XeYl096pwES8riRMZwEA9rnh.jpg",
-    "imdb": 6.6
+    "poster": "https://image.tmdb.org/t/p/w500/89qQzMmXD5r0UOOxH6ob8U6T8ei.jpg",
+    "imdb": 8.1
   },
   "/dizi/cape-fear/": {
     "group": "Cape Fear",
@@ -279,12 +291,6 @@
     "group": "Désenchantées",
     "year": 2025,
     "poster": "https://image.tmdb.org/t/p/w500/t5aa9matQKtqDWCJiMBuBczFi30.jpg",
-    "imdb": 7.6
-  },
-  "/dizi/believe-me/": {
-    "group": "Believe Me",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/g8qiv2FzpjAlQ8bWrucVDlpbKSG.jpg",
     "imdb": 7.6
   }
 }
