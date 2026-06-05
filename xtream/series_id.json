@@ -14738,8 +14738,8 @@
   "5456": {
     "name": "THE LEGEND OF VOX MACHINA (2022)",
     "last_season": 4,
-    "last_episode": 3,
-    "last_modified": 1780500180
+    "last_episode": 12,
+    "last_modified": 1780652216
   },
   "5457": {
     "name": "THE LIONS OF SICILY (2023)",
@@ -39206,8 +39206,8 @@
   "9534": {
     "name": "BRILLIANT MINDS (2024)",
     "last_season": 2,
-    "last_episode": 14,
-    "last_modified": 1775801787
+    "last_episode": 16,
+    "last_modified": 1780652216
   },
   "9535": {
     "name": "BROOKLYN NINE-NINE (2013)",
@@ -46478,14 +46478,14 @@
   "10746": {
     "name": "UNCONDITIONAL (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1780063999
+    "last_episode": 6,
+    "last_modified": 1780652216
   },
   "10747": {
     "name": "MY ROYAL NEMESIS (2026)",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1780179693
+    "last_episode": 14,
+    "last_modified": 1780652216
   },
   "10748": {
     "name": "PALU AILESI: KARANLIK SARMAL (2026)",
@@ -51254,8 +51254,8 @@
   "11542": {
     "name": "YOUR FRIENDS AND NEIGHBORS (2025)",
     "last_season": 2,
-    "last_episode": 9,
-    "last_modified": 1780063999
+    "last_episode": 10,
+    "last_modified": 1780652216
   },
   "11543": {
     "name": "BERLIN VE KAKIMLI KADIN (2026)",
@@ -51506,8 +51506,8 @@
   "11584": {
     "name": "STAR CITY (2026)",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1780063999
+    "last_episode": 3,
+    "last_modified": 1780652216
   },
   "11585": {
     "name": "SCIENCE FELL IN LOVE, SO I TRIED TO PROVE IT. R=1-SINΘ (2022) İNGİLİZCE",
@@ -65722,5 +65722,17 @@
     "last_season": 1,
     "last_episode": 3,
     "last_modified": 1780597996
+  },
+  "13954": {
+    "name": "MICHAEL JACKSON: HÜKÜM (2026)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1780652216
+  },
+  "13955": {
+    "name": "CAPE FEAR (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1780652216
   }
 }
