@@ -30844,5 +30844,29 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/89qQzMmXD5r0UOOxH6ob8U6T8ei.jpg",
     "imdb": 8.1
+  },
+  "/dizi/benim-adim-aylamaz": {
+    "group": "Benim Adım Aylamaz",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/vslqNnjARZUdDav2CWIxGvxest9.jpg",
+    "imdb": 9.0
+  },
+  "/dizi/benim-adim-aylamaz/": {
+    "group": "Benim Adım Aylamaz",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/vslqNnjARZUdDav2CWIxGvxest9.jpg",
+    "imdb": 9.0
+  },
+  "/dizi/devil-in-the-family-the-fall-of-ruby-franke/": {
+    "group": "Devil in the Family: The Fall of Ruby Franke",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/mPE2Urjd1ut4fdOioyPj1CdRTnN.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/mating-season/": {
+    "group": "Mating Season",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/dJjPnw3NQHmbGWGUXdlROqtTMuX.jpg",
+    "imdb": 6.5
   }
 }

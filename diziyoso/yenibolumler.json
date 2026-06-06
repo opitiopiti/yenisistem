@@ -11,6 +11,12 @@
     "poster": "https://dzycdn.com/img/t/294x441/rivals-2024.webp",
     "imdb": 7.1
   },
+  "/dizi/benim-adim-aylamaz": {
+    "group": "Benim Adım Aylamaz",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/vslqNnjARZUdDav2CWIxGvxest9.jpg",
+    "imdb": 9.0
+  },
   "/dizi/criminal-minds": {
     "group": "Criminal Minds",
     "year": 2005,
@@ -119,11 +125,23 @@
     "poster": "https://image.tmdb.org/t/p/w500/ea6hHjW8yWjROSYwynpWsYc4mYZ.jpg",
     "imdb": 5.1
   },
-  "/dizi/rafa": {
-    "group": "Rafa",
+  "/dizi/benim-adim-aylamaz/": {
+    "group": "Benim Adım Aylamaz",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
-    "imdb": 8.8
+    "poster": "https://image.tmdb.org/t/p/w500/vslqNnjARZUdDav2CWIxGvxest9.jpg",
+    "imdb": 9.0
+  },
+  "/dizi/devil-in-the-family-the-fall-of-ruby-franke/": {
+    "group": "Devil in the Family: The Fall of Ruby Franke",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/mPE2Urjd1ut4fdOioyPj1CdRTnN.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/mating-season/": {
+    "group": "Mating Season",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/dJjPnw3NQHmbGWGUXdlROqtTMuX.jpg",
+    "imdb": 6.5
   },
   "/dizi/kylie/": {
     "group": "Kylie",
@@ -274,23 +292,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/xjkR648bH8FzQVKG9RvQtNCVVDa.jpg",
     "imdb": 5.6
-  },
-  "/dizi/les-crues/": {
-    "group": "Les Crues",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/sDdBHBnCilBY148xXLAdYzg6xeN.jpg",
-    "imdb": 7.1
-  },
-  "/dizi/falling/": {
-    "group": "Falling",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/cez4OCwBHziwIYKuOJtlMxLkTGo.jpg",
-    "imdb": 5.5
-  },
-  "/dizi/desenchantees/": {
-    "group": "Désenchantées",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/t5aa9matQKtqDWCJiMBuBczFi30.jpg",
-    "imdb": 7.6
   }
 }

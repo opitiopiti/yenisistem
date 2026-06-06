@@ -1,4 +1,10 @@
 {
+  "/diziler/teach-you-a-lesson.html": {
+    "group": "TEACH YOU A LESSON",
+    "year": "2026",
+    "imdb": "8.5",
+    "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg"
+  },
   "/diziler/cape-fear.html": {
     "group": "CAPE FEAR",
     "year": "2025",
@@ -76,11 +82,5 @@
     "year": "2022",
     "imdb": "8.4",
     "poster": "https://image.tmdb.org/t/p/w500/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg"
-  },
-  "/diziler/criminal-record.html": {
-    "group": "CRIMINAL RECORD",
-    "year": "2024",
-    "imdb": "7.3",
-    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg"
   }
 }
