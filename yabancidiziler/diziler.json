@@ -1262,7 +1262,7 @@
   "/dizi/my-royal-nemesis": {
     "group": "My Royal Nemesis",
     "last_season": 1,
-    "last_episode": 9,
+    "last_episode": 10,
     "start_episode": 1,
     "year": "2026",
     "imdb": "9.0",
@@ -1748,7 +1748,7 @@
   "/dizi/ashes-to-crown": {
     "group": "Ashes to Crown",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 9,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -1757,7 +1757,7 @@
   "/dizi/el-homenaje": {
     "group": "El homenaje",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.2",
