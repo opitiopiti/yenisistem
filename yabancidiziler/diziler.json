@@ -1744,5 +1744,23 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/gN7Tq35raryabkPGcKlb4ZKeutm.jpg"
+  },
+  "/dizi/ashes-to-crown": {
+    "group": "Ashes to Crown",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/6pC0XDwZtKAMrx68vKUkXcOs3gM.jpg"
+  },
+  "/dizi/el-homenaje": {
+    "group": "El homenaje",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/xaKZjJStLrE9vGP8dBR02waSyVi.jpg"
   }
 }

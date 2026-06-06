@@ -30868,5 +30868,41 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/dJjPnw3NQHmbGWGUXdlROqtTMuX.jpg",
     "imdb": 6.5
+  },
+  "/dizi/dunyayla-benim-aramda/": {
+    "group": "Dünyayla Benim Aramda",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/rOF5Rvbq6hgVK2YCBF3mZ5pVLT3.jpg",
+    "imdb": 5.6
+  },
+  "/dizi/crossfire/": {
+    "group": "Crossfire",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/1opiu4UYkPDwxmXr6IxV0Az24nX.jpg",
+    "imdb": 5.8
+  },
+  "/dizi/bardot/": {
+    "group": "Bardot",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/5fAHVS8C88mWvwzMWqchNwYVcQO.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/the-company/": {
+    "group": "The Company",
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/rxBchxWLVuqjG4kk1IhDAUMghr9.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/conversations-with-friends/": {
+    "group": "Conversations with Friends",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/kk6kXltSgeAA1yWiRaZ1sOexm1V.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/the-hot-zone/": {
+    "group": "The Hot Zone",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/6CSPieuzXvp4gcSSPZzuUwBXjaP.jpg",
+    "imdb": 7.3
   }
 }

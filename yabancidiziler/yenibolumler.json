@@ -1,39 +1,21 @@
 {
-  "/dizi/cape-fear": {
-    "group": "Cape Fear",
+  "/dizi/ashes-to-crown": {
+    "group": "Ashes to Crown",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 0,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/64gCOK6NKcXVI2amtVKk3Xx7cbC.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/6pC0XDwZtKAMrx68vKUkXcOs3gM.jpg"
   },
-  "/dizi/dutton-ranch": {
-    "group": "Dutton Ranch",
+  "/dizi/el-homenaje": {
+    "group": "El homenaje",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 0,
     "start_episode": 1,
     "year": "2026",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg"
-  },
-  "/dizi/late-bloomer": {
-    "group": "Late Bloomer",
-    "last_season": 3,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2024",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/cdyKElGB4whoIS6zcJqNWQNaVsj.jpg"
-  },
-  "/dizi/margarita": {
-    "group": "Margarita",
-    "last_season": 2,
-    "last_episode": 20,
-    "start_episode": 1,
-    "year": "2024",
-    "imdb": "7.3",
-    "poster": "https://image.tmdb.org/t/p/w500/h5ie5WyR4kvQBs93TigxjRjLRlr.jpg"
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/xaKZjJStLrE9vGP8dBR02waSyVi.jpg"
   },
   "/dizi/my-royal-nemesis": {
     "group": "My Royal Nemesis",
@@ -43,59 +25,5 @@
     "year": "2026",
     "imdb": "9.0",
     "poster": "https://image.tmdb.org/t/p/w500/rYLQbyIvbEd0lF84iXrx7CbPcBB.jpg"
-  },
-  "/dizi/rivals": {
-    "group": "Rivals",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2024",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/3p9t1KDo5iXAn1zsSPn8sdtakWs.jpg"
-  },
-  "/dizi/starcity": {
-    "group": "Starcity",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "6.7",
-    "poster": "https://image.tmdb.org/t/p/w500/uuQvllHZSG2nij00kfRa8SVzqeL.jpg"
-  },
-  "/dizi/teach-you-a-lesson": {
-    "group": "Teach You a Lesson",
-    "last_season": 1,
-    "last_episode": 10,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/gN7Tq35raryabkPGcKlb4ZKeutm.jpg"
-  },
-  "/dizi/the-chi": {
-    "group": "The Chi",
-    "last_season": 8,
-    "last_episode": 3,
-    "start_episode": 1,
-    "year": "2018",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg"
-  },
-  "/dizi/unconditional": {
-    "group": "Unconditional",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "4.8",
-    "poster": "https://image.tmdb.org/t/p/w500/l8fk8AvFzOT47LO13BcaKglqNZQ.jpg"
-  },
-  "/dizi/your-friends-neighbors": {
-    "group": "Your Friends & Neighbors",
-    "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1,
-    "year": "2025",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/lxmNQ1392ClqU56W0kx2h2ONF4V.jpg"
   }
 }
