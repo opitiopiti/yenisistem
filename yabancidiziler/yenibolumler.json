@@ -35,6 +35,15 @@
     "imdb": "7.3",
     "poster": "https://image.tmdb.org/t/p/w500/h5ie5WyR4kvQBs93TigxjRjLRlr.jpg"
   },
+  "/dizi/my-royal-nemesis": {
+    "group": "My Royal Nemesis",
+    "last_season": 1,
+    "last_episode": 8,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/rYLQbyIvbEd0lF84iXrx7CbPcBB.jpg"
+  },
   "/dizi/rivals": {
     "group": "Rivals",
     "last_season": 2,
