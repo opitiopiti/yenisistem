@@ -11002,5 +11002,11 @@
     "year": 2026,
     "imdb": 7.5,
     "poster": "https://image.tmdb.org/t/p/w500/64gCOK6NKcXVI2amtVKk3Xx7cbC.jpg"
+  },
+  "/dizi/dogu/": {
+    "group": "Doğu",
+    "year": 2021,
+    "imdb": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w500/ZAQbYIG2bHblv2lGapfFS6TmkX.jpg"
   }
 }
