@@ -30904,5 +30904,17 @@
     "year": 2019,
     "poster": "https://image.tmdb.org/t/p/w500/6CSPieuzXvp4gcSSPZzuUwBXjaP.jpg",
     "imdb": 7.3
+  },
+  "/dizi/chamgyoyuk": {
+    "group": "Chamgyoyuk",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
+    "imdb": 8.5
+  },
+  "/dizi/chamgyoyuk/": {
+    "group": "Chamgyoyuk",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
+    "imdb": 8.5
   }
 }

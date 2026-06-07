@@ -17,6 +17,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/vslqNnjARZUdDav2CWIxGvxest9.jpg",
     "imdb": 9.0
   },
+  "/dizi/chamgyoyuk": {
+    "group": "Chamgyoyuk",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
+    "imdb": 8.5
+  },
   "/dizi/criminal-minds": {
     "group": "Criminal Minds",
     "year": 2005,
@@ -142,6 +148,12 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/u6PBGDVs0CZJsq8IpWI5C4u0eyl.jpg",
     "imdb": 7.4
+  },
+  "/dizi/chamgyoyuk/": {
+    "group": "Chamgyoyuk",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
+    "imdb": 8.5
   },
   "/dizi/dunyayla-benim-aramda/": {
     "group": "Dünyayla Benim Aramda",
@@ -304,11 +316,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg",
     "imdb": 6.6
-  },
-  "/dizi/due-spicci/": {
-    "group": "Due spicci",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/6x2Jn045qsaevVtUuCKBjrDBwD3.jpg",
-    "imdb": 8.4
   }
 }
