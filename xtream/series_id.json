@@ -51590,8 +51590,8 @@
   "11598": {
     "name": "THE MIDDLE (2009)",
     "last_season": 9,
-    "last_episode": 23,
-    "last_modified": 1780396508
+    "last_episode": 24,
+    "last_modified": 1780823499
   },
   "11599": {
     "name": "오징어 게임 (2021)",
@@ -51968,8 +51968,8 @@
   "11661": {
     "name": "เพราะรักนำทาง (2024)",
     "last_season": 2,
-    "last_episode": 17,
-    "last_modified": 1780396508
+    "last_episode": 19,
+    "last_modified": 1780823499
   },
   "11662": {
     "name": "देसी ब्लिंग (2026)",
@@ -65744,8 +65744,8 @@
   "13957": {
     "name": "THE KING OF QUEENS (1998)",
     "last_season": 9,
-    "last_episode": 1,
-    "last_modified": 1780703805
+    "last_episode": 13,
+    "last_modified": 1780823499
   },
   "13958": {
     "name": "BENIM ADIM AYLAMAZ (2026)",
@@ -69082,5 +69082,17 @@
     "last_season": 1,
     "last_episode": 10,
     "last_modified": 1780748353
+  },
+  "14514": {
+    "name": "참교육 (2026)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1780823499
+  },
+  "14515": {
+    "name": "유재석 캠프 (2026)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1780823499
   }
 }
