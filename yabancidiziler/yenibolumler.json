@@ -1,8 +1,8 @@
 {
   "/dizi/interview-with-the-vampire": {
     "group": "Interview with the Vampire",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 1,
     "start_episode": 1,
     "year": "2022",
     "imdb": "7.2",
@@ -11,7 +11,7 @@
   "/dizi/jae-seok-s-bb-rules": {
     "group": "Jae-seok’s B&B Rules!",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
