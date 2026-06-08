@@ -1523,7 +1523,7 @@
   "/dizi/you-sharp039-re-killing-me": {
     "group": "You're Killing Me",
     "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 4,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -1784,7 +1784,7 @@
   "/dizi/alice-and-steve": {
     "group": "Alice and Steve",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.2",
@@ -1792,8 +1792,8 @@
   },
   "/dizi/g-wed": {
     "group": "G’wed",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 1,
     "start_episode": 1,
     "year": "2024",
     "imdb": "6.9",
