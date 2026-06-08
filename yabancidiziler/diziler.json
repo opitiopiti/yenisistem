@@ -1762,5 +1762,23 @@
     "year": "2026",
     "imdb": "7.2",
     "poster": "https://image.tmdb.org/t/p/w500/xaKZjJStLrE9vGP8dBR02waSyVi.jpg"
+  },
+  "/dizi/interview-with-the-vampire": {
+    "group": "Interview with the Vampire",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2022",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/Afv4pPhqVMg2wOmhuDLiGUw4r4O.jpg"
+  },
+  "/dizi/jae-seok-s-bb-rules": {
+    "group": "Jae-seok’s B&B Rules!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/RcVRBQm5q2q4CuPTl4IUL2phUh.jpg"
   }
 }

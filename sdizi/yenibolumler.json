@@ -1,4 +1,10 @@
 {
+  "/diziler/rick-and-morty.html": {
+    "group": "RICK AND MORTY",
+    "year": "2013",
+    "imdb": "9.1",
+    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
+  },
   "/diziler/one-piece-izle.html": {
     "group": "ONE PIECE",
     "year": "1999",
@@ -76,11 +82,5 @@
     "year": "2022",
     "imdb": "7.2",
     "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg"
-  },
-  "/diziler/classroom-of-the-elite.html": {
-    "group": "CLASSROOM OF THE ELITE",
-    "year": "2017",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg"
   }
 }

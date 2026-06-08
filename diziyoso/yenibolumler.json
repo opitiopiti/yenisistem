@@ -149,6 +149,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/u6PBGDVs0CZJsq8IpWI5C4u0eyl.jpg",
     "imdb": 7.4
   },
+  "/dizi/falling-skies/": {
+    "group": "Falling Skies",
+    "year": "2011",
+    "poster": "https://image.tmdb.org/t/p/w500/uP6p0aWcIpYwA0HjY4bYR4naz5g.jpg",
+    "imdb": 7.113
+  },
   "/dizi/chamgyoyuk/": {
     "group": "Chamgyoyuk",
     "year": 2026,
@@ -310,11 +316,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/bNMUxvtkqWHKPGynh2IEQlHvHWo.jpg",
     "imdb": 6.8
-  },
-  "/dizi/not-suitable-for-work/": {
-    "group": "Not Suitable for Work",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg",
-    "imdb": 6.6
   }
 }
