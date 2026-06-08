@@ -1,4 +1,16 @@
 {
+  "/dizi/rivals/": {
+    "group": "Rivals",
+    "year": 2024,
+    "imdb": 7.9,
+    "poster": "https://image.tmdb.org/t/p/w500/3p9t1KDo5iXAn1zsSPn8sdtakWs.jpg"
+  },
+  "/dizi/gomorrah-the-origins/": {
+    "group": "Gomorrah: The Origins",
+    "year": 2026,
+    "imdb": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w500/l0RJjiE6k1Ey5m3pYTe60BQbNnZ.jpg"
+  },
   "/dizi/dogu/": {
     "group": "Doğu",
     "year": 2021,
@@ -71,18 +83,6 @@
     "imdb": 6.9,
     "poster": "https://image.tmdb.org/t/p/w500/fV1XBxZSl0nxiMIhDuorIbfW8kG.jpg"
   },
-  "/dizi/rivals/": {
-    "group": "Rivals",
-    "year": 2024,
-    "imdb": 7.9,
-    "poster": "https://image.tmdb.org/t/p/w500/3p9t1KDo5iXAn1zsSPn8sdtakWs.jpg"
-  },
-  "/dizi/gomorrah-the-origins/": {
-    "group": "Gomorrah: The Origins",
-    "year": 2026,
-    "imdb": 7.2,
-    "poster": "https://image.tmdb.org/t/p/w500/l0RJjiE6k1Ey5m3pYTe60BQbNnZ.jpg"
-  },
   "/dizi/for-all-mankind/": {
     "group": "For All Mankind",
     "year": 2019,
@@ -112,11 +112,5 @@
     "year": 2026,
     "imdb": 6.2,
     "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg"
-  },
-  "/dizi/perfect-crown/": {
-    "group": "Perfect Crown",
-    "year": 2026,
-    "imdb": 7.9,
-    "poster": "https://image.tmdb.org/t/p/w500/j37wlFXIPcSVEjWOi1KBxzWK0in.jpg"
   }
 }
