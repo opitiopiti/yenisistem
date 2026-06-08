@@ -7652,8 +7652,8 @@
   "4275": {
     "name": "THE TERROR (2018)",
     "last_season": 3,
-    "last_episode": 1,
-    "last_modified": 1780582663
+    "last_episode": 5,
+    "last_modified": 1780913641
   },
   "4276": {
     "name": "THE TEST (2020)",
@@ -10850,8 +10850,8 @@
   "4808": {
     "name": "RICK AND MORTY (2013)",
     "last_season": 9,
-    "last_episode": 2,
-    "last_modified": 1780312108
+    "last_episode": 3,
+    "last_modified": 1780913641
   },
   "4809": {
     "name": "RIV4LRIES (2025)",
@@ -69100,5 +69100,11 @@
     "last_season": 1,
     "last_episode": 12,
     "last_modified": 1780882869
+  },
+  "14517": {
+    "name": "SÜREKLI DIZI KAYIP KASETLER (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1780913641
   }
 }
