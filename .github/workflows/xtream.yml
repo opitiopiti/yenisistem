@@ -410,7 +410,6 @@ jobs:
   part9:
     name: vavoo - dizigomfilmler - setfilmizlefimler - dizibolyerli - dizibolfilmler
     runs-on: ubuntu-latest
-    needs: part2
     env:
       M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
       
@@ -448,6 +447,9 @@ jobs:
 
       - name: Run dizibolfilmler.py Script
         run: python private_py/dizibol/dizibolfilmler.py || true
+        
+      - name: Run dizifilm.py Script
+        run: python private_py/dizifilm/filmler.py   
 
       - name: Sync M3U outputs to private repo
         run: |
@@ -458,6 +460,7 @@ jobs:
           cp dizibolyerli.m3u privaate_m3u8file/dizibolyerli.m3u || echo "dizibolyerl bulunamadi"
           cp setfilmizlefilmler.m3u privaate_m3u8file/setfilmizlefilmler.m3u || echo "setfilmizlefilmler bulunamadi"
           cp dizibolfilmler.m3u privaate_m3u8file/dizibolfilmler.m3u || echo "dizibolfilmler.m3u bulunamadi"
+          cp hdfilmsite.m3u privaate_m3u8file/hdfilmsite.m3u || echo "hdfilmsite.m3u bulunamadi"
           
           cd privaate_m3u8file
           git config user.name "GitHub Actions"
