@@ -1,4 +1,31 @@
 {
+  "/dizi/alice-and-steve": {
+    "group": "Alice and Steve",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/gPou8wNiTz1uleLKllclrqanXXf.jpg"
+  },
+  "/dizi/g-wed": {
+    "group": "G’wed",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "6.9",
+    "poster": "https://image.tmdb.org/t/p/w500/9hB4MZi1pVunt8yfkhkbAPAzVS3.jpg"
+  },
+  "/dizi/you-sharp039-re-killing-me": {
+    "group": "You're Killing Me",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/vxPvBU1V84mX5O5089N3pNzXfrW.jpg"
+  },
   "/dizi/interview-with-the-vampire": {
     "group": "Interview with the Vampire",
     "last_season": 3,
