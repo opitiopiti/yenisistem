@@ -45080,8 +45080,8 @@
   "10513": {
     "name": "FARMING LIFE IN ANOTHER WORLD 2 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1780345021
+    "last_episode": 10,
+    "last_modified": 1780930777
   },
   "10514": {
     "name": "FATE/STRANGE FAKE (2026) İNGİLİZCE",
@@ -45218,8 +45218,8 @@
   "10536": {
     "name": "MAGICAL SISTERS LULUTTO LILLY (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1780312108
+    "last_episode": 10,
+    "last_modified": 1780930777
   },
   "10537": {
     "name": "MAO (2026) İNGİLİZCE",
@@ -45518,8 +45518,8 @@
   "10586": {
     "name": "WITCH HAT ATELIER (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1780345021
+    "last_episode": 11,
+    "last_modified": 1780930777
   },
   "10587": {
     "name": "YONA OF THE DAWN (2014) İNGİLİZCE",
@@ -45920,8 +45920,8 @@
   "10653": {
     "name": "FROM (2022)",
     "last_season": 4,
-    "last_episode": 6,
-    "last_modified": 1780441990
+    "last_episode": 7,
+    "last_modified": 1780930777
   },
   "10654": {
     "name": "FUNNY AF WITH KEVIN HART (2026)",
@@ -51218,8 +51218,8 @@
   "11536": {
     "name": "DUTTON RANCH (2026)",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1780481606
+    "last_episode": 5,
+    "last_modified": 1780930777
   },
   "11537": {
     "name": "LES CRUES (2026)",
@@ -51482,8 +51482,8 @@
   "11580": {
     "name": "DAZZLING (2026)",
     "last_season": 1,
-    "last_episode": 20,
-    "last_modified": 1780835849
+    "last_episode": 21,
+    "last_modified": 1780930777
   },
   "11581": {
     "name": "RAFA (2026)",
@@ -69106,5 +69106,17 @@
     "last_season": 1,
     "last_episode": 8,
     "last_modified": 1780913641
+  },
+  "14518": {
+    "name": "ALICE AND STEVE (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1780930777
+  },
+  "14519": {
+    "name": "SESAME STREET (1969)",
+    "last_season": 3,
+    "last_episode": 5,
+    "last_modified": 1780930777
   }
 }
