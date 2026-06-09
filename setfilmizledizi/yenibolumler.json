@@ -1,4 +1,10 @@
 {
+  "/dizi/alice-and-steve/": {
+    "group": "Alice and Steve",
+    "year": 2026,
+    "imdb": 5.7,
+    "poster": "https://image.tmdb.org/t/p/w500/gPou8wNiTz1uleLKllclrqanXXf.jpg"
+  },
   "/dizi/rick-and-morty/": {
     "group": "Rick and Morty",
     "year": 2013,
