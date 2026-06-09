@@ -54,6 +54,9 @@ jobs:
         
       - name: Run Dizipal JSON Script
         run: python private_py/dizipal/dizilerjson.py || true        
+
+      - name: Run Dizimor JSON Script
+        run: python private_py/dizimor/dizilerjson.py || true        
         
       - name: Commit and Push All JSONs to public repo
         run: |
