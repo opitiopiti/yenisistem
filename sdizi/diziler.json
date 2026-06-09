@@ -3763,15 +3763,15 @@
   },
   "/diziler/deutschland-89.html": {
     "group": "DEUTSCHLAND 89",
-    "year": "2020",
-    "imdb": "7.7",
-    "poster": null
+    "year": "2015",
+    "imdb": "7.5",
+    "poster": "https://image.tmdb.org/t/p/w500/6N8H9As0ZvFHUhvJpwwm8EvzD4Y.jpg"
   },
   "/diziler/deutschland-86.html": {
     "group": "DEUTSCHLAND 86",
-    "year": "2018",
-    "imdb": "7.6",
-    "poster": null
+    "year": "2015",
+    "imdb": "7.5",
+    "poster": "https://image.tmdb.org/t/p/w500/6N8H9As0ZvFHUhvJpwwm8EvzD4Y.jpg"
   },
   "/diziler/deutschland-83.html": {
     "group": "DEUTSCHLAND 83",
@@ -4489,9 +4489,9 @@
   },
   "/diziler/the-lion-guard.html": {
     "group": "THE LION GUARD",
-    "year": "2015",
-    "imdb": "6.4",
-    "poster": null
+    "year": "2016",
+    "imdb": "7.642",
+    "poster": "https://image.tmdb.org/t/p/w500/AtDL8ZrOZxW1jakT2R3LcMdLvQD.jpg"
   },
   "/diziler/tengoku-daimakyo.html": {
     "group": "HEAVENLY DELUSION",
@@ -4855,9 +4855,9 @@
   },
   "/diziler/hajime-no-ippo-new-challenger.html": {
     "group": "HAJIME NO IPPO: NEW CHALLENGER",
-    "year": "2009",
-    "imdb": "8.8",
-    "poster": null
+    "year": "2000",
+    "imdb": "8.65",
+    "poster": "https://image.tmdb.org/t/p/w500/1LApB9C9kEkh2ZU2vzAhurNDipl.jpg"
   },
   "/diziler/hajime-no-ippo-the-fighting.html": {
     "group": "HAJIME NO IPPO: THE FIGHTING!",
@@ -5293,9 +5293,9 @@
   },
   "/diziler/copenhagen-cowboy.html": {
     "group": "COPENHAGEN COWBOY",
-    "year": "2022",
-    "imdb": "6.8",
-    "poster": null
+    "year": "2023",
+    "imdb": "6.908",
+    "poster": "https://image.tmdb.org/t/p/w500/jspobwn8SDeDC00CTfWAv4fjZmb.jpg"
   },
   "/diziler/shooting-stars.html": {
     "group": "SHOOTING STARS",
@@ -6583,20 +6583,20 @@
   },
   "/diziler/pokemon-black-and-white.html": {
     "group": "POKEMON: BLACK AND WHITE",
-    "year": "2010",
-    "imdb": "7.4",
-    "poster": null
+    "year": "1997",
+    "imdb": "7.986",
+    "poster": "https://image.tmdb.org/t/p/w500/lP4zwr0F7hWTbAFltfoFTc2AxRG.jpg"
   },
   "/diziler/pokemon-diamond-and-pearl.html": {
     "group": "POKEMON: DIAMOND AND PEARL",
-    "year": "2006",
-    "imdb": "7.8",
-    "poster": null
+    "year": "1997",
+    "imdb": "7.986",
+    "poster": "https://image.tmdb.org/t/p/w500/lP4zwr0F7hWTbAFltfoFTc2AxRG.jpg"
   },
   "/diziler/pokemon-advanced-generation.html": {
     "group": "POKEMON: ADVANCED GENERATION",
-    "year": "2002",
-    "imdb": "0.0",
+    "year": null,
+    "imdb": null,
     "poster": null
   },
   "/diziler/it-was-always-me.html": {
@@ -6649,9 +6649,9 @@
   },
   "/diziler/avengers-assemble.html": {
     "group": "AVENGERS ASSEMBLE",
-    "year": "2012",
-    "imdb": "6.9",
-    "poster": null
+    "year": "2013",
+    "imdb": "7.5",
+    "poster": "https://image.tmdb.org/t/p/w500/aVYPq7FSvsdNQOXVIFnndXJPCXn.jpg"
   },
   "/diziler/billy-the-kid.html": {
     "group": "BILLY THE KID",
@@ -7669,9 +7669,9 @@
   },
   "/diziler/caprica.html": {
     "group": "CAPRICA",
-    "year": "2009",
-    "imdb": "7.1",
-    "poster": null
+    "year": "2010",
+    "imdb": "6.918",
+    "poster": "https://image.tmdb.org/t/p/w500/wGCdHYsx0aY5Z5236XTC6JQMpNn.jpg"
   },
   "/diziler/my-dress-up-darling.html": {
     "group": "MY DRESS-UP DARLING",

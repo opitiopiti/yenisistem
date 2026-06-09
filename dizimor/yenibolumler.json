@@ -1,0 +1,50 @@
+{
+  "/dizi/the-middle/": {
+    "group": "The Middle",
+    "year": "2009",
+    "poster": "https://image.tmdb.org/t/p/original/u6FluiFx3ocVS0MgZszfpPKXT2p.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/dutton-ranch-2/": {
+    "group": "Dutton Ranch",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+    "imdb": 9.3
+  },
+  "/dizi/benim-adim-aylamaz-1/": {
+    "group": "Benim Adim Aylamaz",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/vslqNnjARZUdDav2CWIxGvxest9.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/muhabir-3/": {
+    "group": "Muhabir",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/uWdOEzereOwAEUTmqgT7XYrnngB.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/spider-noir-1/": {
+    "group": "Spider-Noir",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/imam-gazali-huccetul-islam-9/": {
+    "group": "İmam Gazâlî Hüccetü'l-İslâm",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/cSmjwtqphOL3GVgwkBz3gKrZHxi.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/onbesliler-9/": {
+    "group": "Onbeşliler",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/fforqOZAOaVXsb8q3ex0cDNXOx4.jpg",
+    "imdb": 9.0
+  },
+  "/dizi/kara-kis-9/": {
+    "group": "Kara Kış",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/6Axq4SOmgo4LsLwS0gpbocSQMRQ.jpg",
+    "imdb": 8.0
+  }
+}
