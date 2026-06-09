@@ -1,4 +1,10 @@
 {
+  "/diziler/regular-show-the-lost-tapes.html": {
+    "group": "REGULAR SHOW: THE LOST TAPES",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/jqY3dj70ffSqKpM8XVUEToOEeLG.jpg"
+  },
   "/diziler/rafa.html": {
     "group": "RAFA",
     "year": "2026",
@@ -70,17 +76,5 @@
     "year": "2019",
     "imdb": "8.2",
     "poster": "https://image.tmdb.org/t/p/w500/ve1Sv3sVArmE0nlFjzadcNv1G8r.jpg"
-  },
-  "/diziler/re-zero-starting-life-in-another-world.html": {
-    "group": "RE: ZERO - STARTING LIFE IN ANOTHER WORLD",
-    "year": "2016",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/aRwmcX36r1ZpR5Xq5mmFcpUDQ8J.jpg"
-  },
-  "/diziler/elsbeth.html": {
-    "group": "ELSBETH",
-    "year": "2024",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/7lnNSbT90qwtrn1h9TvEkVFMz2P.jpg"
   }
 }
