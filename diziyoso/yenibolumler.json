@@ -47,6 +47,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/lxmNQ1392ClqU56W0kx2h2ONF4V.jpg",
     "imdb": 7.4
   },
+  "/dizi/the-witness": {
+    "group": "The Witness",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/eNIfjYji9m29Xyj4KVDiUy2UmMa.jpg",
+    "imdb": 6.5
+  },
   "/dizi/welcome-to-wrexham": {
     "group": "Welcome to Wrexham",
     "year": 2022,
@@ -137,17 +143,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg",
     "imdb": 8.8
   },
-  "/dizi/calabasas-confidential": {
-    "group": "Calabasas Confidential",
+  "/dizi/the-witness/": {
+    "group": "The Witness",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/i9saZWnE3evcp1MCdK6chKY2sxq.jpg",
-    "imdb": 3.0
-  },
-  "/dizi/brasil-70-a-saga-do-tri": {
-    "group": "Brasil 70: A Saga do Tri",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/u6PBGDVs0CZJsq8IpWI5C4u0eyl.jpg",
-    "imdb": 7.4
+    "poster": "https://image.tmdb.org/t/p/w500/eNIfjYji9m29Xyj4KVDiUy2UmMa.jpg",
+    "imdb": 6.5
   },
   "/dizi/falling-skies/": {
     "group": "Falling Skies",
@@ -310,11 +310,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/jqY3dj70ffSqKpM8XVUEToOEeLG.jpg",
     "imdb": 9.0
-  },
-  "/dizi/star-city/": {
-    "group": "Star City",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/bNMUxvtkqWHKPGynh2IEQlHvHWo.jpg",
-    "imdb": 6.8
   }
 }

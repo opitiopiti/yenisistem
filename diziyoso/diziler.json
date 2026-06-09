@@ -30916,5 +30916,17 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
     "imdb": 8.5
+  },
+  "/dizi/the-witness": {
+    "group": "The Witness",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/eNIfjYji9m29Xyj4KVDiUy2UmMa.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/the-witness/": {
+    "group": "The Witness",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/eNIfjYji9m29Xyj4KVDiUy2UmMa.jpg",
+    "imdb": 6.5
   }
 }
