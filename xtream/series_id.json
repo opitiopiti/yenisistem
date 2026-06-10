@@ -9362,8 +9362,8 @@
   "4560": {
     "name": "CLARKSON'S FARM (2021)",
     "last_season": 5,
-    "last_episode": 4,
-    "last_modified": 1780500180
+    "last_episode": 6,
+    "last_modified": 1781099010
   },
   "4561": {
     "name": "COBRA KAI (2018)",
@@ -35683,9 +35683,9 @@
   },
   "8947": {
     "name": "WELCOME TO WREXHAM (2022)",
-    "last_season": 4,
-    "last_episode": 8,
-    "last_modified": 1780665681
+    "last_season": 5,
+    "last_episode": 2,
+    "last_modified": 1781099010
   },
   "8948": {
     "name": "A KILLER UNCAGED (2020)",
@@ -41570,8 +41570,8 @@
   "9928": {
     "name": "AŞKIN GÜCÜ (2022) TR",
     "last_season": 2,
-    "last_episode": 2,
-    "last_modified": 1780748353
+    "last_episode": 5,
+    "last_modified": 1781099010
   },
   "9929": {
     "name": "KUS UÇUSU (2022) TR",
@@ -45008,8 +45008,8 @@
   "10501": {
     "name": "CLASSROOM OF THE ELITE 4TH SEASON (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 13,
-    "last_modified": 1780500180
+    "last_episode": 14,
+    "last_modified": 1781099010
   },
   "10502": {
     "name": "DAEMONS OF THE SHADOW REALM (2026) İNGİLİZCE",
@@ -46226,8 +46226,8 @@
   "10704": {
     "name": "WIDOW’S BAY (2026)",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1780462246
+    "last_episode": 9,
+    "last_modified": 1781099010
   },
   "10705": {
     "name": "LA CASA DE LOS ESPÍRITUS (2026)",
@@ -69140,7 +69140,13 @@
   "14523": {
     "name": "CAT PLANET CUTIES (2010) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1781065750
+    "last_episode": 12,
+    "last_modified": 1781099010
+  },
+  "14524": {
+    "name": "MY ROOMMATE IS A CAT (2019) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 11,
+    "last_modified": 1781099010
   }
 }
