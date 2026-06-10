@@ -1,14 +1,20 @@
 {
-  "/dizi/spider-noir-2/": {
-    "group": "Spider-Noir",
+  "/dizi/norvec-surpriz-at/": {
+    "group": "Norveç: Sürpriz At",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
-    "imdb": 0.0
+    "poster": "https://image.tmdb.org/t/p/original/kZgzZsVgNruGRWKzTbAIfvvrvHJ.jpg",
+    "imdb": 4.0
   },
-  "/dizi/american-gladiators-2/": {
-    "group": "American Gladiators",
+  "/dizi/dutton-ranch-4/": {
+    "group": "Dutton Ranch",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/pOHcFrq4wbMZXgwHij2UiZnG6Xp.jpg",
-    "imdb": 0.0
+    "poster": "https://image.tmdb.org/t/p/original/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+    "imdb": 9.3
+  },
+  "/dizi/the-king-of-queens-1/": {
+    "group": "The King of Queens",
+    "year": "1998",
+    "poster": "https://image.tmdb.org/t/p/original/vXs300Yvjy4Kr0iHgBtajHkYbAt.jpg",
+    "imdb": 7.1
   }
 }

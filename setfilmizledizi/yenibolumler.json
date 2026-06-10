@@ -1,4 +1,22 @@
 {
+  "/dizi/maximum-pleasure-guaranteed/": {
+    "group": "Maximum Pleasure Guaranteed",
+    "year": 2026,
+    "imdb": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
+  },
+  "/dizi/widows-bay/": {
+    "group": "Widow’s Bay",
+    "year": 2026,
+    "imdb": 6.5,
+    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
+  },
+  "/dizi/criminal-record/": {
+    "group": "Criminal Record",
+    "year": 2024,
+    "imdb": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w500/kpnfeVRExCutHXFVXzaSdT8tAJl.jpg"
+  },
   "/dizi/alice-and-steve/": {
     "group": "Alice and Steve",
     "year": 2026,
@@ -53,24 +71,6 @@
     "imdb": 7.5,
     "poster": "https://image.tmdb.org/t/p/w500/64gCOK6NKcXVI2amtVKk3Xx7cbC.jpg"
   },
-  "/dizi/maximum-pleasure-guaranteed/": {
-    "group": "Maximum Pleasure Guaranteed",
-    "year": 2026,
-    "imdb": 7.1,
-    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
-  },
-  "/dizi/widows-bay/": {
-    "group": "Widow’s Bay",
-    "year": 2026,
-    "imdb": 6.5,
-    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
-  },
-  "/dizi/criminal-record/": {
-    "group": "Criminal Record",
-    "year": 2024,
-    "imdb": 7.1,
-    "poster": "https://image.tmdb.org/t/p/w500/kpnfeVRExCutHXFVXzaSdT8tAJl.jpg"
-  },
   "/dizi/not-suitable-for-work/": {
     "group": "Not Suitable for Work",
     "year": 2026,
@@ -112,11 +112,5 @@
     "year": 2026,
     "imdb": 8.3,
     "poster": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg"
-  },
-  "/dizi/the-testaments/": {
-    "group": "The Testaments",
-    "year": 2026,
-    "imdb": 6.2,
-    "poster": "https://image.tmdb.org/t/p/w500/xVsFopLisBoiKdXXecaNTN4pJ9A.jpg"
   }
 }
