@@ -51482,8 +51482,8 @@
   "11580": {
     "name": "DAZZLING (2026)",
     "last_season": 1,
-    "last_episode": 23,
-    "last_modified": 1781030307
+    "last_episode": 24,
+    "last_modified": 1781065750
   },
   "11581": {
     "name": "RAFA (2026)",
@@ -69136,5 +69136,11 @@
     "last_season": 1,
     "last_episode": 6,
     "last_modified": 1781044661
+  },
+  "14523": {
+    "name": "CAT PLANET CUTIES (2010) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1781065750
   }
 }
