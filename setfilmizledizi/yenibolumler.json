@@ -1,4 +1,10 @@
 {
+  "/dizi/every-year-after/": {
+    "group": "Every Year After",
+    "year": 2026,
+    "imdb": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w500/zSwGrVfQibt00pfjNqzZnywrP8L.jpg"
+  },
   "/dizi/maximum-pleasure-guaranteed/": {
     "group": "Maximum Pleasure Guaranteed",
     "year": 2026,
@@ -106,11 +112,5 @@
     "year": 2025,
     "imdb": 7.2,
     "poster": "https://image.tmdb.org/t/p/w500/zsjiNaXqbWUCKFyU72N5HpALcUu.jpg"
-  },
-  "/dizi/spider-noir/": {
-    "group": "Spider-Noir",
-    "year": 2026,
-    "imdb": 8.3,
-    "poster": "https://image.tmdb.org/t/p/w500/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg"
   }
 }

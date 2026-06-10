@@ -1,4 +1,16 @@
 {
+  "/diziler/classroom-of-the-elite.html": {
+    "group": "CLASSROOM OF THE ELITE",
+    "year": "2017",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg"
+  },
+  "/diziler/re-zero-starting-life-in-another-world.html": {
+    "group": "RE: ZERO - STARTING LIFE IN ANOTHER WORLD",
+    "year": "2016",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/aRwmcX36r1ZpR5Xq5mmFcpUDQ8J.jpg"
+  },
   "/diziler/clarksons-farm.html": {
     "group": "CLARKSON'S FARM",
     "year": "2021",
@@ -70,11 +82,5 @@
     "year": "2025",
     "imdb": "0.0",
     "poster": null
-  },
-  "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
-    "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
-    "year": "2018",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg"
   }
 }

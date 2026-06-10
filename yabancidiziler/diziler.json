@@ -1834,5 +1834,32 @@
     "year": "2026",
     "imdb": "7.7",
     "poster": "https://image.tmdb.org/t/p/w500/1UE1W92JcHInXSasCbYkPMOh1Dl.jpg"
+  },
+  "/dizi/every-year-after": {
+    "group": "Every Year After",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/nZGf0jnSJNXLf8o7iSzzX8qxHX9.jpg"
+  },
+  "/dizi/outlast-the-jungle": {
+    "group": "Outlast: The Jungle",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/mkhpV2EgA3S4xFyl7KPOpxORa04.jpg"
+  },
+  "/dizi/storia-della-mia-famiglia": {
+    "group": "Storia della mia famiglia",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/zwf6QamivOgzSVeNk7jS3YgnYeR.jpg"
   }
 }

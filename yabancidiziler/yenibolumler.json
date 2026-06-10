@@ -17,6 +17,15 @@
     "imdb": "8.7",
     "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg"
   },
+  "/dizi/every-year-after": {
+    "group": "Every Year After",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/nZGf0jnSJNXLf8o7iSzzX8qxHX9.jpg"
+  },
   "/dizi/maximum-pleasure-guaranteed": {
     "group": "Maximum Pleasure Guaranteed",
     "last_season": 1,
@@ -25,6 +34,42 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
+  },
+  "/dizi/outlast-the-jungle": {
+    "group": "Outlast: The Jungle",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/mkhpV2EgA3S4xFyl7KPOpxORa04.jpg"
+  },
+  "/dizi/storia-della-mia-famiglia": {
+    "group": "Storia della mia famiglia",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/zwf6QamivOgzSVeNk7jS3YgnYeR.jpg"
+  },
+  "/dizi/the-legend-of-vox-machina": {
+    "group": "The Legend of Vox Machina",
+    "last_season": 4,
+    "last_episode": 3,
+    "start_episode": 1,
+    "year": "2022",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg"
+  },
+  "/dizi/tip-toe": {
+    "group": "Tip Toe",
+    "last_season": 1,
+    "last_episode": 3,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/7xiRJczgpbMs2NSqDVpVXP5pMTJ.jpg"
   },
   "/dizi/widow-sharp039-s-bay": {
     "group": "Widow's Bay",
@@ -70,14 +115,5 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg"
-  },
-  "/dizi/tip-toe": {
-    "group": "Tip Toe",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/7xiRJczgpbMs2NSqDVpVXP5pMTJ.jpg"
   }
 }
