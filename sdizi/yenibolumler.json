@@ -1,4 +1,28 @@
 {
+  "/diziler/the-legend-of-vox-machina.html": {
+    "group": "THE LEGEND OF VOX MACHINA",
+    "year": "2022",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg"
+  },
+  "/diziler/maximum-pleasure-guaranteed.html": {
+    "group": "MAXIMUM PLEASURE GUARANTEED",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/oeD9rnfk7AohNiJTRoCx4SOKhXj.jpg"
+  },
+  "/diziler/criminal-record.html": {
+    "group": "CRIMINAL RECORD",
+    "year": "2024",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg"
+  },
+  "/diziler/widows-bay.html": {
+    "group": "WIDOW'S BAY",
+    "year": "2026",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
+  },
   "/diziler/regular-show-the-lost-tapes.html": {
     "group": "REGULAR SHOW: THE LOST TAPES",
     "year": "2026",
@@ -52,29 +76,5 @@
     "year": "2024",
     "imdb": "8.0",
     "poster": "https://image.tmdb.org/t/p/w500/2JGsqTciDo5YEUDQAD8FN59NL3G.jpg"
-  },
-  "/diziler/your-friends-neighbors.html": {
-    "group": "YOUR FRIENDS & NEIGHBORS",
-    "year": "2025",
-    "imdb": "7.9",
-    "poster": "https://image.tmdb.org/t/p/w500/225gHu4sur3m8VjS9LqN1LcEpeV.jpg"
-  },
-  "/diziler/star-city.html": {
-    "group": "STAR CITY",
-    "year": "2026",
-    "imdb": "5.9",
-    "poster": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg"
-  },
-  "/diziler/the-witness.html": {
-    "group": "THE WITNESS",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/eNIfjYji9m29Xyj4KVDiUy2UmMa.jpg"
-  },
-  "/diziler/dr-stone.html": {
-    "group": "DR. STONE",
-    "year": "2019",
-    "imdb": "8.2",
-    "poster": "https://image.tmdb.org/t/p/w500/ve1Sv3sVArmE0nlFjzadcNv1G8r.jpg"
   }
 }

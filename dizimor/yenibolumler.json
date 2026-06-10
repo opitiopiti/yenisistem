@@ -1,1 +1,14 @@
-{}
+{
+  "/dizi/spider-noir-2/": {
+    "group": "Spider-Noir",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/american-gladiators-2/": {
+    "group": "American Gladiators",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/pOHcFrq4wbMZXgwHij2UiZnG6Xp.jpg",
+    "imdb": 0.0
+  }
+}
