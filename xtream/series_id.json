@@ -35684,7 +35684,7 @@
   "8947": {
     "name": "WELCOME TO WREXHAM (2022)",
     "last_season": 5,
-    "last_episode": 2,
+    "last_episode": 1,
     "last_modified": 1781099010
   },
   "8948": {
@@ -44906,14 +44906,14 @@
   "10484": {
     "name": "CLASSROOM OF THE ELITE (2017)",
     "last_season": 4,
-    "last_episode": 13,
-    "last_modified": 1780500180
+    "last_episode": 14,
+    "last_modified": 1781117653
   },
   "10485": {
     "name": "RE: ZERO - STARTING LIFE IN ANOTHER WORLD (2016)",
     "last_season": 4,
-    "last_episode": 9,
-    "last_modified": 1780500180
+    "last_episode": 10,
+    "last_modified": 1781117653
   },
   "10486": {
     "name": "TO YOUR ETERNITY (2021)",
@@ -44948,8 +44948,8 @@
   "10491": {
     "name": "ALWAYS A CATCH! (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1780515463
+    "last_episode": 11,
+    "last_modified": 1781117653
   },
   "10492": {
     "name": "ANONYMOUS NOISE (2017) İNGİLİZCE",
@@ -45098,8 +45098,8 @@
   "10516": {
     "name": "GALS CAN’T BE KIND TO OTAKU!? (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1780515463
+    "last_episode": 10,
+    "last_modified": 1781117653
   },
   "10517": {
     "name": "GANGLION (2025) İNGİLİZCE",
@@ -45122,8 +45122,8 @@
   "10520": {
     "name": "GO FOR IT, NAKAMURA! (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1780515463
+    "last_episode": 12,
+    "last_modified": 1781117653
   },
   "10521": {
     "name": "HAIBARA’S TEENAGE NEW GAME+ (2026) İNGİLİZCE",
@@ -45350,8 +45350,8 @@
   "10558": {
     "name": "RENT-A-GIRLFRIEND SEASON 5 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1780500180
+    "last_episode": 10,
+    "last_modified": 1781117653
   },
   "10559": {
     "name": "RE:ZERO: STARTING LIFE IN ANOTHER WORLD SEASON 3 (2024) İNGİLİZCE",
@@ -45362,8 +45362,8 @@
   "10560": {
     "name": "RE:ZERO: STARTING LIFE IN ANOTHER WORLD SEASON 4 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1780500180
+    "last_episode": 10,
+    "last_modified": 1781117653
   },
   "10561": {
     "name": "ROOSTER FIGHTER (2026) İNGİLİZCE",
@@ -45422,8 +45422,8 @@
   "10570": {
     "name": "THE BEGINNING AFTER THE END SEASON 2 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1780515463
+    "last_episode": 11,
+    "last_modified": 1781117653
   },
   "10571": {
     "name": "THE DARK HISTORY OF THE REINCARNATED VILLAINESS (2025) İNGİLİZCE",
@@ -62186,8 +62186,8 @@
   "13364": {
     "name": "CLARKSON’S FARM (2021)",
     "last_season": 5,
-    "last_episode": 4,
-    "last_modified": 1780582663
+    "last_episode": 6,
+    "last_modified": 1781117653
   },
   "13365": {
     "name": "MICHAEL JACKSON: THE VERDICT (2026)",
@@ -69128,8 +69128,8 @@
   "14521": {
     "name": "THE FIRST JASMINE (2026)",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1781030307
+    "last_episode": 6,
+    "last_modified": 1781117653
   },
   "14522": {
     "name": "KAKEGURUI TWIN (2022) İNGİLİZCE",
@@ -69146,7 +69146,25 @@
   "14524": {
     "name": "MY ROOMMATE IS A CAT (2019) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1781099010
+    "last_episode": 12,
+    "last_modified": 1781117653
+  },
+  "14525": {
+    "name": "EVERY YEAR AFTER (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1781117653
+  },
+  "14526": {
+    "name": "MY FAMILY (2025) (2025)",
+    "last_season": 2,
+    "last_episode": 6,
+    "last_modified": 1781117653
+  },
+  "14527": {
+    "name": "OUTLAST: THE JUNGLE (0000)",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1781117653
   }
 }
