@@ -1,4 +1,10 @@
 {
+  "/diziler/every-year-after.html": {
+    "group": "EVERY YEAR AFTER",
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/nZGf0jnSJNXLf8o7iSzzX8qxHX9.jpg"
+  },
   "/diziler/classroom-of-the-elite.html": {
     "group": "CLASSROOM OF THE ELITE",
     "year": "2017",
@@ -76,11 +82,5 @@
     "year": "2026",
     "imdb": "8.5",
     "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg"
-  },
-  "/diziler/cape-fear.html": {
-    "group": "CAPE FEAR",
-    "year": "2025",
-    "imdb": "0.0",
-    "poster": null
   }
 }

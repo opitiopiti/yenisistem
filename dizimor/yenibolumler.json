@@ -1,32 +1,20 @@
 {
-  "/dizi/benim-adim-aylamaz-4/": {
-    "group": "Benim Adim Aylamaz",
+  "/dizi/her-yilin-ardindan/": {
+    "group": "Her Yılın Ardından",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/vslqNnjARZUdDav2CWIxGvxest9.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/zSwGrVfQibt00pfjNqzZnywrP8L.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/outlast-the-jungle/": {
+    "group": "Outlast: The Jungle",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/mkhpV2EgA3S4xFyl7KPOpxORa04.jpg",
     "imdb": 0.0
   },
-  "/dizi/muhabir-6/": {
-    "group": "Muhabir",
+  "/dizi/dutton-ranch-5/": {
+    "group": "Dutton Ranch",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/uWdOEzereOwAEUTmqgT7XYrnngB.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/imam-gazali-huccetul-islam-12/": {
-    "group": "İmam Gazâlî Hüccetü'l-İslâm",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/cSmjwtqphOL3GVgwkBz3gKrZHxi.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/onbesliler-12/": {
-    "group": "Onbeşliler",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/fforqOZAOaVXsb8q3ex0cDNXOx4.jpg",
-    "imdb": 9.0
-  },
-  "/dizi/kara-kis-12/": {
-    "group": "Kara Kış",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/6Axq4SOmgo4LsLwS0gpbocSQMRQ.jpg",
-    "imdb": 8.0
+    "poster": "https://image.tmdb.org/t/p/original/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+    "imdb": 9.3
   }
 }
