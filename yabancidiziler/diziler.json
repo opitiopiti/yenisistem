@@ -1676,7 +1676,7 @@
   "/dizi/tip-toe": {
     "group": "Tip Toe",
     "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 4,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.6",
@@ -1694,7 +1694,7 @@
   "/dizi/the-legend-of-vox-machina": {
     "group": "The Legend of Vox Machina",
     "last_season": 4,
-    "last_episode": 3,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2022",
     "imdb": "8.4",
@@ -1838,7 +1838,7 @@
   "/dizi/every-year-after": {
     "group": "Every Year After",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -1847,7 +1847,7 @@
   "/dizi/outlast-the-jungle": {
     "group": "Outlast: The Jungle",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -1855,8 +1855,8 @@
   },
   "/dizi/storia-della-mia-famiglia": {
     "group": "Storia della mia famiglia",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2025",
     "imdb": "7.0",
