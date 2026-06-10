@@ -65,7 +65,69 @@ jobs:
           git add **/*.json || echo "No dizigom files"
           git commit -m "ANA JSON güncellendi [auto]" || echo "No changes"
           git push origin main
+          
+  part9:
+    name: m3ufile repo
+    runs-on: ubuntu-latest
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+      
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
 
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv httpx
+          
+      - name: Run vavoo.py Script
+        run: python private_py/genelkodlar/vavoo.py || true
+        
+      - name: Run dizigomfilmler.py Script
+        run: python private_py/dizigom/dizigomfilmler.py || true
+
+      - name: Run dizibolyerli.py Script
+        run: python private_py/dizibol/yenibolumler.py || true
+
+  #    - name: Run setfilmizlefilmleri.py Script
+  #      run: python private_py/setfilmizle/filmler.py || true
+
+      - name: Run dizibolfilmler.py Script
+        run: python private_py/dizibol/dizibolfilmler.py || true
+        
+      - name: Run dizifilm.py Script
+        run: python private_py/dizifilm/filmler.py   
+
+      - name: Sync M3U outputs to private repo
+        run: |
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/m3ufile.git privaate_m3u8file
+
+          cp v/vavoo.m3u privaate_m3u8file/vavoo.m3u || echo "v/vavoo.m3u bulunamadı"
+          cp dizigomfilmler.m3u privaate_m3u8file/dizigomfilmler.m3u || echo "dizigomfilmler bulunamadı"
+          cp dizibolyerli.m3u privaate_m3u8file/dizibolyerli.m3u || echo "dizibolyerl bulunamadi"
+          cp setfilmizlefilmler.m3u privaate_m3u8file/setfilmizlefilmler.m3u || echo "setfilmizlefilmler bulunamadi"
+          cp dizibolfilmler.m3u privaate_m3u8file/dizibolfilmler.m3u || echo "dizibolfilmler.m3u bulunamadi"
+          cp hdfilmsite.m3u privaate_m3u8file/hdfilmsite.m3u || echo "hdfilmsite.m3u bulunamadi"
+          
+          cd privaate_m3u8file
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Auto playlist update" || echo "No changes"
+          git push origin main
+          
   part2:
     name: Kategori Sistemi
     runs-on: ubuntu-latest
@@ -409,69 +471,7 @@ jobs:
           git add */*.json || echo "No files"
           git commit -m "All Ana JSON güncellendi [auto]" || echo "No changes"
           git push origin main
-          
-  part9:
-    name: vavoo - dizigomfilmler - setfilmizlefimler - dizibolyerli - dizibolfilmler
-    runs-on: ubuntu-latest
-    env:
-      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
-      
-    steps:
-      - name: Checkout public repo (main)
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 1
-          ref: main
-
-      - name: Set up Python
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-
-      - name: Clone Private Py Repo
-        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
-
-      - name: Install Shared Dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv httpx
-          
-      - name: Run vavoo.py Script
-        run: python private_py/genelkodlar/vavoo.py || true
-        
-      - name: Run dizigomfilmler.py Script
-        run: python private_py/dizigom/dizigomfilmler.py || true
-
-      - name: Run dizibolyerli.py Script
-        run: python private_py/dizibol/yenibolumler.py || true
-
-  #    - name: Run setfilmizlefilmleri.py Script
-  #      run: python private_py/setfilmizle/filmler.py || true
-
-      - name: Run dizibolfilmler.py Script
-        run: python private_py/dizibol/dizibolfilmler.py || true
-        
-      - name: Run dizifilm.py Script
-        run: python private_py/dizifilm/filmler.py   
-
-      - name: Sync M3U outputs to private repo
-        run: |
-          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/m3ufile.git privaate_m3u8file
-
-          cp v/vavoo.m3u privaate_m3u8file/vavoo.m3u || echo "v/vavoo.m3u bulunamadı"
-          cp dizigomfilmler.m3u privaate_m3u8file/dizigomfilmler.m3u || echo "dizigomfilmler bulunamadı"
-          cp dizibolyerli.m3u privaate_m3u8file/dizibolyerli.m3u || echo "dizibolyerl bulunamadi"
-          cp setfilmizlefilmler.m3u privaate_m3u8file/setfilmizlefilmler.m3u || echo "setfilmizlefilmler bulunamadi"
-          cp dizibolfilmler.m3u privaate_m3u8file/dizibolfilmler.m3u || echo "dizibolfilmler.m3u bulunamadi"
-          cp hdfilmsite.m3u privaate_m3u8file/hdfilmsite.m3u || echo "hdfilmsite.m3u bulunamadi"
-          
-          cd privaate_m3u8file
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add .
-          git commit -m "Auto playlist update" || echo "No changes"
-          git push origin main
-                   
+                             
   part15:
     name: dizipal
     runs-on: ubuntu-latest
