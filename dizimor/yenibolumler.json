@@ -1,38 +1,14 @@
 {
-  "/dizi/benim-adim-aylamaz-6/": {
-    "group": "Benim Adim Aylamaz",
+  "/dizi/the-evil-lawyer/": {
+    "group": "The Evil Lawyer",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/vslqNnjARZUdDav2CWIxGvxest9.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/srwzPdGdkCdDzmhBpNoOGwNrBNf.jpg",
     "imdb": 0.0
   },
-  "/dizi/muhabir-8/": {
-    "group": "Muhabir",
+  "/dizi/viral-hit/": {
+    "group": "Viral Hit",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/uWdOEzereOwAEUTmqgT7XYrnngB.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/8VCLKvxUpnsRH4ZjECM5e22KcIB.jpg",
     "imdb": 0.0
-  },
-  "/dizi/imam-gazali-huccetul-islam-14/": {
-    "group": "İmam Gazâlî Hüccetü'l-İslâm",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/cSmjwtqphOL3GVgwkBz3gKrZHxi.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/sempatizan-2/": {
-    "group": "Sempatizan",
-    "year": "2024",
-    "poster": "https://image.tmdb.org/t/p/original/zAxObqiOEooIuQtH338b8zOaFEu.jpg",
-    "imdb": 6.8
-  },
-  "/dizi/onbesliler-14/": {
-    "group": "Onbeşliler",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/fforqOZAOaVXsb8q3ex0cDNXOx4.jpg",
-    "imdb": 9.0
-  },
-  "/dizi/kara-kis-14/": {
-    "group": "Kara Kış",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/6Axq4SOmgo4LsLwS0gpbocSQMRQ.jpg",
-    "imdb": 8.0
   }
 }

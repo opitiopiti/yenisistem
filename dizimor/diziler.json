@@ -29416,5 +29416,17 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/original/6Axq4SOmgo4LsLwS0gpbocSQMRQ.jpg",
     "imdb": 8.0
+  },
+  "/dizi/the-evil-lawyer/": {
+    "group": "The Evil Lawyer",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/srwzPdGdkCdDzmhBpNoOGwNrBNf.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/viral-hit/": {
+    "group": "Viral Hit",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/8VCLKvxUpnsRH4ZjECM5e22KcIB.jpg",
+    "imdb": 0.0
   }
 }

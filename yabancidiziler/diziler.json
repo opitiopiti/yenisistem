@@ -1861,5 +1861,50 @@
     "year": "2025",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/zwf6QamivOgzSVeNk7jS3YgnYeR.jpg"
+  },
+  "/dizi/sweet-magnolias": {
+    "group": "Sweet Magnolias",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2020",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/n1WDSFOnCCg3cdHHGBywZtYIzf9.jpg"
+  },
+  "/dizi/the-evil-lawyer": {
+    "group": "The Evil Lawyer",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/srwzPdGdkCdDzmhBpNoOGwNrBNf.jpg"
+  },
+  "/dizi/the-fortune": {
+    "group": "The Fortune",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "5.7",
+    "poster": "https://image.tmdb.org/t/p/w500/o5b56eHO8bjlAz7tlD77Z5joZ7G.jpg"
+  },
+  "/dizi/the-old-stories-moses": {
+    "group": "The Old Stories: Moses",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/wZ3V0tRPynuEHW9sBjZtNt3TqsB.jpg"
+  },
+  "/dizi/viral-hit": {
+    "group": "Viral Hit",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/8VCLKvxUpnsRH4ZjECM5e22KcIB.jpg"
   }
 }
