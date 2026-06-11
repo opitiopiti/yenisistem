@@ -13999,8 +13999,8 @@
   },
   "/diziler/the-return-of-sherlock-holmes.html": {
     "group": "THE RETURN OF SHERLOCK HOLMES",
-    "year": null,
-    "imdb": null,
+    "year": "1986",
+    "imdb": "8.7",
     "poster": null
   },
   "/diziler/the-purge.html": {
@@ -16858,5 +16858,11 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/nZGf0jnSJNXLf8o7iSzzX8qxHX9.jpg"
+  },
+  "/diziler/viral-hit.html": {
+    "group": "VIRAL HIT",
+    "year": "2026",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/8VCLKvxUpnsRH4ZjECM5e22KcIB.jpg"
   }
 }
