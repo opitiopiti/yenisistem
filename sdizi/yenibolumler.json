@@ -1,4 +1,10 @@
 {
+  "/diziler/sweet-magnolias.html": {
+    "group": "SWEET MAGNOLIAS",
+    "year": "2020",
+    "imdb": "7.4",
+    "poster": "https://image.tmdb.org/t/p/w500/n1WDSFOnCCg3cdHHGBywZtYIzf9.jpg"
+  },
   "/diziler/every-year-after.html": {
     "group": "EVERY YEAR AFTER",
     "year": "2026",
@@ -76,11 +82,5 @@
     "year": "2026",
     "imdb": "8.3",
     "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg"
-  },
-  "/diziler/teach-you-a-lesson.html": {
-    "group": "TEACH YOU A LESSON",
-    "year": "2026",
-    "imdb": "8.5",
-    "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg"
   }
 }
