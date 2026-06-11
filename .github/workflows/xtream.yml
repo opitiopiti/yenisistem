@@ -309,6 +309,7 @@ jobs:
           git push origin main
                     
   part5:
+    if: false
     name: diziyoso
     runs-on: ubuntu-latest
     needs: part2
@@ -601,7 +602,7 @@ jobs:
   part10:
     name: xtreamsistemigecis
     runs-on: ubuntu-latest
-    needs: [part1, part2, part3, part4 , part5 , part6, part7, part8, part9, part15, part16, part17, part18]  # Tüm partların tamamlanmasını bekle
+    needs: [part1, part2, part3, part4 , part6, part7, part8, part9, part15, part16, part17, part18]  # Tüm partların tamamlanmasını bekle
     steps:
       - name: Wait and Transition to Python Code
         run: |
