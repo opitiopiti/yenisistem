@@ -94,6 +94,9 @@ jobs:
           
       - name: Run vavoo.py Script
         run: python private_py/genelkodlar/vavoo.py || true
+          
+      - name: Run vavoom3u8.py Script
+        run: python private_py/genelkodlar/vavoom3u8.py || true
         
       - name: Run dizigomfilmler.py Script
         run: python private_py/dizigom/dizigomfilmler.py || true
