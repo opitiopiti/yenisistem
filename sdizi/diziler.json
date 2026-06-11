@@ -1381,9 +1381,9 @@
   },
   "/diziler/moonrise.html": {
     "group": "MOONRISE",
-    "year": "2024",
-    "imdb": "8.5",
-    "poster": null
+    "year": "2025",
+    "imdb": "7.104",
+    "poster": "https://image.tmdb.org/t/p/w500/mqok8du6LvnaigAJo5omAq1BPye.jpg"
   },
   "/diziler/mobile-suit-gundam-gquuuuuux.html": {
     "group": "MOBILE SUIT GUNDAM: GQUUUUUUX",
@@ -13999,8 +13999,8 @@
   },
   "/diziler/the-return-of-sherlock-holmes.html": {
     "group": "THE RETURN OF SHERLOCK HOLMES",
-    "year": "1986",
-    "imdb": "8.7",
+    "year": null,
+    "imdb": null,
     "poster": null
   },
   "/diziler/the-purge.html": {

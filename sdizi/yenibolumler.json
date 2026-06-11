@@ -1,4 +1,10 @@
 {
+  "/diziler/viral-hit.html": {
+    "group": "VIRAL HIT",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
   "/diziler/dr-stone.html": {
     "group": "DR. STONE",
     "year": "2019",
@@ -76,11 +82,5 @@
     "year": "2013",
     "imdb": "9.1",
     "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
-  },
-  "/diziler/one-piece-izle.html": {
-    "group": "ONE PIECE",
-    "year": "1999",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
   }
 }
