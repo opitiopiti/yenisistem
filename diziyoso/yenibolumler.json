@@ -23,6 +23,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/vG6Bw2IwDf1DVkPd7nZwMExp0U5.jpg",
     "imdb": 7.3
   },
+  "/dizi/every-year-after": {
+    "group": "Every Year After",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/nZGf0jnSJNXLf8o7iSzzX8qxHX9.jpg",
+    "imdb": 6.3
+  },
   "/dizi/tip-toe": {
     "group": "Tip Toe",
     "year": 2026,
@@ -118,6 +124,18 @@
     "year": 2024,
     "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
     "imdb": 6.9
+  },
+  "/dizi/eli-stone/": {
+    "group": "Eli Stone",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/hWVuLjx3QPhpfTCePbB9nunIJt0.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/every-year-after/": {
+    "group": "Every Year After",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/nZGf0jnSJNXLf8o7iSzzX8qxHX9.jpg",
+    "imdb": 6.3
   },
   "/dizi/the-fortune/": {
     "group": "The Fortune",
@@ -274,17 +292,5 @@
     "year": 2016,
     "poster": "https://image.tmdb.org/t/p/w500/v7olj5StoSFVsgkBhOihDaR56eJ.jpg",
     "imdb": 8.3
-  },
-  "/dizi/elementary/": {
-    "group": "Elementary",
-    "year": 2012,
-    "poster": "https://image.tmdb.org/t/p/w500/q9dObe29W4bDpgzUfOOH3ZnzDbR.jpg",
-    "imdb": 7.9
-  },
-  "/dizi/everyone-is-doing-great/": {
-    "group": "Everyone Is Doing Great",
-    "year": 2021,
-    "poster": "https://image.tmdb.org/t/p/w500/ePOMnujKaCmA4xpQnRQfWDGgnjK.jpg",
-    "imdb": 6.9
   }
 }

@@ -1,9 +1,15 @@
 {
+  "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
+    "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
+    "year": "2018",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg"
+  },
   "/diziler/the-king-of-queens.html": {
     "group": "THE KING OF QUEENS",
-    "year": null,
-    "imdb": null,
-    "poster": null
+    "year": "1998",
+    "imdb": "7.4",
+    "poster": "https://image.tmdb.org/t/p/w500/vXs300Yvjy4Kr0iHgBtajHkYbAt.jpg"
   },
   "/diziler/cape-fear.html": {
     "group": "CAPE FEAR",
@@ -82,11 +88,5 @@
     "year": "2026",
     "imdb": "8.2",
     "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
-  },
-  "/diziler/regular-show-the-lost-tapes.html": {
-    "group": "REGULAR SHOW: THE LOST TAPES",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/jqY3dj70ffSqKpM8XVUEToOEeLG.jpg"
   }
 }
