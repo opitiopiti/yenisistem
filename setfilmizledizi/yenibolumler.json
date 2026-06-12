@@ -1,4 +1,10 @@
 {
+  "/dizi/the-bear/": {
+    "group": "The Bear",
+    "year": 2022,
+    "imdb": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w500/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg"
+  },
   "/dizi/every-year-after/": {
     "group": "Every Year After",
     "year": 2026,
@@ -94,23 +100,5 @@
     "year": 2026,
     "imdb": 6.9,
     "poster": "https://image.tmdb.org/t/p/w500/fV1XBxZSl0nxiMIhDuorIbfW8kG.jpg"
-  },
-  "/dizi/for-all-mankind/": {
-    "group": "For All Mankind",
-    "year": 2019,
-    "imdb": 8.1,
-    "poster": "https://image.tmdb.org/t/p/w500/JP3DItWMbrrLiKR5AYUfpsNf2b.jpg"
-  },
-  "/dizi/gold-land/": {
-    "group": "Gold Land",
-    "year": 2026,
-    "imdb": 8.2,
-    "poster": "https://image.tmdb.org/t/p/w500/exAqL4Hbh2M712QlFwGDTqZeiAl.jpg"
-  },
-  "/dizi/deli-boys/": {
-    "group": "Deli Boys",
-    "year": 2025,
-    "imdb": 7.2,
-    "poster": "https://image.tmdb.org/t/p/w500/zsjiNaXqbWUCKFyU72N5HpALcUu.jpg"
   }
 }
