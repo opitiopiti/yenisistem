@@ -8,6 +8,15 @@
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/64gCOK6NKcXVI2amtVKk3Xx7cbC.jpg"
   },
+  "/dizi/dutton-ranch": {
+    "group": "Dutton Ranch",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg"
+  },
   "/dizi/g-wed": {
     "group": "G’wed",
     "last_season": 3,
@@ -16,6 +25,15 @@
     "year": "2024",
     "imdb": "6.9",
     "poster": "https://image.tmdb.org/t/p/w500/9hB4MZi1pVunt8yfkhkbAPAzVS3.jpg"
+  },
+  "/dizi/power-book-iii-raising-kanan": {
+    "group": "Power Book III: Raising Kanan",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2021",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/pZ7IaHON9hnu8C0g3zdoWwIsJ9t.jpg"
   },
   "/dizi/proud": {
     "group": "Proud",
@@ -34,6 +52,15 @@
     "year": "2026",
     "imdb": "6.7",
     "poster": "https://image.tmdb.org/t/p/w500/uuQvllHZSG2nij00kfRa8SVzqeL.jpg"
+  },
+  "/dizi/the-chi": {
+    "group": "The Chi",
+    "last_season": 8,
+    "last_episode": 3,
+    "start_episode": 1,
+    "year": "2018",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg"
   },
   "/dizi/unconditional": {
     "group": "Unconditional",
