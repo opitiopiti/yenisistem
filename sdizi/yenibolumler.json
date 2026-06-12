@@ -1,4 +1,16 @@
 {
+  "/diziler/cape-fear.html": {
+    "group": "CAPE FEAR",
+    "year": "2025",
+    "imdb": "0.0",
+    "poster": null
+  },
+  "/diziler/star-city.html": {
+    "group": "STAR CITY",
+    "year": "2026",
+    "imdb": "5.9",
+    "poster": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg"
+  },
   "/diziler/viral-hit.html": {
     "group": "VIRAL HIT",
     "year": "2026",
@@ -70,17 +82,5 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/jqY3dj70ffSqKpM8XVUEToOEeLG.jpg"
-  },
-  "/diziler/rafa.html": {
-    "group": "RAFA",
-    "year": "2026",
-    "imdb": "8.7",
-    "poster": "https://image.tmdb.org/t/p/w500/utyZY9NKMC0Ci9Rh0ohW9giFKee.jpg"
-  },
-  "/diziler/rick-and-morty.html": {
-    "group": "RICK AND MORTY",
-    "year": "2013",
-    "imdb": "9.1",
-    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
   }
 }

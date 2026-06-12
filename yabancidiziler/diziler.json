@@ -1906,5 +1906,14 @@
     "year": "2026",
     "imdb": "8.2",
     "poster": "https://image.tmdb.org/t/p/w500/8VCLKvxUpnsRH4ZjECM5e22KcIB.jpg"
+  },
+  "/dizi/proud": {
+    "group": "Proud",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/6mFcUXwIFM21dCj6enARnx10Fx9.jpg"
   }
 }

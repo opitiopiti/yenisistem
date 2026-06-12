@@ -30928,5 +30928,35 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/eNIfjYji9m29Xyj4KVDiUy2UmMa.jpg",
     "imdb": 6.5
+  },
+  "/dizi/gwed": {
+    "group": "G’wed",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/9hB4MZi1pVunt8yfkhkbAPAzVS3.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/the-fortune": {
+    "group": "The Fortune",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/o5b56eHO8bjlAz7tlD77Z5joZ7G.jpg",
+    "imdb": 5.5
+  },
+  "/dizi/the-fortune/": {
+    "group": "The Fortune",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/o5b56eHO8bjlAz7tlD77Z5joZ7G.jpg",
+    "imdb": 5.5
+  },
+  "/dizi/el-homenaje/": {
+    "group": "El homenaje",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/xaKZjJStLrE9vGP8dBR02waSyVi.jpg",
+    "imdb": 7.1
+  },
+  "/dizi/dear-england/": {
+    "group": "Dear England",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/8gNZM8tRj1HIxl5SxOlTD3TStsl.jpg",
+    "imdb": 7.4
   }
 }
