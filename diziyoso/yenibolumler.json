@@ -125,6 +125,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
     "imdb": 6.9
   },
+  "/dizi/the-king-of-queens/": {
+    "group": "The King of Queens",
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/vXs300Yvjy4Kr0iHgBtajHkYbAt.jpg",
+    "imdb": 7.129
+  },
   "/dizi/eli-stone/": {
     "group": "Eli Stone",
     "year": 2008,
@@ -286,11 +292,5 @@
     "year": 2020,
     "poster": "https://image.tmdb.org/t/p/w500/qyxOHsLpn6ktH9gFngCV3AHvG9c.jpg",
     "imdb": 7.1
-  },
-  "/dizi/just-add-magic/": {
-    "group": "Just Add Magic",
-    "year": 2016,
-    "poster": "https://image.tmdb.org/t/p/w500/v7olj5StoSFVsgkBhOihDaR56eJ.jpg",
-    "imdb": 8.3
   }
 }

@@ -30976,5 +30976,11 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/nZGf0jnSJNXLf8o7iSzzX8qxHX9.jpg",
     "imdb": 6.3
+  },
+  "/dizi/the-king-of-queens/": {
+    "group": "The King of Queens",
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/vXs300Yvjy4Kr0iHgBtajHkYbAt.jpg",
+    "imdb": 7.129
   }
 }
