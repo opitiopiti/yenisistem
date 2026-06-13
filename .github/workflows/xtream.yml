@@ -107,8 +107,11 @@ jobs:
   #    - name: Run setfilmizlefilmleri.py Script
   #      run: python private_py/setfilmizle/filmler.py || true
 
-      - name: Run dizibolfilmler.py Script
-        run: python private_py/dizibol/dizibolfilmler.py || true
+      - name: Run dizibolyerli.py Script
+        run: python private_py/dizibol/yenibolumler.py || true 
+
+      - name: Run dizifilmdiziler.py Script
+        run: python private_py/dizifilm/diziler.py || true
         
       - name: Run dizifilm.py Script
         run: python private_py/dizifilm/filmler.py   
@@ -124,6 +127,7 @@ jobs:
           cp setfilmizlefilmler.m3u privaate_m3u8file/setfilmizlefilmler.m3u || echo "setfilmizlefilmler bulunamadi"
           cp dizibolfilmler.m3u privaate_m3u8file/dizibolfilmler.m3u || echo "dizibolfilmler.m3u bulunamadi"
           cp hdfilmsite.m3u privaate_m3u8file/hdfilmsite.m3u || echo "hdfilmsite.m3u bulunamadi"
+          cp dizifilmdiziler.m3u privaate_m3u8file/dizifilmdiziler.m3u || echo "dizifilmdiziler.m3u bulunmadi"
           
           cd privaate_m3u8file
           git config user.name "GitHub Actions"
