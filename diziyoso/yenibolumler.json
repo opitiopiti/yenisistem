@@ -11,11 +11,35 @@
     "poster": "https://image.tmdb.org/t/p/w500/mzxesd7tFSPccrSXZ70oA0fFmyJ.jpg",
     "imdb": 0.0
   },
+  "/dizi/cape-fear": {
+    "group": "Cape Fear",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/mpZjJ0yOxMX2GCCXJ4viTZKhdRX.jpg",
+    "imdb": 4.6
+  },
+  "/dizi/star-city": {
+    "group": "Star City",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/bNMUxvtkqWHKPGynh2IEQlHvHWo.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/welcome-to-wrexham": {
+    "group": "Welcome to Wrexham",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/65Bs500TJ84QcgLQNBGmoWHtlna.jpg",
+    "imdb": 8.3
+  },
   "/dizi/the-terror": {
     "group": "The Terror",
     "year": 2018,
     "poster": "https://image.tmdb.org/t/p/w500/2nMZzKlMj158RVb6tjmIunoaNdo.jpg",
     "imdb": 7.3
+  },
+  "/dizi/storia-della-mia-famiglia": {
+    "group": "Storia della mia famiglia",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/zwf6QamivOgzSVeNk7jS3YgnYeR.jpg",
+    "imdb": 7.1
   },
   "/dizi/the-fortune": {
     "group": "The Fortune",
@@ -34,6 +58,18 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/nZGf0jnSJNXLf8o7iSzzX8qxHX9.jpg",
     "imdb": 6.3
+  },
+  "/dizi/maximum-pleasure-guaranteed": {
+    "group": "Maximum Pleasure Guaranteed",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/widows-bay": {
+    "group": "Widow’s Bay",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
+    "imdb": 6.5
   },
   "/dizi/tip-toe": {
     "group": "Tip Toe",
@@ -65,6 +101,12 @@
     "poster": "https://dzycdn.com/img/t/294x441/rivals-2024.webp",
     "imdb": 7.1
   },
+  "/dizi/los-topuria": {
+    "group": "Los Topuria",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/kUuxTuzeHI4hbPO94ukieKJPcvC.jpg",
+    "imdb": 8.2
+  },
   "/dizi/benim-adim-aylamaz": {
     "group": "Benim Adım Aylamaz",
     "year": 2026,
@@ -95,35 +137,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/lxmNQ1392ClqU56W0kx2h2ONF4V.jpg",
     "imdb": 7.4
   },
-  "/dizi/the-witness": {
-    "group": "The Witness",
+  "/dizi/los-topuria/": {
+    "group": "Los Topuria",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/eNIfjYji9m29Xyj4KVDiUy2UmMa.jpg",
-    "imdb": 6.5
-  },
-  "/dizi/welcome-to-wrexham": {
-    "group": "Welcome to Wrexham",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/65Bs500TJ84QcgLQNBGmoWHtlna.jpg",
-    "imdb": 8.3
-  },
-  "/dizi/star-city": {
-    "group": "Star City",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/bNMUxvtkqWHKPGynh2IEQlHvHWo.jpg",
-    "imdb": 6.8
-  },
-  "/dizi/cape-fear": {
-    "group": "Cape Fear",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/mpZjJ0yOxMX2GCCXJ4viTZKhdRX.jpg",
-    "imdb": 4.6
-  },
-  "/dizi/clarksons-farm": {
-    "group": "Clarkson’s Farm",
-    "year": 2021,
-    "poster": "https://image.tmdb.org/t/p/w500/toVhyqMT3ICfahE7Ad8obJvZHpX.jpg",
-    "imdb": 8.5
+    "poster": "https://image.tmdb.org/t/p/w500/kUuxTuzeHI4hbPO94ukieKJPcvC.jpg",
+    "imdb": 8.2
   },
   "/dizi/southland/": {
     "group": "Southland",
@@ -286,11 +304,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/u6PBGDVs0CZJsq8IpWI5C4u0eyl.jpg",
     "imdb": 7.4
-  },
-  "/dizi/the-wonderfools/": {
-    "group": "The WONDERfools",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
-    "imdb": 7.6
   }
 }

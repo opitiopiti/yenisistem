@@ -31000,5 +31000,23 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/mzxesd7tFSPccrSXZ70oA0fFmyJ.jpg",
     "imdb": 0.0
+  },
+  "/dizi/storia-della-mia-famiglia": {
+    "group": "Storia della mia famiglia",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/zwf6QamivOgzSVeNk7jS3YgnYeR.jpg",
+    "imdb": 7.1
+  },
+  "/dizi/los-topuria": {
+    "group": "Los Topuria",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/kUuxTuzeHI4hbPO94ukieKJPcvC.jpg",
+    "imdb": 8.2
+  },
+  "/dizi/los-topuria/": {
+    "group": "Los Topuria",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/kUuxTuzeHI4hbPO94ukieKJPcvC.jpg",
+    "imdb": 8.2
   }
 }
