@@ -30982,5 +30982,23 @@
     "year": 1998,
     "poster": "https://image.tmdb.org/t/p/w500/vXs300Yvjy4Kr0iHgBtajHkYbAt.jpg",
     "imdb": 7.129
+  },
+  "/dizi/sumud": {
+    "group": "Sumud",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/mzxesd7tFSPccrSXZ70oA0fFmyJ.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/southland/": {
+    "group": "Southland",
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/flj41WynQKea6DVHgRbbPSWOB1t.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/sumud/": {
+    "group": "Sumud",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/mzxesd7tFSPccrSXZ70oA0fFmyJ.jpg",
+    "imdb": 0.0
   }
 }

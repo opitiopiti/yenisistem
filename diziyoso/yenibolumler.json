@@ -5,6 +5,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/9hB4MZi1pVunt8yfkhkbAPAzVS3.jpg",
     "imdb": 6.7
   },
+  "/dizi/sumud": {
+    "group": "Sumud",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/mzxesd7tFSPccrSXZ70oA0fFmyJ.jpg",
+    "imdb": 0.0
+  },
   "/dizi/the-terror": {
     "group": "The Terror",
     "year": 2018,
@@ -119,11 +125,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/toVhyqMT3ICfahE7Ad8obJvZHpX.jpg",
     "imdb": 8.5
   },
-  "/dizi/criminal-record": {
-    "group": "Criminal Record",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
-    "imdb": 6.9
+  "/dizi/southland/": {
+    "group": "Southland",
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/flj41WynQKea6DVHgRbbPSWOB1t.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/sumud/": {
+    "group": "Sumud",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/mzxesd7tFSPccrSXZ70oA0fFmyJ.jpg",
+    "imdb": 0.0
   },
   "/dizi/the-king-of-queens/": {
     "group": "The King of Queens",
@@ -280,17 +292,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/jj7AYkz2OLRDL1wfJmjTXyWQ5I4.jpg",
     "imdb": 7.6
-  },
-  "/dizi/the-boroughs/": {
-    "group": "The Boroughs",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/oKxBWbXmnWFO2Wh1QRTtshdfIRa.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/just-add-magic-mystery-city/": {
-    "group": "Just Add Magic: Mystery City",
-    "year": 2020,
-    "poster": "https://image.tmdb.org/t/p/w500/qyxOHsLpn6ktH9gFngCV3AHvG9c.jpg",
-    "imdb": 7.1
   }
 }
