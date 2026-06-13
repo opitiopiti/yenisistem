@@ -107,6 +107,9 @@ jobs:
   #    - name: Run setfilmizlefilmleri.py Script
   #      run: python private_py/setfilmizle/filmler.py || true
 
+      - name: Run dizifilm.py Script
+        run: python private_py/dizifilm/filmler.py  
+
       - name: Run dizibolfilmler.py Script
         run: python private_py/dizibol/dizibolfilmler.py || true 
 
