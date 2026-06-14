@@ -1,22 +1,4 @@
 {
-  "/dizi/cape-fear": {
-    "group": "Cape Fear",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/64gCOK6NKcXVI2amtVKk3Xx7cbC.jpg"
-  },
-  "/dizi/dutton-ranch": {
-    "group": "Dutton Ranch",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg"
-  },
   "/dizi/g-wed": {
     "group": "G’wed",
     "last_season": 3,
@@ -26,58 +8,13 @@
     "imdb": "6.9",
     "poster": "https://image.tmdb.org/t/p/w500/9hB4MZi1pVunt8yfkhkbAPAzVS3.jpg"
   },
-  "/dizi/power-book-iii-raising-kanan": {
-    "group": "Power Book III: Raising Kanan",
-    "last_season": 5,
-    "last_episode": 1,
-    "start_episode": 1,
-    "year": "2021",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/pZ7IaHON9hnu8C0g3zdoWwIsJ9t.jpg"
-  },
-  "/dizi/proud": {
-    "group": "Proud",
+  "/dizi/my-royal-nemesis": {
+    "group": "My Royal Nemesis",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 10,
     "start_episode": 1,
     "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/6mFcUXwIFM21dCj6enARnx10Fx9.jpg"
-  },
-  "/dizi/starcity": {
-    "group": "Starcity",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "6.7",
-    "poster": "https://image.tmdb.org/t/p/w500/uuQvllHZSG2nij00kfRa8SVzqeL.jpg"
-  },
-  "/dizi/the-chi": {
-    "group": "The Chi",
-    "last_season": 8,
-    "last_episode": 4,
-    "start_episode": 1,
-    "year": "2018",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg"
-  },
-  "/dizi/unconditional": {
-    "group": "Unconditional",
-    "last_season": 1,
-    "last_episode": 7,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "4.8",
-    "poster": "https://image.tmdb.org/t/p/w500/l8fk8AvFzOT47LO13BcaKglqNZQ.jpg"
-  },
-  "/dizi/welcome-to-wrexham": {
-    "group": "Welcome to Wrexham",
-    "last_season": 5,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2025",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/65Bs500TJ84QcgLQNBGmoWHtlna.jpg"
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/rYLQbyIvbEd0lF84iXrx7CbPcBB.jpg"
   }
 }
