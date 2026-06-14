@@ -1,4 +1,10 @@
 {
+  "/diziler/scrubs-2026.html": {
+    "group": "SCRUBS",
+    "year": "2026",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg"
+  },
   "/diziler/tracker.html": {
     "group": "TRACKER",
     "year": "2024",
@@ -82,11 +88,5 @@
     "year": "2022",
     "imdb": "8.4",
     "poster": "https://image.tmdb.org/t/p/w500/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg"
-  },
-  "/diziler/maximum-pleasure-guaranteed.html": {
-    "group": "MAXIMUM PLEASURE GUARANTEED",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/oeD9rnfk7AohNiJTRoCx4SOKhXj.jpg"
   }
 }

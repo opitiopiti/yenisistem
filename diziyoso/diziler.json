@@ -31114,5 +31114,59 @@
     "year": 2021,
     "poster": "https://image.tmdb.org/t/p/w500/wNtr8sOVDlK1gcXfnJknjjvOzQU.jpg",
     "imdb": 7.3
+  },
+  "/dizi/proud": {
+    "group": "Proud",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/the-polygamist": {
+    "group": "The Polygamist",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/3VEHSG9ZCWcTGbU2ciiU6iDzemP.jpg",
+    "imdb": 5.9
+  },
+  "/dizi/nemesis-2026/": {
+    "group": "Nemesis 2026",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/163x245/nemesis-2026.webp",
+    "imdb": 6.0
+  },
+  "/dizi/berlin-y-la-dama-del-armino/": {
+    "group": "Berlín y la dama del armiño",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/sTumew0Q01ZHmFneA9cJRi3QUYC.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/james/": {
+    "group": "James.",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/be7cg7V1R8QcfRI5N1pAMwJo62r.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/sunjae-eobgo-tweeeo/": {
+    "group": "Sunjae Eobgo Tweeeo",
+    "year": 2024,
+    "poster": "https://dzycdn.com/img/t/163x245/sunjae-eobgo-tweeeo-2024.webp",
+    "imdb": 8.5
+  },
+  "/dizi/proud/": {
+    "group": "Proud",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/how-to-make-it-in-america/": {
+    "group": "How to Make It in America",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/xSKGT90ScJbHsL6FvMn7Aiov6tS.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/the-polygamist/": {
+    "group": "The Polygamist",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/3VEHSG9ZCWcTGbU2ciiU6iDzemP.jpg",
+    "imdb": 5.9
   }
 }

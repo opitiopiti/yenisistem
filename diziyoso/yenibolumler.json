@@ -11,6 +11,18 @@
     "poster": "https://image.tmdb.org/t/p/w500/mzxesd7tFSPccrSXZ70oA0fFmyJ.jpg",
     "imdb": 0.0
   },
+  "/dizi/proud": {
+    "group": "Proud",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/the-polygamist": {
+    "group": "The Polygamist",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/3VEHSG9ZCWcTGbU2ciiU6iDzemP.jpg",
+    "imdb": 5.9
+  },
   "/dizi/cape-fear": {
     "group": "Cape Fear",
     "year": 2026,
@@ -58,6 +70,12 @@
     "year": 2025,
     "poster": "https://image.tmdb.org/t/p/w500/zwf6QamivOgzSVeNk7jS3YgnYeR.jpg",
     "imdb": 7.1
+  },
+  "/dizi/criminal-record": {
+    "group": "Criminal Record",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
+    "imdb": 6.9
   },
   "/dizi/the-fortune": {
     "group": "The Fortune",
@@ -113,17 +131,53 @@
     "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg",
     "imdb": 6.6
   },
-  "/dizi/the-chi": {
-    "group": "The Chi",
-    "year": 2018,
-    "poster": "https://image.tmdb.org/t/p/w500/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg",
-    "imdb": 7.8
+  "/dizi/youre-killing-me": {
+    "group": "You’re Killing Me",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/vxPvBU1V84mX5O5089N3pNzXfrW.jpg",
+    "imdb": 6.2
   },
-  "/dizi/rick-and-morty": {
-    "group": "Rick and Morty",
-    "year": 2013,
-    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
-    "imdb": 9.0
+  "/dizi/nemesis-2026/": {
+    "group": "Nemesis 2026",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/163x245/nemesis-2026.webp",
+    "imdb": 6.0
+  },
+  "/dizi/berlin-y-la-dama-del-armino/": {
+    "group": "Berlín y la dama del armiño",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/sTumew0Q01ZHmFneA9cJRi3QUYC.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/james/": {
+    "group": "James.",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/be7cg7V1R8QcfRI5N1pAMwJo62r.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/sunjae-eobgo-tweeeo/": {
+    "group": "Sunjae Eobgo Tweeeo",
+    "year": 2024,
+    "poster": "https://dzycdn.com/img/t/163x245/sunjae-eobgo-tweeeo-2024.webp",
+    "imdb": 8.5
+  },
+  "/dizi/proud/": {
+    "group": "Proud",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/how-to-make-it-in-america/": {
+    "group": "How to Make It in America",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/xSKGT90ScJbHsL6FvMn7Aiov6tS.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/the-polygamist/": {
+    "group": "The Polygamist",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/3VEHSG9ZCWcTGbU2ciiU6iDzemP.jpg",
+    "imdb": 5.9
   },
   "/dizi/er/": {
     "group": "ER",
@@ -250,47 +304,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/eNIfjYji9m29Xyj4KVDiUy2UmMa.jpg",
     "imdb": 6.5
-  },
-  "/dizi/falling-skies/": {
-    "group": "Falling Skies",
-    "year": "2011",
-    "poster": "https://image.tmdb.org/t/p/w500/uP6p0aWcIpYwA0HjY4bYR4naz5g.jpg",
-    "imdb": 7.113
-  },
-  "/dizi/chamgyoyuk/": {
-    "group": "Chamgyoyuk",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
-    "imdb": 8.5
-  },
-  "/dizi/dunyayla-benim-aramda/": {
-    "group": "Dünyayla Benim Aramda",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/rOF5Rvbq6hgVK2YCBF3mZ5pVLT3.jpg",
-    "imdb": 5.6
-  },
-  "/dizi/crossfire/": {
-    "group": "Crossfire",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/1opiu4UYkPDwxmXr6IxV0Az24nX.jpg",
-    "imdb": 5.8
-  },
-  "/dizi/bardot/": {
-    "group": "Bardot",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/5fAHVS8C88mWvwzMWqchNwYVcQO.jpg",
-    "imdb": 6.5
-  },
-  "/dizi/the-company/": {
-    "group": "The Company",
-    "year": 2007,
-    "poster": "https://image.tmdb.org/t/p/w500/rxBchxWLVuqjG4kk1IhDAUMghr9.jpg",
-    "imdb": 7.7
-  },
-  "/dizi/conversations-with-friends/": {
-    "group": "Conversations with Friends",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/kk6kXltSgeAA1yWiRaZ1sOexm1V.jpg",
-    "imdb": 6.8
   }
 }
