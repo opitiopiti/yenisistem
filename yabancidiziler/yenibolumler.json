@@ -2,7 +2,7 @@
   "/dizi/g-wed": {
     "group": "G’wed",
     "last_season": 3,
-    "last_episode": 3,
+    "last_episode": 5,
     "start_episode": 1,
     "year": "2024",
     "imdb": "6.9",
@@ -11,7 +11,7 @@
   "/dizi/my-royal-nemesis": {
     "group": "My Royal Nemesis",
     "last_season": 1,
-    "last_episode": 10,
+    "last_episode": 12,
     "start_episode": 1,
     "year": "2026",
     "imdb": "9.0",
