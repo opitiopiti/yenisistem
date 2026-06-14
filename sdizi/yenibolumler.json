@@ -1,4 +1,22 @@
 {
+  "/diziler/my-adventures-with-superman.html": {
+    "group": "MY ADVENTURES WITH SUPERMAN",
+    "year": "2023",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/kocOUpdLnHyqfMW4jSRLxWT0QhM.jpg"
+  },
+  "/diziler/the-terror.html": {
+    "group": "THE TERROR",
+    "year": "2018",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/bKkOcso0YuCBK7dixkn3VSd0dUr.jpg"
+  },
+  "/diziler/one-piece-izle.html": {
+    "group": "ONE PIECE",
+    "year": "1999",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
+  },
   "/diziler/nippon-sangoku-the-three-nations-of-the-crimson-sun.html": {
     "group": "NIPPON SANGOKU: THE THREE NATIONS OF THE CRIMSON SUN",
     "year": "2026",
@@ -70,23 +88,5 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/nZGf0jnSJNXLf8o7iSzzX8qxHX9.jpg"
-  },
-  "/diziler/classroom-of-the-elite.html": {
-    "group": "CLASSROOM OF THE ELITE",
-    "year": "2017",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg"
-  },
-  "/diziler/re-zero-starting-life-in-another-world.html": {
-    "group": "RE: ZERO - STARTING LIFE IN ANOTHER WORLD",
-    "year": "2016",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/aRwmcX36r1ZpR5Xq5mmFcpUDQ8J.jpg"
-  },
-  "/diziler/clarksons-farm.html": {
-    "group": "CLARKSON'S FARM",
-    "year": "2021",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg"
   }
 }

@@ -31168,5 +31168,17 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/3VEHSG9ZCWcTGbU2ciiU6iDzemP.jpg",
     "imdb": 5.9
+  },
+  "/dizi/bara-ou-no-souretsu/": {
+    "group": "Bara Ou no Souretsu",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/xhoveJefmxPbQFSPJ1xTzp8qvpd.jpg",
+    "imdb": 5.273
+  },
+  "/dizi/100-man-no-inochi-no-ue-ni-ore-wa-tatteiru/": {
+    "group": "100-man no Inochi no Ue ni Ore wa Tatteiru",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/vdUva7C2B1wZI2D4vjBSWJIc8IG.jpg",
+    "imdb": 6.4
   }
 }

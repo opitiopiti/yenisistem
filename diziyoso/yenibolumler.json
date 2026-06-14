@@ -137,6 +137,24 @@
     "poster": "https://image.tmdb.org/t/p/w500/vxPvBU1V84mX5O5089N3pNzXfrW.jpg",
     "imdb": 6.2
   },
+  "/dizi/bara-ou-no-souretsu/": {
+    "group": "Bara Ou no Souretsu",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/xhoveJefmxPbQFSPJ1xTzp8qvpd.jpg",
+    "imdb": 5.273
+  },
+  "/dizi/100-man-no-inochi-no-ue-ni-ore-wa-tatteiru/": {
+    "group": "100-man no Inochi no Ue ni Ore wa Tatteiru",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/vdUva7C2B1wZI2D4vjBSWJIc8IG.jpg",
+    "imdb": 6.4
+  },
+  "/dizi/three-pines/": {
+    "group": "Three Pines",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/w500/r5lbLfjfFZYhr2TfuvKpf7b0HpQ.jpg",
+    "imdb": 6.439
+  },
   "/dizi/nemesis-2026/": {
     "group": "Nemesis 2026",
     "year": 2026,
@@ -286,23 +304,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/o5b56eHO8bjlAz7tlD77Z5joZ7G.jpg",
     "imdb": 5.5
-  },
-  "/dizi/el-homenaje/": {
-    "group": "El homenaje",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/xaKZjJStLrE9vGP8dBR02waSyVi.jpg",
-    "imdb": 7.1
-  },
-  "/dizi/dear-england/": {
-    "group": "Dear England",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/8gNZM8tRj1HIxl5SxOlTD3TStsl.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/the-witness/": {
-    "group": "The Witness",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/eNIfjYji9m29Xyj4KVDiUy2UmMa.jpg",
-    "imdb": 6.5
   }
 }
