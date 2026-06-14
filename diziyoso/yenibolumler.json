@@ -35,6 +35,24 @@
     "poster": "https://image.tmdb.org/t/p/w500/2nMZzKlMj158RVb6tjmIunoaNdo.jpg",
     "imdb": 7.3
   },
+  "/dizi/kenka-dokugaku": {
+    "group": "Kenka Dokugaku",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/8VCLKvxUpnsRH4ZjECM5e22KcIB.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/sweet-magnolias": {
+    "group": "Sweet Magnolias",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/n1WDSFOnCCg3cdHHGBywZtYIzf9.jpg",
+    "imdb": 7.8
+  },
+  "/dizi/thanai-pisat": {
+    "group": "Thanai Pisat",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/wsb9mUvHP3q3kO4xTjsCdVXtM4N.jpg",
+    "imdb": 7.9
+  },
   "/dizi/storia-della-mia-famiglia": {
     "group": "Storia della mia famiglia",
     "year": 2025,
@@ -52,6 +70,12 @@
     "year": 2024,
     "poster": "https://image.tmdb.org/t/p/w500/vG6Bw2IwDf1DVkPd7nZwMExp0U5.jpg",
     "imdb": 7.3
+  },
+  "/dizi/the-legend-of-vox-machina": {
+    "group": "The Legend of Vox Machina",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/zjQTSYZEmy0GVnK1aFLvNiAwluo.jpg",
+    "imdb": 8.2
   },
   "/dizi/every-year-after": {
     "group": "Every Year After",
@@ -77,6 +101,18 @@
     "poster": "https://image.tmdb.org/t/p/w500/7xiRJczgpbMs2NSqDVpVXP5pMTJ.jpg",
     "imdb": 9.1
   },
+  "/dizi/norges-vei-tilbake": {
+    "group": "Norges vei tilbake",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/kZgzZsVgNruGRWKzTbAIfvvrvHJ.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/not-suitable-for-work": {
+    "group": "Not Suitable for Work",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg",
+    "imdb": 6.6
+  },
   "/dizi/the-chi": {
     "group": "The Chi",
     "year": 2018,
@@ -89,53 +125,71 @@
     "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
     "imdb": 9.0
   },
-  "/dizi/the-way-home": {
-    "group": "The Way Home",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg",
-    "imdb": 7.5
+  "/dizi/er/": {
+    "group": "ER",
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/fuS63AoFTkprf8PFeL1f8z68zJr.jpg",
+    "imdb": 7.8
   },
-  "/dizi/rivals-2024": {
-    "group": "Rivals 2024",
-    "year": 2024,
-    "poster": "https://dzycdn.com/img/t/294x441/rivals-2024.webp",
-    "imdb": 7.1
-  },
-  "/dizi/los-topuria": {
-    "group": "Los Topuria",
+  "/dizi/leyla-hali/": {
+    "group": "Leyla Hâli",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/kUuxTuzeHI4hbPO94ukieKJPcvC.jpg",
-    "imdb": 8.2
+    "poster": "https://image.tmdb.org/t/p/w500/kG9zAggIsUegvSKCBl3IxmlLKWJ.jpg",
+    "imdb": 5.3
   },
-  "/dizi/benim-adim-aylamaz": {
-    "group": "Benim Adım Aylamaz",
+  "/dizi/muhabir/": {
+    "group": "Muhabir",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/vslqNnjARZUdDav2CWIxGvxest9.jpg",
-    "imdb": 9.0
+    "poster": "https://image.tmdb.org/t/p/w500/uWdOEzereOwAEUTmqgT7XYrnngB.jpg",
+    "imdb": 6.6
   },
-  "/dizi/chamgyoyuk": {
-    "group": "Chamgyoyuk",
+  "/dizi/sule-senin-hikayen/": {
+    "group": "Şule: Senin Hikâyen",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/fMECSPrTmRClSViMsXFYmiYIcWP.jpg",
-    "imdb": 8.5
+    "poster": "https://image.tmdb.org/t/p/w500/n16tOrl66RQ58ua0dBf8rGrVT4K.jpg",
+    "imdb": 3.3
   },
-  "/dizi/criminal-minds": {
-    "group": "Criminal Minds",
-    "year": 2005,
-    "poster": "https://image.tmdb.org/t/p/w500/hWSb4UnIjlTvnvrP98NbFSO60HA.jpg",
-    "imdb": 8.3
+  "/dizi/michael-jackson-the-verdict/": {
+    "group": "Michael Jackson: The Verdict",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/8R40yI5AJ931Hd3P4Yf8pdFgwJ1.jpg",
+    "imdb": 4.6
   },
-  "/dizi/late-bloomer": {
-    "group": "Late Bloomer",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/cdyKElGB4whoIS6zcJqNWQNaVsj.jpg",
-    "imdb": 8.8
+  "/dizi/night-shift-for-cuties/": {
+    "group": "Night Shift for Cuties",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/3ANeExEIedWqdlUTVY7bfsL8vzc.jpg",
+    "imdb": 6.3
   },
-  "/dizi/your-friends-neighbors": {
-    "group": "Your Friends & Neighbors",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/lxmNQ1392ClqU56W0kx2h2ONF4V.jpg",
-    "imdb": 7.4
+  "/dizi/norges-vei-tilbake/": {
+    "group": "Norges vei tilbake",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/kZgzZsVgNruGRWKzTbAIfvvrvHJ.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/kenka-dokugaku/": {
+    "group": "Kenka Dokugaku",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/8VCLKvxUpnsRH4ZjECM5e22KcIB.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/life-below-zero-first-alaskans/": {
+    "group": "Life Below Zero: First Alaskans",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/s9PcACoLpbcV1OM8lTkeLdtMFSQ.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/thanai-pisat/": {
+    "group": "Thanai Pisat",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/wsb9mUvHP3q3kO4xTjsCdVXtM4N.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/wild-crime/": {
+    "group": "Wild Crime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/wNtr8sOVDlK1gcXfnJknjjvOzQU.jpg",
+    "imdb": 7.3
   },
   "/dizi/los-topuria/": {
     "group": "Los Topuria",
@@ -238,71 +292,5 @@
     "year": 2022,
     "poster": "https://image.tmdb.org/t/p/w500/kk6kXltSgeAA1yWiRaZ1sOexm1V.jpg",
     "imdb": 6.8
-  },
-  "/dizi/the-hot-zone/": {
-    "group": "The Hot Zone",
-    "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/6CSPieuzXvp4gcSSPZzuUwBXjaP.jpg",
-    "imdb": 7.3
-  },
-  "/dizi/benim-adim-aylamaz/": {
-    "group": "Benim Adım Aylamaz",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/vslqNnjARZUdDav2CWIxGvxest9.jpg",
-    "imdb": 9.0
-  },
-  "/dizi/devil-in-the-family-the-fall-of-ruby-franke/": {
-    "group": "Devil in the Family: The Fall of Ruby Franke",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/mPE2Urjd1ut4fdOioyPj1CdRTnN.jpg",
-    "imdb": 7.3
-  },
-  "/dizi/mating-season/": {
-    "group": "Mating Season",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/dJjPnw3NQHmbGWGUXdlROqtTMuX.jpg",
-    "imdb": 6.5
-  },
-  "/dizi/kylie/": {
-    "group": "Kylie",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/89qQzMmXD5r0UOOxH6ob8U6T8ei.jpg",
-    "imdb": 8.1
-  },
-  "/dizi/cape-fear/": {
-    "group": "Cape Fear",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/mpZjJ0yOxMX2GCCXJ4viTZKhdRX.jpg",
-    "imdb": 4.6
-  },
-  "/dizi/stargate-sg-1/": {
-    "group": "Stargate SG-1",
-    "year": 1997,
-    "poster": "https://image.tmdb.org/t/p/w500/dQjmI7XxI47v8IM2MUysHG0LuU2.jpg",
-    "imdb": 8.4
-  },
-  "/dizi/great-migrations/": {
-    "group": "Great Migrations",
-    "year": 2010,
-    "poster": "https://image.tmdb.org/t/p/w500/qv7nLtGL8i6RCXfQILXhWgR4p0m.jpg",
-    "imdb": 8.0
-  },
-  "/dizi/carisima/": {
-    "group": "Carísima",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/6e4ivA7v8vlzardz4IXPXzqxRrE.jpg",
-    "imdb": 4.9
-  },
-  "/dizi/the-legend-of-korra/": {
-    "group": "The Legend of Korra",
-    "year": 2012,
-    "poster": "https://image.tmdb.org/t/p/w500/dZgYvSfuh1YHDrJuILlVQ5oA2hF.jpg",
-    "imdb": 8.3
-  },
-  "/dizi/brasil-70-a-saga-do-tri/": {
-    "group": "Brasil 70: A Saga do Tri",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/u6PBGDVs0CZJsq8IpWI5C4u0eyl.jpg",
-    "imdb": 7.4
   }
 }

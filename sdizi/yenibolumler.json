@@ -1,4 +1,16 @@
 {
+  "/diziler/tracker.html": {
+    "group": "TRACKER",
+    "year": "2024",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg"
+  },
+  "/diziler/will-trent.html": {
+    "group": "WILL TRENT",
+    "year": "2023",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/qG5O46gUxxYGImld03tl2zLhvrg.jpg"
+  },
   "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
     "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
     "year": "2018",
@@ -76,17 +88,5 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/oeD9rnfk7AohNiJTRoCx4SOKhXj.jpg"
-  },
-  "/diziler/criminal-record.html": {
-    "group": "CRIMINAL RECORD",
-    "year": "2024",
-    "imdb": "7.3",
-    "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg"
-  },
-  "/diziler/widows-bay.html": {
-    "group": "WIDOW'S BAY",
-    "year": "2026",
-    "imdb": "8.2",
-    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
   }
 }

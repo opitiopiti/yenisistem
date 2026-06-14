@@ -31018,5 +31018,101 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/kUuxTuzeHI4hbPO94ukieKJPcvC.jpg",
     "imdb": 8.2
+  },
+  "/dizi/kenka-dokugaku": {
+    "group": "Kenka Dokugaku",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/8VCLKvxUpnsRH4ZjECM5e22KcIB.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/sweet-magnolias": {
+    "group": "Sweet Magnolias",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/n1WDSFOnCCg3cdHHGBywZtYIzf9.jpg",
+    "imdb": 7.8
+  },
+  "/dizi/thanai-pisat": {
+    "group": "Thanai Pisat",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/wsb9mUvHP3q3kO4xTjsCdVXtM4N.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/the-legend-of-vox-machina": {
+    "group": "The Legend of Vox Machina",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/zjQTSYZEmy0GVnK1aFLvNiAwluo.jpg",
+    "imdb": 8.2
+  },
+  "/dizi/norges-vei-tilbake": {
+    "group": "Norges vei tilbake",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/kZgzZsVgNruGRWKzTbAIfvvrvHJ.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/er/": {
+    "group": "ER",
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/fuS63AoFTkprf8PFeL1f8z68zJr.jpg",
+    "imdb": 7.8
+  },
+  "/dizi/leyla-hali/": {
+    "group": "Leyla Hâli",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/kG9zAggIsUegvSKCBl3IxmlLKWJ.jpg",
+    "imdb": 5.3
+  },
+  "/dizi/muhabir/": {
+    "group": "Muhabir",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/uWdOEzereOwAEUTmqgT7XYrnngB.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/sule-senin-hikayen/": {
+    "group": "Şule: Senin Hikâyen",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/n16tOrl66RQ58ua0dBf8rGrVT4K.jpg",
+    "imdb": 3.3
+  },
+  "/dizi/michael-jackson-the-verdict/": {
+    "group": "Michael Jackson: The Verdict",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/8R40yI5AJ931Hd3P4Yf8pdFgwJ1.jpg",
+    "imdb": 4.6
+  },
+  "/dizi/night-shift-for-cuties/": {
+    "group": "Night Shift for Cuties",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/3ANeExEIedWqdlUTVY7bfsL8vzc.jpg",
+    "imdb": 6.3
+  },
+  "/dizi/norges-vei-tilbake/": {
+    "group": "Norges vei tilbake",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/kZgzZsVgNruGRWKzTbAIfvvrvHJ.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/kenka-dokugaku/": {
+    "group": "Kenka Dokugaku",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/8VCLKvxUpnsRH4ZjECM5e22KcIB.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/life-below-zero-first-alaskans/": {
+    "group": "Life Below Zero: First Alaskans",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/s9PcACoLpbcV1OM8lTkeLdtMFSQ.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/thanai-pisat/": {
+    "group": "Thanai Pisat",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/wsb9mUvHP3q3kO4xTjsCdVXtM4N.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/wild-crime/": {
+    "group": "Wild Crime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/wNtr8sOVDlK1gcXfnJknjjvOzQU.jpg",
+    "imdb": 7.3
   }
 }
