@@ -2312,7 +2312,9 @@
     {"name": "JAE-SEOK’S B&B RULES!", "year": "2026"},
     {"name": "NORWAY: THE DARK HORSE", "year": "2026"},
     {"name": "OUTLAST: THE JUNGLE", "year": "2026"},
-    {"name": "THE EVIL LAWYER", "year": "2026"}
+    {"name": "THE EVIL LAWYER", "year": "2026"},
+    {"name": "THANAI PISAT", "year": "2026"},
+    {"name": "NORGES VEI TILBAKE", "year": "2026"}
   ],
   "HBO DİZİLERİ": [
     {"name": "THE PITT", "year": "2025"},
@@ -4759,7 +4761,8 @@
     {"name": "MARVEL'S HIT-MONKEY", "year": "2021"},
     {"name": "EXPOSURE", "year": "2021"},
     {"name": "NOT SUITABLE FOR WORK", "year": "2026"},
-    {"name": "DEVIL IN THE FAMILY: THE FALL OF RUBY FRANKE", "year": "2025"}
+    {"name": "DEVIL IN THE FAMILY: THE FALL OF RUBY FRANKE", "year": "2025"},
+    {"name": "WILD CRIME", "year": "2021"}
   ],
   "TVING DİZİLERİ": [
     {"name": "LOVE IN THE BIG CITY", "year": "2024"},
@@ -5886,7 +5889,8 @@
     {"name": "SEARCH", "year": "1972"},
     {"name": "HEIST", "year": "2006"},
     {"name": "LIFE", "year": "2007"},
-    {"name": "THE REBEL", "year": "1959"}
+    {"name": "THE REBEL", "year": "1959"},
+    {"name": "ER", "year": "1994"}
   ],
   "THE CW DİZİLERİ": [
     {"name": "WALKER", "year": "2021"},
@@ -6723,7 +6727,8 @@
     {"name": "COSMOS: A PERSONAL VOYAGE", "year": "1980"},
     {"name": "7 TOUGHEST DAYS", "year": "2023"},
     {"name": "KING FISHERS", "year": "2013"},
-    {"name": "THE HOT ZONE", "year": "2019"}
+    {"name": "THE HOT ZONE", "year": "2019"},
+    {"name": "LIFE BELOW ZERO: FIRST ALASKANS", "year": "2022"}
   ],
   "RTL5 DİZİLERİ": [
     {"name": "4 EVER", "year": "2026"}
@@ -7034,7 +7039,8 @@
     {"name": "YOZAKURA-SAN CHI NO DAISAKUSEN", "year": "2024"},
     {"name": "NARUTO SHIPPŪDEN", "year": "2007"},
     {"name": "NARUTO", "year": "2002"},
-    {"name": "VIRAL HIT", "year": "2024"}
+    {"name": "VIRAL HIT", "year": "2024"},
+    {"name": "KENKA DOKUGAKU", "year": "2024"}
   ],
   "BBC TWO DİZİLERİ": [
     {"name": "INSIDE NO. 9", "year": "2014"},
