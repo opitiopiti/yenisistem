@@ -7652,8 +7652,8 @@
   "4275": {
     "name": "THE TERROR (2018)",
     "last_season": 3,
-    "last_episode": 5,
-    "last_modified": 1780913641
+    "last_episode": 6,
+    "last_modified": 1781474755
   },
   "4276": {
     "name": "THE TEST (2020)",
@@ -45152,8 +45152,8 @@
   "10525": {
     "name": "INGOKU DANCHI: DEVIANT'S APARTMENT COMPLEX (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1780869953
+    "last_episode": 11,
+    "last_modified": 1781474755
   },
   "10526": {
     "name": "IN THE CLEAR MOONLIT DUSK (2026) İNGİLİZCE",
@@ -50809,9 +50809,9 @@
   },
   "11468": {
     "name": "MY ADVENTURES WITH SUPERMAN (2023)",
-    "last_season": 2,
-    "last_episode": 10,
-    "last_modified": 1778899554
+    "last_season": 3,
+    "last_episode": 1,
+    "last_modified": 1781474755
   },
   "11469": {
     "name": "MY LOVE FROM THE STAR (2013)",
@@ -69514,5 +69514,11 @@
     "last_season": 1,
     "last_episode": 8,
     "last_modified": 1781456237
+  },
+  "14586": {
+    "name": "GIRLS' LAST TOUR (2017) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1781474755
   }
 }
