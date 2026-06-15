@@ -1951,5 +1951,14 @@
     "year": "2026",
     "imdb": "6.2",
     "poster": "https://image.tmdb.org/t/p/w500/7ODb2WEuXeJb6pRbzzfzfKIJgH3.jpg"
+  },
+  "/dizi/grantchester": {
+    "group": "Grantchester",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2014",
+    "imdb": "7.1",
+    "poster": "https://image.tmdb.org/t/p/w500/5Itrb1x7OiA5A0XUreRuevR1hA6.jpg"
   }
 }
