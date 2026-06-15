@@ -1,13 +1,4 @@
 {
-  "/dizi/grantchester": {
-    "group": "Grantchester",
-    "last_season": 11,
-    "last_episode": 1,
-    "start_episode": 1,
-    "year": "2014",
-    "imdb": "7.1",
-    "poster": "https://image.tmdb.org/t/p/w500/5Itrb1x7OiA5A0XUreRuevR1hA6.jpg"
-  },
   "/dizi/g-wed": {
     "group": "G’wed",
     "last_season": 3,
@@ -16,6 +7,15 @@
     "year": "2024",
     "imdb": "6.9",
     "poster": "https://image.tmdb.org/t/p/w500/9hB4MZi1pVunt8yfkhkbAPAzVS3.jpg"
+  },
+  "/dizi/grantchester": {
+    "group": "Grantchester",
+    "last_season": 11,
+    "last_episode": 1,
+    "start_episode": 1,
+    "year": "2014",
+    "imdb": "7.1",
+    "poster": "https://image.tmdb.org/t/p/w500/5Itrb1x7OiA5A0XUreRuevR1hA6.jpg"
   },
   "/dizi/new-zealand-spy": {
     "group": "New Zealand Spy",
@@ -43,41 +43,5 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/vxPvBU1V84mX5O5089N3pNzXfrW.jpg"
-  },
-  "/dizi/interview-with-the-vampire": {
-    "group": "Interview with the Vampire",
-    "last_season": 3,
-    "last_episode": 2,
-    "start_episode": 1,
-    "year": "2022",
-    "imdb": "7.2",
-    "poster": "https://image.tmdb.org/t/p/w500/Afv4pPhqVMg2wOmhuDLiGUw4r4O.jpg"
-  },
-  "/dizi/morfeusz": {
-    "group": "Morfeusz",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "6.2",
-    "poster": "https://image.tmdb.org/t/p/w500/7ODb2WEuXeJb6pRbzzfzfKIJgH3.jpg"
-  },
-  "/dizi/my-adventures-with-superman": {
-    "group": "My Adventures with Superman",
-    "last_season": 3,
-    "last_episode": 1,
-    "start_episode": 1,
-    "year": "2023",
-    "imdb": "7.7",
-    "poster": "https://image.tmdb.org/t/p/w500/tMslOS7noUUjc8BLvePk2QsV75v.jpg"
-  },
-  "/dizi/nippon-sangoku": {
-    "group": "Nippon Sangoku",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/qHQnNHefuHI8N4lCoRQQP6pckMr.jpg"
   }
 }
