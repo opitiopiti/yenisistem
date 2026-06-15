@@ -1,9 +1,9 @@
 {
-  "/dizi/gwed": {
-    "group": "G’wed",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/9hB4MZi1pVunt8yfkhkbAPAzVS3.jpg",
-    "imdb": 6.7
+  "/dizi/rick-and-morty": {
+    "group": "Rick and Morty",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
+    "imdb": 9.0
   },
   "/dizi/sumud": {
     "group": "Sumud",
@@ -136,6 +136,12 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/vxPvBU1V84mX5O5089N3pNzXfrW.jpg",
     "imdb": 6.2
+  },
+  "/dizi/gwed": {
+    "group": "G’wed",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/9hB4MZi1pVunt8yfkhkbAPAzVS3.jpg",
+    "imdb": 6.7
   },
   "/dizi/bara-ou-no-souretsu/": {
     "group": "Bara Ou no Souretsu",

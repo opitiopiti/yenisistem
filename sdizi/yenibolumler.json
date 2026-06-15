@@ -1,4 +1,16 @@
 {
+  "/diziler/abbott-elementary.html": {
+    "group": "ABBOTT ELEMENTARY",
+    "year": "2021",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/nBe1e3JJEZ6veGrVXNF0fRoLu56.jpg"
+  },
+  "/diziler/rick-and-morty.html": {
+    "group": "RICK AND MORTY",
+    "year": "2013",
+    "imdb": "9.1",
+    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
+  },
   "/diziler/my-adventures-with-superman.html": {
     "group": "MY ADVENTURES WITH SUPERMAN",
     "year": "2023",
@@ -76,17 +88,5 @@
     "year": "2019",
     "imdb": "8.2",
     "poster": "https://image.tmdb.org/t/p/w500/ve1Sv3sVArmE0nlFjzadcNv1G8r.jpg"
-  },
-  "/diziler/sweet-magnolias.html": {
-    "group": "SWEET MAGNOLIAS",
-    "year": "2020",
-    "imdb": "7.4",
-    "poster": "https://image.tmdb.org/t/p/w500/n1WDSFOnCCg3cdHHGBywZtYIzf9.jpg"
-  },
-  "/diziler/every-year-after.html": {
-    "group": "EVERY YEAR AFTER",
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/nZGf0jnSJNXLf8o7iSzzX8qxHX9.jpg"
   }
 }

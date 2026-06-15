@@ -1933,5 +1933,23 @@
     "year": "2023",
     "imdb": "7.7",
     "poster": "https://image.tmdb.org/t/p/w500/tMslOS7noUUjc8BLvePk2QsV75v.jpg"
+  },
+  "/dizi/new-zealand-spy": {
+    "group": "New Zealand Spy",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/7cIOwTqZDcUm0NMriuIZMGTx9az.jpg"
+  },
+  "/dizi/morfeusz": {
+    "group": "Morfeusz",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.2",
+    "poster": "https://image.tmdb.org/t/p/w500/7ODb2WEuXeJb6pRbzzfzfKIJgH3.jpg"
   }
 }
