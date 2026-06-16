@@ -1960,5 +1960,14 @@
     "year": "2014",
     "imdb": "7.1",
     "poster": "https://image.tmdb.org/t/p/w500/5Itrb1x7OiA5A0XUreRuevR1hA6.jpg"
+  },
+  "/dizi/america-s-sweethearts-dallas-cowboys-cheerleaders": {
+    "group": "AMERICA’S SWEETHEARTS: Dallas Cowboys Cheerleaders",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/dM3fGD2uDhE9Z5HDieeWXhpXyG0.jpg"
   }
 }

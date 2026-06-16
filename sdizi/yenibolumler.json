@@ -1,4 +1,10 @@
 {
+  "/diziler/among-us.html": {
+    "group": "AMONG US",
+    "year": "2026",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/zQPnH87FXB6MEwRIy2xfhT41lq9.jpg"
+  },
   "/diziler/abbott-elementary.html": {
     "group": "ABBOTT ELEMENTARY",
     "year": "2021",
@@ -82,11 +88,5 @@
     "year": "2026",
     "imdb": "8.2",
     "poster": "https://image.tmdb.org/t/p/w500/8VCLKvxUpnsRH4ZjECM5e22KcIB.jpg"
-  },
-  "/diziler/dr-stone.html": {
-    "group": "DR. STONE",
-    "year": "2019",
-    "imdb": "8.2",
-    "poster": "https://image.tmdb.org/t/p/w500/ve1Sv3sVArmE0nlFjzadcNv1G8r.jpg"
   }
 }

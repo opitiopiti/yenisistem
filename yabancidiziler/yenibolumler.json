@@ -1,4 +1,13 @@
 {
+  "/dizi/america-s-sweethearts-dallas-cowboys-cheerleaders": {
+    "group": "AMERICA’S SWEETHEARTS: Dallas Cowboys Cheerleaders",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/dM3fGD2uDhE9Z5HDieeWXhpXyG0.jpg"
+  },
   "/dizi/g-wed": {
     "group": "G’wed",
     "last_season": 3,
@@ -7,6 +16,15 @@
     "year": "2024",
     "imdb": "6.9",
     "poster": "https://image.tmdb.org/t/p/w500/9hB4MZi1pVunt8yfkhkbAPAzVS3.jpg"
+  },
+  "/dizi/not-suitable-for-work": {
+    "group": "Not Suitable for Work",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg"
   },
   "/dizi/the-way-home": {
     "group": "The Way Home",
