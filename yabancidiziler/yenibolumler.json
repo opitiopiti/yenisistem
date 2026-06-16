@@ -1,8 +1,8 @@
 {
   "/dizi/america-s-sweethearts-dallas-cowboys-cheerleaders": {
     "group": "AMERICA’S SWEETHEARTS: Dallas Cowboys Cheerleaders",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2024",
     "imdb": "7.0",
@@ -20,7 +20,7 @@
   "/dizi/not-suitable-for-work": {
     "group": "Not Suitable for Work",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 7,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
