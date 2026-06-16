@@ -8,6 +8,15 @@
     "imdb": "6.9",
     "poster": "https://image.tmdb.org/t/p/w500/9hB4MZi1pVunt8yfkhkbAPAzVS3.jpg"
   },
+  "/dizi/the-way-home": {
+    "group": "The Way Home",
+    "last_season": 4,
+    "last_episode": 8,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg"
+  },
   "/dizi/grantchester": {
     "group": "Grantchester",
     "last_season": 11,
