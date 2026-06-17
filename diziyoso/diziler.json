@@ -31186,5 +31186,17 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/mzxesd7tFSPccrSXZ70oA0fFmyJ.jpg",
     "imdb": 0.0
+  },
+  "/dizi/call-her-alex/": {
+    "group": "Call Her Alex",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/dJdLZWBV8NM0MBYOPLrnBLshluE.jpg",
+    "imdb": 6.3
+  },
+  "/dizi/i-think-you-should-leave-with-tim-robinson/": {
+    "group": "I Think You Should Leave with Tim Robinson",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/26fMaTPRczCrTUOQ5svA1Db7l4h.jpg",
+    "imdb": 8.1
   }
 }

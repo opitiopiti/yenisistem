@@ -1,4 +1,22 @@
 {
+  "/diziler/classroom-of-the-elite.html": {
+    "group": "CLASSROOM OF THE ELITE",
+    "year": "2017",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/yuHanbUUIv2UWRxxQFt9n8jtmOJ.jpg"
+  },
+  "/diziler/re-zero-starting-life-in-another-world.html": {
+    "group": "RE: ZERO - STARTING LIFE IN ANOTHER WORLD",
+    "year": "2016",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/aRwmcX36r1ZpR5Xq5mmFcpUDQ8J.jpg"
+  },
+  "/diziler/er.html": {
+    "group": "ER",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
   "/diziler/clarksons-farm.html": {
     "group": "CLARKSON'S FARM",
     "year": "2021",
@@ -70,23 +88,5 @@
     "year": "2026",
     "imdb": "8.4",
     "poster": "https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg"
-  },
-  "/diziler/tracker.html": {
-    "group": "TRACKER",
-    "year": "2024",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg"
-  },
-  "/diziler/will-trent.html": {
-    "group": "WILL TRENT",
-    "year": "2023",
-    "imdb": "7.7",
-    "poster": "https://image.tmdb.org/t/p/w500/qG5O46gUxxYGImld03tl2zLhvrg.jpg"
-  },
-  "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
-    "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
-    "year": "2018",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg"
   }
 }

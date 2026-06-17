@@ -1,4 +1,28 @@
 {
+  "/dizi/rick-and-morty/": {
+    "group": "Rick and Morty",
+    "year": 2013,
+    "imdb": 9.0,
+    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
+  },
+  "/dizi/gomorrah-the-origins/": {
+    "group": "Gomorrah: The Origins",
+    "year": 2026,
+    "imdb": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w500/l0RJjiE6k1Ey5m3pYTe60BQbNnZ.jpg"
+  },
+  "/dizi/maximum-pleasure-guaranteed/": {
+    "group": "Maximum Pleasure Guaranteed",
+    "year": 2026,
+    "imdb": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
+  },
+  "/dizi/widows-bay/": {
+    "group": "Widow’s Bay",
+    "year": 2026,
+    "imdb": 6.5,
+    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
+  },
   "/dizi/cape-fear/": {
     "group": "Cape Fear",
     "year": 2026,
@@ -29,18 +53,6 @@
     "imdb": 7.2,
     "poster": "https://image.tmdb.org/t/p/w500/zSwGrVfQibt00pfjNqzZnywrP8L.jpg"
   },
-  "/dizi/maximum-pleasure-guaranteed/": {
-    "group": "Maximum Pleasure Guaranteed",
-    "year": 2026,
-    "imdb": 7.1,
-    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
-  },
-  "/dizi/widows-bay/": {
-    "group": "Widow’s Bay",
-    "year": 2026,
-    "imdb": 6.5,
-    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
-  },
   "/dizi/criminal-record/": {
     "group": "Criminal Record",
     "year": 2024,
@@ -53,23 +65,11 @@
     "imdb": 5.7,
     "poster": "https://image.tmdb.org/t/p/w500/gPou8wNiTz1uleLKllclrqanXXf.jpg"
   },
-  "/dizi/rick-and-morty/": {
-    "group": "Rick and Morty",
-    "year": 2013,
-    "imdb": 9.0,
-    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
-  },
   "/dizi/rivals/": {
     "group": "Rivals",
     "year": 2024,
     "imdb": 7.9,
     "poster": "https://image.tmdb.org/t/p/w500/3p9t1KDo5iXAn1zsSPn8sdtakWs.jpg"
-  },
-  "/dizi/gomorrah-the-origins/": {
-    "group": "Gomorrah: The Origins",
-    "year": 2026,
-    "imdb": 7.2,
-    "poster": "https://image.tmdb.org/t/p/w500/l0RJjiE6k1Ey5m3pYTe60BQbNnZ.jpg"
   },
   "/dizi/dogu/": {
     "group": "Doğu",
@@ -88,17 +88,5 @@
     "year": 2026,
     "imdb": 6.2,
     "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg"
-  },
-  "/dizi/euphoria/": {
-    "group": "Euphoria",
-    "year": 2019,
-    "imdb": 8.2,
-    "poster": "https://image.tmdb.org/t/p/w500/aJrG7OkoTMPWG5c8opz8a93AZPY.jpg"
-  },
-  "/dizi/half-man/": {
-    "group": "Half Man",
-    "year": 2026,
-    "imdb": 6.9,
-    "poster": "https://image.tmdb.org/t/p/w500/fV1XBxZSl0nxiMIhDuorIbfW8kG.jpg"
   }
 }

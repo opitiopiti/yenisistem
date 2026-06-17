@@ -1,4 +1,10 @@
 {
+  "/dizi/not-suitable-for-work": {
+    "group": "Not Suitable for Work",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg",
+    "imdb": 6.6
+  },
   "/dizi/maximum-pleasure-guaranteed": {
     "group": "Maximum Pleasure Guaranteed",
     "year": 2026,
@@ -125,17 +131,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/kZgzZsVgNruGRWKzTbAIfvvrvHJ.jpg",
     "imdb": 6.5
   },
-  "/dizi/not-suitable-for-work": {
-    "group": "Not Suitable for Work",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg",
-    "imdb": 6.6
+  "/dizi/call-her-alex/": {
+    "group": "Call Her Alex",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/dJdLZWBV8NM0MBYOPLrnBLshluE.jpg",
+    "imdb": 6.3
   },
-  "/dizi/youre-killing-me": {
-    "group": "You’re Killing Me",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/vxPvBU1V84mX5O5089N3pNzXfrW.jpg",
-    "imdb": 6.2
+  "/dizi/i-think-you-should-leave-with-tim-robinson/": {
+    "group": "I Think You Should Leave with Tim Robinson",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/26fMaTPRczCrTUOQ5svA1Db7l4h.jpg",
+    "imdb": 8.1
   },
   "/dizi/bara-ou-no-souretsu/": {
     "group": "Bara Ou no Souretsu",
@@ -292,17 +298,5 @@
     "year": 2008,
     "poster": "https://image.tmdb.org/t/p/w500/hWVuLjx3QPhpfTCePbB9nunIJt0.jpg",
     "imdb": 7.7
-  },
-  "/dizi/every-year-after/": {
-    "group": "Every Year After",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/nZGf0jnSJNXLf8o7iSzzX8qxHX9.jpg",
-    "imdb": 6.3
-  },
-  "/dizi/the-fortune/": {
-    "group": "The Fortune",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/o5b56eHO8bjlAz7tlD77Z5joZ7G.jpg",
-    "imdb": 5.5
   }
 }
