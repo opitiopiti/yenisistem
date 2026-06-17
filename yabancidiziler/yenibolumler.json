@@ -2,7 +2,7 @@
   "/dizi/clarkson-s-farm": {
     "group": "Clarkson’s Farm",
     "last_season": 5,
-    "last_episode": 6,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2021",
     "imdb": "9.0",
@@ -11,7 +11,7 @@
   "/dizi/maximum-pleasure-guaranteed": {
     "group": "Maximum Pleasure Guaranteed",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -20,7 +20,7 @@
   "/dizi/outlast-the-jungle": {
     "group": "Outlast: The Jungle",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -29,7 +29,7 @@
   "/dizi/the-legend-of-vox-machina": {
     "group": "The Legend of Vox Machina",
     "last_season": 4,
-    "last_episode": 6,
+    "last_episode": 9,
     "start_episode": 1,
     "year": "2022",
     "imdb": "8.4",
@@ -38,7 +38,7 @@
   "/dizi/the-season": {
     "group": "The Season",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
