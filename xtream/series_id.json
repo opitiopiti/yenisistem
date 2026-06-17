@@ -62138,8 +62138,8 @@
   "13356": {
     "name": "ASHES TO CROWN (2026)",
     "last_season": 1,
-    "last_episode": 19,
-    "last_modified": 1781553746
+    "last_episode": 20,
+    "last_modified": 1781672414
   },
   "13357": {
     "name": "NOT SUITABLE FOR WORK (2026)",
@@ -62546,8 +62546,8 @@
   "13424": {
     "name": "BRING ME THE BEAUTIES: A MODEL CULT (2026)",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1780591866
+    "last_episode": 3,
+    "last_modified": 1781672414
   },
   "13425": {
     "name": "BROKEN (2017)",
@@ -69128,8 +69128,8 @@
   "14521": {
     "name": "THE FIRST JASMINE (2026)",
     "last_season": 1,
-    "last_episode": 16,
-    "last_modified": 1781553746
+    "last_episode": 18,
+    "last_modified": 1781672414
   },
   "14522": {
     "name": "KAKEGURUI TWIN (2022) İNGİLİZCE",
@@ -69544,5 +69544,11 @@
     "last_season": 1,
     "last_episode": 10,
     "last_modified": 1781639599
+  },
+  "14591": {
+    "name": "LOG HORIZON 2 (2014) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 25,
+    "last_modified": 1781672414
   }
 }
