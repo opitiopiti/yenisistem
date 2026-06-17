@@ -1969,5 +1969,14 @@
     "year": "2024",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/dM3fGD2uDhE9Z5HDieeWXhpXyG0.jpg"
+  },
+  "/dizi/the-season": {
+    "group": "The Season",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/kPz9M2hbZVRue9bbZAHKB9RrXox.jpg"
   }
 }

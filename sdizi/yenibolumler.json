@@ -1,4 +1,10 @@
 {
+  "/diziler/clarksons-farm.html": {
+    "group": "CLARKSON'S FARM",
+    "year": "2021",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg"
+  },
   "/diziler/the-legend-of-vox-machina.html": {
     "group": "THE LEGEND OF VOX MACHINA",
     "year": "2022",
@@ -82,11 +88,5 @@
     "year": "2018",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg"
-  },
-  "/diziler/the-king-of-queens.html": {
-    "group": "THE KING OF QUEENS",
-    "year": "1998",
-    "imdb": "7.4",
-    "poster": "https://image.tmdb.org/t/p/w500/vXs300Yvjy4Kr0iHgBtajHkYbAt.jpg"
   }
 }
