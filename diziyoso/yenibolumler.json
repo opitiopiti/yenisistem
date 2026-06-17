@@ -1,4 +1,16 @@
 {
+  "/dizi/maximum-pleasure-guaranteed": {
+    "group": "Maximum Pleasure Guaranteed",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/widows-bay": {
+    "group": "Widow’s Bay",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
+    "imdb": 6.5
+  },
   "/dizi/rick-and-morty": {
     "group": "Rick and Morty",
     "year": 2013,
@@ -101,18 +113,6 @@
     "poster": "https://image.tmdb.org/t/p/w500/nZGf0jnSJNXLf8o7iSzzX8qxHX9.jpg",
     "imdb": 6.3
   },
-  "/dizi/maximum-pleasure-guaranteed": {
-    "group": "Maximum Pleasure Guaranteed",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg",
-    "imdb": 7.0
-  },
-  "/dizi/widows-bay": {
-    "group": "Widow’s Bay",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
-    "imdb": 6.5
-  },
   "/dizi/tip-toe": {
     "group": "Tip Toe",
     "year": 2026,
@@ -136,12 +136,6 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/vxPvBU1V84mX5O5089N3pNzXfrW.jpg",
     "imdb": 6.2
-  },
-  "/dizi/gwed": {
-    "group": "G’wed",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/9hB4MZi1pVunt8yfkhkbAPAzVS3.jpg",
-    "imdb": 6.7
   },
   "/dizi/bara-ou-no-souretsu/": {
     "group": "Bara Ou no Souretsu",
@@ -281,7 +275,7 @@
     "poster": "https://image.tmdb.org/t/p/w500/flj41WynQKea6DVHgRbbPSWOB1t.jpg",
     "imdb": 7.9
   },
-  "/dizi/sumud/": {
+  "/dizi/sumud-v2/": {
     "group": "Sumud",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/mzxesd7tFSPccrSXZ70oA0fFmyJ.jpg",

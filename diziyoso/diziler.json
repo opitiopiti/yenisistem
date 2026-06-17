@@ -31180,5 +31180,11 @@
     "year": 2020,
     "poster": "https://image.tmdb.org/t/p/w500/vdUva7C2B1wZI2D4vjBSWJIc8IG.jpg",
     "imdb": 6.4
+  },
+  "/dizi/sumud-v2/": {
+    "group": "Sumud",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/mzxesd7tFSPccrSXZ70oA0fFmyJ.jpg",
+    "imdb": 0.0
   }
 }

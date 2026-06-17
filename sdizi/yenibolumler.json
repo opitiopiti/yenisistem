@@ -1,4 +1,22 @@
 {
+  "/diziler/the-legend-of-vox-machina.html": {
+    "group": "THE LEGEND OF VOX MACHINA",
+    "year": "2022",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg"
+  },
+  "/diziler/maximum-pleasure-guaranteed.html": {
+    "group": "MAXIMUM PLEASURE GUARANTEED",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/oeD9rnfk7AohNiJTRoCx4SOKhXj.jpg"
+  },
+  "/diziler/widows-bay.html": {
+    "group": "WIDOW'S BAY",
+    "year": "2026",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
+  },
   "/diziler/among-us.html": {
     "group": "AMONG US",
     "year": "2026",
@@ -70,23 +88,5 @@
     "year": "1998",
     "imdb": "7.4",
     "poster": "https://image.tmdb.org/t/p/w500/vXs300Yvjy4Kr0iHgBtajHkYbAt.jpg"
-  },
-  "/diziler/cape-fear.html": {
-    "group": "CAPE FEAR",
-    "year": "2025",
-    "imdb": "0.0",
-    "poster": null
-  },
-  "/diziler/star-city.html": {
-    "group": "STAR CITY",
-    "year": "2026",
-    "imdb": "5.9",
-    "poster": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg"
-  },
-  "/diziler/viral-hit.html": {
-    "group": "VIRAL HIT",
-    "year": "2026",
-    "imdb": "8.2",
-    "poster": "https://image.tmdb.org/t/p/w500/8VCLKvxUpnsRH4ZjECM5e22KcIB.jpg"
   }
 }
