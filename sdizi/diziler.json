@@ -16882,5 +16882,11 @@
     "year": "2026",
     "imdb": "7.3",
     "poster": "https://image.tmdb.org/t/p/w500/zQPnH87FXB6MEwRIy2xfhT41lq9.jpg"
+  },
+  "/diziler/er.html": {
+    "group": "ER",
+    "year": "1994",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/fuS63AoFTkprf8PFeL1f8z68zJr.jpg"
   }
 }
