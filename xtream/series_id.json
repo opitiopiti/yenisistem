@@ -46286,8 +46286,8 @@
   "10714": {
     "name": "WIDOW'S BAY (2026)",
     "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1781084215
+    "last_episode": 10,
+    "last_modified": 1781691836
   },
   "10715": {
     "name": "BLACK★★ROCK SHOOTER: DAWN FALL (2022)",
@@ -51320,8 +51320,8 @@
   "11553": {
     "name": "MAXIMUM PLEASURE GUARANTEED (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1781084215
+    "last_episode": 6,
+    "last_modified": 1781691836
   },
   "11554": {
     "name": "WIDOW'S BAY(BILINMIYOR)",
@@ -69550,5 +69550,11 @@
     "last_season": 1,
     "last_episode": 25,
     "last_modified": 1781672414
+  },
+  "14592": {
+    "name": "ER (1994)",
+    "last_season": 15,
+    "last_episode": 22,
+    "last_modified": 1781691836
   }
 }
