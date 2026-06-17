@@ -9362,8 +9362,8 @@
   "4560": {
     "name": "CLARKSON'S FARM (2021)",
     "last_season": 5,
-    "last_episode": 6,
-    "last_modified": 1781099010
+    "last_episode": 8,
+    "last_modified": 1781706924
   },
   "4561": {
     "name": "COBRA KAI (2018)",
@@ -45008,8 +45008,8 @@
   "10501": {
     "name": "CLASSROOM OF THE ELITE 4TH SEASON (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 14,
-    "last_modified": 1781099010
+    "last_episode": 15,
+    "last_modified": 1781706924
   },
   "10502": {
     "name": "DAEMONS OF THE SHADOW REALM (2026) İNGİLİZCE",
@@ -45350,8 +45350,8 @@
   "10558": {
     "name": "RENT-A-GIRLFRIEND SEASON 5 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1781117653
+    "last_episode": 11,
+    "last_modified": 1781706924
   },
   "10559": {
     "name": "RE:ZERO: STARTING LIFE IN ANOTHER WORLD SEASON 3 (2024) İNGİLİZCE",
@@ -69556,5 +69556,11 @@
     "last_season": 15,
     "last_episode": 22,
     "last_modified": 1781691836
+  },
+  "14593": {
+    "name": "LOG HORIZON: DESTRUCTION OF THE ROUND TABLE (2021) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1781706924
   }
 }
