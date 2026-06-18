@@ -31198,5 +31198,35 @@
     "year": 2019,
     "poster": "https://image.tmdb.org/t/p/w500/26fMaTPRczCrTUOQ5svA1Db7l4h.jpg",
     "imdb": 8.1
+  },
+  "/dizi/outlast-the-jungle": {
+    "group": "Outlast: The Jungle",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/mkhpV2EgA3S4xFyl7KPOpxORa04.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/outlast-the-jungle/": {
+    "group": "Outlast: The Jungle",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/mkhpV2EgA3S4xFyl7KPOpxORa04.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/joseonroko-nokdujeon/": {
+    "group": "Joseonroko Nokdujeon",
+    "year": 2019,
+    "poster": "https://dzycdn.com/img/t/163x245/joseonroko-nokdujeon-2019.webp",
+    "imdb": 7.7
+  },
+  "/dizi/maen-too-maen/": {
+    "group": "Maen Too Maen",
+    "year": 2017,
+    "poster": "https://dzycdn.com/img/t/163x245/maen-too-maen-2017.webp",
+    "imdb": 7.3
+  },
+  "/dizi/pool-ha-woo-seu/": {
+    "group": "Pool Ha Woo Seu",
+    "year": 2004,
+    "poster": "https://dzycdn.com/img/t/163x245/pool-ha-woo-seu-2004.webp",
+    "imdb": 7.8
   }
 }

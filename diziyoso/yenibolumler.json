@@ -95,6 +95,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
     "imdb": 6.9
   },
+  "/dizi/outlast-the-jungle": {
+    "group": "Outlast: The Jungle",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/mkhpV2EgA3S4xFyl7KPOpxORa04.jpg",
+    "imdb": 6.8
+  },
   "/dizi/the-fortune": {
     "group": "The Fortune",
     "year": 2026,
@@ -119,17 +125,29 @@
     "poster": "https://image.tmdb.org/t/p/w500/nZGf0jnSJNXLf8o7iSzzX8qxHX9.jpg",
     "imdb": 6.3
   },
-  "/dizi/tip-toe": {
-    "group": "Tip Toe",
+  "/dizi/outlast-the-jungle/": {
+    "group": "Outlast: The Jungle",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/7xiRJczgpbMs2NSqDVpVXP5pMTJ.jpg",
-    "imdb": 9.1
+    "poster": "https://image.tmdb.org/t/p/w500/mkhpV2EgA3S4xFyl7KPOpxORa04.jpg",
+    "imdb": 6.8
   },
-  "/dizi/norges-vei-tilbake": {
-    "group": "Norges vei tilbake",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/kZgzZsVgNruGRWKzTbAIfvvrvHJ.jpg",
-    "imdb": 6.5
+  "/dizi/joseonroko-nokdujeon/": {
+    "group": "Joseonroko Nokdujeon",
+    "year": 2019,
+    "poster": "https://dzycdn.com/img/t/163x245/joseonroko-nokdujeon-2019.webp",
+    "imdb": 7.7
+  },
+  "/dizi/maen-too-maen/": {
+    "group": "Maen Too Maen",
+    "year": 2017,
+    "poster": "https://dzycdn.com/img/t/163x245/maen-too-maen-2017.webp",
+    "imdb": 7.3
+  },
+  "/dizi/pool-ha-woo-seu/": {
+    "group": "Pool Ha Woo Seu",
+    "year": 2004,
+    "poster": "https://dzycdn.com/img/t/163x245/pool-ha-woo-seu-2004.webp",
+    "imdb": 7.8
   },
   "/dizi/call-her-alex/": {
     "group": "Call Her Alex",
@@ -274,29 +292,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/kUuxTuzeHI4hbPO94ukieKJPcvC.jpg",
     "imdb": 8.2
-  },
-  "/dizi/southland/": {
-    "group": "Southland",
-    "year": 2009,
-    "poster": "https://image.tmdb.org/t/p/w500/flj41WynQKea6DVHgRbbPSWOB1t.jpg",
-    "imdb": 7.9
-  },
-  "/dizi/sumud-v2/": {
-    "group": "Sumud",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/mzxesd7tFSPccrSXZ70oA0fFmyJ.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/the-king-of-queens/": {
-    "group": "The King of Queens",
-    "year": 1998,
-    "poster": "https://image.tmdb.org/t/p/w500/vXs300Yvjy4Kr0iHgBtajHkYbAt.jpg",
-    "imdb": 7.129
-  },
-  "/dizi/eli-stone/": {
-    "group": "Eli Stone",
-    "year": 2008,
-    "poster": "https://image.tmdb.org/t/p/w500/hWVuLjx3QPhpfTCePbB9nunIJt0.jpg",
-    "imdb": 7.7
   }
 }
