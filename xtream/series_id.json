@@ -8,8 +8,8 @@
   "3001": {
     "name": "10 BIN ADIM (2020) TR",
     "last_season": 3,
-    "last_episode": 6,
-    "last_modified": 1781217570
+    "last_episode": 7,
+    "last_modified": 1781777554
   },
   "3002": {
     "name": "100 DAYS TO VICTORY (2018)",
@@ -41570,8 +41570,8 @@
   "9928": {
     "name": "AŞKIN GÜCÜ (2022) TR",
     "last_season": 2,
-    "last_episode": 13,
-    "last_modified": 1781639599
+    "last_episode": 15,
+    "last_modified": 1781777554
   },
   "9929": {
     "name": "KUS UÇUSU (2022) TR",
@@ -54127,9 +54127,9 @@
   },
   "12021": {
     "name": "좀비버스 (2023)",
-    "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1780396508
+    "last_season": 2,
+    "last_episode": 7,
+    "last_modified": 1781777554
   },
   "12022": {
     "name": "키스 식스 센스 (2022)",
@@ -54925,9 +54925,9 @@
   },
   "12154": {
     "name": "유미의 세포들 (2021)",
-    "last_season": 2,
-    "last_episode": 14,
-    "last_modified": 1780396508
+    "last_season": 3,
+    "last_episode": 8,
+    "last_modified": 1781777554
   },
   "12155": {
     "name": "시그널 (2016)",
@@ -69572,7 +69572,19 @@
   "14595": {
     "name": "WHEN THEY CRY: HIGURASHI (2006) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 25,
-    "last_modified": 1781757695
+    "last_episode": 26,
+    "last_modified": 1781777554
+  },
+  "14596": {
+    "name": "OUTLAST: THE JUNGLE (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1781777554
+  },
+  "14597": {
+    "name": "BAKI-DOU: THE INVINCIBLE SAMURAI (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 17,
+    "last_modified": 1781777554
   }
 }
