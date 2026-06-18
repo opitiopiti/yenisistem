@@ -1,4 +1,10 @@
 {
+  "/diziler/dr-stone.html": {
+    "group": "DR. STONE",
+    "year": "2019",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/ve1Sv3sVArmE0nlFjzadcNv1G8r.jpg"
+  },
   "/diziler/classroom-of-the-elite.html": {
     "group": "CLASSROOM OF THE ELITE",
     "year": "2017",
@@ -82,11 +88,5 @@
     "year": "2026",
     "imdb": "8.3",
     "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg"
-  },
-  "/diziler/scrubs-2026.html": {
-    "group": "SCRUBS",
-    "year": "2026",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/nNNM50G7p9C3n4vgidCiybsIdHA.jpg"
   }
 }

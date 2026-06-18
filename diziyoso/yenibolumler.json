@@ -1,4 +1,28 @@
 {
+  "/dizi/gwed": {
+    "group": "G’wed",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/9hB4MZi1pVunt8yfkhkbAPAzVS3.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/tongari-boushi-no-atelier": {
+    "group": "Tongari Boushi no Atelier",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/78m1Tv3suHmUryTI9VNPwKLKjHZ.jpg",
+    "imdb": 8.7
+  },
+  "/dizi/grantchester": {
+    "group": "Grantchester",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/5Itrb1x7OiA5A0XUreRuevR1hA6.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/the-season": {
+    "group": "The Season",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/kPz9M2hbZVRue9bbZAHKB9RrXox.jpg",
+    "imdb": 6.0
+  },
   "/dizi/not-suitable-for-work": {
     "group": "Not Suitable for Work",
     "year": 2026,
@@ -17,17 +41,35 @@
     "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
     "imdb": 6.5
   },
+  "/dizi/youre-killing-me": {
+    "group": "You’re Killing Me",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/vxPvBU1V84mX5O5089N3pNzXfrW.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/the-chi": {
+    "group": "The Chi",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg",
+    "imdb": 7.8
+  },
+  "/dizi/the-way-home": {
+    "group": "The Way Home",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg",
+    "imdb": 7.5
+  },
   "/dizi/rick-and-morty": {
     "group": "Rick and Morty",
     "year": 2013,
     "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
     "imdb": 9.0
   },
-  "/dizi/sumud": {
-    "group": "Sumud",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/mzxesd7tFSPccrSXZ70oA0fFmyJ.jpg",
-    "imdb": 0.0
+  "/dizi/power-book-iii-raising-kanan": {
+    "group": "Power Book III: Raising Kanan",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/pZ7IaHON9hnu8C0g3zdoWwIsJ9t.jpg",
+    "imdb": 8.1
   },
   "/dizi/proud": {
     "group": "Proud",
@@ -95,35 +137,29 @@
     "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
     "imdb": 6.9
   },
-  "/dizi/outlast-the-jungle": {
-    "group": "Outlast: The Jungle",
+  "/dizi/tongari-boushi-no-atelier/": {
+    "group": "Tongari Boushi no Atelier",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/mkhpV2EgA3S4xFyl7KPOpxORa04.jpg",
-    "imdb": 6.8
+    "poster": "https://image.tmdb.org/t/p/w500/78m1Tv3suHmUryTI9VNPwKLKjHZ.jpg",
+    "imdb": 8.7
   },
-  "/dizi/the-fortune": {
-    "group": "The Fortune",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/o5b56eHO8bjlAz7tlD77Z5joZ7G.jpg",
-    "imdb": 5.5
-  },
-  "/dizi/brilliant-minds": {
-    "group": "Brilliant Minds",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/vG6Bw2IwDf1DVkPd7nZwMExp0U5.jpg",
-    "imdb": 7.3
-  },
-  "/dizi/the-legend-of-vox-machina": {
-    "group": "The Legend of Vox Machina",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/zjQTSYZEmy0GVnK1aFLvNiAwluo.jpg",
-    "imdb": 8.2
-  },
-  "/dizi/every-year-after": {
-    "group": "Every Year After",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/nZGf0jnSJNXLf8o7iSzzX8qxHX9.jpg",
+  "/dizi/boruto-naruto-next-generations/": {
+    "group": "Boruto: Naruto Next Generations",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/e0B6i48kxdRkMcK4tR4YNfXGWOc.jpg",
     "imdb": 6.3
+  },
+  "/dizi/new-zealand-spy/": {
+    "group": "New Zealand Spy",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/7cIOwTqZDcUm0NMriuIZMGTx9az.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/the-season/": {
+    "group": "The Season",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/kPz9M2hbZVRue9bbZAHKB9RrXox.jpg",
+    "imdb": 6.0
   },
   "/dizi/impuros/": {
     "group": "Impuros",
@@ -233,24 +269,6 @@
     "poster": "https://image.tmdb.org/t/p/w500/fuS63AoFTkprf8PFeL1f8z68zJr.jpg",
     "imdb": 7.8
   },
-  "/dizi/leyla-hali/": {
-    "group": "Leyla Hâli",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/kG9zAggIsUegvSKCBl3IxmlLKWJ.jpg",
-    "imdb": 5.3
-  },
-  "/dizi/muhabir/": {
-    "group": "Muhabir",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/uWdOEzereOwAEUTmqgT7XYrnngB.jpg",
-    "imdb": 6.6
-  },
-  "/dizi/sule-senin-hikayen/": {
-    "group": "Şule: Senin Hikâyen",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/n16tOrl66RQ58ua0dBf8rGrVT4K.jpg",
-    "imdb": 3.3
-  },
   "/dizi/michael-jackson-the-verdict/": {
     "group": "Michael Jackson: The Verdict",
     "year": 2026,
@@ -286,11 +304,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/wsb9mUvHP3q3kO4xTjsCdVXtM4N.jpg",
     "imdb": 7.9
-  },
-  "/dizi/wild-crime/": {
-    "group": "Wild Crime",
-    "year": 2021,
-    "poster": "https://image.tmdb.org/t/p/w500/wNtr8sOVDlK1gcXfnJknjjvOzQU.jpg",
-    "imdb": 7.3
   }
 }

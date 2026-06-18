@@ -1,20 +1,32 @@
 {
-  "/dizi/seni-bulacagim/": {
-    "group": "Seni Bulacağım",
+  "/dizi/sumud-4/": {
+    "group": "Sumud",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/7WJJucDKypqoF27vfvErMPigP3P.jpg",
-    "imdb": 10.0
+    "poster": "https://image.tmdb.org/t/p/original/mzxesd7tFSPccrSXZ70oA0fFmyJ.jpg",
+    "imdb": 0.0
   },
-  "/dizi/dutton-ranch-17/": {
-    "group": "Dutton Ranch",
+  "/dizi/benim-adim-aylamaz-12/": {
+    "group": "Benim Adim Aylamaz",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
-    "imdb": 9.3
+    "poster": "https://image.tmdb.org/t/p/original/vslqNnjARZUdDav2CWIxGvxest9.jpg",
+    "imdb": 0.0
   },
-  "/dizi/spider-noir-3/": {
-    "group": "Spider-Noir",
+  "/dizi/muhabir-14/": {
+    "group": "Muhabir",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
-    "imdb": 8.6
+    "poster": "https://image.tmdb.org/t/p/original/uWdOEzereOwAEUTmqgT7XYrnngB.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/imam-gazali-huccetul-islam-20/": {
+    "group": "İmam Gazâlî Hüccetü'l-İslâm",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/cSmjwtqphOL3GVgwkBz3gKrZHxi.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/onbesliler-20/": {
+    "group": "Onbeşliler",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/fforqOZAOaVXsb8q3ex0cDNXOx4.jpg",
+    "imdb": 9.0
   }
 }
