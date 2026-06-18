@@ -1978,5 +1978,14 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/kPz9M2hbZVRue9bbZAHKB9RrXox.jpg"
+  },
+  "/dizi/i-will-find-you": {
+    "group": "I Will Find You",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": 10.0,
+    "poster": "https://image.tmdb.org/t/p/w500/7WJJucDKypqoF27vfvErMPigP3P.jpg"
   }
 }

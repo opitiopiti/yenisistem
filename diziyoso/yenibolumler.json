@@ -125,6 +125,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/nZGf0jnSJNXLf8o7iSzzX8qxHX9.jpg",
     "imdb": 6.3
   },
+  "/dizi/impuros/": {
+    "group": "Impuros",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/usmfk2VeZokEj3OfdAPu6GBP6pS.jpg",
+    "imdb": 8.1
+  },
   "/dizi/outlast-the-jungle/": {
     "group": "Outlast: The Jungle",
     "year": 2026,
@@ -286,11 +292,5 @@
     "year": 2021,
     "poster": "https://image.tmdb.org/t/p/w500/wNtr8sOVDlK1gcXfnJknjjvOzQU.jpg",
     "imdb": 7.3
-  },
-  "/dizi/los-topuria/": {
-    "group": "Los Topuria",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/kUuxTuzeHI4hbPO94ukieKJPcvC.jpg",
-    "imdb": 8.2
   }
 }

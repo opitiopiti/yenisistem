@@ -1,4 +1,13 @@
 {
+  "/dizi/i-will-find-you": {
+    "group": "I Will Find You",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": 10.0,
+    "poster": "https://image.tmdb.org/t/p/w500/7WJJucDKypqoF27vfvErMPigP3P.jpg"
+  },
   "/dizi/clarkson-s-farm": {
     "group": "Clarkson’s Farm",
     "last_season": 5,
