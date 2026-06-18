@@ -7,50 +7,5 @@
     "year": "2026",
     "imdb": 10.0,
     "poster": "https://image.tmdb.org/t/p/w500/7WJJucDKypqoF27vfvErMPigP3P.jpg"
-  },
-  "/dizi/clarkson-s-farm": {
-    "group": "Clarkson’s Farm",
-    "last_season": 5,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2021",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg"
-  },
-  "/dizi/maximum-pleasure-guaranteed": {
-    "group": "Maximum Pleasure Guaranteed",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
-  },
-  "/dizi/outlast-the-jungle": {
-    "group": "Outlast: The Jungle",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/mkhpV2EgA3S4xFyl7KPOpxORa04.jpg"
-  },
-  "/dizi/the-legend-of-vox-machina": {
-    "group": "The Legend of Vox Machina",
-    "last_season": 4,
-    "last_episode": 9,
-    "start_episode": 1,
-    "year": "2022",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg"
-  },
-  "/dizi/the-season": {
-    "group": "The Season",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/kPz9M2hbZVRue9bbZAHKB9RrXox.jpg"
   }
 }

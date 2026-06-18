@@ -29704,5 +29704,17 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/original/fforqOZAOaVXsb8q3ex0cDNXOx4.jpg",
     "imdb": 9.0
+  },
+  "/dizi/goosebumps/": {
+    "group": "Goosebumps",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/original/pMrMPlEJAGAKBUWJzeacIwjRU2C.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/dutton-ranch-18/": {
+    "group": "Dutton Ranch",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+    "imdb": 9.3
   }
 }
