@@ -29728,5 +29728,41 @@
     "year": "2023",
     "poster": "https://image.tmdb.org/t/p/original/94OpFcIZ3ZExqyJgrYafo41tZSt.jpg",
     "imdb": 7.3
+  },
+  "/dizi/sumud-5/": {
+    "group": "Sumud",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/mzxesd7tFSPccrSXZ70oA0fFmyJ.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/dutton-ranch-20/": {
+    "group": "Dutton Ranch",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+    "imdb": 9.3
+  },
+  "/dizi/benim-adim-aylamaz-13/": {
+    "group": "Benim Adim Aylamaz",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/vslqNnjARZUdDav2CWIxGvxest9.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/muhabir-15/": {
+    "group": "Muhabir",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/uWdOEzereOwAEUTmqgT7XYrnngB.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/imam-gazali-huccetul-islam-21/": {
+    "group": "İmam Gazâlî Hüccetü'l-İslâm",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/cSmjwtqphOL3GVgwkBz3gKrZHxi.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/onbesliler-21/": {
+    "group": "Onbeşliler",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/fforqOZAOaVXsb8q3ex0cDNXOx4.jpg",
+    "imdb": 9.0
   }
 }

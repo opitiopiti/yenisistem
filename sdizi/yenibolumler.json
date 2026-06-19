@@ -1,9 +1,27 @@
 {
+  "/diziler/tracker.html": {
+    "group": "TRACKER",
+    "year": "2024",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg"
+  },
+  "/diziler/cape-fear.html": {
+    "group": "CAPE FEAR",
+    "year": "2025",
+    "imdb": "0.0",
+    "poster": null
+  },
+  "/diziler/star-city.html": {
+    "group": "STAR CITY",
+    "year": "2026",
+    "imdb": "5.9",
+    "poster": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg"
+  },
   "/diziler/i-will-find-you.html": {
     "group": "I WILL FIND YOU",
-    "year": null,
-    "imdb": null,
-    "poster": null
+    "year": "2026",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg"
   },
   "/diziler/baki-dou-the-invincible-samurai.html": {
     "group": "BAKI-DOU: THE INVINCIBLE SAMURAI",
@@ -70,23 +88,5 @@
     "year": "2021",
     "imdb": "8.2",
     "poster": "https://image.tmdb.org/t/p/w500/nBe1e3JJEZ6veGrVXNF0fRoLu56.jpg"
-  },
-  "/diziler/rick-and-morty.html": {
-    "group": "RICK AND MORTY",
-    "year": "2013",
-    "imdb": "9.1",
-    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
-  },
-  "/diziler/my-adventures-with-superman.html": {
-    "group": "MY ADVENTURES WITH SUPERMAN",
-    "year": "2023",
-    "imdb": "7.7",
-    "poster": "https://image.tmdb.org/t/p/w500/kocOUpdLnHyqfMW4jSRLxWT0QhM.jpg"
-  },
-  "/diziler/the-terror.html": {
-    "group": "THE TERROR",
-    "year": "2018",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/bKkOcso0YuCBK7dixkn3VSd0dUr.jpg"
   }
 }
