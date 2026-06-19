@@ -1,4 +1,16 @@
 {
+  "/diziler/i-will-find-you.html": {
+    "group": "I WILL FIND YOU",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
+  "/diziler/baki-dou-the-invincible-samurai.html": {
+    "group": "BAKI-DOU: THE INVINCIBLE SAMURAI",
+    "year": "2026",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/frtzbwANetYd0M4zdrZ5gx0E89q.jpg"
+  },
   "/diziler/dr-stone.html": {
     "group": "DR. STONE",
     "year": "2019",
@@ -76,17 +88,5 @@
     "year": "2018",
     "imdb": "8.0",
     "poster": "https://image.tmdb.org/t/p/w500/bKkOcso0YuCBK7dixkn3VSd0dUr.jpg"
-  },
-  "/diziler/one-piece-izle.html": {
-    "group": "ONE PIECE",
-    "year": "1999",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
-  },
-  "/diziler/nippon-sangoku-the-three-nations-of-the-crimson-sun.html": {
-    "group": "NIPPON SANGOKU: THE THREE NATIONS OF THE CRIMSON SUN",
-    "year": "2026",
-    "imdb": "8.3",
-    "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg"
   }
 }

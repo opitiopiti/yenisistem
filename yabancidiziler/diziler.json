@@ -1987,5 +1987,14 @@
     "year": "2026",
     "imdb": 10.0,
     "poster": "https://image.tmdb.org/t/p/w500/7WJJucDKypqoF27vfvErMPigP3P.jpg"
+  },
+  "/dizi/sugar": {
+    "group": "Sugar",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "8.9",
+    "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
   }
 }
