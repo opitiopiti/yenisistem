@@ -1,4 +1,10 @@
 {
+  "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
+    "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
+    "year": "2018",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg"
+  },
   "/diziler/tracker.html": {
     "group": "TRACKER",
     "year": "2024",
@@ -82,11 +88,5 @@
     "year": "2026",
     "imdb": "7.3",
     "poster": "https://image.tmdb.org/t/p/w500/zQPnH87FXB6MEwRIy2xfhT41lq9.jpg"
-  },
-  "/diziler/abbott-elementary.html": {
-    "group": "ABBOTT ELEMENTARY",
-    "year": "2021",
-    "imdb": "8.2",
-    "poster": "https://image.tmdb.org/t/p/w500/nBe1e3JJEZ6veGrVXNF0fRoLu56.jpg"
   }
 }
