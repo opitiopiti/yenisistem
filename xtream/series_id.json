@@ -14377,9 +14377,9 @@
   },
   "5396": {
     "name": "SUGAR (2024)",
-    "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1775801787
+    "last_season": 2,
+    "last_episode": 1,
+    "last_modified": 1781878442
   },
   "5397": {
     "name": "SUNDERLAND 'TIL I DIE (2018)",
@@ -44960,8 +44960,8 @@
   "10493": {
     "name": "AN OBSERVATION LOG OF MY FIANCÉE WHO CALLS HERSELF A VILLAINESS (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1781272010
+    "last_episode": 12,
+    "last_modified": 1781878442
   },
   "10494": {
     "name": "ASCENDANCE OF A BOOKWORM SEASON 4 (2026) İNGİLİZCE",
@@ -46478,8 +46478,8 @@
   "10746": {
     "name": "UNCONDITIONAL (2026)",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1781272010
+    "last_episode": 8,
+    "last_modified": 1781878442
   },
   "10747": {
     "name": "MY ROYAL NEMESIS (2026)",
@@ -51506,8 +51506,8 @@
   "11584": {
     "name": "STAR CITY (2026)",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1781256943
+    "last_episode": 5,
+    "last_modified": 1781878442
   },
   "11585": {
     "name": "SCIENCE FELL IN LOVE, SO I TRIED TO PROVE IT. R=1-SINΘ (2022) İNGİLİZCE",
@@ -65732,8 +65732,8 @@
   "13955": {
     "name": "CAPE FEAR (2026)",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1781272010
+    "last_episode": 4,
+    "last_modified": 1781878442
   },
   "13956": {
     "name": "TEACH YOU A LESSON (2026)",
@@ -69218,8 +69218,8 @@
   "14536": {
     "name": "PROUD (2026)",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1781322235
+    "last_episode": 2,
+    "last_modified": 1781878442
   },
   "14537": {
     "name": "KENKA DOKUGAKU (2026)",
@@ -69592,5 +69592,11 @@
     "last_season": 1,
     "last_episode": 8,
     "last_modified": 1781808452
+  },
+  "14599": {
+    "name": "OASIS (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1781878442
   }
 }
