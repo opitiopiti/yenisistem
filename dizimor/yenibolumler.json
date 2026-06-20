@@ -1,14 +1,14 @@
 {
-  "/dizi/proud/": {
-    "group": "Proud",
+  "/dizi/viral-hit-2/": {
+    "group": "Viral Hit",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
-    "imdb": 4.4
+    "poster": "https://image.tmdb.org/t/p/original/cjy716l2l6uCCbvkkRgFReCdjYF.jpg",
+    "imdb": 0.0
   },
-  "/dizi/dutton-ranch-21/": {
-    "group": "Dutton Ranch",
+  "/dizi/viral-hit-1/": {
+    "group": "Viral Hit",
     "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
-    "imdb": 9.3
+    "poster": "https://image.tmdb.org/t/p/original/8VCLKvxUpnsRH4ZjECM5e22KcIB.jpg",
+    "imdb": 0.0
   }
 }

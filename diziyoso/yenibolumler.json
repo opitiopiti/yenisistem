@@ -5,12 +5,6 @@
     "poster": "https://image.tmdb.org/t/p/w500/9hB4MZi1pVunt8yfkhkbAPAzVS3.jpg",
     "imdb": 6.7
   },
-  "/dizi/tongari-boushi-no-atelier": {
-    "group": "Tongari Boushi no Atelier",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/78m1Tv3suHmUryTI9VNPwKLKjHZ.jpg",
-    "imdb": 8.7
-  },
   "/dizi/grantchester": {
     "group": "Grantchester",
     "year": 2014,
@@ -137,17 +131,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/xUj3YCz3exVDV2iLZus0nUV6HNw.jpg",
     "imdb": 6.9
   },
-  "/dizi/tongari-boushi-no-atelier/": {
-    "group": "Tongari Boushi no Atelier",
+  "/dizi/outlast-the-jungle": {
+    "group": "Outlast: The Jungle",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/78m1Tv3suHmUryTI9VNPwKLKjHZ.jpg",
-    "imdb": 8.7
-  },
-  "/dizi/boruto-naruto-next-generations/": {
-    "group": "Boruto: Naruto Next Generations",
-    "year": 2017,
-    "poster": "https://image.tmdb.org/t/p/w500/e0B6i48kxdRkMcK4tR4YNfXGWOc.jpg",
-    "imdb": 6.3
+    "poster": "https://image.tmdb.org/t/p/w500/mkhpV2EgA3S4xFyl7KPOpxORa04.jpg",
+    "imdb": 6.8
   },
   "/dizi/new-zealand-spy/": {
     "group": "New Zealand Spy",
@@ -304,5 +292,17 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/wsb9mUvHP3q3kO4xTjsCdVXtM4N.jpg",
     "imdb": 7.9
+  },
+  "/dizi/wild-crime/": {
+    "group": "Wild Crime",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/wNtr8sOVDlK1gcXfnJknjjvOzQU.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/los-topuria/": {
+    "group": "Los Topuria",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/kUuxTuzeHI4hbPO94ukieKJPcvC.jpg",
+    "imdb": 8.2
   }
 }
