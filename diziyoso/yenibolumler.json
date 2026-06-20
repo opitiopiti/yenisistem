@@ -191,18 +191,6 @@
     "poster": "https://image.tmdb.org/t/p/w500/26fMaTPRczCrTUOQ5svA1Db7l4h.jpg",
     "imdb": 8.1
   },
-  "/dizi/bara-ou-no-souretsu/": {
-    "group": "Bara Ou no Souretsu",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/xhoveJefmxPbQFSPJ1xTzp8qvpd.jpg",
-    "imdb": 5.273
-  },
-  "/dizi/100-man-no-inochi-no-ue-ni-ore-wa-tatteiru/": {
-    "group": "100-man no Inochi no Ue ni Ore wa Tatteiru",
-    "year": 2020,
-    "poster": "https://image.tmdb.org/t/p/w500/vdUva7C2B1wZI2D4vjBSWJIc8IG.jpg",
-    "imdb": 6.4
-  },
   "/dizi/three-pines/": {
     "group": "Three Pines",
     "year": "2022",
@@ -304,5 +292,17 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/kUuxTuzeHI4hbPO94ukieKJPcvC.jpg",
     "imdb": 8.2
+  },
+  "/dizi/southland/": {
+    "group": "Southland",
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/flj41WynQKea6DVHgRbbPSWOB1t.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/sumud-v2/": {
+    "group": "Sumud",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/mzxesd7tFSPccrSXZ70oA0fFmyJ.jpg",
+    "imdb": 0.0
   }
 }
