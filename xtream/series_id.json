@@ -35683,8 +35683,8 @@
   },
   "8947": {
     "name": "WELCOME TO WREXHAM (2022)",
-    "last_season": 5,
-    "last_episode": 2,
+    "last_season": 4,
+    "last_episode": 8,
     "last_modified": 1781137603
   },
   "8948": {
@@ -69128,8 +69128,8 @@
   "14521": {
     "name": "THE FIRST JASMINE (2026)",
     "last_season": 1,
-    "last_episode": 23,
-    "last_modified": 1781891624
+    "last_episode": 24,
+    "last_modified": 1781928603
   },
   "14522": {
     "name": "KAKEGURUI TWIN (2022) İNGİLİZCE",
@@ -69610,5 +69610,11 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1781905012
+  },
+  "14602": {
+    "name": "ZOMBIE LAND SAGA REVENGE (2021) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 12,
+    "last_modified": 1781928603
   }
 }
