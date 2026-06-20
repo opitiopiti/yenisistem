@@ -1996,5 +1996,23 @@
     "year": "2024",
     "imdb": "8.9",
     "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
+  },
+  "/dizi/baki-dou-the-invincible-samurai": {
+    "group": "BAKI-DOU: The Invincible Samurai",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/frtzbwANetYd0M4zdrZ5gx0E89q.jpg"
+  },
+  "/dizi/oasis": {
+    "group": "Oasis",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "5.4",
+    "poster": "https://image.tmdb.org/t/p/w500/vWBtcjETIUd45OoIULEqc6qZxM7.jpg"
   }
 }
