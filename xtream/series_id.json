@@ -44966,8 +44966,8 @@
   "10494": {
     "name": "ASCENDANCE OF A BOOKWORM SEASON 4 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1781353709
+    "last_episode": 11,
+    "last_modified": 1781958721
   },
   "10495": {
     "name": "A HUNDRED SCENES OF AWAJIMA (2026) İNGİLİZCE",
@@ -45032,8 +45032,8 @@
   "10505": {
     "name": "DETECTIVE CONAN (1996) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1203,
-    "last_modified": 1781353709
+    "last_episode": 1204,
+    "last_modified": 1781958721
   },
   "10506": {
     "name": "DIGIMON BEATBREAK (2025) İNGİLİZCE",
@@ -45512,8 +45512,8 @@
   "10585": {
     "name": "WELCOME TO DEMON SCHOOL, IRUMA-KUN 4 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1781353709
+    "last_episode": 12,
+    "last_modified": 1781958721
   },
   "10586": {
     "name": "WITCH HAT ATELIER (2026) İNGİLİZCE",
@@ -45638,8 +45638,8 @@
   "10606": {
     "name": "POKEMON HORIZONS: THE SERIES (2023) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 140,
-    "last_modified": 1781369347
+    "last_episode": 141,
+    "last_modified": 1781958721
   },
   "10607": {
     "name": "GOMORRAH: THE ORIGINS (2026)",
@@ -69616,5 +69616,23 @@
     "last_season": 1,
     "last_episode": 12,
     "last_modified": 1781928603
+  },
+  "14603": {
+    "name": "ASHES TO CROWN (0000)",
+    "last_season": 1,
+    "last_episode": 20,
+    "last_modified": 1781958721
+  },
+  "14604": {
+    "name": "I WILL FIND YOU (0000)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1781958721
+  },
+  "14605": {
+    "name": "LORD OF MYSTERIES SPECIALS (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1781958721
   }
 }
