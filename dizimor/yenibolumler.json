@@ -1,8 +1,14 @@
 {
-  "/dizi/iyi-cocuk/": {
-    "group": "İyi Çocuk",
+  "/dizi/oasis-2/": {
+    "group": "Oasis",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/jUTbd3K9xmRUfvSjYSx8NIi8ZCw.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/amsterdam-centraal-24-7/": {
+    "group": "Amsterdam Centraal 24/7",
     "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/original/oT664enBMRFmLrxoTSauaFhzNjp.jpg",
-    "imdb": 7.5
+    "poster": "https://image.tmdb.org/t/p/original/2U9ok4oUuKTqhP6l3k5xpsbyMjJ.jpg",
+    "imdb": 8.5
   }
 }
