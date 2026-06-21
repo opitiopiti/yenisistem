@@ -31282,5 +31282,11 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/kPz9M2hbZVRue9bbZAHKB9RrXox.jpg",
     "imdb": 6.0
+  },
+  "/dizi/gun-dakteo/": {
+    "group": "Gun dakteo",
+    "year": 2013,
+    "poster": "https://dzycdn.com/img/t/163x245/gun-dakteo-2013.webp",
+    "imdb": 0.0
   }
 }
