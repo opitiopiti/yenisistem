@@ -19,5 +19,6 @@
   "127.0.0.1": { "priority": 16, "enabled": true },
   "m3utoken": { "priority": 17, "enabled": true },
 
-  "vidmoly": { "priority": 17, "enabled": false }
+  "vidmoly": { "priority": 17, "enabled": false },
+  "deneme": { "priority": 99, "enabled": true }
 }
