@@ -2023,5 +2023,23 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/lfxCyJYpZ8TG2CQDuot0tLINbyg.jpg"
+  },
+  "/dizi/make-that-movie": {
+    "group": "Make That Movie",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.1",
+    "poster": "https://image.tmdb.org/t/p/w500/7guFs3oa3vgVl9BvgqtvdqIgZiz.jpg"
+  },
+  "/dizi/the-agency": {
+    "group": "The Agency",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/fDZgOeTiplrl0skvK6IIyejHLQF.jpg"
   }
 }
