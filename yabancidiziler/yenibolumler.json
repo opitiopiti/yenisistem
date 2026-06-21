@@ -34,14 +34,5 @@
     "year": "2024",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/fDZgOeTiplrl0skvK6IIyejHLQF.jpg"
-  },
-  "/dizi/v-rzea-onde-nasce-o-futebol": {
-    "group": "Várzea: Onde Nasce o Futebol",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/lfxCyJYpZ8TG2CQDuot0tLINbyg.jpg"
   }
 }

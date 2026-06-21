@@ -1,14 +1,1 @@
-{
-  "/dizi/smallville/": {
-    "group": "Smallville",
-    "year": "2001",
-    "poster": "https://image.tmdb.org/t/p/original/mHZSq8LA5Dt48JjaOZ5tcPXQRVN.jpg",
-    "imdb": 7.5
-  },
-  "/dizi/dutton-ranch-23/": {
-    "group": "Dutton Ranch",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
-    "imdb": 9.3
-  }
-}
+{}
