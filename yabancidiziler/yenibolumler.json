@@ -2,7 +2,7 @@
   "/dizi/interview-with-the-vampire": {
     "group": "Interview with the Vampire",
     "last_season": 3,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1,
     "year": "2022",
     "imdb": "7.2",
@@ -11,7 +11,7 @@
   "/dizi/make-that-movie": {
     "group": "Make That Movie",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.1",
@@ -20,7 +20,7 @@
   "/dizi/my-adventures-with-superman": {
     "group": "My Adventures with Superman",
     "last_season": 3,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1,
     "year": "2023",
     "imdb": "7.7",
@@ -28,8 +28,8 @@
   },
   "/dizi/the-agency": {
     "group": "The Agency",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 1,
     "start_episode": 1,
     "year": "2024",
     "imdb": "7.0",
