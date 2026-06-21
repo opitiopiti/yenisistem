@@ -1,4 +1,76 @@
 {
+  "/dizi/gwed": {
+    "group": "G’wed",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/9hB4MZi1pVunt8yfkhkbAPAzVS3.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/grantchester": {
+    "group": "Grantchester",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/5Itrb1x7OiA5A0XUreRuevR1hA6.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/the-season": {
+    "group": "The Season",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/kPz9M2hbZVRue9bbZAHKB9RrXox.jpg",
+    "imdb": 6.0
+  },
+  "/dizi/not-suitable-for-work": {
+    "group": "Not Suitable for Work",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/maximum-pleasure-guaranteed": {
+    "group": "Maximum Pleasure Guaranteed",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/widows-bay": {
+    "group": "Widow’s Bay",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/youre-killing-me": {
+    "group": "You’re Killing Me",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/vxPvBU1V84mX5O5089N3pNzXfrW.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/the-chi": {
+    "group": "The Chi",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg",
+    "imdb": 7.8
+  },
+  "/dizi/the-way-home": {
+    "group": "The Way Home",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/rick-and-morty": {
+    "group": "Rick and Morty",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
+    "imdb": 9.0
+  },
+  "/dizi/power-book-iii-raising-kanan": {
+    "group": "Power Book III: Raising Kanan",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/pZ7IaHON9hnu8C0g3zdoWwIsJ9t.jpg",
+    "imdb": 8.1
+  },
+  "/dizi/proud": {
+    "group": "Proud",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
+    "imdb": 7.4
+  },
   "/dizi/the-polygamist": {
     "group": "The Polygamist",
     "year": 2026,
