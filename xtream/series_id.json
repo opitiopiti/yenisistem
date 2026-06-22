@@ -69128,8 +69128,8 @@
   "14521": {
     "name": "THE FIRST JASMINE (2026)",
     "last_season": 1,
-    "last_episode": 27,
-    "last_modified": 1782063033
+    "last_episode": 28,
+    "last_modified": 1782104153
   },
   "14522": {
     "name": "KAKEGURUI TWIN (2022) İNGİLİZCE",
@@ -69638,7 +69638,13 @@
   "14606": {
     "name": "BAKA AND TEST - SUMMON THE BEASTS (2010) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1782078599
+    "last_episode": 13,
+    "last_modified": 1782104153
+  },
+  "14607": {
+    "name": "BAKA AND TEST - SUMMON THE BEASTS 2 (2011) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 13,
+    "last_modified": 1782104153
   }
 }
