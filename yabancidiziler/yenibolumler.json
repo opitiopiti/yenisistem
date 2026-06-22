@@ -7,50 +7,5 @@
     "year": "2013",
     "imdb": "9.1",
     "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg"
-  },
-  "/dizi/interview-with-the-vampire": {
-    "group": "Interview with the Vampire",
-    "last_season": 3,
-    "last_episode": 3,
-    "start_episode": 1,
-    "year": "2022",
-    "imdb": "7.2",
-    "poster": "https://image.tmdb.org/t/p/w500/Afv4pPhqVMg2wOmhuDLiGUw4r4O.jpg"
-  },
-  "/dizi/make-that-movie": {
-    "group": "Make That Movie",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "6.1",
-    "poster": "https://image.tmdb.org/t/p/w500/7guFs3oa3vgVl9BvgqtvdqIgZiz.jpg"
-  },
-  "/dizi/my-adventures-with-superman": {
-    "group": "My Adventures with Superman",
-    "last_season": 3,
-    "last_episode": 2,
-    "start_episode": 1,
-    "year": "2023",
-    "imdb": "7.7",
-    "poster": "https://image.tmdb.org/t/p/w500/tMslOS7noUUjc8BLvePk2QsV75v.jpg"
-  },
-  "/dizi/nippon-sangoku": {
-    "group": "Nippon Sangoku",
-    "last_season": 1,
-    "last_episode": 12,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/qHQnNHefuHI8N4lCoRQQP6pckMr.jpg"
-  },
-  "/dizi/the-agency": {
-    "group": "The Agency",
-    "last_season": 2,
-    "last_episode": 10,
-    "start_episode": 1,
-    "year": "2024",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/fDZgOeTiplrl0skvK6IIyejHLQF.jpg"
   }
 }
