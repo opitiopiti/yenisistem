@@ -1,4 +1,10 @@
 {
+  "/dizi/house-of-the-dragon/": {
+    "group": "House of the Dragon",
+    "year": 2022,
+    "imdb": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w500/7QMsOTMUswlwxJP0rTTZfmz2tX2.jpg"
+  },
   "/dizi/sugar/": {
     "group": "Sugar",
     "year": 2024,

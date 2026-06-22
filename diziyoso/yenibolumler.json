@@ -1,15 +1,21 @@
 {
-  "/dizi/gwed": {
-    "group": "G’wed",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/9hB4MZi1pVunt8yfkhkbAPAzVS3.jpg",
-    "imdb": 6.7
+  "/dizi/house-of-the-dragon": {
+    "group": "House of the Dragon",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+    "imdb": 8.3
   },
   "/dizi/grantchester": {
     "group": "Grantchester",
     "year": 2014,
     "poster": "https://image.tmdb.org/t/p/w500/5Itrb1x7OiA5A0XUreRuevR1hA6.jpg",
     "imdb": 7.3
+  },
+  "/dizi/i-will-find-you": {
+    "group": "I Will Find You",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
+    "imdb": 7.8
   },
   "/dizi/the-season": {
     "group": "The Season",
@@ -34,6 +40,12 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
     "imdb": 6.5
+  },
+  "/dizi/gwed": {
+    "group": "G’wed",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/9hB4MZi1pVunt8yfkhkbAPAzVS3.jpg",
+    "imdb": 6.7
   },
   "/dizi/youre-killing-me": {
     "group": "You’re Killing Me",
@@ -136,6 +148,30 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/mkhpV2EgA3S4xFyl7KPOpxORa04.jpg",
     "imdb": 6.8
+  },
+  "/dizi/birth-of-a-beauty/": {
+    "group": "Birth of a Beauty",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/6z9mEvrF6g9UPTan7xhWq9ssE5Y.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/cheong-dam-guk-je-go-deung-hak-gyo/": {
+    "group": "Cheong Dam Guk Je Go Deung Hak Gyo",
+    "year": 2023,
+    "poster": "https://dzycdn.com/img/t/163x245/cheong-dam-guk-je-go-deung-hak-gyo-2023.webp",
+    "imdb": 0.0
+  },
+  "/dizi/dan-hanaui-sarang/": {
+    "group": "Dan Hanaui Sarang",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/ltoY1cMTdh5ovUe6JhEsuU5Twd3.jpg",
+    "imdb": 8.1
+  },
+  "/dizi/i-will-find-you/": {
+    "group": "I Will Find You",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
+    "imdb": 8.69
   },
   "/dizi/gun-dakteo/": {
     "group": "Gun dakteo",
@@ -280,29 +316,5 @@
     "year": 2022,
     "poster": "https://image.tmdb.org/t/p/w500/s9PcACoLpbcV1OM8lTkeLdtMFSQ.jpg",
     "imdb": 7.7
-  },
-  "/dizi/thanai-pisat/": {
-    "group": "Thanai Pisat",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/wsb9mUvHP3q3kO4xTjsCdVXtM4N.jpg",
-    "imdb": 7.9
-  },
-  "/dizi/wild-crime/": {
-    "group": "Wild Crime",
-    "year": 2021,
-    "poster": "https://image.tmdb.org/t/p/w500/wNtr8sOVDlK1gcXfnJknjjvOzQU.jpg",
-    "imdb": 7.3
-  },
-  "/dizi/los-topuria/": {
-    "group": "Los Topuria",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/kUuxTuzeHI4hbPO94ukieKJPcvC.jpg",
-    "imdb": 8.2
-  },
-  "/dizi/southland/": {
-    "group": "Southland",
-    "year": 2009,
-    "poster": "https://image.tmdb.org/t/p/w500/flj41WynQKea6DVHgRbbPSWOB1t.jpg",
-    "imdb": 7.9
   }
 }

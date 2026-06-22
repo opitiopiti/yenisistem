@@ -1,4 +1,10 @@
 {
+  "/diziler/rick-and-morty.html": {
+    "group": "RICK AND MORTY",
+    "year": "2013",
+    "imdb": "9.1",
+    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
+  },
   "/diziler/one-piece-izle.html": {
     "group": "ONE PIECE",
     "year": "1999",
@@ -82,11 +88,5 @@
     "year": "2021",
     "imdb": "9.0",
     "poster": "https://image.tmdb.org/t/p/w500/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg"
-  },
-  "/diziler/the-legend-of-vox-machina.html": {
-    "group": "THE LEGEND OF VOX MACHINA",
-    "year": "2022",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg"
   }
 }

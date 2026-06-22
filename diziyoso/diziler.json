@@ -31288,5 +31288,41 @@
     "year": 2013,
     "poster": "https://dzycdn.com/img/t/163x245/gun-dakteo-2013.webp",
     "imdb": 0.0
+  },
+  "/dizi/house-of-the-dragon": {
+    "group": "House of the Dragon",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+    "imdb": 8.3
+  },
+  "/dizi/i-will-find-you": {
+    "group": "I Will Find You",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
+    "imdb": 7.8
+  },
+  "/dizi/birth-of-a-beauty/": {
+    "group": "Birth of a Beauty",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/6z9mEvrF6g9UPTan7xhWq9ssE5Y.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/cheong-dam-guk-je-go-deung-hak-gyo/": {
+    "group": "Cheong Dam Guk Je Go Deung Hak Gyo",
+    "year": 2023,
+    "poster": "https://dzycdn.com/img/t/163x245/cheong-dam-guk-je-go-deung-hak-gyo-2023.webp",
+    "imdb": 0.0
+  },
+  "/dizi/dan-hanaui-sarang/": {
+    "group": "Dan Hanaui Sarang",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/ltoY1cMTdh5ovUe6JhEsuU5Twd3.jpg",
+    "imdb": 8.1
+  },
+  "/dizi/i-will-find-you/": {
+    "group": "I Will Find You",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
+    "imdb": 8.69
   }
 }
