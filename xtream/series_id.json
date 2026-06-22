@@ -44011,9 +44011,9 @@
   },
   "10335": {
     "name": "THE AGENCY (2024)",
-    "last_season": 1,
+    "last_season": 2,
     "last_episode": 10,
-    "last_modified": 1775801787
+    "last_modified": 1782157283
   },
   "10336": {
     "name": "MEDICI: MASTERS OF FLORENCE (2016)",
@@ -45080,8 +45080,8 @@
   "10513": {
     "name": "FARMING LIFE IN ANOTHER WORLD 2 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1781553746
+    "last_episode": 12,
+    "last_modified": 1782157283
   },
   "10514": {
     "name": "FATE/STRANGE FAKE (2026) İNGİLİZCE",
@@ -45212,8 +45212,8 @@
   "10535": {
     "name": "LIAR GAME (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1781553746
+    "last_episode": 12,
+    "last_modified": 1782157283
   },
   "10536": {
     "name": "MAGICAL SISTERS LULUTTO LILLY (2026) İNGİLİZCE",
@@ -45452,8 +45452,8 @@
   "10575": {
     "name": "THE KLUTZY CLASS MONITOR AND THE GIRL WITH THE SHORT SKIRT (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1781553746
+    "last_episode": 12,
+    "last_modified": 1782157283
   },
   "10576": {
     "name": "THE MOST HERETICAL LAST BOSS QUEEN: FROM VILLAINESS TO SAVIOR 2ND SEASON (2026) İNGİLİZCE",
@@ -45518,8 +45518,8 @@
   "10586": {
     "name": "WITCH HAT ATELIER (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 12,
-    "last_modified": 1781553746
+    "last_episode": 13,
+    "last_modified": 1782157283
   },
   "10587": {
     "name": "YONA OF THE DAWN (2014) İNGİLİZCE",
@@ -69128,8 +69128,8 @@
   "14521": {
     "name": "THE FIRST JASMINE (2026)",
     "last_season": 1,
-    "last_episode": 28,
-    "last_modified": 1782104153
+    "last_episode": 29,
+    "last_modified": 1782157283
   },
   "14522": {
     "name": "KAKEGURUI TWIN (2022) İNGİLİZCE",
@@ -69646,5 +69646,11 @@
     "last_season": 1,
     "last_episode": 13,
     "last_modified": 1782104153
+  },
+  "14608": {
+    "name": "SEE YOU AT WORK TOMORROW! (2026)",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1782157283
   }
 }
