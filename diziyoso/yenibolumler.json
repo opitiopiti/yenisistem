@@ -5,6 +5,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
     "imdb": 8.3
   },
+  "/dizi/the-root-of-the-game": {
+    "group": "The Root of the Game",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/br2HS3NZ3Hkvcg7AMryE0vUEMSs.jpg",
+    "imdb": 10.0
+  },
   "/dizi/the-amazing-digital-circus": {
     "group": "The Amazing Digital Circus",
     "year": 2023,
@@ -154,6 +160,12 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/mkhpV2EgA3S4xFyl7KPOpxORa04.jpg",
     "imdb": 6.8
+  },
+  "/dizi/the-root-of-the-game/": {
+    "group": "The Root of the Game",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/br2HS3NZ3Hkvcg7AMryE0vUEMSs.jpg",
+    "imdb": 10.0
   },
   "/dizi/birth-of-a-beauty/": {
     "group": "Birth of a Beauty",
@@ -316,11 +328,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/8VCLKvxUpnsRH4ZjECM5e22KcIB.jpg",
     "imdb": 6.7
-  },
-  "/dizi/life-below-zero-first-alaskans/": {
-    "group": "Life Below Zero: First Alaskans",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/s9PcACoLpbcV1OM8lTkeLdtMFSQ.jpg",
-    "imdb": 7.7
   }
 }

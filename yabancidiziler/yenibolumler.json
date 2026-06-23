@@ -1,4 +1,22 @@
 {
+  "/dizi/not-suitable-for-work": {
+    "group": "Not Suitable for Work",
+    "last_season": 1,
+    "last_episode": 7,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg"
+  },
+  "/dizi/the-au-pair": {
+    "group": "The Au Pair",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "5.7",
+    "poster": "https://image.tmdb.org/t/p/w500/4RQkZDIu3Ofm2htjGpnfQLjeb3T.jpg"
+  },
   "/dizi/grantchester": {
     "group": "Grantchester",
     "last_season": 11,

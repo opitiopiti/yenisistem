@@ -2041,5 +2041,14 @@
     "year": "2024",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/fDZgOeTiplrl0skvK6IIyejHLQF.jpg"
+  },
+  "/dizi/the-au-pair": {
+    "group": "The Au Pair",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "5.7",
+    "poster": "https://image.tmdb.org/t/p/w500/4RQkZDIu3Ofm2htjGpnfQLjeb3T.jpg"
   }
 }

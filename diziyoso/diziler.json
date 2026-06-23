@@ -31330,5 +31330,17 @@
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/lpfrgfomX8uNFxv4VaEzvJGs9TK.jpg",
     "imdb": 8.4
+  },
+  "/dizi/the-root-of-the-game": {
+    "group": "The Root of the Game",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/br2HS3NZ3Hkvcg7AMryE0vUEMSs.jpg",
+    "imdb": 10.0
+  },
+  "/dizi/the-root-of-the-game/": {
+    "group": "The Root of the Game",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/br2HS3NZ3Hkvcg7AMryE0vUEMSs.jpg",
+    "imdb": 10.0
   }
 }
