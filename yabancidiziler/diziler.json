@@ -1667,7 +1667,7 @@
   "/dizi/not-suitable-for-work": {
     "group": "Not Suitable for Work",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 9,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -2045,7 +2045,7 @@
   "/dizi/the-au-pair": {
     "group": "The Au Pair",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1,
     "year": "2025",
     "imdb": "5.7",
