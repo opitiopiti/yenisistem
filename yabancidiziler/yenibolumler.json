@@ -1,4 +1,13 @@
 {
+  "/dizi/grantchester": {
+    "group": "Grantchester",
+    "last_season": 11,
+    "last_episode": 1,
+    "start_episode": 1,
+    "year": "2014",
+    "imdb": "7.1",
+    "poster": "https://image.tmdb.org/t/p/w500/5Itrb1x7OiA5A0XUreRuevR1hA6.jpg"
+  },
   "/dizi/rick-and-morty": {
     "group": "Rick and Morty",
     "last_season": 9,
@@ -7,5 +16,14 @@
     "year": "2013",
     "imdb": "9.1",
     "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg"
+  },
+  "/dizi/you-sharp039-re-killing-me": {
+    "group": "You're Killing Me",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/vxPvBU1V84mX5O5089N3pNzXfrW.jpg"
   }
 }

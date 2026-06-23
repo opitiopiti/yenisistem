@@ -29872,5 +29872,23 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/original/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
     "imdb": 9.3
+  },
+  "/dizi/dutton-ranch-26/": {
+    "group": "Dutton Ranch",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+    "imdb": 9.3
+  },
+  "/dizi/lawmen-bass-reeves-2/": {
+    "group": "Lawmen: Bass Reeves",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/original/94OpFcIZ3ZExqyJgrYafo41tZSt.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/one-tree-hill-2/": {
+    "group": "One Tree Hill",
+    "year": "2003",
+    "poster": "https://image.tmdb.org/t/p/original/sOrelBaAhp7DZbPTivDwKEyPslC.jpg",
+    "imdb": 7.8
   }
 }

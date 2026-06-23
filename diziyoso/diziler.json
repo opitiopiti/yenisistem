@@ -31324,5 +31324,11 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
     "imdb": 8.69
+  },
+  "/dizi/the-amazing-digital-circus": {
+    "group": "The Amazing Digital Circus",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/lpfrgfomX8uNFxv4VaEzvJGs9TK.jpg",
+    "imdb": 8.4
   }
 }
