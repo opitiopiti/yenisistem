@@ -43,23 +43,5 @@
     "year": "2026",
     "imdb": "8.9",
     "poster": "https://image.tmdb.org/t/p/w500/30P3ySNo0m0xNhHQMXzpmquLwxa.jpg"
-  },
-  "/dizi/not-suitable-for-work": {
-    "group": "Not Suitable for Work",
-    "last_season": 1,
-    "last_episode": 9,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg"
-  },
-  "/dizi/the-au-pair": {
-    "group": "The Au Pair",
-    "last_season": 1,
-    "last_episode": 4,
-    "start_episode": 1,
-    "year": "2025",
-    "imdb": "5.7",
-    "poster": "https://image.tmdb.org/t/p/w500/4RQkZDIu3Ofm2htjGpnfQLjeb3T.jpg"
   }
 }
