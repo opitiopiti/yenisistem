@@ -1,4 +1,10 @@
 {
+  "/dizi/sahsiyet/": {
+    "group": "Şahsiyet",
+    "year": 2018,
+    "imdb": 8.9,
+    "poster": "https://image.tmdb.org/t/p/w500/nC68Pf7jnddVcZsPuzAnYUHJqff.jpg"
+  },
   "/dizi/house-of-the-dragon/": {
     "group": "House of the Dragon",
     "year": 2022,
@@ -88,11 +94,5 @@
     "year": 2021,
     "imdb": 7.2,
     "poster": "https://image.tmdb.org/t/p/w500/ZAQbYIG2bHblv2lGapfFS6TmkX.jpg"
-  },
-  "/dizi/your-friends-and-neighbors/": {
-    "group": "Your Friends and Neighbors",
-    "year": 2025,
-    "imdb": 7.7,
-    "poster": "https://image.tmdb.org/t/p/w500/lcp63INKEsVHUly9eayx7gEEOcG.jpg"
   }
 }
