@@ -1,4 +1,16 @@
 {
+  "/diziler/the-legend-of-vox-machina.html": {
+    "group": "THE LEGEND OF VOX MACHINA",
+    "year": "2022",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg"
+  },
+  "/diziler/maximum-pleasure-guaranteed.html": {
+    "group": "MAXIMUM PLEASURE GUARANTEED",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/oeD9rnfk7AohNiJTRoCx4SOKhXj.jpg"
+  },
   "/diziler/rick-and-morty.html": {
     "group": "RICK AND MORTY",
     "year": "2013",
@@ -76,17 +88,5 @@
     "year": "2016",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/aRwmcX36r1ZpR5Xq5mmFcpUDQ8J.jpg"
-  },
-  "/diziler/er.html": {
-    "group": "ER",
-    "year": "1994",
-    "imdb": "7.9",
-    "poster": "https://image.tmdb.org/t/p/w500/fuS63AoFTkprf8PFeL1f8z68zJr.jpg"
-  },
-  "/diziler/clarksons-farm.html": {
-    "group": "CLARKSON'S FARM",
-    "year": "2021",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/yKc3FqwD2eanWBUwqcRH7bChE3V.jpg"
   }
 }
