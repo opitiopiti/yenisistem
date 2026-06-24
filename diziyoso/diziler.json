@@ -31348,5 +31348,11 @@
     "year": 2024,
     "poster": "https://image.tmdb.org/t/p/w500/fDZgOeTiplrl0skvK6IIyejHLQF.jpg",
     "imdb": 7.2
+  },
+  "/dizi/zeytin-agaci": {
+    "group": "Zeytin Ağacı",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/zogTjQRIJsmg8yvIo8gDLtp65th.jpg",
+    "imdb": 7.3
   }
 }
