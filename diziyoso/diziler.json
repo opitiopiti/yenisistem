@@ -31342,5 +31342,11 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/br2HS3NZ3Hkvcg7AMryE0vUEMSs.jpg",
     "imdb": 10.0
+  },
+  "/dizi/the-agency-central-intelligence": {
+    "group": "The Agency: Central Intelligence",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/fDZgOeTiplrl0skvK6IIyejHLQF.jpg",
+    "imdb": 7.2
   }
 }

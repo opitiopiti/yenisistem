@@ -1,4 +1,10 @@
 {
+  "/dizi/maximum-pleasure-guaranteed/": {
+    "group": "Maximum Pleasure Guaranteed",
+    "year": 2026,
+    "imdb": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
+  },
   "/dizi/sahsiyet/": {
     "group": "Şahsiyet",
     "year": 2018,
@@ -46,12 +52,6 @@
     "year": 2026,
     "imdb": 7.2,
     "poster": "https://image.tmdb.org/t/p/w500/l0RJjiE6k1Ey5m3pYTe60BQbNnZ.jpg"
-  },
-  "/dizi/maximum-pleasure-guaranteed/": {
-    "group": "Maximum Pleasure Guaranteed",
-    "year": 2026,
-    "imdb": 7.1,
-    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
   },
   "/dizi/widows-bay/": {
     "group": "Widow’s Bay",
