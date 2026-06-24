@@ -1559,7 +1559,7 @@
   "/dizi/maximum-pleasure-guaranteed": {
     "group": "Maximum Pleasure Guaranteed",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -2054,7 +2054,7 @@
   "/dizi/an-t-eilean": {
     "group": "An t-Eilean",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 4,
     "start_episode": 1,
     "year": "2025",
     "imdb": "7.0",
@@ -2062,8 +2062,8 @@
   },
   "/dizi/funboys": {
     "group": "Funboys",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 4,
     "start_episode": 1,
     "year": "2025",
     "imdb": "6.3",
@@ -2072,7 +2072,7 @@
   "/dizi/naked": {
     "group": "Naked",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2025",
     "imdb": "6.2",
@@ -2081,7 +2081,7 @@
   "/dizi/see-you-at-work-tomorrow": {
     "group": "See You at Work Tomorrow!",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2,
     "start_episode": 1,
     "year": "2026",
     "imdb": "8.9",
