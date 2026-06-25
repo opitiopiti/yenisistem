@@ -35683,9 +35683,9 @@
   },
   "8947": {
     "name": "WELCOME TO WREXHAM (2022)",
-    "last_season": 4,
-    "last_episode": 8,
-    "last_modified": 1782293037
+    "last_season": 5,
+    "last_episode": 2,
+    "last_modified": 1782378335
   },
   "8948": {
     "name": "A KILLER UNCAGED (2020)",
@@ -69688,5 +69688,11 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1782323895
+  },
+  "14615": {
+    "name": "내일도 출근! (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1782378335
   }
 }
