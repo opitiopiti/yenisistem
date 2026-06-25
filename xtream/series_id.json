@@ -3421,9 +3421,9 @@
   },
   "3570": {
     "name": "ZEYTIN AĞACI (2022) TR",
-    "last_season": 2,
+    "last_season": 3,
     "last_episode": 8,
-    "last_modified": 1775801787
+    "last_modified": 1782410219
   },
   "3571": {
     "name": "ÇIRAK (2024) TR",
@@ -12295,9 +12295,9 @@
   },
   "5049": {
     "name": "AVATAR: THE LAST AIRBENDER (2024)",
-    "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1775801787
+    "last_season": 2,
+    "last_episode": 7,
+    "last_modified": 1782410219
   },
   "5050": {
     "name": "AYAKA (2023)",
@@ -12367,9 +12367,9 @@
   },
   "5061": {
     "name": "BEHIND THE ATTRACTION (2021)",
-    "last_season": 2,
-    "last_episode": 6,
-    "last_modified": 1775801787
+    "last_season": 3,
+    "last_episode": 2,
+    "last_modified": 1782410219
   },
   "5062": {
     "name": "BEHIND YOUR TOUCH (2023)",
@@ -38810,8 +38810,8 @@
   "9468": {
     "name": "DR. STONE (2019)",
     "last_season": 4,
-    "last_episode": 36,
-    "last_modified": 1781808452
+    "last_episode": 37,
+    "last_modified": 1782410219
   },
   "9469": {
     "name": "AMÉRICA VS AMÉRICA (2022)",
@@ -44257,9 +44257,9 @@
   },
   "10376": {
     "name": "AVATAR THE LAST AIRBENDER (2024)",
-    "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1775801787
+    "last_season": 2,
+    "last_episode": 7,
+    "last_modified": 1782410219
   },
   "10377": {
     "name": "LOVE VICTOR (2020)",
@@ -44972,8 +44972,8 @@
   "10495": {
     "name": "A HUNDRED SCENES OF AWAJIMA (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1781808452
+    "last_episode": 12,
+    "last_modified": 1782410219
   },
   "10496": {
     "name": "A MISANTHROPE TEACHES A CLASS FOR DEMI-HUMANS (2026) İNGİLİZCE",
@@ -45050,8 +45050,8 @@
   "10508": {
     "name": "DR. STONE: SCIENCE FUTURE - PART III (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 12,
-    "last_modified": 1781808452
+    "last_episode": 13,
+    "last_modified": 1782410219
   },
   "10509": {
     "name": "DR. STONE: SCIENCE FUTURE - PART II (2025) İNGİLİZCE",
@@ -45200,8 +45200,8 @@
   "10533": {
     "name": "KUJIMA: WHY SING, WHEN YOU CAN WARBLE? (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1781808452
+    "last_episode": 12,
+    "last_modified": 1782410219
   },
   "10534": {
     "name": "KUSUNOKI'S GARDEN OF GODS (2026) İNGİLİZCE",
@@ -45314,8 +45314,8 @@
   "10552": {
     "name": "PETALS OF REINCARNATION (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 12,
-    "last_modified": 1781808452
+    "last_episode": 13,
+    "last_modified": 1782410219
   },
   "10553": {
     "name": "PLASTIC MEMORIES (2015) İNGİLİZCE",
@@ -45416,8 +45416,8 @@
   "10569": {
     "name": "THE BARBARIAN'S BRIDE (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1781789970
+    "last_episode": 12,
+    "last_modified": 1782410219
   },
   "10570": {
     "name": "THE BEGINNING AFTER THE END SEASON 2 (2026) İNGİLİZCE",
@@ -69128,8 +69128,8 @@
   "14521": {
     "name": "THE FIRST JASMINE (2026)",
     "last_season": 1,
-    "last_episode": 31,
-    "last_modified": 1782323895
+    "last_episode": 32,
+    "last_modified": 1782410219
   },
   "14522": {
     "name": "KAKEGURUI TWIN (2022) İNGİLİZCE",
@@ -69694,5 +69694,17 @@
     "last_season": 1,
     "last_episode": 2,
     "last_modified": 1782378335
+  },
+  "14617": {
+    "name": "EJDERHA EVI (2022)",
+    "last_season": 3,
+    "last_episode": 1,
+    "last_modified": 1782410219
+  },
+  "14618": {
+    "name": "FROM OVERSHADOWED TO OVERPOWERED: SECOND REINCARNATION OF A TALENTLESS SAGE (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1782410219
   }
 }
