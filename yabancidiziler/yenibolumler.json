@@ -1,8 +1,8 @@
 {
   "/dizi/avatar-the-last-airbender": {
     "group": "Avatar: The Last Airbender",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 7,
     "start_episode": 1,
     "year": "2024",
     "imdb": "8.7",
@@ -56,7 +56,7 @@
   "/dizi/the-killings-at-parrish-station": {
     "group": "The Killings at Parrish Station",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
