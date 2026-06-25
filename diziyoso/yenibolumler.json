@@ -1,10 +1,4 @@
 {
-  "/dizi/zeytin-agaci": {
-    "group": "Zeytin Ağacı",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/zogTjQRIJsmg8yvIo8gDLtp65th.jpg",
-    "imdb": 7.3
-  },
   "/dizi/rick-and-morty": {
     "group": "Rick and Morty",
     "year": 2013,
@@ -154,6 +148,12 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/wsb9mUvHP3q3kO4xTjsCdVXtM4N.jpg",
     "imdb": 7.9
+  },
+  "/dizi/storia-della-mia-famiglia": {
+    "group": "Storia della mia famiglia",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/zwf6QamivOgzSVeNk7jS3YgnYeR.jpg",
+    "imdb": 7.1
   },
   "/dizi/the-root-of-the-game/": {
     "group": "The Root of the Game",

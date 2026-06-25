@@ -2086,5 +2086,23 @@
     "year": "2026",
     "imdb": "8.9",
     "poster": "https://image.tmdb.org/t/p/w500/30P3ySNo0m0xNhHQMXzpmquLwxa.jpg"
+  },
+  "/dizi/avatar-the-last-airbender": {
+    "group": "Avatar: The Last Airbender",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "8.7",
+    "poster": "https://image.tmdb.org/t/p/w500/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg"
+  },
+  "/dizi/the-killings-at-parrish-station": {
+    "group": "The Killings at Parrish Station",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/bhoBX6IddH5ESUKVeZpxKgJBvGH.jpg"
   }
 }

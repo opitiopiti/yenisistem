@@ -30004,5 +30004,17 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/original/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
     "imdb": 8.6
+  },
+  "/dizi/the-american-experiment/": {
+    "group": "The American Experiment",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/dqaJm0i1Iu9tuIRW9Q9T9gMp9K2.jpg",
+    "imdb": 4.0
+  },
+  "/dizi/dutton-ranch-29/": {
+    "group": "Dutton Ranch",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+    "imdb": 9.3
   }
 }
