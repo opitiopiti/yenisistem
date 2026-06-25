@@ -93,10 +93,13 @@ jobs:
           pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv httpx
           
       - name: Run vavoo.py Script
-        run: python private_py/genelkodlar/vavoo.py || true
+        run: python private_py/vavoosistemleri/vavoo.py || true
           
       - name: Run vavoom3u8.py Script
-        run: python private_py/genelkodlar/vavoom3u8.py || true
+        run: python private_py/vavoosistemleri/vavoom3u8.py || true
+
+      - name: Run vavooapp.py Script
+        run: python private_py/vavoosistemleri/vavooapp.py || true
         
       - name: Run dizigomfilmler.py Script
         run: python private_py/dizigom/dizigomfilmler.py || true
@@ -122,6 +125,7 @@ jobs:
 
           cp v/vavoo.m3u privaate_m3u8file/vavoo.m3u || echo "v/vavoo.m3u bulunamadı"
           cp v/vavoo2.m3u privaate_m3u8file/vavoo2.m3u || echo "v/vavoo2.m3u bulunamadi"
+          cp v/vavooapp.m3u privaate_m3u8file/vavooapp.m3u || echo "v/vavooapp.m3u bulunamadi"
           cp dizigomfilmler.m3u privaate_m3u8file/dizigomfilmler.m3u || echo "dizigomfilmler bulunamadı"
           cp dizibolyerli.m3u privaate_m3u8file/dizibolyerli.m3u || echo "dizibolyerl bulunamadi"
           cp setfilmizlefilmler.m3u privaate_m3u8file/setfilmizlefilmler.m3u || echo "setfilmizlefilmler bulunamadi"
