@@ -1,4 +1,16 @@
 {
+  "/dizi/zeytin-agaci/": {
+    "group": "Zeytin Ağacı",
+    "year": 2022,
+    "imdb": 7.3,
+    "poster": "https://image.tmdb.org/t/p/w500/p2UqCeIEdDqq0MTR8HwGEfZfu6J.jpg"
+  },
+  "/dizi/see-you-at-work-tomorrow/": {
+    "group": "See You at Work Tomorrow!",
+    "year": 2026,
+    "imdb": 8.8,
+    "poster": "https://image.tmdb.org/t/p/w500/6MELksXL65sIWNMZHR8Z9nLt1DE.jpg"
+  },
   "/dizi/maximum-pleasure-guaranteed/": {
     "group": "Maximum Pleasure Guaranteed",
     "year": 2026,

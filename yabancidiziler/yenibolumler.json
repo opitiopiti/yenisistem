@@ -43,5 +43,14 @@
     "year": "2026",
     "imdb": "8.9",
     "poster": "https://image.tmdb.org/t/p/w500/30P3ySNo0m0xNhHQMXzpmquLwxa.jpg"
+  },
+  "/dizi/the-legend-of-vox-machina": {
+    "group": "The Legend of Vox Machina",
+    "last_season": 4,
+    "last_episode": 9,
+    "start_episode": 1,
+    "year": "2022",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg"
   }
 }
