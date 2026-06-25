@@ -1,4 +1,22 @@
 {
+  "/dizi/the-legend-of-vox-machina": {
+    "group": "The Legend of Vox Machina",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/zjQTSYZEmy0GVnK1aFLvNiAwluo.jpg",
+    "imdb": 8.2
+  },
+  "/dizi/not-suitable-for-work": {
+    "group": "Not Suitable for Work",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/nae-il-do-chul-geun": {
+    "group": "Nae-il-do Chul-geun!",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/30P3ySNo0m0xNhHQMXzpmquLwxa.jpg",
+    "imdb": 8.1
+  },
   "/dizi/rick-and-morty": {
     "group": "Rick and Morty",
     "year": 2013,
@@ -47,12 +65,6 @@
     "poster": "https://image.tmdb.org/t/p/w500/kPz9M2hbZVRue9bbZAHKB9RrXox.jpg",
     "imdb": 6.0
   },
-  "/dizi/not-suitable-for-work": {
-    "group": "Not Suitable for Work",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg",
-    "imdb": 6.6
-  },
   "/dizi/maximum-pleasure-guaranteed": {
     "group": "Maximum Pleasure Guaranteed",
     "year": 2026,
@@ -89,71 +101,35 @@
     "poster": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg",
     "imdb": 7.5
   },
-  "/dizi/power-book-iii-raising-kanan": {
-    "group": "Power Book III: Raising Kanan",
+  "/dizi/dogu": {
+    "group": "Doğu",
     "year": 2021,
-    "poster": "https://image.tmdb.org/t/p/w500/pZ7IaHON9hnu8C0g3zdoWwIsJ9t.jpg",
-    "imdb": 8.1
-  },
-  "/dizi/proud": {
-    "group": "Proud",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/the-polygamist": {
-    "group": "The Polygamist",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/3VEHSG9ZCWcTGbU2ciiU6iDzemP.jpg",
-    "imdb": 5.9
-  },
-  "/dizi/cape-fear": {
-    "group": "Cape Fear",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/mpZjJ0yOxMX2GCCXJ4viTZKhdRX.jpg",
-    "imdb": 4.6
-  },
-  "/dizi/star-city": {
-    "group": "Star City",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/bNMUxvtkqWHKPGynh2IEQlHvHWo.jpg",
-    "imdb": 6.8
-  },
-  "/dizi/welcome-to-wrexham": {
-    "group": "Welcome to Wrexham",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/65Bs500TJ84QcgLQNBGmoWHtlna.jpg",
-    "imdb": 8.3
-  },
-  "/dizi/the-terror": {
-    "group": "The Terror",
-    "year": 2018,
-    "poster": "https://image.tmdb.org/t/p/w500/2nMZzKlMj158RVb6tjmIunoaNdo.jpg",
-    "imdb": 7.3
-  },
-  "/dizi/kenka-dokugaku": {
-    "group": "Kenka Dokugaku",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/8VCLKvxUpnsRH4ZjECM5e22KcIB.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/ZAQbYIG2bHblv2lGapfFS6TmkX.jpg",
     "imdb": 6.7
   },
-  "/dizi/sweet-magnolias": {
-    "group": "Sweet Magnolias",
+  "/dizi/gyeongiroun-somun/": {
+    "group": "Gyeongiroun Somun",
     "year": 2020,
-    "poster": "https://image.tmdb.org/t/p/w500/n1WDSFOnCCg3cdHHGBywZtYIzf9.jpg",
-    "imdb": 7.8
+    "poster": "https://dzycdn.com/img/t/163x245/gyeongiroun-somun-2020.webp",
+    "imdb": 0.0
   },
-  "/dizi/thanai-pisat": {
-    "group": "Thanai Pisat",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/wsb9mUvHP3q3kO4xTjsCdVXtM4N.jpg",
+  "/dizi/k2/": {
+    "group": "K2",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+    "imdb": 7.764
+  },
+  "/dizi/quarterback/": {
+    "group": "Quarterback",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/bKdElEIyuwrbdochxCXwlaUBFaR.jpg",
     "imdb": 7.9
   },
-  "/dizi/storia-della-mia-famiglia": {
-    "group": "Storia della mia famiglia",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/zwf6QamivOgzSVeNk7jS3YgnYeR.jpg",
-    "imdb": 7.1
+  "/dizi/nae-il-do-chul-geun/": {
+    "group": "Nae-il-do Chul-geun!",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/30P3ySNo0m0xNhHQMXzpmquLwxa.jpg",
+    "imdb": 8.2
   },
   "/dizi/the-root-of-the-game/": {
     "group": "The Root of the Game",
@@ -298,29 +274,5 @@
     "year": 1994,
     "poster": "https://image.tmdb.org/t/p/w500/fuS63AoFTkprf8PFeL1f8z68zJr.jpg",
     "imdb": 7.8
-  },
-  "/dizi/michael-jackson-the-verdict/": {
-    "group": "Michael Jackson: The Verdict",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/8R40yI5AJ931Hd3P4Yf8pdFgwJ1.jpg",
-    "imdb": 4.6
-  },
-  "/dizi/night-shift-for-cuties/": {
-    "group": "Night Shift for Cuties",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/3ANeExEIedWqdlUTVY7bfsL8vzc.jpg",
-    "imdb": 6.3
-  },
-  "/dizi/norges-vei-tilbake/": {
-    "group": "Norges vei tilbake",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/kZgzZsVgNruGRWKzTbAIfvvrvHJ.jpg",
-    "imdb": 6.5
-  },
-  "/dizi/kenka-dokugaku/": {
-    "group": "Kenka Dokugaku",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/8VCLKvxUpnsRH4ZjECM5e22KcIB.jpg",
-    "imdb": 6.7
   }
 }

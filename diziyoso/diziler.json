@@ -31354,5 +31354,41 @@
     "year": 2022,
     "poster": "https://image.tmdb.org/t/p/w500/zogTjQRIJsmg8yvIo8gDLtp65th.jpg",
     "imdb": 7.3
+  },
+  "/dizi/nae-il-do-chul-geun": {
+    "group": "Nae-il-do Chul-geun!",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/30P3ySNo0m0xNhHQMXzpmquLwxa.jpg",
+    "imdb": 8.1
+  },
+  "/dizi/dogu": {
+    "group": "Doğu",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/ZAQbYIG2bHblv2lGapfFS6TmkX.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/gyeongiroun-somun/": {
+    "group": "Gyeongiroun Somun",
+    "year": 2020,
+    "poster": "https://dzycdn.com/img/t/163x245/gyeongiroun-somun-2020.webp",
+    "imdb": 0.0
+  },
+  "/dizi/k2/": {
+    "group": "K2",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
+    "imdb": 7.764
+  },
+  "/dizi/quarterback/": {
+    "group": "Quarterback",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/bKdElEIyuwrbdochxCXwlaUBFaR.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/nae-il-do-chul-geun/": {
+    "group": "Nae-il-do Chul-geun!",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/30P3ySNo0m0xNhHQMXzpmquLwxa.jpg",
+    "imdb": 8.2
   }
 }
