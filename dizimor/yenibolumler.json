@@ -1,1 +1,14 @@
-{}
+{
+  "/dizi/dutton-ranch-30/": {
+    "group": "Dutton Ranch",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
+    "imdb": 9.3
+  },
+  "/dizi/spider-noir-6/": {
+    "group": "Spider-Noir",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/oD8WSVqz84ZRfelkr7JPeJwR9Iv.jpg",
+    "imdb": 8.6
+  }
+}
