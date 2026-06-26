@@ -14492,8 +14492,8 @@
   "5415": {
     "name": "THAT TIME I GOT REINCARNATED AS A SLIME (2018)",
     "last_season": 4,
-    "last_episode": 11,
-    "last_modified": 1781891624
+    "last_episode": 12,
+    "last_modified": 1782495206
   },
   "5416": {
     "name": "THE 8 SHOW (2024)",
@@ -35683,8 +35683,8 @@
   },
   "8947": {
     "name": "WELCOME TO WREXHAM (2022)",
-    "last_season": 5,
-    "last_episode": 2,
+    "last_season": 4,
+    "last_episode": 8,
     "last_modified": 1782378335
   },
   "8948": {
@@ -45386,8 +45386,8 @@
   "10564": {
     "name": "SNOWBALL EARTH (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 12,
-    "last_modified": 1781891624
+    "last_episode": 13,
+    "last_modified": 1782495206
   },
   "10565": {
     "name": "THAT TIME I GOT REINCARNATED AS A SLIME SEASON 3 (2024) İNGİLİZCE",
@@ -45398,8 +45398,8 @@
   "10566": {
     "name": "THAT TIME I GOT REINCARNATED AS A SLIME SEASON 4 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1781891624
+    "last_episode": 12,
+    "last_modified": 1782495206
   },
   "10567": {
     "name": "THERE WAS A CUTE GIRL IN THE HERO’S PARTY, SO I TRIED CONFESSING TO HER (2026) İNGİLİZCE",
@@ -45602,8 +45602,8 @@
   "10600": {
     "name": "THE DROPS OF GOD (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1781891624
+    "last_episode": 12,
+    "last_modified": 1782495206
   },
   "10601": {
     "name": "LA CAGE THE CAGE (2024)",
@@ -45620,8 +45620,8 @@
   "10603": {
     "name": "BOTAN KAMIINA FULLY BLOSSOMS WHEN DRUNK (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1781891624
+    "last_episode": 12,
+    "last_modified": 1782495206
   },
   "10604": {
     "name": "FIST OF THE NORTH STAR (2026) (2026) İNGİLİZCE",
@@ -45860,8 +45860,8 @@
   "10643": {
     "name": "THE RAMPARTS OF ICE (2026)",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1781272010
+    "last_episode": 13,
+    "last_modified": 1782495206
   },
   "10644": {
     "name": "IDA TAR ANSVAR (2026)",
@@ -69128,8 +69128,8 @@
   "14521": {
     "name": "THE FIRST JASMINE (2026)",
     "last_season": 1,
-    "last_episode": 32,
-    "last_modified": 1782410219
+    "last_episode": 33,
+    "last_modified": 1782495206
   },
   "14522": {
     "name": "KAKEGURUI TWIN (2022) İNGİLİZCE",
@@ -69710,13 +69710,37 @@
   "14620": {
     "name": "TAGUSARI BROS (2026)",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1782477601
+    "last_episode": 10,
+    "last_modified": 1782495206
   },
   "14621": {
     "name": "THE KILLINGS AT PARRISH STATION (2026)",
     "last_season": 1,
     "last_episode": 3,
     "last_modified": 1782477601
+  },
+  "14622": {
+    "name": "AGENT KIM REACTIVATED (2026)",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1782495206
+  },
+  "14624": {
+    "name": "LET’S END OUR FRIENDSHIP NOW (0000)",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1782495206
+  },
+  "14625": {
+    "name": "NOTES FROM THE LAST ROW (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1782495206
+  },
+  "14626": {
+    "name": "THE BOY IN THE LAST ROW (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1782495206
   }
 }
