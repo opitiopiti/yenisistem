@@ -721,7 +721,7 @@ jobs:
   part22:
     name: xtreamsistemijson
     runs-on: ubuntu-latest
-    needs: part20
+    needs: part21
     env:
       M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
       R2_ACCOUNT_ID: ${{ secrets.R2_ACCOUNT_ID }}
@@ -821,7 +821,7 @@ jobs:
             
   part23:
     name: cachetemizlik-telegram
-    needs: part20
+    needs: part22
     runs-on: ubuntu-latest
 
     steps:
