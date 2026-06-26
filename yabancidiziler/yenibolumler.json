@@ -61,23 +61,5 @@
     "year": "2025",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/65Bs500TJ84QcgLQNBGmoWHtlna.jpg"
-  },
-  "/dizi/avatar-the-last-airbender": {
-    "group": "Avatar: The Last Airbender",
-    "last_season": 2,
-    "last_episode": 7,
-    "start_episode": 1,
-    "year": "2024",
-    "imdb": "8.7",
-    "poster": "https://image.tmdb.org/t/p/w500/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg"
-  },
-  "/dizi/brilliant-minds": {
-    "group": "Brilliant Minds",
-    "last_season": 2,
-    "last_episode": 19,
-    "start_episode": 1,
-    "year": "2024",
-    "imdb": "6.5",
-    "poster": "https://image.tmdb.org/t/p/w500/vG6Bw2IwDf1DVkPd7nZwMExp0U5.jpg"
   }
 }
