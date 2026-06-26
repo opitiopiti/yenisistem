@@ -1,4 +1,10 @@
 {
+  "/dizi/dogu": {
+    "group": "Doğu",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/ZAQbYIG2bHblv2lGapfFS6TmkX.jpg",
+    "imdb": 6.7
+  },
   "/dizi/the-legend-of-vox-machina": {
     "group": "The Legend of Vox Machina",
     "year": 2022,
@@ -100,12 +106,6 @@
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg",
     "imdb": 7.5
-  },
-  "/dizi/dogu": {
-    "group": "Doğu",
-    "year": 2021,
-    "poster": "https://image.tmdb.org/t/p/w500/ZAQbYIG2bHblv2lGapfFS6TmkX.jpg",
-    "imdb": 6.7
   },
   "/dizi/gyeongiroun-somun/": {
     "group": "Gyeongiroun Somun",
