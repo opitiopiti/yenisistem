@@ -2108,7 +2108,7 @@
   "/dizi/agent-kim-reactivated": {
     "group": "Agent Kim Reactivated",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1,
     "year": "2026",
     "imdb": 8.5,
@@ -2117,7 +2117,7 @@
   "/dizi/notes-from-the-last-row": {
     "group": "Notes from the Last Row",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2026",
     "imdb": "8.6",
