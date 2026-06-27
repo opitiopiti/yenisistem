@@ -30100,5 +30100,35 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/original/xsiecCxd8lkcAluw0wWwbW5CwSv.jpg",
     "imdb": 9.3
+  },
+  "/dizi/sumud-12/": {
+    "group": "Sumud",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/mzxesd7tFSPccrSXZ70oA0fFmyJ.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/benim-adim-aylamaz-20/": {
+    "group": "Benim Adim Aylamaz",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/vslqNnjARZUdDav2CWIxGvxest9.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/muhabir-22/": {
+    "group": "Muhabir",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/uWdOEzereOwAEUTmqgT7XYrnngB.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/imam-gazali-huccetul-islam-28/": {
+    "group": "İmam Gazâlî Hüccetü'l-İslâm",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/cSmjwtqphOL3GVgwkBz3gKrZHxi.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/onbesliler-28/": {
+    "group": "Onbeşliler",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/fforqOZAOaVXsb8q3ex0cDNXOx4.jpg",
+    "imdb": 9.0
   }
 }
