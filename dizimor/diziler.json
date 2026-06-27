@@ -9821,7 +9821,7 @@
     "poster": "https://image.tmdb.org/t/p/original/fB1848j0pvNnYilXB0ho5OCfiIz.jpg",
     "imdb": 6.9
   },
-  "/dizi/mccartney-3-2/": {
+  "/dizi/mccartney-3/": {
     "group": "McCartney 3, 2, 1",
     "year": "2021",
     "poster": "https://image.tmdb.org/t/p/original/zgheM4XlGVYvwwpLydpykLzmk1X.jpg",
@@ -18869,7 +18869,7 @@
     "poster": "https://image.tmdb.org/t/p/original/lPkg7jqbTzNOrb2VMngdN2IovBD.jpg",
     "imdb": 2.7
   },
-  "/dizi/ataturk-1881/": {
+  "/dizi/ataturk/": {
     "group": "Atatürk 1881-1919",
     "year": "2024",
     "poster": "https://image.tmdb.org/t/p/original/1ycSNEDArSiapTHdiamVrYzQFt4.jpg",
@@ -27869,7 +27869,7 @@
     "poster": "https://image.tmdb.org/t/p/original/ftdj1uR2UlGUSnLUhUNY43KmSUN.jpg",
     "imdb": 3.1
   },
-  "/dizi/9-1/": {
+  "/dizi/9/": {
     "group": "9-1-1",
     "year": "2018",
     "poster": "https://image.tmdb.org/t/p/original/6njUqsd3By2mJsdZm1P0moPLzs3.jpg",
@@ -28343,7 +28343,7 @@
     "poster": "https://image.tmdb.org/t/p/original/hRpZblRauwCiBbNdcwTOdpMCN66.jpg",
     "imdb": 6.2
   },
-  "/dizi/11-22/": {
+  "/dizi/11/": {
     "group": "11.22.63",
     "year": "2016",
     "poster": "https://image.tmdb.org/t/p/original/1fH41ccMKvgDTbbcCxWWH6fznah.jpg",
@@ -29105,7 +29105,7 @@
     "poster": "https://image.tmdb.org/t/p/original/oT664enBMRFmLrxoTSauaFhzNjp.jpg",
     "imdb": 7.5
   },
-  "/dizi/amsterdam-centraal-24/": {
+  "/dizi/amsterdam-centraal/": {
     "group": "Amsterdam Centraal 24/7",
     "year": "2025",
     "poster": "https://image.tmdb.org/t/p/original/2U9ok4oUuKTqhP6l3k5xpsbyMjJ.jpg",
@@ -29128,5 +29128,11 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/original/dqaJm0i1Iu9tuIRW9Q9T9gMp9K2.jpg",
     "imdb": 4.0
+  },
+  "/dizi/amsterdam-centraal-24/": {
+    "group": "Amsterdam Centraal 24/7",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/2U9ok4oUuKTqhP6l3k5xpsbyMjJ.jpg",
+    "imdb": 8.5
   }
 }
