@@ -12547,9 +12547,9 @@
   },
   "5091": {
     "name": "CAMP SNOOPY (2024)",
-    "last_season": 1,
+    "last_season": 2,
     "last_episode": 13,
-    "last_modified": 1775801787
+    "last_modified": 1782578400
   },
   "5092": {
     "name": "CAN I TELL YOU A SECRET? (2024)",
@@ -45224,8 +45224,8 @@
   "10537": {
     "name": "MAO (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 12,
-    "last_modified": 1781973850
+    "last_episode": 13,
+    "last_modified": 1782578400
   },
   "10538": {
     "name": "MARIKA'S LOVE METER MALFUNCTION (2026) İNGİLİZCE",
@@ -45656,14 +45656,14 @@
   "10609": {
     "name": "KILL BLUE (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1781973850
+    "last_episode": 12,
+    "last_modified": 1782578400
   },
   "10610": {
     "name": "YOWAYOWA TEACHER (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1781973850
+    "last_episode": 12,
+    "last_modified": 1782578400
   },
   "10611": {
     "name": "ICHIJOUMA MANKITSUGURASHI! (2026) İNGİLİZCE",
@@ -51218,8 +51218,8 @@
   "11536": {
     "name": "DUTTON RANCH (2026)",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1782016982
+    "last_episode": 8,
+    "last_modified": 1782578400
   },
   "11537": {
     "name": "LES CRUES (2026)",
@@ -51350,8 +51350,8 @@
   "11558": {
     "name": "FIST OF THE NORTH STAR: HOKUTO NO KEN (2026)",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1779410140
+    "last_episode": 14,
+    "last_modified": 1782578400
   },
   "11559": {
     "name": "KYLIE (2026)",
@@ -69128,8 +69128,8 @@
   "14521": {
     "name": "THE FIRST JASMINE (2026)",
     "last_season": 1,
-    "last_episode": 33,
-    "last_modified": 1782495206
+    "last_episode": 34,
+    "last_modified": 1782578400
   },
   "14522": {
     "name": "KAKEGURUI TWIN (2022) İNGİLİZCE",
@@ -69722,8 +69722,8 @@
   "14622": {
     "name": "AGENT KIM REACTIVATED (2026)",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1782495206
+    "last_episode": 2,
+    "last_modified": 1782578400
   },
   "14624": {
     "name": "LET’S END OUR FRIENDSHIP NOW (0000)",
@@ -69748,5 +69748,11 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1782549313
+  },
+  "14630": {
+    "name": "THE CAT AND THE DRAGON (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1782578400
   }
 }
