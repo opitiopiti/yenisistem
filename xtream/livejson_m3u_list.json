@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/sabitm3u/freeshot.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/sabitm3u/rectvbein.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/vavoo.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/vavooapp.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/vavoo2.m3u",
+    "enabled": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/sabitm3u/ulusalkanallar.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/sabitm3u/tabiispor.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/sabitm3u/kablotv.m3u",
+    "enabled": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/sabitm3u/justintv.m3u",
+    "enabled": true
+  }
+]
