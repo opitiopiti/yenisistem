@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/sinewix/refs/heads/main/sinewix_filmler.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/dizigomfilmler.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/dizibolfilmler.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/setfilmizlefilmler.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/hdfilmsite.m3u",
+    "enabled": true
+  }
+]
