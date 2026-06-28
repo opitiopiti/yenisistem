@@ -45920,8 +45920,8 @@
   "10653": {
     "name": "FROM (2022)",
     "last_season": 4,
-    "last_episode": 9,
-    "last_modified": 1782078599
+    "last_episode": 10,
+    "last_modified": 1782620558
   },
   "10654": {
     "name": "FUNNY AF WITH KEVIN HART (2026)",
@@ -69632,8 +69632,8 @@
   "14605": {
     "name": "LORD OF MYSTERIES SPECIALS (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1782549313
+    "last_episode": 3,
+    "last_modified": 1782620558
   },
   "14606": {
     "name": "BAKA AND TEST - SUMMON THE BEASTS (2010) İNGİLİZCE",
@@ -69754,5 +69754,11 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1782578400
+  },
+  "14632": {
+    "name": "LIFE, LARRY AND THE PURSUIT OF UNHAPPINESS. AN ALMOST HISTORY OF AMERICA (2026)",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1782620558
   }
 }
