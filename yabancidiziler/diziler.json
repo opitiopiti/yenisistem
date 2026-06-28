@@ -1928,7 +1928,7 @@
   "/dizi/my-adventures-with-superman": {
     "group": "My Adventures with Superman",
     "last_season": 3,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1,
     "year": "2023",
     "imdb": "7.7",
@@ -2108,7 +2108,7 @@
   "/dizi/agent-kim-reactivated": {
     "group": "Agent Kim Reactivated",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1,
     "year": "2026",
     "imdb": 8.5,
