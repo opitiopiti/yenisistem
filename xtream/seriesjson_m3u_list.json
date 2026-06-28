@@ -1,0 +1,70 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/dizibolyerli.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/sinewix/refs/heads/main/sinewix_animeler.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/sinewix/refs/heads/main/dizibol.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/sinewix/refs/heads/main/sinewix_diziler.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/dizigom.m3u",
+    "enabled": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/dizipoddiziler.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/diziyoso.m3u",
+    "enabled": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/dizimomyabancidiziler.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/dizimordiziler.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/dizifilmdiziler.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/sezonlukdizi.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/animeheaven.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/yabancidiziler.m3u",
+    "enabled": false
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/dizipaldiziler.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/dosyaupload.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/setfilmizlediziler.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/sabitm3u/denemeseries.m3u",
+    "enabled": true
+  }
+]
