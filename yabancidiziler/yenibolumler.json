@@ -1,4 +1,13 @@
 {
+  "/dizi/my-adventures-with-superman": {
+    "group": "My Adventures with Superman",
+    "last_season": 3,
+    "last_episode": 2,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/tMslOS7noUUjc8BLvePk2QsV75v.jpg"
+  },
   "/dizi/agent-kim-reactivated": {
     "group": "Agent Kim Reactivated",
     "last_season": 1,
@@ -7,77 +16,5 @@
     "year": "2026",
     "imdb": 8.5,
     "poster": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg"
-  },
-  "/dizi/cape-fear": {
-    "group": "Cape Fear",
-    "last_season": 1,
-    "last_episode": 5,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/64gCOK6NKcXVI2amtVKk3Xx7cbC.jpg"
-  },
-  "/dizi/notes-from-the-last-row": {
-    "group": "Notes from the Last Row",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "8.6",
-    "poster": "https://image.tmdb.org/t/p/w500/paRFCxAJRZOypfgnzYLo6KH5jjO.jpg"
-  },
-  "/dizi/power-book-iii-raising-kanan": {
-    "group": "Power Book III: Raising Kanan",
-    "last_season": 5,
-    "last_episode": 3,
-    "start_episode": 1,
-    "year": "2021",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/pZ7IaHON9hnu8C0g3zdoWwIsJ9t.jpg"
-  },
-  "/dizi/proud": {
-    "group": "Proud",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/6mFcUXwIFM21dCj6enARnx10Fx9.jpg"
-  },
-  "/dizi/starcity": {
-    "group": "Starcity",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "6.7",
-    "poster": "https://image.tmdb.org/t/p/w500/uuQvllHZSG2nij00kfRa8SVzqeL.jpg"
-  },
-  "/dizi/sugar": {
-    "group": "Sugar",
-    "last_season": 2,
-    "last_episode": 2,
-    "start_episode": 1,
-    "year": "2024",
-    "imdb": "8.9",
-    "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
-  },
-  "/dizi/the-ramparts-of-ice": {
-    "group": "The Ramparts of Ice",
-    "last_season": 1,
-    "last_episode": 13,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "9.1",
-    "poster": "https://image.tmdb.org/t/p/w500/rke9UC2QrogvxiQD9TGpbvqDosi.jpg"
-  },
-  "/dizi/welcome-to-wrexham": {
-    "group": "Welcome to Wrexham",
-    "last_season": 5,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2025",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/65Bs500TJ84QcgLQNBGmoWHtlna.jpg"
   }
 }
