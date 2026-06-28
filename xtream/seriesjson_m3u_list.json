@@ -33,7 +33,7 @@
   },
   {
     "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/dizimordiziler.m3u",
-    "enabled": False
+    "enabled": false
   },
   {
     "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/dizifilmdiziler.m3u",
