@@ -1,4 +1,13 @@
 {
+  "/dizi/interview-with-the-vampire": {
+    "group": "Interview with the Vampire",
+    "last_season": 3,
+    "last_episode": 3,
+    "start_episode": 1,
+    "year": "2022",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/Afv4pPhqVMg2wOmhuDLiGUw4r4O.jpg"
+  },
   "/dizi/my-adventures-with-superman": {
     "group": "My Adventures with Superman",
     "last_season": 3,
@@ -7,14 +16,5 @@
     "year": "2023",
     "imdb": "7.7",
     "poster": "https://image.tmdb.org/t/p/w500/tMslOS7noUUjc8BLvePk2QsV75v.jpg"
-  },
-  "/dizi/agent-kim-reactivated": {
-    "group": "Agent Kim Reactivated",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": 8.5,
-    "poster": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg"
   }
 }

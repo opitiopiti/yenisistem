@@ -1,4 +1,10 @@
 {
+  "/diziler/one-piece-izle.html": {
+    "group": "ONE PIECE",
+    "year": "1999",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
+  },
   "/diziler/my-adventures-with-superman.html": {
     "group": "MY ADVENTURES WITH SUPERMAN",
     "year": "2023",
@@ -76,17 +82,5 @@
     "year": "2013",
     "imdb": "9.1",
     "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
-  },
-  "/diziler/one-piece-izle.html": {
-    "group": "ONE PIECE",
-    "year": "1999",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
-  },
-  "/diziler/nippon-sangoku-the-three-nations-of-the-crimson-sun.html": {
-    "group": "NIPPON SANGOKU: THE THREE NATIONS OF THE CRIMSON SUN",
-    "year": "2026",
-    "imdb": "8.3",
-    "poster": "https://image.tmdb.org/t/p/w500/sM7zYE6xOmaNwC28LR7cEneAtuN.jpg"
   }
 }
