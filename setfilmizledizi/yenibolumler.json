@@ -1,4 +1,16 @@
 {
+  "/dizi/rick-and-morty/": {
+    "group": "Rick and Morty",
+    "year": 2013,
+    "imdb": 9.0,
+    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
+  },
+  "/dizi/dogu/": {
+    "group": "Doğu",
+    "year": 2021,
+    "imdb": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w500/ZAQbYIG2bHblv2lGapfFS6TmkX.jpg"
+  },
   "/dizi/the-bear/": {
     "group": "The Bear",
     "year": 2022,
@@ -65,12 +77,6 @@
     "imdb": 6.3,
     "poster": "https://image.tmdb.org/t/p/w500/iSpmc0szhBRykxf6sE2t91m49JE.jpg"
   },
-  "/dizi/rick-and-morty/": {
-    "group": "Rick and Morty",
-    "year": 2013,
-    "imdb": 9.0,
-    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
-  },
   "/dizi/gomorrah-the-origins/": {
     "group": "Gomorrah: The Origins",
     "year": 2026,
@@ -88,11 +94,5 @@
     "year": 2026,
     "imdb": 7.2,
     "poster": "https://image.tmdb.org/t/p/w500/zSwGrVfQibt00pfjNqzZnywrP8L.jpg"
-  },
-  "/dizi/criminal-record/": {
-    "group": "Criminal Record",
-    "year": 2024,
-    "imdb": 7.1,
-    "poster": "https://image.tmdb.org/t/p/w500/kpnfeVRExCutHXFVXzaSdT8tAJl.jpg"
   }
 }
