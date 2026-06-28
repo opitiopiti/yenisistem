@@ -1,10 +1,4 @@
 {
-  "/dizi/dogu": {
-    "group": "Doğu",
-    "year": 2021,
-    "poster": "https://image.tmdb.org/t/p/w500/ZAQbYIG2bHblv2lGapfFS6TmkX.jpg",
-    "imdb": 6.7
-  },
   "/dizi/the-legend-of-vox-machina": {
     "group": "The Legend of Vox Machina",
     "year": 2022,
@@ -106,6 +100,12 @@
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg",
     "imdb": 7.5
+  },
+  "/dizi/power-book-iii-raising-kanan": {
+    "group": "Power Book III: Raising Kanan",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/pZ7IaHON9hnu8C0g3zdoWwIsJ9t.jpg",
+    "imdb": 8.1
   },
   "/dizi/gyeongiroun-somun/": {
     "group": "Gyeongiroun Somun",
