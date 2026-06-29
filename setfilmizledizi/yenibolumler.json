@@ -1,4 +1,28 @@
 {
+  "/dizi/house-of-the-dragon/": {
+    "group": "House of the Dragon",
+    "year": 2022,
+    "imdb": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w500/7QMsOTMUswlwxJP0rTTZfmz2tX2.jpg"
+  },
+  "/dizi/camp-snoopy/": {
+    "group": "Camp Snoopy",
+    "year": 2024,
+    "imdb": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w500/vN5fuofxX5jvRnu6R3NhGipUhbI.jpg"
+  },
+  "/dizi/not-suitable-for-work/": {
+    "group": "Not Suitable for Work",
+    "year": 2026,
+    "imdb": 6.2,
+    "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg"
+  },
+  "/dizi/gomorrah-the-origins/": {
+    "group": "Gomorrah: The Origins",
+    "year": 2026,
+    "imdb": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w500/l0RJjiE6k1Ey5m3pYTe60BQbNnZ.jpg"
+  },
   "/dizi/rick-and-morty/": {
     "group": "Rick and Morty",
     "year": 2013,
@@ -64,35 +88,5 @@
     "year": 2018,
     "imdb": 8.9,
     "poster": "https://image.tmdb.org/t/p/w500/nC68Pf7jnddVcZsPuzAnYUHJqff.jpg"
-  },
-  "/dizi/house-of-the-dragon/": {
-    "group": "House of the Dragon",
-    "year": 2022,
-    "imdb": 8.3,
-    "poster": "https://image.tmdb.org/t/p/w500/7QMsOTMUswlwxJP0rTTZfmz2tX2.jpg"
-  },
-  "/dizi/unconditional/": {
-    "group": "Unconditional",
-    "year": 2026,
-    "imdb": 6.3,
-    "poster": "https://image.tmdb.org/t/p/w500/iSpmc0szhBRykxf6sE2t91m49JE.jpg"
-  },
-  "/dizi/gomorrah-the-origins/": {
-    "group": "Gomorrah: The Origins",
-    "year": 2026,
-    "imdb": 7.2,
-    "poster": "https://image.tmdb.org/t/p/w500/l0RJjiE6k1Ey5m3pYTe60BQbNnZ.jpg"
-  },
-  "/dizi/widows-bay/": {
-    "group": "Widow’s Bay",
-    "year": 2026,
-    "imdb": 6.5,
-    "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg"
-  },
-  "/dizi/every-year-after/": {
-    "group": "Every Year After",
-    "year": 2026,
-    "imdb": 7.2,
-    "poster": "https://image.tmdb.org/t/p/w500/zSwGrVfQibt00pfjNqzZnywrP8L.jpg"
   }
 }
