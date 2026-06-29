@@ -35683,8 +35683,8 @@
   },
   "8947": {
     "name": "WELCOME TO WREXHAM (2022)",
-    "last_season": 5,
-    "last_episode": 2,
+    "last_season": 4,
+    "last_episode": 8,
     "last_modified": 1782649867
   },
   "8948": {
@@ -72232,5 +72232,17 @@
     "last_season": 1,
     "last_episode": 16,
     "last_modified": 1782725652
+  },
+  "15047": {
+    "name": "ADVENTURE TIME: SIDE QUESTS (2026)",
+    "last_season": 1,
+    "last_episode": 5,
+    "last_modified": 1782743955
+  },
+  "15048": {
+    "name": "THE WORLD IS DANCING (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1782743955
   }
 }
