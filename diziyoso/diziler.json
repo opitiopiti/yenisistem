@@ -31504,5 +31504,35 @@
     "year": 2023,
     "poster": "https://dzycdn.com/img/t/163x245/debeulseu-peullaen-2023.webp",
     "imdb": 8.3
+  },
+  "/dizi/gokuaku-joou/": {
+    "group": "Gokuaku Joou",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/6iVmjjylPXNIHMtKkOYbAVOUn7x.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/gobaekbubu/": {
+    "group": "Gobaekbubu",
+    "year": 2017,
+    "poster": "https://dzycdn.com/img/t/163x245/gobaekbubu-2017.webp",
+    "imdb": 8.1
+  },
+  "/dizi/gwimul/": {
+    "group": "Gwimul",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/qvR2V6BlXrJ7VTuhEfnXc4rTJTR.jpg",
+    "imdb": 8.1
+  },
+  "/dizi/him-ssen-yeo-ja-do-bong-soon/": {
+    "group": "Him Ssen Yeo Ja Do Bong Soon",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
+    "imdb": 8.1
+  },
+  "/dizi/homemade-love-story/": {
+    "group": "Homemade Love Story",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/sqMTarhApbUylV5dnNJnv3PxYtw.jpg",
+    "imdb": 7.0
   }
 }

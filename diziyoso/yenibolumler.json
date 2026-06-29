@@ -95,6 +95,36 @@
     "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg",
     "imdb": 7.0
   },
+  "/dizi/gokuaku-joou/": {
+    "group": "Gokuaku Joou",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/6iVmjjylPXNIHMtKkOYbAVOUn7x.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/gobaekbubu/": {
+    "group": "Gobaekbubu",
+    "year": 2017,
+    "poster": "https://dzycdn.com/img/t/163x245/gobaekbubu-2017.webp",
+    "imdb": 8.1
+  },
+  "/dizi/gwimul/": {
+    "group": "Gwimul",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/qvR2V6BlXrJ7VTuhEfnXc4rTJTR.jpg",
+    "imdb": 8.1
+  },
+  "/dizi/him-ssen-yeo-ja-do-bong-soon/": {
+    "group": "Him Ssen Yeo Ja Do Bong Soon",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/sPdS6oUdXfBNGKROE5RY5s5laqx.jpg",
+    "imdb": 8.1
+  },
+  "/dizi/homemade-love-story/": {
+    "group": "Homemade Love Story",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/sqMTarhApbUylV5dnNJnv3PxYtw.jpg",
+    "imdb": 7.0
+  },
   "/dizi/agui-maeumeul-ilgneun-jadeul/": {
     "group": "Agui Maeumeul Ilgneun Jadeul",
     "year": 2022,
@@ -232,35 +262,5 @@
     "year": 2023,
     "poster": "https://dzycdn.com/img/t/163x245/cheong-dam-guk-je-go-deung-hak-gyo-2023.webp",
     "imdb": 6.7
-  },
-  "/dizi/dan-hanaui-sarang/": {
-    "group": "Dan Hanaui Sarang",
-    "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/ltoY1cMTdh5ovUe6JhEsuU5Twd3.jpg",
-    "imdb": 8.1
-  },
-  "/dizi/i-will-find-you/": {
-    "group": "I Will Find You",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
-    "imdb": 8.69
-  },
-  "/dizi/gun-dakteo/": {
-    "group": "Gun dakteo",
-    "year": 2013,
-    "poster": "https://dzycdn.com/img/t/163x245/gun-dakteo-2013.webp",
-    "imdb": 7.9
-  },
-  "/dizi/new-zealand-spy/": {
-    "group": "New Zealand Spy",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/7cIOwTqZDcUm0NMriuIZMGTx9az.jpg",
-    "imdb": 6.2
-  },
-  "/dizi/the-season/": {
-    "group": "The Season",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/kPz9M2hbZVRue9bbZAHKB9RrXox.jpg",
-    "imdb": 6.0
   }
 }
