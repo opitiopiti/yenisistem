@@ -1,7 +1,7 @@
 {
   "sinewix": { "priority": 5, "enabled": true },
   "diziyo": { "priority": 6, "enabled": false },
-  "dizogom": { "priority": 7, "enabled": false },
+  "dizigom": { "priority": 7, "enabled": false },
   "dizipod": { "priority": 8, "enabled": true },
   "setfilmizle": { "priority": 9, "enabled": true },
   "vidlop": { "priority": 10, "enabled": true },
