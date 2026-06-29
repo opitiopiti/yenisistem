@@ -1658,7 +1658,7 @@
   "/dizi/rick-and-morty": {
     "group": "Rick and Morty",
     "last_season": 9,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2013",
     "imdb": "9.1",
@@ -2125,8 +2125,8 @@
   },
   "/dizi/love-is-blind-argentina": {
     "group": "Love Is Blind: Argentina",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 4,
     "start_episode": 1,
     "year": "2024",
     "imdb": "6.8",
