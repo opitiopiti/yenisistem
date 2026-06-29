@@ -28,7 +28,7 @@
   "okru": { 
     "priority": 18, "enabled": true },
   "mediafire": { 
-    "priority": 19, "enabled": true },
+    "priority": 19, "enabled": false },
   "vidmoly": { 
     "priority": 98, "enabled": false },
   "deneme": { 
