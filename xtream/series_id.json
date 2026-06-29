@@ -35683,9 +35683,9 @@
   },
   "8947": {
     "name": "WELCOME TO WREXHAM (2022)",
-    "last_season": 4,
-    "last_episode": 8,
-    "last_modified": 1782649867
+    "last_season": 5,
+    "last_episode": 2,
+    "last_modified": 1782756679
   },
   "8948": {
     "name": "A KILLER UNCAGED (2020)",
@@ -45212,8 +45212,8 @@
   "10535": {
     "name": "LIAR GAME (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 12,
-    "last_modified": 1782157283
+    "last_episode": 13,
+    "last_modified": 1782756679
   },
   "10536": {
     "name": "MAGICAL SISTERS LULUTTO LILLY (2026) İNGİLİZCE",
@@ -69650,8 +69650,8 @@
   "14608": {
     "name": "SEE YOU AT WORK TOMORROW! (2026)",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1782254380
+    "last_episode": 3,
+    "last_modified": 1782756679
   },
   "14609": {
     "name": "THE ROOT OF THE GAME (2026)",
@@ -72244,5 +72244,11 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1782743955
+  },
+  "15050": {
+    "name": "FATE/ZERO (2011) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1782756679
   }
 }
