@@ -2122,5 +2122,14 @@
     "year": "2026",
     "imdb": "8.6",
     "poster": "https://image.tmdb.org/t/p/w500/paRFCxAJRZOypfgnzYLo6KH5jjO.jpg"
+  },
+  "/dizi/love-is-blind-argentina": {
+    "group": "Love Is Blind: Argentina",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "6.8",
+    "poster": "https://image.tmdb.org/t/p/w500/oR9fhZWaP3p0RbkTGwLUhgPhryR.jpg"
   }
 }

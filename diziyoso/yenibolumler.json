@@ -1,4 +1,34 @@
 {
+  "/dizi/house-of-the-dragon": {
+    "group": "House of the Dragon",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+    "imdb": 8.3
+  },
+  "/dizi/rick-and-morty": {
+    "group": "Rick and Morty",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
+    "imdb": 9.0
+  },
+  "/dizi/notes-from-the-last-row": {
+    "group": "Notes from the Last Row",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/paRFCxAJRZOypfgnzYLo6KH5jjO.jpg",
+    "imdb": 8.2
+  },
+  "/dizi/proud": {
+    "group": "Proud",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/avatar-the-last-airbender-2024": {
+    "group": "Avatar the Last Airbender 2024",
+    "year": 2024,
+    "poster": "https://dzycdn.com/img/t/294x441/avatar-the-last-airbender-2024.webp",
+    "imdb": 7.2
+  },
   "/dizi/the-legend-of-vox-machina": {
     "group": "The Legend of Vox Machina",
     "year": 2022,
@@ -17,23 +47,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/30P3ySNo0m0xNhHQMXzpmquLwxa.jpg",
     "imdb": 8.1
   },
-  "/dizi/rick-and-morty": {
-    "group": "Rick and Morty",
-    "year": 2013,
-    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
-    "imdb": 9.0
-  },
   "/dizi/the-agency-central-intelligence": {
     "group": "The Agency: Central Intelligence",
     "year": 2024,
     "poster": "https://image.tmdb.org/t/p/w500/fDZgOeTiplrl0skvK6IIyejHLQF.jpg",
     "imdb": 7.2
-  },
-  "/dizi/house-of-the-dragon": {
-    "group": "House of the Dragon",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-    "imdb": 8.3
   },
   "/dizi/the-root-of-the-game": {
     "group": "The Root of the Game",
@@ -77,35 +95,17 @@
     "poster": "https://image.tmdb.org/t/p/w500/5lcxWLVAEICkFpuAiV1aMy7ZZj3.jpg",
     "imdb": 6.5
   },
-  "/dizi/gwed": {
-    "group": "G’wed",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/9hB4MZi1pVunt8yfkhkbAPAzVS3.jpg",
-    "imdb": 6.7
+  "/dizi/in-plain-sight/": {
+    "group": "In Plain Sight",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/utJdDq3c9uRCdvYHlF5qptWLZfh.jpg",
+    "imdb": 7.062
   },
-  "/dizi/youre-killing-me": {
-    "group": "You’re Killing Me",
+  "/dizi/notes-from-the-last-row/": {
+    "group": "Notes from the Last Row",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/vxPvBU1V84mX5O5089N3pNzXfrW.jpg",
-    "imdb": 6.2
-  },
-  "/dizi/the-chi": {
-    "group": "The Chi",
-    "year": 2018,
-    "poster": "https://image.tmdb.org/t/p/w500/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg",
-    "imdb": 7.8
-  },
-  "/dizi/the-way-home": {
-    "group": "The Way Home",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/avKyE55YwWNSLE24IGDRSfpPnaJ.jpg",
-    "imdb": 7.5
-  },
-  "/dizi/power-book-iii-raising-kanan": {
-    "group": "Power Book III: Raising Kanan",
-    "year": 2021,
-    "poster": "https://image.tmdb.org/t/p/w500/pZ7IaHON9hnu8C0g3zdoWwIsJ9t.jpg",
-    "imdb": 8.1
+    "poster": "https://image.tmdb.org/t/p/w500/paRFCxAJRZOypfgnzYLo6KH5jjO.jpg",
+    "imdb": 8.909
   },
   "/dizi/gyeongiroun-somun/": {
     "group": "Gyeongiroun Somun",
@@ -262,17 +262,5 @@
     "year": 2010,
     "poster": "https://image.tmdb.org/t/p/w500/xSKGT90ScJbHsL6FvMn7Aiov6tS.jpg",
     "imdb": 7.9
-  },
-  "/dizi/the-polygamist/": {
-    "group": "The Polygamist",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/3VEHSG9ZCWcTGbU2ciiU6iDzemP.jpg",
-    "imdb": 5.9
-  },
-  "/dizi/er/": {
-    "group": "ER",
-    "year": 1994,
-    "poster": "https://image.tmdb.org/t/p/w500/fuS63AoFTkprf8PFeL1f8z68zJr.jpg",
-    "imdb": 7.8
   }
 }

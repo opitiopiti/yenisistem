@@ -31390,5 +31390,29 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/30P3ySNo0m0xNhHQMXzpmquLwxa.jpg",
     "imdb": 8.2
+  },
+  "/dizi/notes-from-the-last-row": {
+    "group": "Notes from the Last Row",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/paRFCxAJRZOypfgnzYLo6KH5jjO.jpg",
+    "imdb": 8.2
+  },
+  "/dizi/avatar-the-last-airbender-2024": {
+    "group": "Avatar the Last Airbender 2024",
+    "year": 2024,
+    "poster": "https://dzycdn.com/img/t/294x441/avatar-the-last-airbender-2024.webp",
+    "imdb": 7.2
+  },
+  "/dizi/in-plain-sight/": {
+    "group": "In Plain Sight",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/utJdDq3c9uRCdvYHlF5qptWLZfh.jpg",
+    "imdb": 7.062
+  },
+  "/dizi/notes-from-the-last-row/": {
+    "group": "Notes from the Last Row",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/paRFCxAJRZOypfgnzYLo6KH5jjO.jpg",
+    "imdb": 8.909
   }
 }

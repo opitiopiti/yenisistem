@@ -1,4 +1,13 @@
 {
+  "/dizi/rick-and-morty": {
+    "group": "Rick and Morty",
+    "last_season": 9,
+    "last_episode": 5,
+    "start_episode": 1,
+    "year": "2013",
+    "imdb": "9.1",
+    "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg"
+  },
   "/dizi/interview-with-the-vampire": {
     "group": "Interview with the Vampire",
     "last_season": 3,
@@ -7,6 +16,15 @@
     "year": "2022",
     "imdb": "7.2",
     "poster": "https://image.tmdb.org/t/p/w500/Afv4pPhqVMg2wOmhuDLiGUw4r4O.jpg"
+  },
+  "/dizi/love-is-blind-argentina": {
+    "group": "Love Is Blind: Argentina",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "6.8",
+    "poster": "https://image.tmdb.org/t/p/w500/oR9fhZWaP3p0RbkTGwLUhgPhryR.jpg"
   },
   "/dizi/my-adventures-with-superman": {
     "group": "My Adventures with Superman",
