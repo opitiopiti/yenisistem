@@ -1,70 +1,70 @@
 [
   {
-    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/dizibolyerli.m3u",
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/dizibolyerli.m3u",
     "enabled": true
   },
   {
-    "url": "https://raw.githubusercontent.com/opitiopiti/sinewix/refs/heads/main/sinewix_animeler.m3u",
+    "url": "https://raw.githubusercontent.com/opitiopiti/sinewix/main/sinewix_animeler.m3u",
     "enabled": true
   },
   {
-    "url": "https://raw.githubusercontent.com/opitiopiti/sinewix/refs/heads/main/dizibol.m3u",
+    "url": "https://raw.githubusercontent.com/opitiopiti/sinewix/main/dizibol.m3u",
     "enabled": true
   },
   {
-    "url": "https://raw.githubusercontent.com/opitiopiti/sinewix/refs/heads/main/sinewix_diziler.m3u",
+    "url": "https://raw.githubusercontent.com/opitiopiti/sinewix/main/sinewix_diziler.m3u",
     "enabled": true
   },
   {
-    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/dizigom.m3u",
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/dizigom.m3u",
     "enabled": false
   },
   {
-    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/dizipoddiziler.m3u",
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/dizipoddiziler.m3u",
     "enabled": true
   },
   {
-    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/diziyoso.m3u",
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/diziyoso.m3u",
     "enabled": false
   },
   {
-    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/dizimomyabancidiziler.m3u",
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/dizimomyabancidiziler.m3u",
     "enabled": true
   },
   {
-    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/dizimordiziler.m3u",
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/dizimordiziler.m3u",
     "enabled": false
   },
   {
-    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/dizifilmdiziler.m3u",
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/dizifilmdiziler.m3u",
     "enabled": true
   },
   {
-    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/sezonlukdizi.m3u",
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/sezonlukdizi.m3u",
     "enabled": true
   },
   {
-    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/animeheaven.m3u",
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/animeheaven.m3u",
     "enabled": true
   },
   {
-    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/yabancidiziler.m3u",
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/yabancidiziler.m3u",
     "enabled": false
   },
   {
-    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/dizipaldiziler.m3u",
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/dizipaldiziler.m3u",
     "enabled": true
   },
   {
-    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/dosyaupload.m3u",
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/dosyaupload.m3u",
     "enabled": true
   },
   {
-    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/setfilmizlediziler.m3u",
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/setfilmizlediziler.m3u",
     "enabled": true
   },
   {
-    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/refs/heads/main/sabitm3u/denemeseries.m3u",
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/sabitm3u/denemeseries.m3u",
     "enabled": true
   }
 ]
