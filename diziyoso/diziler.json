@@ -31486,5 +31486,23 @@
     "year": 2009,
     "poster": "https://image.tmdb.org/t/p/w500/4WW26JPHeG5mgrFkgjvv3Qmgcwg.jpg",
     "imdb": 7.2
+  },
+  "/dizi/agui-maeumeul-ilgneun-jadeul/": {
+    "group": "Agui Maeumeul Ilgneun Jadeul",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/8sJW1IHZ4FQnHeE4cJIbR18L7If.jpg",
+    "imdb": 8.0
+  },
+  "/dizi/bimilui-soop/": {
+    "group": "Bimilui Soop",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/blbbtx7DyvZ3JTGyc9MCArDL79b.jpg",
+    "imdb": 8.4
+  },
+  "/dizi/debeulseu-peullaen/": {
+    "group": "Debeulseu Peullaen",
+    "year": 2023,
+    "poster": "https://dzycdn.com/img/t/163x245/debeulseu-peullaen-2023.webp",
+    "imdb": 8.3
   }
 }

@@ -95,6 +95,24 @@
     "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg",
     "imdb": 7.0
   },
+  "/dizi/agui-maeumeul-ilgneun-jadeul/": {
+    "group": "Agui Maeumeul Ilgneun Jadeul",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/8sJW1IHZ4FQnHeE4cJIbR18L7If.jpg",
+    "imdb": 8.0
+  },
+  "/dizi/bimilui-soop/": {
+    "group": "Bimilui Soop",
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/blbbtx7DyvZ3JTGyc9MCArDL79b.jpg",
+    "imdb": 8.4
+  },
+  "/dizi/debeulseu-peullaen/": {
+    "group": "Debeulseu Peullaen",
+    "year": 2023,
+    "poster": "https://dzycdn.com/img/t/163x245/debeulseu-peullaen-2023.webp",
+    "imdb": 8.3
+  },
   "/dizi/the-american-experiment/": {
     "group": "The American Experiment",
     "year": 2026,
@@ -244,23 +262,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/kPz9M2hbZVRue9bbZAHKB9RrXox.jpg",
     "imdb": 6.0
-  },
-  "/dizi/impuros/": {
-    "group": "Impuros",
-    "year": 2018,
-    "poster": "https://image.tmdb.org/t/p/w500/usmfk2VeZokEj3OfdAPu6GBP6pS.jpg",
-    "imdb": 8.1
-  },
-  "/dizi/outlast-the-jungle/": {
-    "group": "Outlast: The Jungle",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/mkhpV2EgA3S4xFyl7KPOpxORa04.jpg",
-    "imdb": 6.8
-  },
-  "/dizi/joseonroko-nokdujeon/": {
-    "group": "Joseonroko Nokdujeon",
-    "year": 2019,
-    "poster": "https://dzycdn.com/img/t/163x245/joseonroko-nokdujeon-2019.webp",
-    "imdb": 7.7
   }
 }
