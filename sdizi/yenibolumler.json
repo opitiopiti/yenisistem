@@ -1,4 +1,22 @@
 {
+  "/diziler/adventure-time-side-quests.html": {
+    "group": "ADVENTURE TIME: SIDE QUESTS",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/4XpWm5EqZQtCIgleaNbpUAMRODx.jpg"
+  },
+  "/diziler/rick-and-morty.html": {
+    "group": "RICK AND MORTY",
+    "year": "2013",
+    "imdb": "9.1",
+    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
+  },
+  "/diziler/tracker.html": {
+    "group": "TRACKER",
+    "year": "2024",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg"
+  },
   "/diziler/one-piece-izle.html": {
     "group": "ONE PIECE",
     "year": "1999",
@@ -70,17 +88,5 @@
     "year": "2022",
     "imdb": "8.4",
     "poster": "https://image.tmdb.org/t/p/w500/b5A0qkGrZJTyVv3gT6b8clFEz9R.jpg"
-  },
-  "/diziler/maximum-pleasure-guaranteed.html": {
-    "group": "MAXIMUM PLEASURE GUARANTEED",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/oeD9rnfk7AohNiJTRoCx4SOKhXj.jpg"
-  },
-  "/diziler/rick-and-morty.html": {
-    "group": "RICK AND MORTY",
-    "year": "2013",
-    "imdb": "9.1",
-    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
   }
 }

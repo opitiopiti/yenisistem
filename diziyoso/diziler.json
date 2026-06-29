@@ -31287,7 +31287,7 @@
     "group": "Gun dakteo",
     "year": 2013,
     "poster": "https://dzycdn.com/img/t/163x245/gun-dakteo-2013.webp",
-    "imdb": 0.0
+    "imdb": 7.9
   },
   "/dizi/house-of-the-dragon": {
     "group": "House of the Dragon",
@@ -31311,7 +31311,7 @@
     "group": "Cheong Dam Guk Je Go Deung Hak Gyo",
     "year": 2023,
     "poster": "https://dzycdn.com/img/t/163x245/cheong-dam-guk-je-go-deung-hak-gyo-2023.webp",
-    "imdb": 0.0
+    "imdb": 6.7
   },
   "/dizi/dan-hanaui-sarang/": {
     "group": "Dan Hanaui Sarang",
@@ -31371,7 +31371,7 @@
     "group": "Gyeongiroun Somun",
     "year": 2020,
     "poster": "https://dzycdn.com/img/t/163x245/gyeongiroun-somun-2020.webp",
-    "imdb": 0.0
+    "imdb": 8.0
   },
   "/dizi/k2/": {
     "group": "K2",
@@ -31414,5 +31414,77 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/paRFCxAJRZOypfgnzYLo6KH5jjO.jpg",
     "imdb": 8.909
+  },
+  "/dizi/the-american-experiment": {
+    "group": "The American Experiment",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/dqaJm0i1Iu9tuIRW9Q9T9gMp9K2.jpg",
+    "imdb": 6.3
+  },
+  "/dizi/the-american-experiment/": {
+    "group": "The American Experiment",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/dqaJm0i1Iu9tuIRW9Q9T9gMp9K2.jpg",
+    "imdb": 6.3
+  },
+  "/dizi/friday-night-lights/": {
+    "group": "Friday Night Lights",
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/Eu7MzZY1DldJ683z7vLkILHNRD.jpg",
+    "imdb": 8.7
+  },
+  "/dizi/huayu-hakgyo-2015/": {
+    "group": "Huayu Hakgyo 2015",
+    "year": 2015,
+    "poster": "https://dzycdn.com/img/t/163x245/huayu-hakgyo-2015.webp",
+    "imdb": 7.6
+  },
+  "/dizi/deurim-hai/": {
+    "group": "Deurim Hai",
+    "year": 2011,
+    "poster": "https://dzycdn.com/img/t/163x245/deurim-hai-2011.webp",
+    "imdb": 7.6
+  },
+  "/dizi/dongbaekkkot-pil-muryeop/": {
+    "group": "Dongbaekkkot Pil Muryeop",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/bCrYA7xyHJtPnTWZU60pVBRSFZc.jpg",
+    "imdb": 7.8
+  },
+  "/dizi/eulachacha-waikiki/": {
+    "group": "Eulachacha Waikiki",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
+    "imdb": 8.2
+  },
+  "/dizi/ibeon-saengeun-cheoeumira/": {
+    "group": "Ibeon Saengeun Cheoeumira",
+    "year": 2017,
+    "poster": "https://dzycdn.com/img/t/163x245/ibeon-saengeun-cheoeumira-2017.webp",
+    "imdb": 8.0
+  },
+  "/dizi/ilta-seukaendeul/": {
+    "group": "Ilta Seukaendeul",
+    "year": 2023,
+    "poster": "https://dzycdn.com/img/t/163x245/ilta-seukaendeul-2023.webp",
+    "imdb": 7.7
+  },
+  "/dizi/komedi-kacau/": {
+    "group": "Komedi Kacau",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/ii7n4DRaggzRj50jNpXkz8ppUvg.jpg",
+    "imdb": 5.7
+  },
+  "/dizi/maeumui-sori/": {
+    "group": "Maeumui Sori",
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/l2EzNJQNh2onlefGuucboFy8WV8.jpg",
+    "imdb": 8.1
+  },
+  "/dizi/royal-pains/": {
+    "group": "Royal Pains",
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/4WW26JPHeG5mgrFkgjvv3Qmgcwg.jpg",
+    "imdb": 7.2
   }
 }
