@@ -1,4 +1,16 @@
 {
+  "/diziler/ghosts.html": {
+    "group": "GHOSTS",
+    "year": "2021",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg"
+  },
+  "/diziler/my-love-story-with-yamada-kun-at-lv999.html": {
+    "group": "MY LOVE STORY WITH YAMADA-KUN AT LV999",
+    "year": "2023",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/6RTMDyXZpzACsSg5AcRSUHMO8m2.jpg"
+  },
   "/diziler/elsbeth.html": {
     "group": "ELSBETH",
     "year": "2024",
@@ -7,9 +19,9 @@
   },
   "/diziler/9-1-1-nashville.html": {
     "group": "9-1-1: NASHVILLE",
-    "year": null,
-    "imdb": null,
-    "poster": null
+    "year": "2025",
+    "imdb": "5.6",
+    "poster": "https://image.tmdb.org/t/p/w500/4Dl0LysUOEWOhitzAfrKFkBeefu.jpg"
   },
   "/diziler/adventure-time-side-quests.html": {
     "group": "ADVENTURE TIME: SIDE QUESTS",
@@ -76,17 +88,5 @@
     "year": "2024",
     "imdb": "7.4",
     "poster": "https://image.tmdb.org/t/p/w500/fDZgOeTiplrl0skvK6IIyejHLQF.jpg"
-  },
-  "/diziler/dr-stone.html": {
-    "group": "DR. STONE",
-    "year": "2019",
-    "imdb": "8.2",
-    "poster": "https://image.tmdb.org/t/p/w500/ve1Sv3sVArmE0nlFjzadcNv1G8r.jpg"
-  },
-  "/diziler/avatar-the-last-airbender-2024.html": {
-    "group": "AVATAR: THE LAST AIRBENDER",
-    "year": "2024",
-    "imdb": "7.2",
-    "poster": "https://image.tmdb.org/t/p/w500/lzZpWEaqzP0qVA5nkCc5ASbNcSy.jpg"
   }
 }
