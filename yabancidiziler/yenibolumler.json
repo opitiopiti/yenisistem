@@ -1,4 +1,13 @@
 {
+  "/dizi/bon-cop-bad-cop": {
+    "group": "Bon Cop, Bad Cop!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.1",
+    "poster": "https://image.tmdb.org/t/p/w500/jIHmjvF0mnW3KhV2stZaoABAiLJ.jpg"
+  },
   "/dizi/grantchester": {
     "group": "Grantchester",
     "last_season": 11,
@@ -25,5 +34,14 @@
     "year": "2013",
     "imdb": "9.1",
     "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg"
+  },
+  "/dizi/see-you-at-work-tomorrow": {
+    "group": "See You at Work Tomorrow!",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "8.9",
+    "poster": "https://image.tmdb.org/t/p/w500/30P3ySNo0m0xNhHQMXzpmquLwxa.jpg"
   }
 }

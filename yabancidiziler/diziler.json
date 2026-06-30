@@ -2140,5 +2140,14 @@
     "year": "2023",
     "imdb": "7.2",
     "poster": "https://image.tmdb.org/t/p/w500/aLnxpbhwsJ3XCATDEfFaAmJV80d.jpg"
+  },
+  "/dizi/bon-cop-bad-cop": {
+    "group": "Bon Cop, Bad Cop!",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.1",
+    "poster": "https://image.tmdb.org/t/p/w500/jIHmjvF0mnW3KhV2stZaoABAiLJ.jpg"
   }
 }
