@@ -518,7 +518,7 @@ jobs:
       - name: Sync Outputs to Private Repos
         run: |
           # Dizify
-          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/dizipal.git private_dizipall
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/dizipal.git private_dizify
           rsync -a dizify/ private_dizify/
           cd private_dizify
           git config user.name "GitHub Actions"
