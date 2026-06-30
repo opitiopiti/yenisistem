@@ -71,6 +71,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/lpfrgfomX8uNFxv4VaEzvJGs9TK.jpg",
     "imdb": 8.4
   },
+  "/dizi/oasis": {
+    "group": "Oasis",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
+    "imdb": 5.4
+  },
   "/dizi/grantchester": {
     "group": "Grantchester",
     "year": 2014,
@@ -89,11 +95,53 @@
     "poster": "https://image.tmdb.org/t/p/w500/kPz9M2hbZVRue9bbZAHKB9RrXox.jpg",
     "imdb": 6.0
   },
-  "/dizi/maximum-pleasure-guaranteed": {
-    "group": "Maximum Pleasure Guaranteed",
+  "/dizi/inspector-george-gently/": {
+    "group": "Inspector George Gently",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/3xfuZKWVxNnXhL8C6wVSnfM9Uj9.jpg",
+    "imdb": 7.932
+  },
+  "/dizi/spider-man-the-new-animated-series/": {
+    "group": "Spider-Man: The New Animated Series",
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/9g1YPyKtpB0aNlgVb0N8YASKLZN.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/the-turkish-detective/": {
+    "group": "The Turkish Detective",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/bvQyuK1EIjYNSpyP58JhkUNkB2C.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/whats-new-scooby-doo/": {
+    "group": "What’s New, Scooby-Doo?",
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/qP3DZrKLSPe5WR2N066BIfB2dIq.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/gukyeongi/": {
+    "group": "Gukyeongi",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/ihAWMJ3K9J7WwA3ph57lxCLsQGA.jpg",
+    "imdb": 7.1
+  },
+  "/dizi/oasis/": {
+    "group": "Oasis",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg",
-    "imdb": 7.0
+    "poster": "https://image.tmdb.org/t/p/w500/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
+    "imdb": 5.4
+  },
+  "/dizi/qiao-chu/": {
+    "group": "Qiao Chu",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/9fcMJ1zZTBplFI1YSaYPZUweYKp.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/sikeurit-gadeun/": {
+    "group": "Sikeurit Gadeun",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/2G5m6cMGN5DR5GsGGdg9OcgNNlG.jpg",
+    "imdb": 8.0
   },
   "/dizi/gokuaku-joou/": {
     "group": "Gokuaku Joou",
@@ -214,53 +262,5 @@
     "year": 2008,
     "poster": "https://image.tmdb.org/t/p/w500/utJdDq3c9uRCdvYHlF5qptWLZfh.jpg",
     "imdb": 7.062
-  },
-  "/dizi/notes-from-the-last-row/": {
-    "group": "Notes from the Last Row",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/paRFCxAJRZOypfgnzYLo6KH5jjO.jpg",
-    "imdb": 8.909
-  },
-  "/dizi/gyeongiroun-somun/": {
-    "group": "Gyeongiroun Somun",
-    "year": 2020,
-    "poster": "https://dzycdn.com/img/t/163x245/gyeongiroun-somun-2020.webp",
-    "imdb": 8.0
-  },
-  "/dizi/k2/": {
-    "group": "K2",
-    "year": 2016,
-    "poster": "https://image.tmdb.org/t/p/w500/oPaN9oWUMsibFfoaXMpv5kG5GsK.jpg",
-    "imdb": 7.764
-  },
-  "/dizi/quarterback/": {
-    "group": "Quarterback",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/bKdElEIyuwrbdochxCXwlaUBFaR.jpg",
-    "imdb": 7.9
-  },
-  "/dizi/nae-il-do-chul-geun/": {
-    "group": "Nae-il-do Chul-geun!",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/30P3ySNo0m0xNhHQMXzpmquLwxa.jpg",
-    "imdb": 8.2
-  },
-  "/dizi/the-root-of-the-game/": {
-    "group": "The Root of the Game",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/br2HS3NZ3Hkvcg7AMryE0vUEMSs.jpg",
-    "imdb": 10.0
-  },
-  "/dizi/birth-of-a-beauty/": {
-    "group": "Birth of a Beauty",
-    "year": 2014,
-    "poster": "https://image.tmdb.org/t/p/w500/6z9mEvrF6g9UPTan7xhWq9ssE5Y.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/cheong-dam-guk-je-go-deung-hak-gyo/": {
-    "group": "Cheong Dam Guk Je Go Deung Hak Gyo",
-    "year": 2023,
-    "poster": "https://dzycdn.com/img/t/163x245/cheong-dam-guk-je-go-deung-hak-gyo-2023.webp",
-    "imdb": 6.7
   }
 }

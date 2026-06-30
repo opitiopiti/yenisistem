@@ -31534,5 +31534,59 @@
     "year": 2020,
     "poster": "https://image.tmdb.org/t/p/w500/sqMTarhApbUylV5dnNJnv3PxYtw.jpg",
     "imdb": 7.0
+  },
+  "/dizi/oasis": {
+    "group": "Oasis",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
+    "imdb": 5.4
+  },
+  "/dizi/inspector-george-gently/": {
+    "group": "Inspector George Gently",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/3xfuZKWVxNnXhL8C6wVSnfM9Uj9.jpg",
+    "imdb": 7.932
+  },
+  "/dizi/spider-man-the-new-animated-series/": {
+    "group": "Spider-Man: The New Animated Series",
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/9g1YPyKtpB0aNlgVb0N8YASKLZN.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/the-turkish-detective/": {
+    "group": "The Turkish Detective",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/bvQyuK1EIjYNSpyP58JhkUNkB2C.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/whats-new-scooby-doo/": {
+    "group": "What’s New, Scooby-Doo?",
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/qP3DZrKLSPe5WR2N066BIfB2dIq.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/gukyeongi/": {
+    "group": "Gukyeongi",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/ihAWMJ3K9J7WwA3ph57lxCLsQGA.jpg",
+    "imdb": 7.1
+  },
+  "/dizi/oasis/": {
+    "group": "Oasis",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
+    "imdb": 5.4
+  },
+  "/dizi/qiao-chu/": {
+    "group": "Qiao Chu",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/9fcMJ1zZTBplFI1YSaYPZUweYKp.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/sikeurit-gadeun/": {
+    "group": "Sikeurit Gadeun",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/2G5m6cMGN5DR5GsGGdg9OcgNNlG.jpg",
+    "imdb": 8.0
   }
 }
