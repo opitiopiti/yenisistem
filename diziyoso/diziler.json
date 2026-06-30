@@ -31588,5 +31588,17 @@
     "year": 2010,
     "poster": "https://image.tmdb.org/t/p/w500/2G5m6cMGN5DR5GsGGdg9OcgNNlG.jpg",
     "imdb": 8.0
+  },
+  "/dizi/qiao-chu": {
+    "group": "Qiao Chu",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/9fcMJ1zZTBplFI1YSaYPZUweYKp.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/batman-the-brave-and-the-bold/": {
+    "group": "Batman: The Brave and the Bold",
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/tv2mOIRcPP4H0DhOH84xPgqui7d.jpg",
+    "imdb": 7.4
   }
 }
