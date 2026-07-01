@@ -1,4 +1,10 @@
 {
+  "/diziler/x-men-97.html": {
+    "group": "X-MEN '97",
+    "year": "2024",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg"
+  },
   "/diziler/maximum-pleasure-guaranteed.html": {
     "group": "MAXIMUM PLEASURE GUARANTEED",
     "year": "2026",
@@ -82,11 +88,5 @@
     "year": "2026",
     "imdb": "5.9",
     "poster": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg"
-  },
-  "/diziler/cape-fear.html": {
-    "group": "CAPE FEAR",
-    "year": "2025",
-    "imdb": "0.0",
-    "poster": null
   }
 }
