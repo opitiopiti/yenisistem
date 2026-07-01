@@ -6901,9 +6901,9 @@
   },
   "4150": {
     "name": "X-MEN ’97 (2024)",
-    "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1775801787
+    "last_season": 2,
+    "last_episode": 3,
+    "last_modified": 1782911419
   },
   "4151": {
     "name": "XO, KITTY (2023)",
@@ -72268,5 +72268,11 @@
     "last_season": 1,
     "last_episode": 12,
     "last_modified": 1782907982
+  },
+  "15057": {
+    "name": "ELLE (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1782911419
   }
 }
