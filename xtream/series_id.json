@@ -15085,9 +15085,9 @@
   },
   "5514": {
     "name": "X-MEN '97 (2024)",
-    "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1775801787
+    "last_season": 2,
+    "last_episode": 3,
+    "last_modified": 1782928421
   },
   "5515": {
     "name": "YEH KAALI KAALI ANKHEIN (2022)",
@@ -69128,8 +69128,8 @@
   "14521": {
     "name": "THE FIRST JASMINE (2026)",
     "last_season": 1,
-    "last_episode": 35,
-    "last_modified": 1782682743
+    "last_episode": 36,
+    "last_modified": 1782928421
   },
   "14522": {
     "name": "KAKEGURUI TWIN (2022) İNGİLİZCE",
@@ -69686,8 +69686,8 @@
   "14614": {
     "name": "HEROINE? SAINT? NO, I’M AN ALL-WORKS MAID (AND PROUD OF IT)! (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1782323895
+    "last_episode": 2,
+    "last_modified": 1782928421
   },
   "14615": {
     "name": "내일도 출근! (2026)",
@@ -72274,5 +72274,17 @@
     "last_season": 1,
     "last_episode": 8,
     "last_modified": 1782911419
+  },
+  "15059": {
+    "name": "HANA-KIMI SEASON 2 (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1782928421
+  },
+  "15060": {
+    "name": "THE VILLAGER OF LV999 (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1782928421
   }
 }
