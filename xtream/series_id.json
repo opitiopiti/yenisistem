@@ -8342,8 +8342,8 @@
   "4390": {
     "name": "TRACKER (2024)",
     "last_season": 3,
-    "last_episode": 21,
-    "last_modified": 1782561548
+    "last_episode": 22,
+    "last_modified": 1782943657
   },
   "4391": {
     "name": "TRACKERS (2019)",
@@ -72286,5 +72286,11 @@
     "last_season": 1,
     "last_episode": 2,
     "last_modified": 1782928421
+  },
+  "15062": {
+    "name": "WORST NEIGHBOR EVER (2026)",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1782943657
   }
 }
