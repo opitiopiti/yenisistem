@@ -1,4 +1,10 @@
 {
+  "/diziler/maximum-pleasure-guaranteed.html": {
+    "group": "MAXIMUM PLEASURE GUARANTEED",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/oeD9rnfk7AohNiJTRoCx4SOKhXj.jpg"
+  },
   "/diziler/ghosts.html": {
     "group": "GHOSTS",
     "year": "2021",
@@ -82,11 +88,5 @@
     "year": "2025",
     "imdb": "0.0",
     "poster": null
-  },
-  "/diziler/the-agency.html": {
-    "group": "THE AGENCY",
-    "year": "2024",
-    "imdb": "7.4",
-    "poster": "https://image.tmdb.org/t/p/w500/fDZgOeTiplrl0skvK6IIyejHLQF.jpg"
   }
 }
