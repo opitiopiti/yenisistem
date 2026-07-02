@@ -1,4 +1,16 @@
 {
+  "/diziler/elle.html": {
+    "group": "ELLE",
+    "year": "2026",
+    "imdb": "6.2",
+    "poster": "https://image.tmdb.org/t/p/w500/u0Vj7zhVK0HYxsS3VMzkU37Pebp.jpg"
+  },
+  "/diziler/sullivans-crossing.html": {
+    "group": "SULLIVAN'S CROSSING",
+    "year": "2023",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/nYRnuQNR13nEYaXkOZaY0qIWl2K.jpg"
+  },
   "/diziler/x-men-97.html": {
     "group": "X-MEN '97",
     "year": "2024",
@@ -76,17 +88,5 @@
     "year": "2024",
     "imdb": "7.8",
     "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
-  },
-  "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
-    "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
-    "year": "2018",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg"
-  },
-  "/diziler/star-city.html": {
-    "group": "STAR CITY",
-    "year": "2026",
-    "imdb": "5.9",
-    "poster": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg"
   }
 }

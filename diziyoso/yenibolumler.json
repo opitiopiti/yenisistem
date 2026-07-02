@@ -53,6 +53,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/dqaJm0i1Iu9tuIRW9Q9T9gMp9K2.jpg",
     "imdb": 6.3
   },
+  "/dizi/brilliant-minds": {
+    "group": "Brilliant Minds",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/vG6Bw2IwDf1DVkPd7nZwMExp0U5.jpg",
+    "imdb": 7.3
+  },
   "/dizi/not-suitable-for-work": {
     "group": "Not Suitable for Work",
     "year": 2026,
