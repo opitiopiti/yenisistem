@@ -31600,5 +31600,29 @@
     "year": 2008,
     "poster": "https://image.tmdb.org/t/p/w500/tv2mOIRcPP4H0DhOH84xPgqui7d.jpg",
     "imdb": 7.4
+  },
+  "/dizi/elle": {
+    "group": "Elle",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/u0Vj7zhVK0HYxsS3VMzkU37Pebp.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/x-men-97": {
+    "group": "X-Men ’97",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/yI3skmBTiworOlwAzuD4haCTF60.jpg",
+    "imdb": 8.5
+  },
+  "/dizi/elle/": {
+    "group": "Elle",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/u0Vj7zhVK0HYxsS3VMzkU37Pebp.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/unforgettable/": {
+    "group": "Unforgettable",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/AvbMRqe3wSe4DBzIYl56CBlcalw.jpg",
+    "imdb": 6.8
   }
 }

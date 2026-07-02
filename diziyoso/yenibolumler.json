@@ -1,4 +1,16 @@
 {
+  "/dizi/elle": {
+    "group": "Elle",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/u0Vj7zhVK0HYxsS3VMzkU37Pebp.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/x-men-97": {
+    "group": "X-Men ’97",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/yI3skmBTiworOlwAzuD4haCTF60.jpg",
+    "imdb": 8.5
+  },
   "/dizi/house-of-the-dragon": {
     "group": "House of the Dragon",
     "year": 2022,
@@ -89,16 +101,16 @@
     "poster": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg",
     "imdb": 7.8
   },
-  "/dizi/the-season": {
-    "group": "The Season",
+  "/dizi/elle/": {
+    "group": "Elle",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/kPz9M2hbZVRue9bbZAHKB9RrXox.jpg",
-    "imdb": 6.0
+    "poster": "https://image.tmdb.org/t/p/w500/u0Vj7zhVK0HYxsS3VMzkU37Pebp.jpg",
+    "imdb": 6.2
   },
-  "/dizi/qiao-chu": {
-    "group": "Qiao Chu",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/9fcMJ1zZTBplFI1YSaYPZUweYKp.jpg",
+  "/dizi/unforgettable/": {
+    "group": "Unforgettable",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/AvbMRqe3wSe4DBzIYl56CBlcalw.jpg",
     "imdb": 6.8
   },
   "/dizi/batman-the-brave-and-the-bold/": {
@@ -256,17 +268,5 @@
     "year": 2024,
     "poster": "https://image.tmdb.org/t/p/w500/ii7n4DRaggzRj50jNpXkz8ppUvg.jpg",
     "imdb": 5.7
-  },
-  "/dizi/maeumui-sori/": {
-    "group": "Maeumui Sori",
-    "year": 2016,
-    "poster": "https://image.tmdb.org/t/p/w500/l2EzNJQNh2onlefGuucboFy8WV8.jpg",
-    "imdb": 8.1
-  },
-  "/dizi/royal-pains/": {
-    "group": "Royal Pains",
-    "year": 2009,
-    "poster": "https://image.tmdb.org/t/p/w500/4WW26JPHeG5mgrFkgjvv3Qmgcwg.jpg",
-    "imdb": 7.2
   }
 }
