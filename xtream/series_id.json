@@ -925,9 +925,9 @@
   },
   "3154": {
     "name": "LOVE IS BLIND: ARGENTINA (2024)",
-    "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1775801787
+    "last_season": 2,
+    "last_episode": 4,
+    "last_modified": 1782996783
   },
   "3155": {
     "name": "LOVE IS BLIND: GERMANY (2025)",
@@ -3212,8 +3212,8 @@
   "3535": {
     "name": "THE WAR BETWEEN THE LAND AND THE SEA (2025)",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1782907982
+    "last_episode": 5,
+    "last_modified": 1782996783
   },
   "3536": {
     "name": "THE WONDER YEARS (2021)",
@@ -7412,8 +7412,8 @@
   "4235": {
     "name": "THE ROOKIE (2018)",
     "last_season": 8,
-    "last_episode": 15,
-    "last_modified": 1782907982
+    "last_episode": 18,
+    "last_modified": 1782996783
   },
   "4236": {
     "name": "THE SANTA CLAUSES (2022)",
@@ -7597,9 +7597,9 @@
   },
   "4266": {
     "name": "THE SUMMER I TURNED PRETTY (2022)",
-    "last_season": 2,
-    "last_episode": 8,
-    "last_modified": 1782907982
+    "last_season": 3,
+    "last_episode": 11,
+    "last_modified": 1782996783
   },
   "4267": {
     "name": "THE SUPER MODELS (2023)",
@@ -9008,8 +9008,8 @@
   "4501": {
     "name": "ASTERIX & OBELIX: THE BIG FIGHT (2025)",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1782907982
+    "last_episode": 5,
+    "last_modified": 1782996783
   },
   "4502": {
     "name": "BABANBA BANBAN VAMPIRE (2025)",
@@ -11233,9 +11233,9 @@
   },
   "4872": {
     "name": "SULLIVAN'S CROSSING (2023)",
-    "last_season": 3,
+    "last_season": 4,
     "last_episode": 10,
-    "last_modified": 1775801787
+    "last_modified": 1782996783
   },
   "4873": {
     "name": "SUPERSTAR (2025)",
@@ -37159,9 +37159,9 @@
   },
   "9193": {
     "name": "GEN V (2023)",
-    "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1782907982
+    "last_season": 2,
+    "last_episode": 8,
+    "last_modified": 1782996783
   },
   "9194": {
     "name": "GENERATION Z (2024)",
@@ -50725,9 +50725,9 @@
   },
   "11454": {
     "name": "LIONESS (2023)",
-    "last_season": 1,
+    "last_season": 2,
     "last_episode": 8,
-    "last_modified": 1782907982
+    "last_modified": 1782996783
   },
   "11455": {
     "name": "LOST BOYS AND FAIRIES (2024)",
@@ -50954,8 +50954,8 @@
   "11492": {
     "name": "SPARTACUS: HOUSE OF ASHUR (2025)",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1782907982
+    "last_episode": 10,
+    "last_modified": 1782996783
   },
   "11493": {
     "name": "SUITS (2018)",
@@ -72298,5 +72298,11 @@
     "last_season": 2,
     "last_episode": 3,
     "last_modified": 1782982454
+  },
+  "15065": {
+    "name": "HUMAN VAPOR (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1782996783
   }
 }
