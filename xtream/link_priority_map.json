@@ -11,7 +11,7 @@
     "priority": 9, "enabled": true },
   "setfilmizle": { 
     "priority": 10, "enabled": true },
-  "vidlop": { 
+  "vidmixi": { 
     "priority": 11, "enabled": true },
   "hdplayersystem": { 
     "priority": 12, "enabled": true },
@@ -29,6 +29,8 @@
     "priority": 18, "enabled": true },
   "mediafire": { 
     "priority": 19, "enabled": false },
+  "vidlop": { 
+    "priority": 97, "enabled": false },
   "vidmoly": { 
     "priority": 98, "enabled": false },
   "deneme": { 
