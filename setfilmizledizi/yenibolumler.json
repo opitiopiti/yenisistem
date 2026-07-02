@@ -1,4 +1,16 @@
 {
+  "/dizi/elle/": {
+    "group": "Elle",
+    "year": 2026,
+    "imdb": 6.2,
+    "poster": "https://image.tmdb.org/t/p/w500/mrHrUOCk2FigPX3j8Q2FiY4liRa.jpg"
+  },
+  "/dizi/maximum-pleasure-guaranteed/": {
+    "group": "Maximum Pleasure Guaranteed",
+    "year": 2026,
+    "imdb": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
+  },
   "/dizi/rick-and-morty/": {
     "group": "Rick and Morty",
     "year": 2013,
@@ -76,17 +88,5 @@
     "year": 2026,
     "imdb": 8.8,
     "poster": "https://image.tmdb.org/t/p/w500/6MELksXL65sIWNMZHR8Z9nLt1DE.jpg"
-  },
-  "/dizi/maximum-pleasure-guaranteed/": {
-    "group": "Maximum Pleasure Guaranteed",
-    "year": 2026,
-    "imdb": 7.1,
-    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
-  },
-  "/dizi/sahsiyet/": {
-    "group": "Şahsiyet",
-    "year": 2018,
-    "imdb": 8.9,
-    "poster": "https://image.tmdb.org/t/p/w500/nC68Pf7jnddVcZsPuzAnYUHJqff.jpg"
   }
 }
