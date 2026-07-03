@@ -35,6 +35,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
     "imdb": 9.0
   },
+  "/dizi/power-book-iii-raising-kanan": {
+    "group": "Power Book III: Raising Kanan",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/pZ7IaHON9hnu8C0g3zdoWwIsJ9t.jpg",
+    "imdb": 8.1
+  },
   "/dizi/notes-from-the-last-row": {
     "group": "Notes from the Last Row",
     "year": 2026,
@@ -106,6 +112,12 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/br2HS3NZ3Hkvcg7AMryE0vUEMSs.jpg",
     "imdb": 10.0
+  },
+  "/dizi/the-scarecrow/": {
+    "group": "The Scarecrow",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/4buHiyaXkkzIdFDu66GOhvXEqbK.jpg",
+    "imdb": 8.3
   },
   "/dizi/funboys/": {
     "group": "Funboys",
@@ -268,11 +280,5 @@
     "year": 2019,
     "poster": "https://image.tmdb.org/t/p/w500/bCrYA7xyHJtPnTWZU60pVBRSFZc.jpg",
     "imdb": 7.8
-  },
-  "/dizi/eulachacha-waikiki/": {
-    "group": "Eulachacha Waikiki",
-    "year": 2018,
-    "poster": "https://image.tmdb.org/t/p/w500/pggzZamoLNTiRgoYz8WVCISMCqv.jpg",
-    "imdb": 8.2
   }
 }

@@ -52,59 +52,5 @@
     "year": "2024",
     "imdb": "8.9",
     "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
-  },
-  "/dizi/brilliant-minds": {
-    "group": "Brilliant Minds",
-    "last_season": 2,
-    "last_episode": 20,
-    "start_episode": 1,
-    "year": "2024",
-    "imdb": "6.5",
-    "poster": "https://image.tmdb.org/t/p/w500/vG6Bw2IwDf1DVkPd7nZwMExp0U5.jpg"
-  },
-  "/dizi/human-vapor": {
-    "group": "Human Vapor",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/gSYPd4icODc7QdRA7BK0VqBxBYp.jpg"
-  },
-  "/dizi/mademoiselle-holmes": {
-    "group": "Mademoiselle Holmes",
-    "last_season": 2,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2024",
-    "imdb": "6.4",
-    "poster": "https://image.tmdb.org/t/p/w500/kiZSnkpXqs2i5ID0T7LcEgDmrRJ.jpg"
-  },
-  "/dizi/morfeusz": {
-    "group": "Morfeusz",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "6.2",
-    "poster": "https://image.tmdb.org/t/p/w500/7ODb2WEuXeJb6pRbzzfzfKIJgH3.jpg"
-  },
-  "/dizi/survival-of-the-thickest": {
-    "group": "Survival of the Thickest",
-    "last_season": 3,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2025",
-    "imdb": "7.5",
-    "poster": "https://image.tmdb.org/t/p/w500/sD8RToyFl1oMF3kXgkeSmSsJIpa.jpg"
-  },
-  "/dizi/trion": {
-    "group": "Trion",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "6.7",
-    "poster": "https://image.tmdb.org/t/p/w500/fsDfeHhCmOTeK8e1KAdHsdAINha.jpg"
   }
 }

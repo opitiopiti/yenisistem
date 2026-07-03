@@ -31648,5 +31648,11 @@
     "year": 2025,
     "poster": "https://image.tmdb.org/t/p/w500/bKffzAa462OD1KJrBsjJvCFAlRd.jpg",
     "imdb": 6.1
+  },
+  "/dizi/the-scarecrow/": {
+    "group": "The Scarecrow",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/4buHiyaXkkzIdFDu66GOhvXEqbK.jpg",
+    "imdb": 8.3
   }
 }
