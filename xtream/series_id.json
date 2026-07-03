@@ -4736,8 +4736,8 @@
   "3789": {
     "name": "SHERIFF COUNTRY (2025)",
     "last_season": 1,
-    "last_episode": 18,
-    "last_modified": 1779545420
+    "last_episode": 20,
+    "last_modified": 1783115285
   },
   "3790": {
     "name": "SHUANG CHENG GU SHI (2018)",
@@ -69722,8 +69722,8 @@
   "14622": {
     "name": "AGENT KIM REACTIVATED (2026)",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1782578400
+    "last_episode": 3,
+    "last_modified": 1783115285
   },
   "14624": {
     "name": "LET’S END OUR FRIENDSHIP NOW (0000)",
@@ -72356,8 +72356,8 @@
   "15077": {
     "name": "CROWNED IN A HUNDRED DAYS (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1783075281
+    "last_episode": 4,
+    "last_modified": 1783115285
   },
   "15079": {
     "name": "12 MAYMUN (2015)",
@@ -74554,5 +74554,23 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1783098358
+  },
+  "15448": {
+    "name": "GASU NINGEN (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1783115285
+  },
+  "15449": {
+    "name": "HELL MODE: THE HARDCORE GAMER DOMINATES IN ANOTHER WORLD WITH GARBAGE BALANCING 2ND SEASON (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1783115285
+  },
+  "15450": {
+    "name": "KAMUI-SAN DIRECTLY BEHIND YOU (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1783115285
   }
 }
