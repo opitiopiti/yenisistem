@@ -31624,5 +31624,29 @@
     "year": 2011,
     "poster": "https://image.tmdb.org/t/p/w500/AvbMRqe3wSe4DBzIYl56CBlcalw.jpg",
     "imdb": 6.8
+  },
+  "/dizi/harry-wild": {
+    "group": "Harry Wild",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/aLnxpbhwsJ3XCATDEfFaAmJV80d.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/funboys/": {
+    "group": "Funboys",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/bHRWxl5GiQzmDKATHiEhiVnp6ew.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/bon-cop-bad-cop/": {
+    "group": "Bon Cop, Bad Cop",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/jIHmjvF0mnW3KhV2stZaoABAiLJ.jpg",
+    "imdb": 7.1
+  },
+  "/dizi/an-t-eilean/": {
+    "group": "An t-Eilean",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/bKffzAa462OD1KJrBsjJvCFAlRd.jpg",
+    "imdb": 6.1
   }
 }

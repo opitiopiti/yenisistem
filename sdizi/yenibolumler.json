@@ -1,4 +1,10 @@
 {
+  "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
+    "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
+    "year": "2018",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg"
+  },
   "/diziler/sugar.html": {
     "group": "SUGAR",
     "year": "2024",
@@ -25,9 +31,9 @@
   },
   "/diziler/human-vapor.html": {
     "group": "HUMAN VAPOR",
-    "year": null,
-    "imdb": null,
-    "poster": null
+    "year": "2026",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/gSYPd4icODc7QdRA7BK0VqBxBYp.jpg"
   },
   "/diziler/tracker.html": {
     "group": "TRACKER",
@@ -82,11 +88,5 @@
     "year": "2025",
     "imdb": "5.6",
     "poster": "https://image.tmdb.org/t/p/w500/4Dl0LysUOEWOhitzAfrKFkBeefu.jpg"
-  },
-  "/diziler/adventure-time-side-quests.html": {
-    "group": "ADVENTURE TIME: SIDE QUESTS",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/4XpWm5EqZQtCIgleaNbpUAMRODx.jpg"
   }
 }
