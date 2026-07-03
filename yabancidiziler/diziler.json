@@ -2149,5 +2149,50 @@
     "year": "2026",
     "imdb": "7.1",
     "poster": "https://image.tmdb.org/t/p/w500/jIHmjvF0mnW3KhV2stZaoABAiLJ.jpg"
+  },
+  "/dizi/silo": {
+    "group": "Silo",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/fDMTqUcEh6qJwWZP1SHTfoaqsCy.jpg"
+  },
+  "/dizi/human-vapor": {
+    "group": "Human Vapor",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/gSYPd4icODc7QdRA7BK0VqBxBYp.jpg"
+  },
+  "/dizi/mademoiselle-holmes": {
+    "group": "Mademoiselle Holmes",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "6.4",
+    "poster": "https://image.tmdb.org/t/p/w500/kiZSnkpXqs2i5ID0T7LcEgDmrRJ.jpg"
+  },
+  "/dizi/survival-of-the-thickest": {
+    "group": "Survival of the Thickest",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "7.5",
+    "poster": "https://image.tmdb.org/t/p/w500/sD8RToyFl1oMF3kXgkeSmSsJIpa.jpg"
+  },
+  "/dizi/trion": {
+    "group": "Trion",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.7",
+    "poster": "https://image.tmdb.org/t/p/w500/fsDfeHhCmOTeK8e1KAdHsdAINha.jpg"
   }
 }

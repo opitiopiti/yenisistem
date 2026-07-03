@@ -1,4 +1,28 @@
 {
+  "/dizi/silo/": {
+    "group": "Silo",
+    "year": 2023,
+    "imdb": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w500/fDMTqUcEh6qJwWZP1SHTfoaqsCy.jpg"
+  },
+  "/dizi/sugar/": {
+    "group": "Sugar",
+    "year": 2024,
+    "imdb": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
+  },
+  "/dizi/cape-fear/": {
+    "group": "Cape Fear",
+    "year": 2026,
+    "imdb": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w500/64gCOK6NKcXVI2amtVKk3Xx7cbC.jpg"
+  },
+  "/dizi/star-city/": {
+    "group": "Star City",
+    "year": 2026,
+    "imdb": 6.0,
+    "poster": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg"
+  },
   "/dizi/elle/": {
     "group": "Elle",
     "year": 2026,
@@ -53,24 +77,6 @@
     "imdb": 8.5,
     "poster": "https://image.tmdb.org/t/p/w500/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg"
   },
-  "/dizi/sugar/": {
-    "group": "Sugar",
-    "year": 2024,
-    "imdb": 7.4,
-    "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
-  },
-  "/dizi/cape-fear/": {
-    "group": "Cape Fear",
-    "year": 2026,
-    "imdb": 7.5,
-    "poster": "https://image.tmdb.org/t/p/w500/64gCOK6NKcXVI2amtVKk3Xx7cbC.jpg"
-  },
-  "/dizi/star-city/": {
-    "group": "Star City",
-    "year": 2026,
-    "imdb": 6.0,
-    "poster": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg"
-  },
   "/dizi/avatar-the-last-airbender/": {
     "group": "Avatar: The Last Airbender",
     "year": 2024,
@@ -82,11 +88,5 @@
     "year": 2022,
     "imdb": 7.3,
     "poster": "https://image.tmdb.org/t/p/w500/p2UqCeIEdDqq0MTR8HwGEfZfu6J.jpg"
-  },
-  "/dizi/see-you-at-work-tomorrow/": {
-    "group": "See You at Work Tomorrow!",
-    "year": 2026,
-    "imdb": 8.8,
-    "poster": "https://image.tmdb.org/t/p/w500/6MELksXL65sIWNMZHR8Z9nLt1DE.jpg"
   }
 }
