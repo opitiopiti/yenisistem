@@ -3,10 +3,6 @@
     "priority": 5, "enabled": true },
   "m3utoken": { 
     "priority": 6, "enabled": true },
-  "diziyo": { 
-    "priority": 7, "enabled": false },
-  "dizigom": { 
-    "priority": 8, "enabled": false },
   "dizipod": { 
     "priority": 9, "enabled": true },
   "setfilmizle": { 
@@ -27,8 +23,16 @@
     "priority": 17, "enabled": true },
   "okru": { 
     "priority": 18, "enabled": true },
+  "imagestoo": { 
+    "priority": 19, "enabled": true },
+  "cortinaeaccoladed": { 
+    "priority": 20, "enabled": true },
+  "diziyo": { 
+    "priority": 7, "enabled": false },
+  "dizigom": { 
+    "priority": 8, "enabled": false },
   "mediafire": { 
-    "priority": 19, "enabled": false },
+    "priority": 96, "enabled": false },
   "vidlop": { 
     "priority": 97, "enabled": false },
   "vidmoly": { 
