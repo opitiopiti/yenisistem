@@ -11053,9 +11053,9 @@
   },
   "4842": {
     "name": "SILO (2023)",
-    "last_season": 2,
-    "last_episode": 10,
-    "last_modified": 1775801787
+    "last_season": 3,
+    "last_episode": 1,
+    "last_modified": 1783068394
   },
   "4843": {
     "name": "SINGLE’S INFERNO (2021)",
@@ -14378,8 +14378,8 @@
   "5396": {
     "name": "SUGAR (2024)",
     "last_season": 2,
-    "last_episode": 2,
-    "last_modified": 1782477601
+    "last_episode": 3,
+    "last_modified": 1783068394
   },
   "5397": {
     "name": "SUNDERLAND 'TIL I DIE (2018)",
@@ -51506,8 +51506,8 @@
   "11584": {
     "name": "STAR CITY (2026)",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1782465080
+    "last_episode": 7,
+    "last_modified": 1783068394
   },
   "11585": {
     "name": "SCIENCE FELL IN LOVE, SO I TRIED TO PROVE IT. R=1-SINΘ (2022) İNGİLİZCE",
@@ -65732,8 +65732,8 @@
   "13955": {
     "name": "CAPE FEAR (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1782477601
+    "last_episode": 6,
+    "last_modified": 1783068394
   },
   "13956": {
     "name": "TEACH YOU A LESSON (2026)",
@@ -72352,5 +72352,11 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1783028900
+  },
+  "15077": {
+    "name": "CROWNED IN A HUNDRED DAYS (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1783068394
   }
 }
