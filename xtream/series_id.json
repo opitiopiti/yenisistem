@@ -50168,8 +50168,8 @@
   "11361": {
     "name": "10 BIN ADIM (2020)",
     "last_season": 3,
-    "last_episode": 8,
-    "last_modified": 1783072518
+    "last_episode": 9,
+    "last_modified": 1783075281
   },
   "11362": {
     "name": "20 DAKIKA (2013)",
@@ -72356,8 +72356,8 @@
   "15077": {
     "name": "CROWNED IN A HUNDRED DAYS (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1783068394
+    "last_episode": 2,
+    "last_modified": 1783075281
   },
   "15079": {
     "name": "12 MAYMUN (2015)",
@@ -74512,5 +74512,23 @@
     "last_season": 1,
     "last_episode": 12,
     "last_modified": 1783072518
+  },
+  "15439": {
+    "name": "KÖSTEBEKGILLER: GÜNEŞ GÜNLÜĞÜ (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1783075281
+  },
+  "15440": {
+    "name": "SENE 1936 (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1783075281
+  },
+  "15441": {
+    "name": "SUPER SUBBU (2026)",
+    "last_season": 1,
+    "last_episode": 7,
+    "last_modified": 1783075281
   }
 }
