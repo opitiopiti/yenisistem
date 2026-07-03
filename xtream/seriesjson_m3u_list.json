@@ -64,6 +64,10 @@
     "enabled": true
   },
   {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/dizipaldiziler.m3u",
+    "enabled": true
+  },
+  {
     "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/sabitm3u/denemeseries.m3u",
     "enabled": true
   }
