@@ -1,4 +1,6 @@
 {
+  "helgaiptv": { 
+    "priority": 1, "enabled": true },
   "sinewix": { 
     "priority": 5, "enabled": true },
   "m3utoken": { 
