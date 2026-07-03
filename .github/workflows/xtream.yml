@@ -753,6 +753,7 @@ jobs:
           cp dizipoddiziler.m3u privaate_m3ufilee/dizipoddiziler.m3u || echo "dizipoddiziler.m3u bulunamadi"
           cp dizimomyabancidiziler.m3u privaate_m3ufilee/dizimomyabancidiziler.m3u || echo "dizimomyabancidiziler.m3u bulunamadi"
           cp dizimordiziler.m3u privaate_m3ufilee/dizimordiziler.m3u || echo "dizimordiziler.m3u bulunamadi"
+          cp dizipaldiziler.m3u privaate_m3ufilee/dizipaldiziler.m3u || echo "dizipaldiziler.m3u bulunamadi"
           
           cd privaate_m3ufilee
           git config user.name "GitHub Actions"
