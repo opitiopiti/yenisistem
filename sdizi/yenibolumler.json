@@ -1,4 +1,16 @@
 {
+  "/diziler/sugar.html": {
+    "group": "SUGAR",
+    "year": "2024",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
+  },
+  "/diziler/star-city.html": {
+    "group": "STAR CITY",
+    "year": "2026",
+    "imdb": "5.9",
+    "poster": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg"
+  },
   "/diziler/cape-fear.html": {
     "group": "CAPE FEAR",
     "year": "2025",
@@ -10,6 +22,12 @@
     "year": "2023",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/2QOuYPE6ZCqgVfhClNotQR06uVj.jpg"
+  },
+  "/diziler/human-vapor.html": {
+    "group": "HUMAN VAPOR",
+    "year": null,
+    "imdb": null,
+    "poster": null
   },
   "/diziler/tracker.html": {
     "group": "TRACKER",
@@ -70,17 +88,5 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/4XpWm5EqZQtCIgleaNbpUAMRODx.jpg"
-  },
-  "/diziler/rick-and-morty.html": {
-    "group": "RICK AND MORTY",
-    "year": "2013",
-    "imdb": "9.1",
-    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
-  },
-  "/diziler/one-piece-izle.html": {
-    "group": "ONE PIECE",
-    "year": "1999",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
   }
 }
