@@ -2,7 +2,7 @@
   "/dizi/cape-fear": {
     "group": "Cape Fear",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -10,8 +10,8 @@
   },
   "/dizi/silo": {
     "group": "Silo",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 1,
     "start_episode": 1,
     "year": "2023",
     "imdb": "8.1",
@@ -20,7 +20,7 @@
   "/dizi/starcity": {
     "group": "Starcity",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.7",
@@ -29,7 +29,7 @@
   "/dizi/sugar": {
     "group": "Sugar",
     "last_season": 2,
-    "last_episode": 2,
+    "last_episode": 3,
     "start_episode": 1,
     "year": "2024",
     "imdb": "8.9",
@@ -38,7 +38,7 @@
   "/dizi/brilliant-minds": {
     "group": "Brilliant Minds",
     "last_season": 2,
-    "last_episode": 19,
+    "last_episode": 20,
     "start_episode": 1,
     "year": "2024",
     "imdb": "6.5",
@@ -47,7 +47,7 @@
   "/dizi/human-vapor": {
     "group": "Human Vapor",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -55,8 +55,8 @@
   },
   "/dizi/mademoiselle-holmes": {
     "group": "Mademoiselle Holmes",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2024",
     "imdb": "6.4",
@@ -65,7 +65,7 @@
   "/dizi/morfeusz": {
     "group": "Morfeusz",
     "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.2",
@@ -73,8 +73,8 @@
   },
   "/dizi/survival-of-the-thickest": {
     "group": "Survival of the Thickest",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2025",
     "imdb": "7.5",
@@ -83,7 +83,7 @@
   "/dizi/trion": {
     "group": "Trion",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.7",
