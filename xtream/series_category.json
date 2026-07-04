@@ -2326,7 +2326,10 @@
     {"name": "THE AMERICAN EXPERIMENT", "year": "2026"},
     {"name": "NOTES FROM THE LAST ROW", "year": "2026"},
     {"name": "KOMEDI KACAU", "year": "2024"},
-    {"name": "HUMAN VAPOR", "year": "2026"}
+    {"name": "HUMAN VAPOR", "year": "2026"},
+    {"name": "GASU NINGEN", "year": "2026"},
+    {"name": "SUPER SUBBU", "year": "2026"},
+    {"name": "WORST NEIGHBOR EVER", "year": "2026"}
   ],
   "HBO DİZİLERİ": [
     {"name": "THE PITT", "year": "2025"},
@@ -4023,7 +4026,8 @@
     {"name": "GYEONGIROUN SOMUN", "year": "2020"},
     {"name": "K2", "year": "2016"},
     {"name": "IBEON SAENGEUN CHEOEUMIRA", "year": "2017"},
-    {"name": "BIMILUI SOOP", "year": "2017"}
+    {"name": "BIMILUI SOOP", "year": "2017"},
+    {"name": "GRADUATION", "year": "2024"}
   ],
   "BBC IPLAYER DİZİLERİ": [
     {"name": "MANDY", "year": "2019"},
@@ -4560,7 +4564,8 @@
     {"name": "MACGYVER", "year": "2016"},
     {"name": "PRESIDIO MED", "year": "2002"},
     {"name": "POPPA'S HOUSE", "year": "2024"},
-    {"name": "THE KING OF QUEENS", "year": "1998"}
+    {"name": "THE KING OF QUEENS", "year": "1998"},
+    {"name": "UNITED STATES OF AL", "year": "2021"}
   ],
   "STAN DİZİLERİ": [
     {"name": "CAUGHT", "year": "2023"},
@@ -6602,7 +6607,8 @@
     {"name": "GUILT", "year": "2016"},
     {"name": "GOOD TROUBLE", "year": "2019"},
     {"name": "BEYOND", "year": "2017"},
-    {"name": "ALONE TOGETHER", "year": "2018"}
+    {"name": "ALONE TOGETHER", "year": "2018"},
+    {"name": "KYLE XY", "year": "2006"}
   ],
   "SKY NATURE DİZİLERİ": [
     {"name": "SECRET WORLD OF SOUND", "year": "2024"},
@@ -6835,7 +6841,8 @@
     {"name": "LES COMBATTANTES", "year": "2022"},
     {"name": "LA MANTE", "year": "2017"},
     {"name": "MIRACULOUS, LES AVENTURES DE LADYBUG ET CHAT NOIR", "year": "2015"},
-    {"name": "MADEMOISELLE HOLMES", "year": "2024"}
+    {"name": "MADEMOISELLE HOLMES", "year": "2024"},
+    {"name": "L’ÉTÉ 36", "year": "2026"}
   ],
   "STAR+ DİZİLERİ": [
     {"name": "PLANNERS", "year": "2023"},
@@ -7145,7 +7152,8 @@
     {"name": "NADIYA BAKES", "year": "2020"},
     {"name": "LIFE’S TOO SHORT", "year": "2011"},
     {"name": "THE GREAT WAR", "year": "1964"},
-    {"name": "THE KUMARS AT NO. 42", "year": "2001"}
+    {"name": "THE KUMARS AT NO. 42", "year": "2001"},
+    {"name": "CUNK & OTHER HUMANS ON 2019", "year": "2019"}
   ],
   "ZDFNEO DİZİLERİ": [
     {"name": "DEAD END", "year": "2019"}
