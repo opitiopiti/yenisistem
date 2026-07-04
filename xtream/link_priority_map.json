@@ -9,8 +9,6 @@
     "priority": 9, "enabled": true },
   "setfilmizle": { 
     "priority": 10, "enabled": true },
-  "vidmixi": { 
-    "priority": 11, "enabled": true },
   "hdplayersystem": { 
     "priority": 12, "enabled": true },
   "dizimor": { 
@@ -29,6 +27,8 @@
     "priority": 19, "enabled": true },
   "cortinaeaccoladed": { 
     "priority": 20, "enabled": true },
+  "vidmixi": { 
+    "priority": 21, "enabled": true },
 
 
   
