@@ -31654,5 +31654,17 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/4buHiyaXkkzIdFDu66GOhvXEqbK.jpg",
     "imdb": 8.3
+  },
+  "/dizi/morfeusz": {
+    "group": "Morfeusz",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/i2bwzRYNBLAU6olOz4wKBOqoJFN.jpg",
+    "imdb": 6.1
+  },
+  "/dizi/morfeusz/": {
+    "group": "Morfeusz",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/i2bwzRYNBLAU6olOz4wKBOqoJFN.jpg",
+    "imdb": 6.1
   }
 }

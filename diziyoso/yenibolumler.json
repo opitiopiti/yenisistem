@@ -89,6 +89,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/30P3ySNo0m0xNhHQMXzpmquLwxa.jpg",
     "imdb": 8.1
   },
+  "/dizi/morfeusz": {
+    "group": "Morfeusz",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/i2bwzRYNBLAU6olOz4wKBOqoJFN.jpg",
+    "imdb": 6.1
+  },
   "/dizi/youre-killing-me": {
     "group": "You’re Killing Me",
     "year": 2026,
@@ -112,6 +118,12 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/br2HS3NZ3Hkvcg7AMryE0vUEMSs.jpg",
     "imdb": 10.0
+  },
+  "/dizi/morfeusz/": {
+    "group": "Morfeusz",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/i2bwzRYNBLAU6olOz4wKBOqoJFN.jpg",
+    "imdb": 6.1
   },
   "/dizi/the-scarecrow/": {
     "group": "The Scarecrow",
@@ -274,11 +286,5 @@
     "year": 2011,
     "poster": "https://dzycdn.com/img/t/163x245/deurim-hai-2011.webp",
     "imdb": 7.6
-  },
-  "/dizi/dongbaekkkot-pil-muryeop/": {
-    "group": "Dongbaekkkot Pil Muryeop",
-    "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/bCrYA7xyHJtPnTWZU60pVBRSFZc.jpg",
-    "imdb": 7.8
   }
 }
