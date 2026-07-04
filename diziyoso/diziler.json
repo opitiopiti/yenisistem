@@ -31666,5 +31666,119 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/i2bwzRYNBLAU6olOz4wKBOqoJFN.jpg",
     "imdb": 6.1
+  },
+  "/dizi/the-killings-at-parrish-station": {
+    "group": "The Killings at Parrish Station",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/bhoBX6IddH5ESUKVeZpxKgJBvGH.jpg",
+    "imdb": 6.4
+  },
+  "/dizi/gasu-ningen": {
+    "group": "Gasu Ningen",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/gSYPd4icODc7QdRA7BK0VqBxBYp.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/silo": {
+    "group": "Silo",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
+    "imdb": 8.1
+  },
+  "/dizi/sugar": {
+    "group": "Sugar",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/super-subbu": {
+    "group": "Super Subbu",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/bwb5oPnZAdRwKusI8So8Sx1bcL4.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/survival-of-the-thickest": {
+    "group": "Survival of the Thickest",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/sD8RToyFl1oMF3kXgkeSmSsJIpa.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/worst-neighbor-ever": {
+    "group": "Worst Neighbor Ever",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/1WarGMl1xR0l7ut72putZcgrCJS.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/my-adventures-with-superman": {
+    "group": "My Adventures with Superman",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/eqCGgjQJRImIZp8dUOx1YUpx1dj.jpg",
+    "imdb": 8.1
+  },
+  "/dizi/kyle-xy/": {
+    "group": "Kyle XY",
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/4omwjf3HgGx4nZXcA0Avmd9bQny.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/gasu-ningen/": {
+    "group": "Gasu Ningen",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/gSYPd4icODc7QdRA7BK0VqBxBYp.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/cunk-other-humans-on-2019/": {
+    "group": "Cunk & Other Humans on 2019",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/t7vjeqzPRCMXUM6lcsNnf757D33.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/united-states-of-al/": {
+    "group": "United States of Al",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/iE9STLu2DjxwM6TkOrszkfNS0hV.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/lete-36/": {
+    "group": "L’Été 36",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/ijMbSFhBd0m8TFuaALtOQp5kLwM.jpg",
+    "imdb": 6.3
+  },
+  "/dizi/super-subbu/": {
+    "group": "Super Subbu",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/bwb5oPnZAdRwKusI8So8Sx1bcL4.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/graduation/": {
+    "group": "Graduation",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/oAW6uNzckEr3BlJRKpvdz7Pj1KK.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/worst-neighbor-ever/": {
+    "group": "Worst Neighbor Ever",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/1WarGMl1xR0l7ut72putZcgrCJS.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/the-killings-at-parrish-station/": {
+    "group": "The Killings at Parrish Station",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/bhoBX6IddH5ESUKVeZpxKgJBvGH.jpg",
+    "imdb": 6.4
+  },
+  "/dizi/the-au-pair/": {
+    "group": "The Au Pair",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/4RQkZDIu3Ofm2htjGpnfQLjeb3T.jpg",
+    "imdb": 5.7
+  },
+  "/dizi/naked/": {
+    "group": "Naked",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/4sALwFbEvQNumPbwHVYiU9NGhe.jpg",
+    "imdb": 6.2
   }
 }

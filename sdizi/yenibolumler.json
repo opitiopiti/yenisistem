@@ -1,4 +1,16 @@
 {
+  "/diziler/hacks.html": {
+    "group": "HACKS",
+    "year": "2021",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/ulBzMy5DZjBeUo6wHqn8ao0Zn6j.jpg"
+  },
+  "/diziler/everwood.html": {
+    "group": "EVERWOOD",
+    "year": "2002",
+    "imdb": "7.5",
+    "poster": "https://image.tmdb.org/t/p/w500/uuWIIIjT6hyCLGQTVG0cwLfubb9.jpg"
+  },
   "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
     "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
     "year": "2018",
@@ -76,17 +88,5 @@
     "year": "2023",
     "imdb": "7.6",
     "poster": "https://image.tmdb.org/t/p/w500/6RTMDyXZpzACsSg5AcRSUHMO8m2.jpg"
-  },
-  "/diziler/elsbeth.html": {
-    "group": "ELSBETH",
-    "year": "2024",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/7lnNSbT90qwtrn1h9TvEkVFMz2P.jpg"
-  },
-  "/diziler/9-1-1-nashville.html": {
-    "group": "9-1-1: NASHVILLE",
-    "year": "2025",
-    "imdb": "5.6",
-    "poster": "https://image.tmdb.org/t/p/w500/4Dl0LysUOEWOhitzAfrKFkBeefu.jpg"
   }
 }
