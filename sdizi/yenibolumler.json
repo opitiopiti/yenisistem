@@ -1,4 +1,10 @@
 {
+  "/diziler/my-adventures-with-superman.html": {
+    "group": "MY ADVENTURES WITH SUPERMAN",
+    "year": "2023",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/kocOUpdLnHyqfMW4jSRLxWT0QhM.jpg"
+  },
   "/diziler/hacks.html": {
     "group": "HACKS",
     "year": "2021",
@@ -82,11 +88,5 @@
     "year": "2021",
     "imdb": "7.7",
     "poster": "https://image.tmdb.org/t/p/w500/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg"
-  },
-  "/diziler/my-love-story-with-yamada-kun-at-lv999.html": {
-    "group": "MY LOVE STORY WITH YAMADA-KUN AT LV999",
-    "year": "2023",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/6RTMDyXZpzACsSg5AcRSUHMO8m2.jpg"
   }
 }

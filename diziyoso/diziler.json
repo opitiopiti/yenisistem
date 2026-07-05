@@ -31804,5 +31804,125 @@
     "year": 2025,
     "poster": "https://dzycdn.com/img/t/163x245/fainarudorafuto-2025.webp",
     "imdb": 7.0
+  },
+  "/dizi/difficult-people/": {
+    "group": "Difficult People",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/2ji3KnVj7ilpL67DtScIHzxxjHH.jpg",
+    "imdb": 6.3
+  },
+  "/dizi/revolution/": {
+    "group": "Revolution",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/pNyg4V6kuDstSSxk6Q9GgaBn4B8.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/beecham-house/": {
+    "group": "Beecham House",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/eK7NDOQCQn9spHF0nXq9q921Xy2.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/american-gigolo/": {
+    "group": "American Gigolo",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/m0nRFOLYUju4XHG7v2jZZf3n6vs.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/das-geheimnis-des-totenwaldes/": {
+    "group": "Das Geheimnis des Totenwaldes",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/trWKXnJ8DWawJM0qT56Cx9bJKVf.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/dead-still/": {
+    "group": "Dead Still",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/y0hCyEGB0X5ULB0paAidp0YQ9In.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/der-uberlaufer/": {
+    "group": "Der Überläufer",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/iuEDWjhKrXV3w9LwBhl7kY6N3t8.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/des/": {
+    "group": "Des",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/sdgcLDvJhNo1obob0kFiqf8rXkV.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/single-drunk-female/": {
+    "group": "Single Drunk Female",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/oZ4AIq36U3SNkoHU7uQYVnNzqXk.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/the-trial-of-christine-keeler/": {
+    "group": "The Trial of Christine Keeler",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/pXVswAsAuqGA87oTwfSOWhXkqnV.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/y-the-last-man/": {
+    "group": "Y: The Last Man",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/xJvTO2fLOQWwJlQ4MAt7rP8Yno0.jpg",
+    "imdb": 6.687
+  },
+  "/dizi/the-idol/": {
+    "group": "The Idol",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/gO9k7t9jSdkkWVG0deMZDpELZGw.jpg",
+    "imdb": 4.4
+  },
+  "/dizi/marvels-hero-project/": {
+    "group": "Marvel’s Hero Project",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/tImFadmLA2k2TJTw1a4nDgALJV0.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/alaska-the-last-frontier/": {
+    "group": "Alaska: The Last Frontier",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/hBwlagcxxVTQTTQUAMNbwfRWZ86.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/planet-earth/": {
+    "group": "Planet Earth",
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/bNcNxUtZ520d5de5s78onoiSiwQ.jpg",
+    "imdb": 9.4
+  },
+  "/dizi/welcome-to-flatch/": {
+    "group": "Welcome to Flatch",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/ztJqyTocc1pylks84ZpiRorC8kr.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/devils/": {
+    "group": "Devils",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/l4Pl7APWpRANULCirWTrcMPfdIl.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/human-planet/": {
+    "group": "Human Planet",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/bjhP5yIeyWMRMxJdLjBuiIf255X.jpg",
+    "imdb": 8.258
+  },
+  "/dizi/around-the-world-in-80-days/": {
+    "group": "Around the World in 80 Days",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/j8Np9NZlkzrSdEmpLSgoUkoyJeh.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/generator-rex/": {
+    "group": "Generator Rex",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/3F93j1Yuu9wtPO06BlPSVbLdxaP.jpg",
+    "imdb": 7.7
   }
 }
