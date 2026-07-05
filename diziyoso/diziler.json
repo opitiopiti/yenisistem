@@ -31960,5 +31960,11 @@
     "year": 2009,
     "poster": "https://image.tmdb.org/t/p/w500/vhcqMr8UEYNlt1yzWqLndYWEgeo.jpg",
     "imdb": 9.0
+  },
+  "/dizi/fawlty-towers/": {
+    "group": "Fawlty Towers",
+    "year": 1975,
+    "poster": "https://image.tmdb.org/t/p/w500/tvTYIjujN87dcKAmSLqcvAahykH.jpg",
+    "imdb": 8.8
   }
 }

@@ -125,6 +125,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/paRFCxAJRZOypfgnzYLo6KH5jjO.jpg",
     "imdb": 8.2
   },
+  "/dizi/fawlty-towers/": {
+    "group": "Fawlty Towers",
+    "year": 1975,
+    "poster": "https://image.tmdb.org/t/p/w500/tvTYIjujN87dcKAmSLqcvAahykH.jpg",
+    "imdb": 8.8
+  },
   "/dizi/tvf-pitchers/": {
     "group": "TVF Pitchers",
     "year": 2015,
@@ -286,11 +292,5 @@
     "year": 2004,
     "poster": "https://image.tmdb.org/t/p/w500/l0JYr2iqwId6VOmCV8dHzlIM6Wd.jpg",
     "imdb": 8.029
-  },
-  "/dizi/we-are-all-trying-here/": {
-    "group": "We Are All Trying Here",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/c2jswCrMoqDEBEXwSAlrCWtXdfZ.jpg",
-    "imdb": 8.5
   }
 }
