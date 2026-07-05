@@ -6328,7 +6328,8 @@
     {"name": "FROZEN PLANET", "year": "2011"},
     {"name": "LIFE ON MARS", "year": "2006"},
     {"name": "INTERIOR DESIGN MASTERS WITH ALAN CARR", "year": "2019"},
-    {"name": "INSPECTOR GEORGE GENTLY", "year": "2008"}
+    {"name": "INSPECTOR GEORGE GENTLY", "year": "2008"},
+    {"name": "ANDREW MARR’S HISTORY OF THE WORLD", "year": "2012"}
   ],
   "TVNZ 1 DİZİLERİ": [
     {"name": "WOMEN IN BLUE", "year": "2014"},
@@ -6709,7 +6710,8 @@
     {"name": "SIGHT UNSEEN", "year": "2024"},
     {"name": "SHELVED", "year": "2023"},
     {"name": "SULLIVAN’S CROSSING", "year": "2023"},
-    {"name": "CHILDREN RUIN EVERYTHING", "year": "2022"}
+    {"name": "CHILDREN RUIN EVERYTHING", "year": "2022"},
+    {"name": "JANN", "year": "2019"}
   ],
   "SHOWTIME ON DEMAND DİZİLERİ": [
     {"name": "BILLIONS", "year": "2016"},
@@ -8293,7 +8295,8 @@
     {"name": "THE PRODUCERS", "year": "2023"}
   ],
   "TV4 DİZİLERİ": [
-    {"name": "MODUS", "year": "2015"}
+    {"name": "MODUS", "year": "2015"},
+    {"name": "BECK", "year": "1997"}
   ],
   "OXYGEN TRUE CRIME DİZİLERİ": [
     {"name": "WITNESSES", "year": "2020"}
@@ -8356,7 +8359,8 @@
     {"name": "DEKALOG", "year": "1989"}
   ],
   "ZEE5 DİZİLERİ": [
-    {"name": "SIN-I-RANG BEOM-NYUL-SA-MU-SO", "year": "2020"}
+    {"name": "SIN-I-RANG BEOM-NYUL-SA-MU-SO", "year": "2020"},
+    {"name": "TVF PITCHERS", "year": "2015"}
   ],
   "HALLMARK+ DİZİLERİ": [
     {"name": "HOPE VALLEY: 1874", "year": "2026"},
