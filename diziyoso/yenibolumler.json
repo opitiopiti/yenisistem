@@ -125,6 +125,30 @@
     "poster": "https://image.tmdb.org/t/p/w500/paRFCxAJRZOypfgnzYLo6KH5jjO.jpg",
     "imdb": 8.2
   },
+  "/dizi/stargate-atlantis/": {
+    "group": "Stargate Atlantis",
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/l0JYr2iqwId6VOmCV8dHzlIM6Wd.jpg",
+    "imdb": 8.029
+  },
+  "/dizi/we-are-all-trying-here/": {
+    "group": "We Are All Trying Here",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/c2jswCrMoqDEBEXwSAlrCWtXdfZ.jpg",
+    "imdb": 8.5
+  },
+  "/dizi/seutateueob/": {
+    "group": "Seutateueob",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/hxJQ3A2wtreuWDnVBbzzXI3YlOE.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/fainarudorafuto/": {
+    "group": "Fainarudorafuto",
+    "year": 2025,
+    "poster": "https://dzycdn.com/img/t/163x245/fainarudorafuto-2025.webp",
+    "imdb": 7.0
+  },
   "/dizi/kyle-xy/": {
     "group": "Kyle XY",
     "year": 2006,
@@ -268,29 +292,5 @@
     "year": 2003,
     "poster": "https://image.tmdb.org/t/p/w500/9g1YPyKtpB0aNlgVb0N8YASKLZN.jpg",
     "imdb": 6.9
-  },
-  "/dizi/the-turkish-detective/": {
-    "group": "The Turkish Detective",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/bvQyuK1EIjYNSpyP58JhkUNkB2C.jpg",
-    "imdb": 6.7
-  },
-  "/dizi/whats-new-scooby-doo/": {
-    "group": "What’s New, Scooby-Doo?",
-    "year": 2002,
-    "poster": "https://image.tmdb.org/t/p/w500/qP3DZrKLSPe5WR2N066BIfB2dIq.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/gukyeongi/": {
-    "group": "Gukyeongi",
-    "year": 2021,
-    "poster": "https://image.tmdb.org/t/p/w500/ihAWMJ3K9J7WwA3ph57lxCLsQGA.jpg",
-    "imdb": 7.1
-  },
-  "/dizi/oasis/": {
-    "group": "Oasis",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/vWBtcjETIUd45OoIULEqc6qZxM7.jpg",
-    "imdb": 5.4
   }
 }

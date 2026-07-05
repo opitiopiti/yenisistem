@@ -31780,5 +31780,29 @@
     "year": 2025,
     "poster": "https://image.tmdb.org/t/p/w500/4sALwFbEvQNumPbwHVYiU9NGhe.jpg",
     "imdb": 6.2
+  },
+  "/dizi/stargate-atlantis/": {
+    "group": "Stargate Atlantis",
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/l0JYr2iqwId6VOmCV8dHzlIM6Wd.jpg",
+    "imdb": 8.029
+  },
+  "/dizi/we-are-all-trying-here/": {
+    "group": "We Are All Trying Here",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/c2jswCrMoqDEBEXwSAlrCWtXdfZ.jpg",
+    "imdb": 8.5
+  },
+  "/dizi/seutateueob/": {
+    "group": "Seutateueob",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/hxJQ3A2wtreuWDnVBbzzXI3YlOE.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/fainarudorafuto/": {
+    "group": "Fainarudorafuto",
+    "year": 2025,
+    "poster": "https://dzycdn.com/img/t/163x245/fainarudorafuto-2025.webp",
+    "imdb": 7.0
   }
 }
