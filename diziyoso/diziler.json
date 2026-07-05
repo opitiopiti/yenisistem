@@ -31924,5 +31924,41 @@
     "year": 2010,
     "poster": "https://image.tmdb.org/t/p/w500/3F93j1Yuu9wtPO06BlPSVbLdxaP.jpg",
     "imdb": 7.7
+  },
+  "/dizi/tvf-pitchers/": {
+    "group": "TVF Pitchers",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/w0A288hXCytNIi9Kh7VkKE8MQ1W.jpg",
+    "imdb": 9.0
+  },
+  "/dizi/beck/": {
+    "group": "Beck",
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/oOHVlOM3l0etyCVAWA3ity4EJqm.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/kaala-paani/": {
+    "group": "Kaala Paani",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/wQJFHysapAr1eXB5BWNSRbfgTbU.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/jann/": {
+    "group": "Jann",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/ojhZrnwEmWkcMvacfFK3BAWakyh.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/andrew-marrs-history-of-the-world/": {
+    "group": "Andrew Marr’s History of the World",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/6RYrYDJnZdUR1uB3xUZFk2l8VIj.jpg",
+    "imdb": 8.3
+  },
+  "/dizi/apocalypse-la-2eme-guerre-mondiale/": {
+    "group": "Apocalypse : La 2ème Guerre mondiale",
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/vhcqMr8UEYNlt1yzWqLndYWEgeo.jpg",
+    "imdb": 9.0
   }
 }

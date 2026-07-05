@@ -1,4 +1,10 @@
 {
+  "/diziler/mushoku-tensei-jobless-reincarnation.html": {
+    "group": "MUSHOKU TENSEI: JOBLESS REINCARNATION",
+    "year": "2021",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg"
+  },
   "/diziler/my-adventures-with-superman.html": {
     "group": "MY ADVENTURES WITH SUPERMAN",
     "year": "2023",
@@ -82,11 +88,5 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/oeD9rnfk7AohNiJTRoCx4SOKhXj.jpg"
-  },
-  "/diziler/ghosts.html": {
-    "group": "GHOSTS",
-    "year": "2021",
-    "imdb": "7.7",
-    "poster": "https://image.tmdb.org/t/p/w500/8yBQYa6AdvMY5H9CiAv0HkvF3UE.jpg"
   }
 }

@@ -125,6 +125,42 @@
     "poster": "https://image.tmdb.org/t/p/w500/paRFCxAJRZOypfgnzYLo6KH5jjO.jpg",
     "imdb": 8.2
   },
+  "/dizi/tvf-pitchers/": {
+    "group": "TVF Pitchers",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/w0A288hXCytNIi9Kh7VkKE8MQ1W.jpg",
+    "imdb": 9.0
+  },
+  "/dizi/beck/": {
+    "group": "Beck",
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/oOHVlOM3l0etyCVAWA3ity4EJqm.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/kaala-paani/": {
+    "group": "Kaala Paani",
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/wQJFHysapAr1eXB5BWNSRbfgTbU.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/jann/": {
+    "group": "Jann",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/ojhZrnwEmWkcMvacfFK3BAWakyh.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/andrew-marrs-history-of-the-world/": {
+    "group": "Andrew Marr’s History of the World",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/6RYrYDJnZdUR1uB3xUZFk2l8VIj.jpg",
+    "imdb": 8.3
+  },
+  "/dizi/apocalypse-la-2eme-guerre-mondiale/": {
+    "group": "Apocalypse : La 2ème Guerre mondiale",
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/vhcqMr8UEYNlt1yzWqLndYWEgeo.jpg",
+    "imdb": 9.0
+  },
   "/dizi/difficult-people/": {
     "group": "Difficult People",
     "year": 2015,
@@ -256,41 +292,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/c2jswCrMoqDEBEXwSAlrCWtXdfZ.jpg",
     "imdb": 8.5
-  },
-  "/dizi/seutateueob/": {
-    "group": "Seutateueob",
-    "year": 2020,
-    "poster": "https://image.tmdb.org/t/p/w500/hxJQ3A2wtreuWDnVBbzzXI3YlOE.jpg",
-    "imdb": 7.9
-  },
-  "/dizi/fainarudorafuto/": {
-    "group": "Fainarudorafuto",
-    "year": 2025,
-    "poster": "https://dzycdn.com/img/t/163x245/fainarudorafuto-2025.webp",
-    "imdb": 7.0
-  },
-  "/dizi/kyle-xy/": {
-    "group": "Kyle XY",
-    "year": 2006,
-    "poster": "https://image.tmdb.org/t/p/w500/4omwjf3HgGx4nZXcA0Avmd9bQny.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/gasu-ningen/": {
-    "group": "Gasu Ningen",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/gSYPd4icODc7QdRA7BK0VqBxBYp.jpg",
-    "imdb": 7.0
-  },
-  "/dizi/cunk-other-humans-on-2019/": {
-    "group": "Cunk & Other Humans on 2019",
-    "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/t7vjeqzPRCMXUM6lcsNnf757D33.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/cunk-on/": {
-    "group": "Cunk on…",
-    "year": "2018",
-    "poster": "https://image.tmdb.org/t/p/w500/2ZEZF2IVQkaAlfC8l3Oh7j8ZjDy.jpg",
-    "imdb": 7.945
   }
 }
