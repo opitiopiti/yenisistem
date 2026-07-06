@@ -4910,7 +4910,8 @@
     {"name": "MUHABIR", "year": "2016"},
     {"name": "100-MAN NO INOCHI NO UE NI ORE WA TATTEIRU", "year": "2020"},
     {"name": "TONGARI BOUSHI NO ATELIER", "year": "2026"},
-    {"name": "SPARKS OF TOMORROW", "year": "2026"}
+    {"name": "SPARKS OF TOMORROW", "year": "2026"},
+    {"name": "CHAINSMOKER CAT", "year": "2026"}
   ],
   "AMC+ DİZİLERİ": [
     {"name": "DARK WINDS", "year": "2022"},
@@ -8984,5 +8985,8 @@
   ],
   "MAGNOLIA NETWORK DİZİLERİ": [
     {"name": "BUILDING OFF THE GRID: BIG SKY RANCH", "year": "2016"}
+  ],
+  "UP TV DİZİLERİ": [
+    {"name": "SUGARCREEK AMISH MYSTERIES", "year": "2025"}
   ]
 }
