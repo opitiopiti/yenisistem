@@ -1955,7 +1955,7 @@
   "/dizi/grantchester": {
     "group": "Grantchester",
     "last_season": 11,
-    "last_episode": 3,
+    "last_episode": 4,
     "start_episode": 1,
     "year": "2014",
     "imdb": "7.1",
@@ -2207,7 +2207,7 @@
   "/dizi/chainsmoker-cat": {
     "group": "Chainsmoker Cat",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.2",
@@ -2216,7 +2216,7 @@
   "/dizi/sugarcreek-amish-mysteries": {
     "group": "Sugarcreek Amish Mysteries",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.6",
