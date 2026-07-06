@@ -1,4 +1,10 @@
 {
+  "/diziler/welcome-to-wrexham.html": {
+    "group": "WELCOME TO WREXHAM",
+    "year": "2022",
+    "imdb": "8.3",
+    "poster": "https://image.tmdb.org/t/p/w500/53CNogAzbbwepLxQS5jIfGG35MQ.jpg"
+  },
   "/diziler/rick-and-morty.html": {
     "group": "RICK AND MORTY",
     "year": "2013",
@@ -82,11 +88,5 @@
     "year": "2023",
     "imdb": "7.2",
     "poster": "https://image.tmdb.org/t/p/w500/nYRnuQNR13nEYaXkOZaY0qIWl2K.jpg"
-  },
-  "/diziler/x-men-97.html": {
-    "group": "X-MEN '97",
-    "year": "2024",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg"
   }
 }
