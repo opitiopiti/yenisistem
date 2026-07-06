@@ -1,4 +1,22 @@
 {
+  "/dizi/chainsmoker-cat": {
+    "group": "Chainsmoker Cat",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/kqeKlSd7o9BCbTraZsDnksRSfxm.jpg"
+  },
+  "/dizi/grantchester": {
+    "group": "Grantchester",
+    "last_season": 11,
+    "last_episode": 3,
+    "start_episode": 1,
+    "year": "2014",
+    "imdb": "7.1",
+    "poster": "https://image.tmdb.org/t/p/w500/5Itrb1x7OiA5A0XUreRuevR1hA6.jpg"
+  },
   "/dizi/rick-and-morty": {
     "group": "Rick and Morty",
     "last_season": 9,
@@ -7,6 +25,15 @@
     "year": "2013",
     "imdb": "9.1",
     "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg"
+  },
+  "/dizi/sugarcreek-amish-mysteries": {
+    "group": "Sugarcreek Amish Mysteries",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.6",
+    "poster": "https://image.tmdb.org/t/p/w500/ipm4Z8wI0WmQvAIh4HOH55i4iaj.jpg"
   },
   "/dizi/interview-with-the-vampire": {
     "group": "Interview with the Vampire",

@@ -1,4 +1,10 @@
 {
+  "/dizi/rick-and-morty": {
+    "group": "Rick and Morty",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
+    "imdb": 9.0
+  },
   "/dizi/house-of-the-dragon": {
     "group": "House of the Dragon",
     "year": 2022,
@@ -100,12 +106,6 @@
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/eqCGgjQJRImIZp8dUOx1YUpx1dj.jpg",
     "imdb": 8.1
-  },
-  "/dizi/rick-and-morty": {
-    "group": "Rick and Morty",
-    "year": 2013,
-    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
-    "imdb": 9.0
   },
   "/dizi/power-book-iii-raising-kanan": {
     "group": "Power Book III: Raising Kanan",

@@ -1,1 +1,86 @@
-{}
+{
+  "/dizi/rick-and-morty/": {
+    "group": "Rick and Morty",
+    "year": 2013,
+    "imdb": 9.0,
+    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
+  },
+  "/dizi/house-of-the-dragon/": {
+    "group": "House of the Dragon",
+    "year": 2022,
+    "imdb": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w500/7QMsOTMUswlwxJP0rTTZfmz2tX2.jpg"
+  },
+  "/dizi/silo/": {
+    "group": "Silo",
+    "year": 2023,
+    "imdb": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w500/fDMTqUcEh6qJwWZP1SHTfoaqsCy.jpg"
+  },
+  "/dizi/sugar/": {
+    "group": "Sugar",
+    "year": 2024,
+    "imdb": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
+  },
+  "/dizi/cape-fear/": {
+    "group": "Cape Fear",
+    "year": 2026,
+    "imdb": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w500/64gCOK6NKcXVI2amtVKk3Xx7cbC.jpg"
+  },
+  "/dizi/star-city/": {
+    "group": "Star City",
+    "year": 2026,
+    "imdb": 6.0,
+    "poster": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg"
+  },
+  "/dizi/elle/": {
+    "group": "Elle",
+    "year": 2026,
+    "imdb": 6.2,
+    "poster": "https://image.tmdb.org/t/p/w500/mrHrUOCk2FigPX3j8Q2FiY4liRa.jpg"
+  },
+  "/dizi/maximum-pleasure-guaranteed/": {
+    "group": "Maximum Pleasure Guaranteed",
+    "year": 2026,
+    "imdb": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
+  },
+  "/dizi/camp-snoopy/": {
+    "group": "Camp Snoopy",
+    "year": 2024,
+    "imdb": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w500/vN5fuofxX5jvRnu6R3NhGipUhbI.jpg"
+  },
+  "/dizi/not-suitable-for-work/": {
+    "group": "Not Suitable for Work",
+    "year": 2026,
+    "imdb": 6.2,
+    "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg"
+  },
+  "/dizi/gomorrah-the-origins/": {
+    "group": "Gomorrah: The Origins",
+    "year": 2026,
+    "imdb": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w500/l0RJjiE6k1Ey5m3pYTe60BQbNnZ.jpg"
+  },
+  "/dizi/dogu/": {
+    "group": "Doğu",
+    "year": 2021,
+    "imdb": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w500/ZAQbYIG2bHblv2lGapfFS6TmkX.jpg"
+  },
+  "/dizi/the-bear/": {
+    "group": "The Bear",
+    "year": 2022,
+    "imdb": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w500/eKfVzzEazSIjJMrw9ADa2x8ksLz.jpg"
+  },
+  "/dizi/avatar-the-last-airbender/": {
+    "group": "Avatar: The Last Airbender",
+    "year": 2024,
+    "imdb": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w500/owWlw5ZfWTnpGPOyszgLJQcDNgP.jpg"
+  }
+}

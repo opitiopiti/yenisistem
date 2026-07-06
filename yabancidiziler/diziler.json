@@ -2203,5 +2203,23 @@
     "year": "2026",
     "imdb": "8.9",
     "poster": "https://image.tmdb.org/t/p/w500/yDTcX4l5D3OFeYGsQVI5Jqxx1D7.jpg"
+  },
+  "/dizi/chainsmoker-cat": {
+    "group": "Chainsmoker Cat",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/kqeKlSd7o9BCbTraZsDnksRSfxm.jpg"
+  },
+  "/dizi/sugarcreek-amish-mysteries": {
+    "group": "Sugarcreek Amish Mysteries",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.6",
+    "poster": "https://image.tmdb.org/t/p/w500/ipm4Z8wI0WmQvAIh4HOH55i4iaj.jpg"
   }
 }
