@@ -16930,5 +16930,17 @@
     "year": "2002",
     "imdb": "7.5",
     "poster": "https://image.tmdb.org/t/p/w500/uuWIIIjT6hyCLGQTVG0cwLfubb9.jpg"
+  },
+  "/diziler/r-j-decker.html": {
+    "group": "R.J. DECKER",
+    "year": "2025",
+    "imdb": "7.1",
+    "poster": null
+  },
+  "/diziler/not-suitable-for-work.html": {
+    "group": "NOT SUITABLE FOR WORK",
+    "year": "2026",
+    "imdb": "6.9",
+    "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg"
   }
 }

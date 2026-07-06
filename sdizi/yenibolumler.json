@@ -1,4 +1,16 @@
 {
+  "/diziler/r-j-decker.html": {
+    "group": "R.J. DECKER",
+    "year": "2025",
+    "imdb": "7.1",
+    "poster": null
+  },
+  "/diziler/not-suitable-for-work.html": {
+    "group": "NOT SUITABLE FOR WORK",
+    "year": "2026",
+    "imdb": "6.9",
+    "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg"
+  },
   "/diziler/welcome-to-wrexham.html": {
     "group": "WELCOME TO WREXHAM",
     "year": "2022",
@@ -76,17 +88,5 @@
     "year": "2024",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg"
-  },
-  "/diziler/elle.html": {
-    "group": "ELLE",
-    "year": "2026",
-    "imdb": "6.2",
-    "poster": "https://image.tmdb.org/t/p/w500/u0Vj7zhVK0HYxsS3VMzkU37Pebp.jpg"
-  },
-  "/diziler/sullivans-crossing.html": {
-    "group": "SULLIVAN'S CROSSING",
-    "year": "2023",
-    "imdb": "7.2",
-    "poster": "https://image.tmdb.org/t/p/w500/nYRnuQNR13nEYaXkOZaY0qIWl2K.jpg"
   }
 }
