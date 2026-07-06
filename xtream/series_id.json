@@ -4880,8 +4880,8 @@
   "1815": {
     "name": "DUTTON RANCH (2026)",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1783174642
+    "last_episode": 9,
+    "last_modified": 1783310340
   },
   "1816": {
     "name": "SMALLVILLE (2001)",
@@ -37928,8 +37928,8 @@
   "7362": {
     "name": "HOUSE OF THE DRAGON (2022)",
     "last_season": 3,
-    "last_episode": 2,
-    "last_modified": 1783174642
+    "last_episode": 3,
+    "last_modified": 1783310340
   },
   "7363": {
     "name": "HUMAN VAPOR (2026)",
@@ -38282,8 +38282,8 @@
   "7423": {
     "name": "RICK VE MORTY (2013)",
     "last_season": 9,
-    "last_episode": 5,
-    "last_modified": 1783174642
+    "last_episode": 6,
+    "last_modified": 1783310340
   },
   "7424": {
     "name": "DO WON-DO PUL-SEU (2026)",
@@ -65978,8 +65978,8 @@
   "12272": {
     "name": "AZUR LANE (2019) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1783287205
+    "last_episode": 12,
+    "last_modified": 1783310340
   },
   "12273": {
     "name": "AZUR LANE: SLOW AHEAD! (2021) İNGİLİZCE",
@@ -65998,5 +65998,17 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1783287205
+  },
+  "12318": {
+    "name": "AILEMIN HIKÂYESI (2025)",
+    "last_season": 2,
+    "last_episode": 6,
+    "last_modified": 1783310340
+  },
+  "12319": {
+    "name": "BLOOM INTO YOU (2018) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 13,
+    "last_modified": 1783310340
   }
 }
