@@ -2194,5 +2194,14 @@
     "year": "2026",
     "imdb": "6.7",
     "poster": "https://image.tmdb.org/t/p/w500/fsDfeHhCmOTeK8e1KAdHsdAINha.jpg"
+  },
+  "/dizi/sparks-of-tomorrow": {
+    "group": "Sparks of Tomorrow",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "8.9",
+    "poster": "https://image.tmdb.org/t/p/w500/yDTcX4l5D3OFeYGsQVI5Jqxx1D7.jpg"
   }
 }

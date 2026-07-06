@@ -1,9 +1,9 @@
 {
-  "/dizi/the-killings-at-parrish-station": {
-    "group": "The Killings at Parrish Station",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/bhoBX6IddH5ESUKVeZpxKgJBvGH.jpg",
-    "imdb": 6.4
+  "/dizi/house-of-the-dragon": {
+    "group": "House of the Dragon",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+    "imdb": 8.3
   },
   "/dizi/proud": {
     "group": "Proud",
@@ -100,12 +100,6 @@
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/eqCGgjQJRImIZp8dUOx1YUpx1dj.jpg",
     "imdb": 8.1
-  },
-  "/dizi/house-of-the-dragon": {
-    "group": "House of the Dragon",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
-    "imdb": 8.3
   },
   "/dizi/rick-and-morty": {
     "group": "Rick and Morty",
