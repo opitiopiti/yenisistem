@@ -1,4 +1,10 @@
 {
+  "/diziler/grand-blue.html": {
+    "group": "GRAND BLUE",
+    "year": "2018",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/ii1yrluzWisy1rygSKz8lJkAkil.jpg"
+  },
   "/diziler/survival-of-the-thickest.html": {
     "group": "SURVIVAL OF THE THICKEST",
     "year": "2023",
@@ -82,11 +88,5 @@
     "year": "2025",
     "imdb": "0.0",
     "poster": null
-  },
-  "/diziler/silo.html": {
-    "group": "SILO",
-    "year": "2023",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/2QOuYPE6ZCqgVfhClNotQR06uVj.jpg"
   }
 }
