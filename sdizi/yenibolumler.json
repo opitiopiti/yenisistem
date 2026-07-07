@@ -1,4 +1,16 @@
 {
+  "/diziler/survival-of-the-thickest.html": {
+    "group": "SURVIVAL OF THE THICKEST",
+    "year": "2023",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/sD8RToyFl1oMF3kXgkeSmSsJIpa.jpg"
+  },
+  "/diziler/fire-country.html": {
+    "group": "FIRE COUNTRY",
+    "year": "2022",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg"
+  },
   "/diziler/r-j-decker.html": {
     "group": "R.J. DECKER",
     "year": "2025",
@@ -76,17 +88,5 @@
     "year": "2023",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/2QOuYPE6ZCqgVfhClNotQR06uVj.jpg"
-  },
-  "/diziler/human-vapor.html": {
-    "group": "HUMAN VAPOR",
-    "year": "2026",
-    "imdb": "7.2",
-    "poster": "https://image.tmdb.org/t/p/w500/gSYPd4icODc7QdRA7BK0VqBxBYp.jpg"
-  },
-  "/diziler/tracker.html": {
-    "group": "TRACKER",
-    "year": "2024",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/otula4h1ITZ0eV84eg7Lb8u614C.jpg"
   }
 }
