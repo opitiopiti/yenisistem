@@ -1,4 +1,22 @@
 {
+  "/diziler/from-old-country-bumpkin-to-master-swordsman.html": {
+    "group": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN",
+    "year": "2025",
+    "imdb": "6.7",
+    "poster": "https://image.tmdb.org/t/p/w500/ujQp5egkJOkDHx4TehlgHePFcRv.jpg"
+  },
+  "/diziler/notes-from-the-last-row.html": {
+    "group": "NOTES FROM THE LAST ROW",
+    "year": "2026",
+    "imdb": "7.1",
+    "poster": "https://image.tmdb.org/t/p/w500/paRFCxAJRZOypfgnzYLo6KH5jjO.jpg"
+  },
+  "/diziler/the-miniature-wife.html": {
+    "group": "THE MINIATURE WIFE",
+    "year": "2026",
+    "imdb": "6.1",
+    "poster": "https://image.tmdb.org/t/p/w500/99SkFAS3S3iOtnplwH0byFUMiHK.jpg"
+  },
   "/diziler/doc.html": {
     "group": "DOC",
     "year": "2025",
@@ -70,23 +88,5 @@
     "year": "2013",
     "imdb": "9.1",
     "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
-  },
-  "/diziler/mushoku-tensei-jobless-reincarnation.html": {
-    "group": "MUSHOKU TENSEI: JOBLESS REINCARNATION",
-    "year": "2021",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg"
-  },
-  "/diziler/my-adventures-with-superman.html": {
-    "group": "MY ADVENTURES WITH SUPERMAN",
-    "year": "2023",
-    "imdb": "7.7",
-    "poster": "https://image.tmdb.org/t/p/w500/kocOUpdLnHyqfMW4jSRLxWT0QhM.jpg"
-  },
-  "/diziler/hacks.html": {
-    "group": "HACKS",
-    "year": "2021",
-    "imdb": "8.2",
-    "poster": "https://image.tmdb.org/t/p/w500/ulBzMy5DZjBeUo6wHqn8ao0Zn6j.jpg"
   }
 }
