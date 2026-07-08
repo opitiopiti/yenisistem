@@ -1,4 +1,16 @@
 {
+  "/dizi/trying/": {
+    "group": "Trying",
+    "year": 2020,
+    "imdb": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w500/eHTDuZp8UtbSK1XehE59UJrgOXg.jpg"
+  },
+  "/dizi/maximum-pleasure-guaranteed/": {
+    "group": "Maximum Pleasure Guaranteed",
+    "year": 2026,
+    "imdb": 7.1,
+    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
+  },
   "/dizi/rick-and-morty/": {
     "group": "Rick and Morty",
     "year": 2013,
@@ -40,12 +52,6 @@
     "year": 2026,
     "imdb": 6.2,
     "poster": "https://image.tmdb.org/t/p/w500/mrHrUOCk2FigPX3j8Q2FiY4liRa.jpg"
-  },
-  "/dizi/maximum-pleasure-guaranteed/": {
-    "group": "Maximum Pleasure Guaranteed",
-    "year": 2026,
-    "imdb": 7.1,
-    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
   },
   "/dizi/camp-snoopy/": {
     "group": "Camp Snoopy",
