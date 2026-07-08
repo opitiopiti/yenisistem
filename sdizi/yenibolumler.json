@@ -1,4 +1,28 @@
 {
+  "/diziler/the-lady.html": {
+    "group": "THE LADY",
+    "year": "2025",
+    "imdb": "7.1",
+    "poster": "https://image.tmdb.org/t/p/w500/3C4MQlp0yWyVErSGVzHBObvFbMX.jpg"
+  },
+  "/diziler/x-men-97.html": {
+    "group": "X-MEN '97",
+    "year": "2024",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg"
+  },
+  "/diziler/maximum-pleasure-guaranteed.html": {
+    "group": "MAXIMUM PLEASURE GUARANTEED",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/oeD9rnfk7AohNiJTRoCx4SOKhXj.jpg"
+  },
+  "/diziler/trying.html": {
+    "group": "TRYING",
+    "year": "2020",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/eHTDuZp8UtbSK1XehE59UJrgOXg.jpg"
+  },
   "/diziler/grand-blue.html": {
     "group": "GRAND BLUE",
     "year": "2018",
@@ -64,29 +88,5 @@
     "year": "2002",
     "imdb": "7.5",
     "poster": "https://image.tmdb.org/t/p/w500/uuWIIIjT6hyCLGQTVG0cwLfubb9.jpg"
-  },
-  "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
-    "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
-    "year": "2018",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg"
-  },
-  "/diziler/sugar.html": {
-    "group": "SUGAR",
-    "year": "2024",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
-  },
-  "/diziler/star-city.html": {
-    "group": "STAR CITY",
-    "year": "2026",
-    "imdb": "5.9",
-    "poster": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg"
-  },
-  "/diziler/cape-fear.html": {
-    "group": "CAPE FEAR",
-    "year": "2025",
-    "imdb": "0.0",
-    "poster": null
   }
 }
