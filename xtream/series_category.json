@@ -2330,7 +2330,9 @@
     {"name": "GASU NINGEN", "year": "2026"},
     {"name": "SUPER SUBBU", "year": "2026"},
     {"name": "WORST NEIGHBOR EVER", "year": "2026"},
-    {"name": "FAINARUDORAFUTO", "year": "2025"}
+    {"name": "FAINARUDORAFUTO", "year": "2025"},
+    {"name": "NO TENGO MIEDO", "year": "2026"},
+    {"name": "SALCEDO, CUERO Y BOOGALOO", "year": "2026"}
   ],
   "HBO DİZİLERİ": [
     {"name": "THE PITT", "year": "2025"},
@@ -4182,7 +4184,8 @@
     {"name": "DEAR ENGLAND", "year": "2026"},
     {"name": "AN T-EILEAN", "year": "2025"},
     {"name": "FUNBOYS", "year": "2025"},
-    {"name": "CUNK ON…", "year": "2022"}
+    {"name": "CUNK ON…", "year": "2022"},
+    {"name": "TIGER ISLAND", "year": "2026"}
   ],
   "STARZ DİZİLERİ": [
     {"name": "POWER BOOK III: RAISING KANAN", "year": "2021"},
@@ -4424,7 +4427,8 @@
     {"name": "PEOPLE OF EARTH", "year": "2016"},
     {"name": "THE RAMPARTS OF ICE", "year": "2026"},
     {"name": "KOORI NO JOUHEKI", "year": "2026"},
-    {"name": "91 DAYS", "year": "2016"}
+    {"name": "91 DAYS", "year": "2016"},
+    {"name": "SHOWA GENROKU RAKUGO SHINJU", "year": "2016"}
   ],
   "MGM+ DİZİLERİ": [
     {"name": "NINE BODIES IN A MEXICAN MORGUE", "year": "2025"},
@@ -4808,7 +4812,8 @@
     {"name": "DEVIL IN THE FAMILY: THE FALL OF RUBY FRANKE", "year": "2025"},
     {"name": "WILD CRIME", "year": "2021"},
     {"name": "THE SEASON", "year": "2026"},
-    {"name": "DIFFICULT PEOPLE", "year": "2015"}
+    {"name": "DIFFICULT PEOPLE", "year": "2015"},
+    {"name": "REBOOT 2026", "year": "2022"}
   ],
   "TVING DİZİLERİ": [
     {"name": "LOVE IN THE BIG CITY", "year": "2024"},
@@ -4957,7 +4962,8 @@
     {"name": "NERO A METÀ", "year": "2018"},
     {"name": "I MEDICI", "year": "2016"},
     {"name": "IL CONTE DI MONTECRISTO", "year": "2025"},
-    {"name": "ROMANZO FAMIGLIARE", "year": "2018"}
+    {"name": "ROMANZO FAMIGLIARE", "year": "2018"},
+    {"name": "MALTESE - IL ROMANZO DEL COMMISSARIO", "year": "2017"}
   ],
   "ITVX DİZİLERİ": [
     {"name": "RED EYE", "year": "2024"},
@@ -6383,7 +6389,8 @@
     {"name": "GREAT TEACHER ONIZUKA", "year": "1999"},
     {"name": "RANKING OF KINGS", "year": "2023"},
     {"name": "CAIN AND ABEL", "year": "2016"},
-    {"name": "TERROR IN RESONANCE", "year": "2014"}
+    {"name": "TERROR IN RESONANCE", "year": "2014"},
+    {"name": "THUNDER 3", "year": "2026"}
   ],
   "WONDER PROJECT DİZİLERİ": [
     {"name": "HOUSE OF DAVID", "year": "2025"}
@@ -6485,7 +6492,8 @@
     {"name": "ONE MORE TIME", "year": "2016"},
     {"name": "DAN HANAUI SARANG", "year": "2019"},
     {"name": "HUAYU HAKGYO 2015", "year": "2015"},
-    {"name": "DONGBAEKKKOT PIL MURYEOP", "year": "2019"}
+    {"name": "DONGBAEKKKOT PIL MURYEOP", "year": "2019"},
+    {"name": "THE HUSBAND 2026", "year": "2026"}
   ],
   "HEAVENLY DİZİLERİ": [
     {"name": "HEESU IN CLASS 2", "year": "2025"},
@@ -6793,7 +6801,8 @@
     {"name": "KING FISHERS", "year": "2013"},
     {"name": "THE HOT ZONE", "year": "2019"},
     {"name": "LIFE BELOW ZERO: FIRST ALASKANS", "year": "2022"},
-    {"name": "AMSTERDAM CENTRAAL 24/7", "year": "2025"}
+    {"name": "AMSTERDAM CENTRAAL 24/7", "year": "2025"},
+    {"name": "VOYAGERS: EXPLORING PACIFIC WATERS", "year": "2026"}
   ],
   "RTL5 DİZİLERİ": [
     {"name": "4 EVER", "year": "2026"}
@@ -8415,7 +8424,8 @@
     {"name": "NO TE PUEDES ESCONDER", "year": "2019"},
     {"name": "BUSCANDO A FRIDA", "year": "2021"},
     {"name": "EN CASA", "year": "2020"},
-    {"name": "GANYAN", "year": "2019"}
+    {"name": "GANYAN", "year": "2019"},
+    {"name": "LOBO, MORIR MATANDO", "year": "2026"}
   ],
   "DAILYWIRE+ DİZİLERİ": [
     {"name": "THE PENDRAGON CYCLE: RISE OF THE MERLIN", "year": "2026"}
@@ -8988,5 +8998,8 @@
   ],
   "UP TV DİZİLERİ": [
     {"name": "SUGARCREEK AMISH MYSTERIES", "year": "2025"}
+  ],
+  "ILLICO+ DİZİLERİ": [
+    {"name": "MR BIG", "year": "2025"}
   ]
 }
