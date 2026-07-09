@@ -31966,5 +31966,77 @@
     "year": 1975,
     "poster": "https://image.tmdb.org/t/p/w500/tvTYIjujN87dcKAmSLqcvAahykH.jpg",
     "imdb": 8.8
+  },
+  "/dizi/voyagers-exploring-pacific-waters": {
+    "group": "Voyagers: Exploring Pacific Waters",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/294x441/voyagers-exploring-pacific-waters.webp",
+    "imdb": 9.0
+  },
+  "/dizi/no-tengo-miedo": {
+    "group": "No Tengo Miedo",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/ydUCCsKWNkGFecRPKHViWi0lppz.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/the-husband-2026": {
+    "group": "The Husband 2026",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/294x441/the-husband-2026.webp",
+    "imdb": 8.1
+  },
+  "/dizi/mr-big/": {
+    "group": "Mr Big",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/hNwn1HlgTP6GeUg32aD4PYYQejJ.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/lobo-morir-matando/": {
+    "group": "Lobo, morir matando",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/z8OWY1DZxUt15gktowjs4xHnVt9.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/no-tengo-miedo/": {
+    "group": "No Tengo Miedo",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/ydUCCsKWNkGFecRPKHViWi0lppz.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/reboot-2026/": {
+    "group": "Reboot 2026",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/yaovuutCTUNseYQE69zfZswVuAZ.jpg",
+    "imdb": 8.0
+  },
+  "/dizi/seeking-persephone/": {
+    "group": "Seeking Persephone",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/tJsS5oFvcKsJ3NdlTbuG7nyCDIK.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/showa-genroku-rakugo-shinju/": {
+    "group": "Showa Genroku Rakugo Shinju",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/rpj3vyHvyjv2rP68otBadkoZF75.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/the-husband-2026/": {
+    "group": "The Husband 2026",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/163x245/the-husband-2026.webp",
+    "imdb": 8.1
+  },
+  "/dizi/tiger-island/": {
+    "group": "Tiger Island",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/sfWAiQM1KVl1frAxRO9YLozPSKD.jpg",
+    "imdb": 8.4
+  },
+  "/dizi/voyagers-exploring-pacific-waters/": {
+    "group": "Voyagers: Exploring Pacific Waters",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/163x245/voyagers-exploring-pacific-waters.webp",
+    "imdb": 9.0
   }
 }

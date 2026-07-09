@@ -2221,5 +2221,50 @@
     "year": "2026",
     "imdb": "6.6",
     "poster": "https://image.tmdb.org/t/p/w500/ipm4Z8wI0WmQvAIh4HOH55i4iaj.jpg"
+  },
+  "/dizi/maltese-il-romanzo-del-commissario": {
+    "group": "Maltese - Il Romanzo del Commissario",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2017",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/mElovuwmvayvgNk9fLfmnXd1pjL.jpg"
+  },
+  "/dizi/thunder-3": {
+    "group": "Thunder 3",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "8.5",
+    "poster": "https://image.tmdb.org/t/p/w500/EwgegTmDUuf71tjZCswhJGo79F.jpg"
+  },
+  "/dizi/no-tengo-miedo": {
+    "group": "No tengo miedo",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.4",
+    "poster": "https://image.tmdb.org/t/p/w500/ydUCCsKWNkGFecRPKHViWi0lppz.jpg"
+  },
+  "/dizi/salcedo-cuero-y-boogaloo": {
+    "group": "Salcedo, cuero y boogaloo",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.9",
+    "poster": "https://image.tmdb.org/t/p/w500/6YJwwuKbJvV8nwK97nH1rsfmLFh.jpg"
+  },
+  "/dizi/x-men-97": {
+    "group": "X-Men ’97",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2024",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg"
   }
 }

@@ -1,9 +1,27 @@
 {
+  "/dizi/voyagers-exploring-pacific-waters": {
+    "group": "Voyagers: Exploring Pacific Waters",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/294x441/voyagers-exploring-pacific-waters.webp",
+    "imdb": 9.0
+  },
+  "/dizi/no-tengo-miedo": {
+    "group": "No Tengo Miedo",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/ydUCCsKWNkGFecRPKHViWi0lppz.jpg",
+    "imdb": 7.3
+  },
   "/dizi/rick-and-morty": {
     "group": "Rick and Morty",
     "year": 2013,
     "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
     "imdb": 9.0
+  },
+  "/dizi/the-husband-2026": {
+    "group": "The Husband 2026",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/294x441/the-husband-2026.webp",
+    "imdb": 8.1
   },
   "/dizi/house-of-the-dragon": {
     "group": "House of the Dragon",
@@ -107,17 +125,59 @@
     "poster": "https://image.tmdb.org/t/p/w500/eqCGgjQJRImIZp8dUOx1YUpx1dj.jpg",
     "imdb": 8.1
   },
-  "/dizi/power-book-iii-raising-kanan": {
-    "group": "Power Book III: Raising Kanan",
-    "year": 2021,
-    "poster": "https://image.tmdb.org/t/p/w500/pZ7IaHON9hnu8C0g3zdoWwIsJ9t.jpg",
+  "/dizi/mr-big/": {
+    "group": "Mr Big",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/hNwn1HlgTP6GeUg32aD4PYYQejJ.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/lobo-morir-matando/": {
+    "group": "Lobo, morir matando",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/z8OWY1DZxUt15gktowjs4xHnVt9.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/no-tengo-miedo/": {
+    "group": "No Tengo Miedo",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/ydUCCsKWNkGFecRPKHViWi0lppz.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/reboot-2026/": {
+    "group": "Reboot 2026",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/yaovuutCTUNseYQE69zfZswVuAZ.jpg",
+    "imdb": 8.0
+  },
+  "/dizi/seeking-persephone/": {
+    "group": "Seeking Persephone",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/tJsS5oFvcKsJ3NdlTbuG7nyCDIK.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/showa-genroku-rakugo-shinju/": {
+    "group": "Showa Genroku Rakugo Shinju",
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/rpj3vyHvyjv2rP68otBadkoZF75.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/the-husband-2026/": {
+    "group": "The Husband 2026",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/163x245/the-husband-2026.webp",
     "imdb": 8.1
   },
-  "/dizi/notes-from-the-last-row": {
-    "group": "Notes from the Last Row",
+  "/dizi/tiger-island/": {
+    "group": "Tiger Island",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/paRFCxAJRZOypfgnzYLo6KH5jjO.jpg",
-    "imdb": 8.2
+    "poster": "https://image.tmdb.org/t/p/w500/sfWAiQM1KVl1frAxRO9YLozPSKD.jpg",
+    "imdb": 8.4
+  },
+  "/dizi/voyagers-exploring-pacific-waters/": {
+    "group": "Voyagers: Exploring Pacific Waters",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/163x245/voyagers-exploring-pacific-waters.webp",
+    "imdb": 9.0
   },
   "/dizi/fawlty-towers/": {
     "group": "Fawlty Towers",
@@ -232,59 +292,5 @@
     "year": 2023,
     "poster": "https://image.tmdb.org/t/p/w500/gO9k7t9jSdkkWVG0deMZDpELZGw.jpg",
     "imdb": 4.4
-  },
-  "/dizi/marvels-hero-project/": {
-    "group": "Marvel’s Hero Project",
-    "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/tImFadmLA2k2TJTw1a4nDgALJV0.jpg",
-    "imdb": 6.7
-  },
-  "/dizi/alaska-the-last-frontier/": {
-    "group": "Alaska: The Last Frontier",
-    "year": 2011,
-    "poster": "https://image.tmdb.org/t/p/w500/hBwlagcxxVTQTTQUAMNbwfRWZ86.jpg",
-    "imdb": 7.6
-  },
-  "/dizi/planet-earth/": {
-    "group": "Planet Earth",
-    "year": 2006,
-    "poster": "https://image.tmdb.org/t/p/w500/bNcNxUtZ520d5de5s78onoiSiwQ.jpg",
-    "imdb": 9.4
-  },
-  "/dizi/welcome-to-flatch/": {
-    "group": "Welcome to Flatch",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/ztJqyTocc1pylks84ZpiRorC8kr.jpg",
-    "imdb": 6.8
-  },
-  "/dizi/devils/": {
-    "group": "Devils",
-    "year": 2020,
-    "poster": "https://image.tmdb.org/t/p/w500/l4Pl7APWpRANULCirWTrcMPfdIl.jpg",
-    "imdb": 7.2
-  },
-  "/dizi/human-planet/": {
-    "group": "Human Planet",
-    "year": 2011,
-    "poster": "https://image.tmdb.org/t/p/w500/bjhP5yIeyWMRMxJdLjBuiIf255X.jpg",
-    "imdb": 8.258
-  },
-  "/dizi/around-the-world-in-80-days/": {
-    "group": "Around the World in 80 Days",
-    "year": 2021,
-    "poster": "https://image.tmdb.org/t/p/w500/j8Np9NZlkzrSdEmpLSgoUkoyJeh.jpg",
-    "imdb": 7.2
-  },
-  "/dizi/generator-rex/": {
-    "group": "Generator Rex",
-    "year": 2010,
-    "poster": "https://image.tmdb.org/t/p/w500/3F93j1Yuu9wtPO06BlPSVbLdxaP.jpg",
-    "imdb": 7.7
-  },
-  "/dizi/stargate-atlantis/": {
-    "group": "Stargate Atlantis",
-    "year": 2004,
-    "poster": "https://image.tmdb.org/t/p/w500/l0JYr2iqwId6VOmCV8dHzlIM6Wd.jpg",
-    "imdb": 8.029
   }
 }
