@@ -2,7 +2,7 @@
   "/dizi/maltese-il-romanzo-del-commissario": {
     "group": "Maltese - Il Romanzo del Commissario",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2017",
     "imdb": "7.6",
@@ -11,7 +11,7 @@
   "/dizi/thunder-3": {
     "group": "Thunder 3",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 1,
     "start_episode": 1,
     "year": "2026",
     "imdb": "8.5",
@@ -20,7 +20,7 @@
   "/dizi/morfeusz": {
     "group": "Morfeusz",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.2",
@@ -29,7 +29,7 @@
   "/dizi/no-tengo-miedo": {
     "group": "No tengo miedo",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.4",
@@ -38,7 +38,7 @@
   "/dizi/salcedo-cuero-y-boogaloo": {
     "group": "Salcedo, cuero y boogaloo",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 12,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.9",
@@ -47,7 +47,7 @@
   "/dizi/see-you-at-work-tomorrow": {
     "group": "See You at Work Tomorrow!",
     "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2026",
     "imdb": "8.9",
@@ -55,8 +55,8 @@
   },
   "/dizi/x-men-97": {
     "group": "X-Men ’97",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 2,
+    "last_episode": 4,
     "start_episode": 1,
     "year": "2024",
     "imdb": "9.0",
