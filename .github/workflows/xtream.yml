@@ -680,7 +680,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv httpx
           
-      - name: Run dizimordizi.py Script
+      - name: Run dizipaldizi.py Script
         run: python private_py/dizipal/yenibolumler.py || true
 
       - name: Sync Outputs to Private Repos
