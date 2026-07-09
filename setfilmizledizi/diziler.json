@@ -11050,5 +11050,17 @@
     "year": 2026,
     "imdb": 6.2,
     "poster": "https://image.tmdb.org/t/p/w500/mrHrUOCk2FigPX3j8Q2FiY4liRa.jpg"
+  },
+  "/dizi/harman-yeri/": {
+    "group": "Harman Yeri",
+    "year": 2026,
+    "imdb": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w500/eAdYAXdMh9ceE4WyHfQ8RcWNb6t.jpg"
+  },
+  "/dizi/yuzde-iki-2025-izle/": {
+    "group": "Yüzde İki",
+    "year": 2025,
+    "imdb": 6.4,
+    "poster": "https://image.tmdb.org/t/p/w500/sQIujEmJh0HZY2xg1Yl2fPyWM2e.jpg"
   }
 }
