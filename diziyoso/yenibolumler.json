@@ -11,6 +11,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/ydUCCsKWNkGFecRPKHViWi0lppz.jpg",
     "imdb": 7.3
   },
+  "/dizi/doctor-on-the-edge": {
+    "group": "Doctor on the Edge",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/zwEYhe03vN1rbjF8Bsf9Dng0W8e.jpg",
+    "imdb": 7.0
+  },
   "/dizi/rick-and-morty": {
     "group": "Rick and Morty",
     "year": 2013,
@@ -34,6 +40,12 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
     "imdb": 7.4
+  },
+  "/dizi/life-larry-and-the-pursuit-of-unhappiness-an-almost-history-of-america": {
+    "group": "Life, Larry and the Pursuit of Unhappiness: An Almost History of America",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/eA8lwlHAuFQrZzek25xgGZCgImu.jpg",
+    "imdb": 6.7
   },
   "/dizi/gasu-ningen": {
     "group": "Gasu Ningen",
@@ -113,17 +125,101 @@
     "poster": "https://image.tmdb.org/t/p/w500/aLnxpbhwsJ3XCATDEfFaAmJV80d.jpg",
     "imdb": 6.7
   },
-  "/dizi/the-chi": {
-    "group": "The Chi",
-    "year": 2018,
-    "poster": "https://image.tmdb.org/t/p/w500/niD8X5pEXpmRUDhSPdDOgI3Gw5Q.jpg",
-    "imdb": 7.8
+  "/dizi/csi-ny/": {
+    "group": "CSI: NY",
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/4TGV4Bb3OPay4cHkQRlfwghv3vC.jpg",
+    "imdb": 7.317
   },
-  "/dizi/my-adventures-with-superman": {
-    "group": "My Adventures with Superman",
+  "/dizi/el-mochaorejas/": {
+    "group": "El Mochaorejas",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/oYZ5gWX0wgqQQojoGK9d482qI5f.jpg",
+    "imdb": 6.4
+  },
+  "/dizi/janet-king/": {
+    "group": "Janet King",
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/7DlYZguIh5DBn9RVIbcFtpBKeHN.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/katrina-come-hell-and-high-water/": {
+    "group": "Katrina: Come Hell and High Water",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/f16yvVS9QJf1x0dxx1bPE7cnKKR.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/life-larry-and-the-pursuit-of-unhappiness-an-almost-history-of-america/": {
+    "group": "Life, Larry and the Pursuit of Unhappiness: An Almost History of America",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/eA8lwlHAuFQrZzek25xgGZCgImu.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/not-her-first-rodeo/": {
+    "group": "Not Her First Rodeo",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/nfVhWoU8BVY23lHk6zq3sgT2Z8s.jpg",
+    "imdb": 7.1
+  },
+  "/dizi/polen/": {
+    "group": "Polen",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/uryZoVG1QHY9l07oB6HcipRkSy3.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/predator-hunters/": {
+    "group": "Predator Hunters",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/6D4zGGnc8DutXKzXQC6pLjr1wDZ.jpg",
+    "imdb": 6.4
+  },
+  "/dizi/the-river-2012/": {
+    "group": "The River 2012",
+    "year": 2012,
+    "poster": "https://dzycdn.com/img/t/163x245/the-river-2012.webp",
+    "imdb": 6.8
+  },
+  "/dizi/the-west-wing/": {
+    "group": "The West Wing",
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/yqDWr5NAE7m1IWrygYwLyEB6pN0.jpg",
+    "imdb": 8.9
+  },
+  "/dizi/daggerheart-azerim/": {
+    "group": "Daggerheart Azerim",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/AqXOuleGMp9cHSznKfqezA6NaSp.jpg",
+    "imdb": 8.0
+  },
+  "/dizi/doctor-on-the-edge/": {
+    "group": "Doctor on the Edge",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/zwEYhe03vN1rbjF8Bsf9Dng0W8e.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/historys-greatest-warriors/": {
+    "group": "History’s Greatest Warriors",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/8D8ovJ0tPCjpBR4PVd0VmMoLSvW.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/maxima/": {
+    "group": "Máxima",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/9wQQtjrokcJMpSzhX5maa8GM7bb.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/megantic/": {
+    "group": "Mégantic",
     "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/eqCGgjQJRImIZp8dUOx1YUpx1dj.jpg",
-    "imdb": 8.1
+    "poster": "https://image.tmdb.org/t/p/w500/1urS2SUd4GlCCEwGqghjw35TxJ4.jpg",
+    "imdb": 8.2
+  },
+  "/dizi/boru-2039/": {
+    "group": "Börü 2039",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/gsWdSn0tRHrnL0O0piGXUCoVWmd.jpg",
+    "imdb": 6.2
   },
   "/dizi/mr-big/": {
     "group": "Mr Big",
@@ -196,101 +292,5 @@
     "year": 1999,
     "poster": "https://image.tmdb.org/t/p/w500/oOHVlOM3l0etyCVAWA3ity4EJqm.jpg",
     "imdb": 7.5
-  },
-  "/dizi/kaala-paani/": {
-    "group": "Kaala Paani",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/wQJFHysapAr1eXB5BWNSRbfgTbU.jpg",
-    "imdb": 7.9
-  },
-  "/dizi/jann/": {
-    "group": "Jann",
-    "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/ojhZrnwEmWkcMvacfFK3BAWakyh.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/andrew-marrs-history-of-the-world/": {
-    "group": "Andrew Marr’s History of the World",
-    "year": 2012,
-    "poster": "https://image.tmdb.org/t/p/w500/6RYrYDJnZdUR1uB3xUZFk2l8VIj.jpg",
-    "imdb": 8.3
-  },
-  "/dizi/apocalypse-la-2eme-guerre-mondiale/": {
-    "group": "Apocalypse : La 2ème Guerre mondiale",
-    "year": 2009,
-    "poster": "https://image.tmdb.org/t/p/w500/vhcqMr8UEYNlt1yzWqLndYWEgeo.jpg",
-    "imdb": 9.0
-  },
-  "/dizi/difficult-people/": {
-    "group": "Difficult People",
-    "year": 2015,
-    "poster": "https://image.tmdb.org/t/p/w500/2ji3KnVj7ilpL67DtScIHzxxjHH.jpg",
-    "imdb": 6.3
-  },
-  "/dizi/revolution/": {
-    "group": "Revolution",
-    "year": 2012,
-    "poster": "https://image.tmdb.org/t/p/w500/pNyg4V6kuDstSSxk6Q9GgaBn4B8.jpg",
-    "imdb": 6.6
-  },
-  "/dizi/beecham-house/": {
-    "group": "Beecham House",
-    "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/eK7NDOQCQn9spHF0nXq9q921Xy2.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/american-gigolo/": {
-    "group": "American Gigolo",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/m0nRFOLYUju4XHG7v2jZZf3n6vs.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/das-geheimnis-des-totenwaldes/": {
-    "group": "Das Geheimnis des Totenwaldes",
-    "year": 2020,
-    "poster": "https://image.tmdb.org/t/p/w500/trWKXnJ8DWawJM0qT56Cx9bJKVf.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/dead-still/": {
-    "group": "Dead Still",
-    "year": 2020,
-    "poster": "https://image.tmdb.org/t/p/w500/y0hCyEGB0X5ULB0paAidp0YQ9In.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/der-uberlaufer/": {
-    "group": "Der Überläufer",
-    "year": 2020,
-    "poster": "https://image.tmdb.org/t/p/w500/iuEDWjhKrXV3w9LwBhl7kY6N3t8.jpg",
-    "imdb": 6.8
-  },
-  "/dizi/des/": {
-    "group": "Des",
-    "year": 2020,
-    "poster": "https://image.tmdb.org/t/p/w500/sdgcLDvJhNo1obob0kFiqf8rXkV.jpg",
-    "imdb": 7.6
-  },
-  "/dizi/single-drunk-female/": {
-    "group": "Single Drunk Female",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/oZ4AIq36U3SNkoHU7uQYVnNzqXk.jpg",
-    "imdb": 6.8
-  },
-  "/dizi/the-trial-of-christine-keeler/": {
-    "group": "The Trial of Christine Keeler",
-    "year": 2019,
-    "poster": "https://image.tmdb.org/t/p/w500/pXVswAsAuqGA87oTwfSOWhXkqnV.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/y-the-last-man/": {
-    "group": "Y: The Last Man",
-    "year": 2021,
-    "poster": "https://image.tmdb.org/t/p/w500/xJvTO2fLOQWwJlQ4MAt7rP8Yno0.jpg",
-    "imdb": 6.687
-  },
-  "/dizi/the-idol/": {
-    "group": "The Idol",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/gO9k7t9jSdkkWVG0deMZDpELZGw.jpg",
-    "imdb": 4.4
   }
 }

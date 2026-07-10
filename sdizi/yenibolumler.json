@@ -1,4 +1,28 @@
 {
+  "/diziler/star-city.html": {
+    "group": "STAR CITY",
+    "year": "2026",
+    "imdb": "5.9",
+    "poster": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg"
+  },
+  "/diziler/cape-fear.html": {
+    "group": "CAPE FEAR",
+    "year": "2025",
+    "imdb": "0.0",
+    "poster": null
+  },
+  "/diziler/sugar.html": {
+    "group": "SUGAR",
+    "year": "2024",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
+  },
+  "/diziler/silo.html": {
+    "group": "SILO",
+    "year": "2023",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/2QOuYPE6ZCqgVfhClNotQR06uVj.jpg"
+  },
   "/diziler/boston-blue.html": {
     "group": "BOSTON BLUE",
     "year": "2025",
@@ -64,29 +88,5 @@
     "year": "2023",
     "imdb": "7.6",
     "poster": "https://image.tmdb.org/t/p/w500/sD8RToyFl1oMF3kXgkeSmSsJIpa.jpg"
-  },
-  "/diziler/fire-country.html": {
-    "group": "FIRE COUNTRY",
-    "year": "2022",
-    "imdb": "7.2",
-    "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg"
-  },
-  "/diziler/r-j-decker.html": {
-    "group": "R.J. DECKER",
-    "year": "2025",
-    "imdb": "7.1",
-    "poster": null
-  },
-  "/diziler/not-suitable-for-work.html": {
-    "group": "NOT SUITABLE FOR WORK",
-    "year": "2026",
-    "imdb": "6.9",
-    "poster": "https://image.tmdb.org/t/p/w500/hpucDFIvWwcn6sXk8EOEX0dbY0C.jpg"
-  },
-  "/diziler/welcome-to-wrexham.html": {
-    "group": "WELCOME TO WREXHAM",
-    "year": "2022",
-    "imdb": "8.3",
-    "poster": "https://image.tmdb.org/t/p/w500/53CNogAzbbwepLxQS5jIfGG35MQ.jpg"
   }
 }
