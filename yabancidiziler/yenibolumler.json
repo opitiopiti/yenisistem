@@ -2,7 +2,7 @@
   "/dizi/cape-fear": {
     "group": "Cape Fear",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 7,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -11,7 +11,7 @@
   "/dizi/chainsmoker-cat": {
     "group": "Chainsmoker Cat",
     "last_season": 1,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.2",
@@ -20,7 +20,7 @@
   "/dizi/proud": {
     "group": "Proud",
     "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 5,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -29,7 +29,7 @@
   "/dizi/silo": {
     "group": "Silo",
     "last_season": 3,
-    "last_episode": 1,
+    "last_episode": 2,
     "start_episode": 1,
     "year": "2023",
     "imdb": "8.1",
@@ -38,7 +38,7 @@
   "/dizi/starcity": {
     "group": "Starcity",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.7",
@@ -47,7 +47,7 @@
   "/dizi/sugar": {
     "group": "Sugar",
     "last_season": 2,
-    "last_episode": 3,
+    "last_episode": 4,
     "start_episode": 1,
     "year": "2024",
     "imdb": "8.9",
