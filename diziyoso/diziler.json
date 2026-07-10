@@ -32146,5 +32146,35 @@
     "year": 2021,
     "poster": "https://image.tmdb.org/t/p/w500/gsWdSn0tRHrnL0O0piGXUCoVWmd.jpg",
     "imdb": 6.2
+  },
+  "/dizi/salcedo-cuero-y-boogaloo": {
+    "group": "Salcedo, cuero y boogaloo",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/6YJwwuKbJvV8nwK97nH1rsfmLFh.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/salcedo-cuero-y-boogaloo/": {
+    "group": "Salcedo, cuero y boogaloo",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/6YJwwuKbJvV8nwK97nH1rsfmLFh.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/the-last-captains/": {
+    "group": "The Last Captains",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/4ZOMgTuaSYEyevPM62ByPROz4sA.jpg",
+    "imdb": 6.4
+  },
+  "/dizi/crookhaven/": {
+    "group": "Crookhaven",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/9mmJrXEBlLKtR7ccTl4Qnw99fci.jpg",
+    "imdb": 6.4
+  },
+  "/dizi/csi-miami/": {
+    "group": "CSI: Miami",
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/pNW64pjaHvf6purNaFhq4SHYRfl.jpg",
+    "imdb": 6.5
   }
 }

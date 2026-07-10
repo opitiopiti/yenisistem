@@ -11,6 +11,36 @@
     "poster": "https://image.tmdb.org/t/p/w500/ydUCCsKWNkGFecRPKHViWi0lppz.jpg",
     "imdb": 7.3
   },
+  "/dizi/10-bin-adim": {
+    "group": "10 Bin Adım",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/s3qr2K8LjVCTIBoWOnkFd6bQqcM.jpg",
+    "imdb": 7.8
+  },
+  "/dizi/salcedo-cuero-y-boogaloo": {
+    "group": "Salcedo, cuero y boogaloo",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/6YJwwuKbJvV8nwK97nH1rsfmLFh.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/x-men-97": {
+    "group": "X-Men ’97",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/yI3skmBTiworOlwAzuD4haCTF60.jpg",
+    "imdb": 8.5
+  },
+  "/dizi/maximum-pleasure-guaranteed": {
+    "group": "Maximum Pleasure Guaranteed",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/nae-il-do-chul-geun": {
+    "group": "Nae-il-do Chul-geun!",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/30P3ySNo0m0xNhHQMXzpmquLwxa.jpg",
+    "imdb": 8.1
+  },
   "/dizi/doctor-on-the-edge": {
     "group": "Doctor on the Edge",
     "year": 2026,
@@ -101,29 +131,41 @@
     "poster": "https://image.tmdb.org/t/p/w500/u0Vj7zhVK0HYxsS3VMzkU37Pebp.jpg",
     "imdb": 6.2
   },
-  "/dizi/x-men-97": {
-    "group": "X-Men ’97",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/yI3skmBTiworOlwAzuD4haCTF60.jpg",
-    "imdb": 8.5
+  "/dizi/arrested-development/": {
+    "group": "Arrested Development",
+    "year": "2003",
+    "poster": "https://image.tmdb.org/t/p/w500/p4r4RD7RsNcJVoz0H6z3dBoTBtW.jpg",
+    "imdb": 7.928
   },
-  "/dizi/maximum-pleasure-guaranteed": {
-    "group": "Maximum Pleasure Guaranteed",
+  "/dizi/salcedo-cuero-y-boogaloo/": {
+    "group": "Salcedo, cuero y boogaloo",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg",
-    "imdb": 7.0
+    "poster": "https://image.tmdb.org/t/p/w500/6YJwwuKbJvV8nwK97nH1rsfmLFh.jpg",
+    "imdb": 6.8
   },
-  "/dizi/nae-il-do-chul-geun": {
-    "group": "Nae-il-do Chul-geun!",
+  "/dizi/south-park/": {
+    "group": "South Park",
+    "year": "1997",
+    "poster": "https://image.tmdb.org/t/p/w500/1CGwZCFX2qerXaXQJJUB3qUvxq7.jpg",
+    "imdb": 8.34
+  },
+  "/dizi/the-last-captains/": {
+    "group": "The Last Captains",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/4ZOMgTuaSYEyevPM62ByPROz4sA.jpg",
+    "imdb": 6.4
+  },
+  "/dizi/crookhaven/": {
+    "group": "Crookhaven",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/30P3ySNo0m0xNhHQMXzpmquLwxa.jpg",
-    "imdb": 8.1
+    "poster": "https://image.tmdb.org/t/p/w500/9mmJrXEBlLKtR7ccTl4Qnw99fci.jpg",
+    "imdb": 6.4
   },
-  "/dizi/harry-wild": {
-    "group": "Harry Wild",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/aLnxpbhwsJ3XCATDEfFaAmJV80d.jpg",
-    "imdb": 6.7
+  "/dizi/csi-miami/": {
+    "group": "CSI: Miami",
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/pNW64pjaHvf6purNaFhq4SHYRfl.jpg",
+    "imdb": 6.5
   },
   "/dizi/csi-ny/": {
     "group": "CSI: NY",
@@ -256,41 +298,5 @@
     "year": 2018,
     "poster": "https://image.tmdb.org/t/p/w500/rpj3vyHvyjv2rP68otBadkoZF75.jpg",
     "imdb": 7.3
-  },
-  "/dizi/the-husband-2026/": {
-    "group": "The Husband 2026",
-    "year": 2026,
-    "poster": "https://dzycdn.com/img/t/163x245/the-husband-2026.webp",
-    "imdb": 8.1
-  },
-  "/dizi/tiger-island/": {
-    "group": "Tiger Island",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/sfWAiQM1KVl1frAxRO9YLozPSKD.jpg",
-    "imdb": 8.4
-  },
-  "/dizi/voyagers-exploring-pacific-waters/": {
-    "group": "Voyagers: Exploring Pacific Waters",
-    "year": 2026,
-    "poster": "https://dzycdn.com/img/t/163x245/voyagers-exploring-pacific-waters.webp",
-    "imdb": 9.0
-  },
-  "/dizi/fawlty-towers/": {
-    "group": "Fawlty Towers",
-    "year": 1975,
-    "poster": "https://image.tmdb.org/t/p/w500/tvTYIjujN87dcKAmSLqcvAahykH.jpg",
-    "imdb": 8.8
-  },
-  "/dizi/tvf-pitchers/": {
-    "group": "TVF Pitchers",
-    "year": 2015,
-    "poster": "https://image.tmdb.org/t/p/w500/w0A288hXCytNIi9Kh7VkKE8MQ1W.jpg",
-    "imdb": 9.0
-  },
-  "/dizi/beck/": {
-    "group": "Beck",
-    "year": 1999,
-    "poster": "https://image.tmdb.org/t/p/w500/oOHVlOM3l0etyCVAWA3ity4EJqm.jpg",
-    "imdb": 7.5
   }
 }

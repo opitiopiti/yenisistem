@@ -1,4 +1,10 @@
 {
+  "/diziler/little-house-on-the-prairie.html": {
+    "group": "LITTLE HOUSE ON THE PRAIRIE",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
   "/diziler/star-city.html": {
     "group": "STAR CITY",
     "year": "2026",
@@ -82,11 +88,5 @@
     "year": "2018",
     "imdb": "7.8",
     "poster": "https://image.tmdb.org/t/p/w500/ii1yrluzWisy1rygSKz8lJkAkil.jpg"
-  },
-  "/diziler/survival-of-the-thickest.html": {
-    "group": "SURVIVAL OF THE THICKEST",
-    "year": "2023",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/sD8RToyFl1oMF3kXgkeSmSsJIpa.jpg"
   }
 }
