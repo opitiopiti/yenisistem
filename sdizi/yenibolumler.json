@@ -1,9 +1,15 @@
 {
+  "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
+    "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
+    "year": "2018",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg"
+  },
   "/diziler/little-house-on-the-prairie.html": {
     "group": "LITTLE HOUSE ON THE PRAIRIE",
-    "year": null,
-    "imdb": null,
-    "poster": null
+    "year": "2026",
+    "imdb": "6.6",
+    "poster": "https://image.tmdb.org/t/p/w500/oWUGSadxC9vQPOCeHDDVfDezmQC.jpg"
   },
   "/diziler/star-city.html": {
     "group": "STAR CITY",
@@ -82,11 +88,5 @@
     "year": "2020",
     "imdb": "8.0",
     "poster": "https://image.tmdb.org/t/p/w500/eHTDuZp8UtbSK1XehE59UJrgOXg.jpg"
-  },
-  "/diziler/grand-blue.html": {
-    "group": "GRAND BLUE",
-    "year": "2018",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/ii1yrluzWisy1rygSKz8lJkAkil.jpg"
   }
 }
