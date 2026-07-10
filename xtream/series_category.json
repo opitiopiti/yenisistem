@@ -3031,7 +3031,11 @@
     {"name": "EVERY YEAR AFTER", "year": "2026"},
     {"name": "THE OLD STORIES: MOSES", "year": "2026"},
     {"name": "OASIS", "year": "2017"},
-    {"name": "ELLE", "year": "2026"}
+    {"name": "ELLE", "year": "2026"},
+    {"name": "PANCHAYAT", "year": "2020"},
+    {"name": "RAAKH", "year": "2026"},
+    {"name": "THE PYRAMID SCHEME", "year": "2026"},
+    {"name": "EXAM", "year": "2026"}
   ],
   "APPLE TV+ DİZİLERİ": [
     {"name": "THE LAST THING HE TOLD ME", "year": "2023"},
@@ -4034,7 +4038,8 @@
     {"name": "K2", "year": "2016"},
     {"name": "IBEON SAENGEUN CHEOEUMIRA", "year": "2017"},
     {"name": "BIMILUI SOOP", "year": "2017"},
-    {"name": "GRADUATION", "year": "2024"}
+    {"name": "GRADUATION", "year": "2024"},
+    {"name": "NAEIL GEUDAEWA", "year": "2017"}
   ],
   "BBC IPLAYER DİZİLERİ": [
     {"name": "MANDY", "year": "2019"},
@@ -4188,7 +4193,9 @@
     {"name": "FUNBOYS", "year": "2025"},
     {"name": "CUNK ON…", "year": "2022"},
     {"name": "TIGER ISLAND", "year": "2026"},
-    {"name": "CROOKHAVEN", "year": "2026"}
+    {"name": "CROOKHAVEN", "year": "2026"},
+    {"name": "REPORTED MISSING", "year": "2017"},
+    {"name": "THE SPLIT", "year": "2018"}
   ],
   "STARZ DİZİLERİ": [
     {"name": "POWER BOOK III: RAISING KANAN", "year": "2021"},
@@ -4921,7 +4928,8 @@
     {"name": "100-MAN NO INOCHI NO UE NI ORE WA TATTEIRU", "year": "2020"},
     {"name": "TONGARI BOUSHI NO ATELIER", "year": "2026"},
     {"name": "SPARKS OF TOMORROW", "year": "2026"},
-    {"name": "CHAINSMOKER CAT", "year": "2026"}
+    {"name": "CHAINSMOKER CAT", "year": "2026"},
+    {"name": "K-EVERYTHING: A CNN ORIGINAL SERIES", "year": "2012"}
   ],
   "AMC+ DİZİLERİ": [
     {"name": "DARK WINDS", "year": "2022"},
@@ -5668,7 +5676,8 @@
     {"name": "FALLING", "year": "2026"},
     {"name": "TIP TOE", "year": "2026"},
     {"name": "VENGEANCE: MURDER ON THE HEATH", "year": "2026"},
-    {"name": "MAKE THAT MOVIE", "year": "2026"}
+    {"name": "MAKE THAT MOVIE", "year": "2026"},
+    {"name": "PURE 2019", "year": "2019"}
   ],
   "FRANCE 2 DİZİLERİ": [
     {"name": "MIRAGE", "year": "2020"},
@@ -5960,7 +5969,8 @@
     {"name": "LIFE", "year": "2007"},
     {"name": "THE REBEL", "year": "1959"},
     {"name": "ER", "year": "1994"},
-    {"name": "THE WEST WING", "year": "1999"}
+    {"name": "THE WEST WING", "year": "1999"},
+    {"name": "EL PRECIO DE LA FAMA 2026", "year": "1969"}
   ],
   "THE CW DİZİLERİ": [
     {"name": "WALKER", "year": "2021"},
@@ -6174,7 +6184,8 @@
     {"name": "GREATEST EVENTS OF WORLD WAR II IN COLOUR", "year": "2019"},
     {"name": "DINO HUNTERS", "year": "2020"},
     {"name": "FINDING ESCOBAR'S MILLIONS", "year": "2017"},
-    {"name": "ALASKA: THE LAST FRONTIER", "year": "2011"}
+    {"name": "ALASKA: THE LAST FRONTIER", "year": "2011"},
+    {"name": "TAKING FIRE", "year": "2016"}
   ],
   "MEGA CHANNEL DİZİLERİ": [
     {"name": "MAESTRO IN BLUE", "year": "2022"},
@@ -6347,7 +6358,8 @@
     {"name": "LIFE ON MARS", "year": "2006"},
     {"name": "INTERIOR DESIGN MASTERS WITH ALAN CARR", "year": "2019"},
     {"name": "INSPECTOR GEORGE GENTLY", "year": "2008"},
-    {"name": "ANDREW MARR’S HISTORY OF THE WORLD", "year": "2012"}
+    {"name": "ANDREW MARR’S HISTORY OF THE WORLD", "year": "2012"},
+    {"name": "JUST WILLIAM 2010", "year": "2010"}
   ],
   "TVNZ 1 DİZİLERİ": [
     {"name": "WOMEN IN BLUE", "year": "2014"},
@@ -6561,7 +6573,8 @@
     {"name": "GARAJ", "year": "2020"},
     {"name": "MARY & GEORGE", "year": "2024"},
     {"name": "MR. BIGSTUFF", "year": "2024"},
-    {"name": "INTERGALACTIC", "year": "2021"}
+    {"name": "INTERGALACTIC", "year": "2021"},
+    {"name": "ROSA ELETTRICA – IN FUGA CON IL NEMICO", "year": "2026"}
   ],
   "FAMILY CHANNEL DİZİLERİ": [
     {"name": "I WOKE UP A VAMPIRE", "year": "2023"},
@@ -6649,7 +6662,8 @@
     {"name": "THARNTYPE: THE SERIES", "year": "2019"},
     {"name": "GIRL FROM NOWHERE THE RESET", "year": "2026"},
     {"name": "LOVE IN THE MOONLIGHT", "year": "2025"},
-    {"name": "DEURIM HAI", "year": "2016"}
+    {"name": "DEURIM HAI", "year": "2016"},
+    {"name": "TIME MUN WELA TAI", "year": "2024"}
   ],
   "MANGO TV DİZİLERİ": [
     {"name": "THE LEOPARD", "year": "2025"},
@@ -7660,7 +7674,8 @@
   ],
   "SKY HISTORY DİZİLERİ": [
     {"name": "TOP SECRET UFO PROJECTS: DECLASSIFIED", "year": "2021"},
-    {"name": "TOP SECRET UFO PROJECTS DECLASSIFIED", "year": "2021"}
+    {"name": "TOP SECRET UFO PROJECTS DECLASSIFIED", "year": "2021"},
+    {"name": "KNUT: THE VIKING EMPEROR", "year": "2026"}
   ],
   "BBC AMERICA DİZİLERİ": [
     {"name": "THE WATCH", "year": "2021"},
@@ -7829,7 +7844,8 @@
     {"name": "NOBEL – FRED FOR ENHVER PRIS", "year": "2016"},
     {"name": "HEIMEBANE", "year": "2018"},
     {"name": "EXIT", "year": "2019"},
-    {"name": "SO LONG, MARIANNE", "year": "2024"}
+    {"name": "SO LONG, MARIANNE", "year": "2024"},
+    {"name": "SO LONG MARIANNE", "year": "2024"}
   ],
   "PICKBOX NOW DİZİLERİ": [
     {"name": "CONDOR", "year": "2018"}
@@ -8753,7 +8769,8 @@
     {"name": "CHAIR TENDRE", "year": "2022"}
   ],
   "ALLBLK DİZİLERİ": [
-    {"name": "TERROR LAKE DRIVE", "year": "2020"}
+    {"name": "TERROR LAKE DRIVE", "year": "2020"},
+    {"name": "JUPITER JONES", "year": "2026"}
   ],
   "ALARBY TELEVISION DİZİLERİ": [
     {"name": "TAKKI", "year": "2012"}
@@ -8767,7 +8784,9 @@
   ],
   "TLC DİZİLERİ": [
     {"name": "STUCK", "year": "2022"},
-    {"name": "EVIL THINGS", "year": "2017"}
+    {"name": "EVIL THINGS", "year": "2017"},
+    {"name": "SUDDENLY AMISH", "year": "2026"},
+    {"name": "ZERO STARS", "year": "2026"}
   ],
   "PLAY DİZİLERİ": [
     {"name": "GROND", "year": "2021"}
@@ -8957,7 +8976,8 @@
   ],
   "PUHU TV DİZİLERİ": [
     {"name": "FI", "year": "2017"},
-    {"name": "DIP", "year": "2018"}
+    {"name": "DIP", "year": "2018"},
+    {"name": "HER ŞEY MÜMKÜN", "year": "2026"}
   ],
   "DEKKOO DİZİLERİ": [
     {"name": "PECKHAM MIX", "year": "2023"},
@@ -9022,5 +9042,8 @@
   ],
   "CLUB ILLICO DİZİLERİ": [
     {"name": "MÉGANTIC", "year": "2023"}
+  ],
+  "TRUE CRIME DİZİLERİ": [
+    {"name": "THE TRUTH ABOUT MY MURDER", "year": "2022"}
   ]
 }
