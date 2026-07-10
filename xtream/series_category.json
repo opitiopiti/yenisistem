@@ -2609,7 +2609,8 @@
     {"name": "ESCRAVOS DA FÉ: OS ARAUTOS DO EVANGELHO", "year": "2026"},
     {"name": "PROUD", "year": "2026"},
     {"name": "LOS TOPURIA", "year": "2026"},
-    {"name": "THE IDOL", "year": "2023"}
+    {"name": "THE IDOL", "year": "2023"},
+    {"name": "LIFE, LARRY AND THE PURSUIT OF UNHAPPINESS: AN ALMOST HISTORY OF AMERICA", "year": "2026"}
   ],
   "AMAZON PRIME DİZİLERİ": [
     {"name": "BAIT", "year": "2026"},
@@ -4573,7 +4574,8 @@
     {"name": "PRESIDIO MED", "year": "2002"},
     {"name": "POPPA'S HOUSE", "year": "2024"},
     {"name": "THE KING OF QUEENS", "year": "1998"},
-    {"name": "UNITED STATES OF AL", "year": "2021"}
+    {"name": "UNITED STATES OF AL", "year": "2021"},
+    {"name": "CSI: NY", "year": "2004"}
   ],
   "STAN DİZİLERİ": [
     {"name": "CAUGHT", "year": "2023"},
@@ -5407,7 +5409,9 @@
     {"name": "DON'T TRUST THE B---- IN APARTMENT 23", "year": "2012"},
     {"name": "THE STRANGER", "year": "1964"},
     {"name": "THE F.B.I.", "year": "1965"},
-    {"name": "SIRENS", "year": "1993"}
+    {"name": "SIRENS", "year": "1993"},
+    {"name": "JANET KING", "year": "2014"},
+    {"name": "THE RIVER 2012", "year": "2012"}
   ],
   "FX DİZİLERİ": [
     {"name": "THE OLD MAN", "year": "2022"},
@@ -5801,7 +5805,8 @@
     {"name": "LIKE FLOWERS IN SAND", "year": "2023"},
     {"name": "EXTRAORDINARY ATTORNEY WOO", "year": "2022"},
     {"name": "MORAEEDO KKOCHI PINDA", "year": "2023"},
-    {"name": "THE SCARECROW", "year": "2026"}
+    {"name": "THE SCARECROW", "year": "2026"},
+    {"name": "DOCTOR ON THE EDGE", "year": "2026"}
   ],
   "INVESTIGATION DISCOVERY DİZİLERİ": [
     {"name": "SUSPICIOUS MINDS", "year": "2020"},
@@ -5950,7 +5955,8 @@
     {"name": "HEIST", "year": "2006"},
     {"name": "LIFE", "year": "2007"},
     {"name": "THE REBEL", "year": "1959"},
-    {"name": "ER", "year": "1994"}
+    {"name": "ER", "year": "1994"},
+    {"name": "THE WEST WING", "year": "1999"}
   ],
   "THE CW DİZİLERİ": [
     {"name": "WALKER", "year": "2021"},
@@ -7459,7 +7465,8 @@
     {"name": "FDR", "year": "2023"},
     {"name": "BARBARIANS RISING", "year": "2016"},
     {"name": "THE PROOF IS OUT THERE: MILITARY MYSTERIES", "year": "2024"},
-    {"name": "FOUND", "year": "2016"}
+    {"name": "FOUND", "year": "2016"},
+    {"name": "HISTORY’S GREATEST WARRIORS", "year": "2026"}
   ],
   "DAS ERSTE DİZİLERİ": [
     {"name": "CLOSE TO HOME: MURDER IN THE COALFIELD", "year": "2022"},
@@ -8025,7 +8032,8 @@
   ],
   "VIDEOLAND DİZİLERİ": [
     {"name": "SAFE", "year": "2025"},
-    {"name": "NIEUWE BUREN", "year": "2014"}
+    {"name": "NIEUWE BUREN", "year": "2014"},
+    {"name": "MÁXIMA", "year": "2024"}
   ],
   "HULU JAPAN DİZİLERİ": [
     {"name": "MISS SHERLOCK", "year": "2018"}
@@ -8193,7 +8201,8 @@
     {"name": "BAG OF BONES", "year": "2011"},
     {"name": "THE RETURNED", "year": "2015"},
     {"name": "COMA 2024", "year": "2012"},
-    {"name": "UNFORGETTABLE", "year": "2011"}
+    {"name": "UNFORGETTABLE", "year": "2011"},
+    {"name": "PREDATOR HUNTERS", "year": "2026"}
   ],
   "7MATE DİZİLERİ": [
     {"name": "TOWIES", "year": "2017"}
@@ -8654,7 +8663,9 @@
   "VIX DİZİLERİ": [
     {"name": "CAMINO A ARCADIA", "year": "2025"},
     {"name": "LAS PELOTARIS 1926", "year": "2023"},
-    {"name": "ALGO PERSONAL", "year": "2022"}
+    {"name": "ALGO PERSONAL", "year": "2022"},
+    {"name": "EL MOCHAOREJAS", "year": "2026"},
+    {"name": "POLEN", "year": "2026"}
   ],
   "C MORE DİZİLERİ": [
     {"name": "KNUTBY", "year": "2021"},
@@ -9001,5 +9012,11 @@
   ],
   "ILLICO+ DİZİLERİ": [
     {"name": "MR BIG", "year": "2025"}
+  ],
+  "BEACON DİZİLERİ": [
+    {"name": "DAGGERHEART AZERIM", "year": "2026"}
+  ],
+  "CLUB ILLICO DİZİLERİ": [
+    {"name": "MÉGANTIC", "year": "2023"}
   ]
 }
