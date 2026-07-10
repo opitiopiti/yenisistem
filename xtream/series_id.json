@@ -37952,8 +37952,8 @@
   "7366": {
     "name": "LET’S END OUR FRIENDSHIP NOW (0000)",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1783174642
+    "last_episode": 3,
+    "last_modified": 1783653430
   },
   "7367": {
     "name": "LIFE, LARRY AND THE PURSUIT OF UNHAPPINESS. AN ALMOST HISTORY OF AMERICA (2026)",
@@ -70072,5 +70072,11 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1783619259
+  },
+  "13626": {
+    "name": "LIFE, LARRY AND THE PURSUIT OF UNHAPPINESS: AN ALMOST HISTORY OF AMERICA (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1783653430
   }
 }
