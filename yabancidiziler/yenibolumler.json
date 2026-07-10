@@ -52,23 +52,5 @@
     "year": "2024",
     "imdb": "8.9",
     "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
-  },
-  "/dizi/maltese-il-romanzo-del-commissario": {
-    "group": "Maltese - Il Romanzo del Commissario",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2017",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/mElovuwmvayvgNk9fLfmnXd1pjL.jpg"
-  },
-  "/dizi/thunder-3": {
-    "group": "Thunder 3",
-    "last_season": 1,
-    "last_episode": 1,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "8.5",
-    "poster": "https://image.tmdb.org/t/p/w500/EwgegTmDUuf71tjZCswhJGo79F.jpg"
   }
 }
