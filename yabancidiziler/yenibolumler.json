@@ -2,7 +2,7 @@
   "/dizi/agent-kim-reactivated": {
     "group": "Agent Kim Reactivated",
     "last_season": 1,
-    "last_episode": 5,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2026",
     "imdb": 8.5,
@@ -11,7 +11,7 @@
   "/dizi/perdiendo-el-juicio": {
     "group": "Perdiendo el juicio",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 10,
     "start_episode": 1,
     "year": "2025",
     "imdb": "6.5",
@@ -20,7 +20,7 @@
   "/dizi/two-years-later": {
     "group": "Two Years Later",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.6",
