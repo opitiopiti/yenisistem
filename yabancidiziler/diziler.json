@@ -1478,7 +1478,7 @@
   "/dizi/the-chi": {
     "group": "The Chi",
     "last_season": 8,
-    "last_episode": 5,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2018",
     "imdb": "7.6",
@@ -1919,7 +1919,7 @@
   "/dizi/power-book-iii-raising-kanan": {
     "group": "Power Book III: Raising Kanan",
     "last_season": 5,
-    "last_episode": 4,
+    "last_episode": 5,
     "start_episode": 1,
     "year": "2021",
     "imdb": "7.6",
@@ -2108,7 +2108,7 @@
   "/dizi/agent-kim-reactivated": {
     "group": "Agent Kim Reactivated",
     "last_season": 1,
-    "last_episode": 4,
+    "last_episode": 5,
     "start_episode": 1,
     "year": "2026",
     "imdb": 8.5,
