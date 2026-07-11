@@ -2333,7 +2333,9 @@
     {"name": "FAINARUDORAFUTO", "year": "2025"},
     {"name": "NO TENGO MIEDO", "year": "2026"},
     {"name": "SALCEDO, CUERO Y BOOGALOO", "year": "2026"},
-    {"name": "LITTLE HOUSE ON THE PRAIRIE", "year": "2026"}
+    {"name": "LITTLE HOUSE ON THE PRAIRIE", "year": "2026"},
+    {"name": "LITTLE HOUSE ON THE PRAIRIE 2026", "year": "2026"},
+    {"name": "GLORY 2026", "year": "2026"}
   ],
   "HBO DİZİLERİ": [
     {"name": "THE PITT", "year": "2025"},
@@ -3866,7 +3868,8 @@
     {"name": "BULLET BULLET", "year": "2025"},
     {"name": "ALICE AND STEVE", "year": "2026"},
     {"name": "ADVENTURE TIME: SIDE QUESTS", "year": "2026"},
-    {"name": "MARVEL’S HERO PROJECT", "year": "2019"}
+    {"name": "MARVEL’S HERO PROJECT", "year": "2019"},
+    {"name": "MS. X", "year": "2026"}
   ],
   "HUNAN TV DİZİLERİ": [
     {"name": "MIDSUMMER NIGHT", "year": "2013"},
@@ -5809,7 +5812,8 @@
     {"name": "PITCH PERFECT: BUMPER IN BERLIN", "year": "2022"},
     {"name": "MR. THROWBACK", "year": "2024"},
     {"name": "JOHN CARPENTER'S SUBURBAN SCREAMS", "year": "2023"},
-    {"name": "QUEER AS FOLK", "year": "2022"}
+    {"name": "QUEER AS FOLK", "year": "2022"},
+    {"name": "THE FIVE STAR WEEKEND", "year": "2026"}
   ],
   "ENA DİZİLERİ": [
     {"name": "TASTEFULLY YOURS", "year": "2025"},
@@ -7811,7 +7815,8 @@
     {"name": "HEATED RIVALRY", "year": "2025"},
     {"name": "LES CRUES", "year": "2026"},
     {"name": "BON COP, BAD COP!", "year": "2026"},
-    {"name": "BON COP, BAD COP", "year": "2026"}
+    {"name": "BON COP, BAD COP", "year": "2026"},
+    {"name": "LE RETOUR D’ANNA BRODEUR", "year": "2024"}
   ],
   "FUSION DİZİLERİ": [
     {"name": "WHO KILLED MALCOLM X?", "year": "2019"},
@@ -7893,7 +7898,8 @@
     {"name": "OKTOBERFEST 1900", "year": "2020"},
     {"name": "DAS GEHEIMNIS DES TOTENWALDES", "year": "2020"},
     {"name": "BAD INFLUENCER", "year": "2024"},
-    {"name": "NAKED", "year": "2025"}
+    {"name": "NAKED", "year": "2025"},
+    {"name": "SCHATTENSEITE", "year": "2025"}
   ],
   "WARNER TV SERIE DİZİLERİ": [
     {"name": "4 BLOCKS", "year": "2017"}
