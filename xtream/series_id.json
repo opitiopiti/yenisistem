@@ -92,8 +92,8 @@
   "1016": {
     "name": "AŞKIN GÜCÜ (2022) TR",
     "last_season": 2,
-    "last_episode": 17,
-    "last_modified": 1783174642
+    "last_episode": 34,
+    "last_modified": 1783769221
   },
   "1017": {
     "name": "BIZ KIMDEN KAÇIYORDUK ANNE? (2023) TR",
@@ -39038,8 +39038,8 @@
   "7549": {
     "name": "ASCENDANCE OF A BOOKWORM SEASON 4 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 12,
-    "last_modified": 1783174642
+    "last_episode": 13,
+    "last_modified": 1783769221
   },
   "7550": {
     "name": "A HUNDRED SCENES OF AWAJIMA (2026) İNGİLİZCE",
@@ -39962,8 +39962,8 @@
   "7703": {
     "name": "WELCOME TO DEMON SCHOOL, IRUMA-KUN 4 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 14,
-    "last_modified": 1783174642
+    "last_episode": 15,
+    "last_modified": 1783769221
   },
   "7704": {
     "name": "WHEN THEY CRY: HIGURASHI (2006) İNGİLİZCE",
@@ -70078,5 +70078,11 @@
     "last_season": 1,
     "last_episode": 2,
     "last_modified": 1783653430
+  },
+  "13627": {
+    "name": "KÖSTEBEKGILLER: GÜNEŞ GÜNLÜĞÜ (2026) TR",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1783769221
   }
 }
