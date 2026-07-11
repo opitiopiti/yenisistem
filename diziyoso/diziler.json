@@ -32356,5 +32356,65 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/w8GLkht5ceCi7KQ3AMD77mzkxBc.jpg",
     "imdb": 5.1
+  },
+  "/dizi/ms-x": {
+    "group": "Ms. X",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/rrAWtZvOPNyNqaUqXCjLUC9syKL.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/little-house-on-the-prairie-2026": {
+    "group": "Little House on the Prairie 2026",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/294x441/little-house-on-the-prairie-2026.webp",
+    "imdb": 6.7
+  },
+  "/dizi/the-five-star-weekend": {
+    "group": "The Five Star Weekend",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/A0Y6xf8IDDL2dBV3mvu8fWPFYLG.jpg",
+    "imdb": 7.1
+  },
+  "/dizi/glory-2026/": {
+    "group": "Glory 2026",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/163x245/glory-2026.webp",
+    "imdb": 6.7
+  },
+  "/dizi/le-retour-danna-brodeur/": {
+    "group": "Le retour d’Anna Brodeur",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/2aHEoBgUyP5OTS1B3YAsQuC9k1y.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/little-house-on-the-prairie-2026/": {
+    "group": "Little House on the Prairie 2026",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/163x245/little-house-on-the-prairie-2026.webp",
+    "imdb": 6.7
+  },
+  "/dizi/ms-x/": {
+    "group": "Ms. X",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/rrAWtZvOPNyNqaUqXCjLUC9syKL.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/schattenseite/": {
+    "group": "Schattenseite",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/mGBw70glB0pXfnGClAexTExfkQF.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/geheimes-kuba/": {
+    "group": "Geheimes Kuba",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/8ZNQiTu0YQaYotPmGztgm8p7cqC.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/the-five-star-weekend/": {
+    "group": "The Five Star Weekend",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/A0Y6xf8IDDL2dBV3mvu8fWPFYLG.jpg",
+    "imdb": 7.1
   }
 }

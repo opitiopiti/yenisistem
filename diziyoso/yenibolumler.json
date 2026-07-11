@@ -1,9 +1,21 @@
 {
+  "/dizi/ms-x": {
+    "group": "Ms. X",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/rrAWtZvOPNyNqaUqXCjLUC9syKL.jpg",
+    "imdb": 6.8
+  },
   "/dizi/her-sey-mumkun": {
     "group": "Her Şey Mümkün",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/xwDOirKzJgTBfrJlM6gp0Fc3GAY.jpg",
     "imdb": 6.0
+  },
+  "/dizi/proud": {
+    "group": "Proud",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
+    "imdb": 7.4
   },
   "/dizi/voyagers-exploring-pacific-waters": {
     "group": "Voyagers: Exploring Pacific Waters",
@@ -11,17 +23,23 @@
     "poster": "https://dzycdn.com/img/t/294x441/voyagers-exploring-pacific-waters.webp",
     "imdb": 9.0
   },
+  "/dizi/little-house-on-the-prairie-2026": {
+    "group": "Little House on the Prairie 2026",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/294x441/little-house-on-the-prairie-2026.webp",
+    "imdb": 6.7
+  },
+  "/dizi/the-five-star-weekend": {
+    "group": "The Five Star Weekend",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/A0Y6xf8IDDL2dBV3mvu8fWPFYLG.jpg",
+    "imdb": 7.1
+  },
   "/dizi/no-tengo-miedo": {
     "group": "No Tengo Miedo",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/ydUCCsKWNkGFecRPKHViWi0lppz.jpg",
     "imdb": 7.3
-  },
-  "/dizi/10-bin-adim": {
-    "group": "10 Bin Adım",
-    "year": 2020,
-    "poster": "https://image.tmdb.org/t/p/w500/s3qr2K8LjVCTIBoWOnkFd6bQqcM.jpg",
-    "imdb": 7.8
   },
   "/dizi/salcedo-cuero-y-boogaloo": {
     "group": "Salcedo, cuero y boogaloo",
@@ -77,47 +95,53 @@
     "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
     "imdb": 8.3
   },
-  "/dizi/proud": {
-    "group": "Proud",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
-    "imdb": 7.4
-  },
   "/dizi/life-larry-and-the-pursuit-of-unhappiness-an-almost-history-of-america": {
     "group": "Life, Larry and the Pursuit of Unhappiness: An Almost History of America",
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/eA8lwlHAuFQrZzek25xgGZCgImu.jpg",
     "imdb": 6.7
   },
-  "/dizi/gasu-ningen": {
-    "group": "Gasu Ningen",
+  "/dizi/glory-2026/": {
+    "group": "Glory 2026",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/gSYPd4icODc7QdRA7BK0VqBxBYp.jpg",
-    "imdb": 7.0
+    "poster": "https://dzycdn.com/img/t/163x245/glory-2026.webp",
+    "imdb": 6.7
   },
-  "/dizi/cape-fear": {
-    "group": "Cape Fear",
+  "/dizi/le-retour-danna-brodeur/": {
+    "group": "Le retour d’Anna Brodeur",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/2aHEoBgUyP5OTS1B3YAsQuC9k1y.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/little-house-on-the-prairie-2026/": {
+    "group": "Little House on the Prairie 2026",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/mpZjJ0yOxMX2GCCXJ4viTZKhdRX.jpg",
-    "imdb": 4.6
+    "poster": "https://dzycdn.com/img/t/163x245/little-house-on-the-prairie-2026.webp",
+    "imdb": 6.7
   },
-  "/dizi/silo": {
-    "group": "Silo",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/gMYZZvnkVNTqSVnVCphWbPXwWwb.jpg",
-    "imdb": 8.1
-  },
-  "/dizi/star-city": {
-    "group": "Star City",
+  "/dizi/ms-x/": {
+    "group": "Ms. X",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/bNMUxvtkqWHKPGynh2IEQlHvHWo.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/rrAWtZvOPNyNqaUqXCjLUC9syKL.jpg",
     "imdb": 6.8
   },
-  "/dizi/sugar": {
-    "group": "Sugar",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/tLmwLYiI7EpPbhgmdeivNGY0xw7.jpg",
-    "imdb": 7.3
+  "/dizi/schattenseite/": {
+    "group": "Schattenseite",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/mGBw70glB0pXfnGClAexTExfkQF.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/geheimes-kuba/": {
+    "group": "Geheimes Kuba",
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/8ZNQiTu0YQaYotPmGztgm8p7cqC.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/the-five-star-weekend/": {
+    "group": "The Five Star Weekend",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/A0Y6xf8IDDL2dBV3mvu8fWPFYLG.jpg",
+    "imdb": 7.1
   },
   "/dizi/panchayat/": {
     "group": "Panchayat",
@@ -244,47 +268,5 @@
     "year": 2024,
     "poster": "https://image.tmdb.org/t/p/w500/rCaI3yJWO46JM6ZixEnlfibMGMC.jpg",
     "imdb": 6.2
-  },
-  "/dizi/zero-stars/": {
-    "group": "Zero Stars",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/cwgOwF5LOcxPKoKXB3kecxWIbBi.jpg",
-    "imdb": 7.3
-  },
-  "/dizi/exam/": {
-    "group": "EXAM",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/9jt62J8sfq8pFFovZhEQmxjUqhb.jpg",
-    "imdb": 7.0
-  },
-  "/dizi/her-sey-mumkun/": {
-    "group": "Her Şey Mümkün",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/xwDOirKzJgTBfrJlM6gp0Fc3GAY.jpg",
-    "imdb": 6.0
-  },
-  "/dizi/k-everything-a-cnn-original-series/": {
-    "group": "K-Everything: A CNN Original Series",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/acKxwOQvtJWqkt7P1f7ipdd05LF.jpg",
-    "imdb": 7.9
-  },
-  "/dizi/knut-the-viking-emperor/": {
-    "group": "Knut: The Viking Emperor",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/nqGvbJ8SOnEyRNhgNxiWC3khf99.jpg",
-    "imdb": 5.2
-  },
-  "/dizi/les-saisons/": {
-    "group": "Les saisons",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/hasXj1vSq2FiUQHkJiWCVRziHAj.jpg",
-    "imdb": 6.5
-  },
-  "/dizi/lukkhe/": {
-    "group": "Lukkhe",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/w8GLkht5ceCi7KQ3AMD77mzkxBc.jpg",
-    "imdb": 5.1
   }
 }
