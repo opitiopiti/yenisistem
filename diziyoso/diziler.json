@@ -32416,5 +32416,53 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/A0Y6xf8IDDL2dBV3mvu8fWPFYLG.jpg",
     "imdb": 7.1
+  },
+  "/dizi/syurup/": {
+    "group": "Syurup",
+    "year": 2022,
+    "poster": "https://dzycdn.com/img/t/163x245/syurup-2022.webp",
+    "imdb": 8.4
+  },
+  "/dizi/tagusari-bros/": {
+    "group": "TAGUSARI bros.",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/69MPQL5lEcmI3x82tgCSVUZGha.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/perimeter/": {
+    "group": "Perimeter",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/g5Dn2t8VjV9LaSJKKB6yeSrQO5c.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/avvocato-ligas/": {
+    "group": "Avvocato Ligas",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/vZJsHSCcS42IK1SA9sR0Un10coE.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/birdsong/": {
+    "group": "Birdsong",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/x4QdPNpWjmI47iv9Z7F46BT3gQW.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/crime-in-progress/": {
+    "group": "Crime in Progress",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/1RF5vIlXfJs9MWsjhJaM8X8CQRD.jpg",
+    "imdb": 8.6
+  },
+  "/dizi/el-inmortal/": {
+    "group": "El Inmortal",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/s7Ig1Ra8TrF0smCa20RteIsRR8H.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/22-juli/": {
+    "group": "22. Juli",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/o0sAM68L6mzzvLTOtGIpEieBXKU.jpg",
+    "imdb": 7.8
   }
 }

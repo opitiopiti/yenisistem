@@ -1,4 +1,10 @@
 {
+  "/diziler/star-trek-starfleet-academy.html": {
+    "group": "STAR TREK: STARFLEET ACADEMY",
+    "year": "2026",
+    "imdb": "4.5",
+    "poster": "https://image.tmdb.org/t/p/w500/m4JnADIJkF5ck6jq7GUEcPBKxd0.jpg"
+  },
   "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
     "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
     "year": "2018",
@@ -82,11 +88,5 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/oeD9rnfk7AohNiJTRoCx4SOKhXj.jpg"
-  },
-  "/diziler/trying.html": {
-    "group": "TRYING",
-    "year": "2020",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/eHTDuZp8UtbSK1XehE59UJrgOXg.jpg"
   }
 }

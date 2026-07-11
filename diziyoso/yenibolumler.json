@@ -11,6 +11,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/xwDOirKzJgTBfrJlM6gp0Fc3GAY.jpg",
     "imdb": 6.0
   },
+  "/dizi/dogu": {
+    "group": "Doğu",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/ZAQbYIG2bHblv2lGapfFS6TmkX.jpg",
+    "imdb": 6.7
+  },
   "/dizi/proud": {
     "group": "Proud",
     "year": 2026,
@@ -95,11 +101,65 @@
     "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
     "imdb": 8.3
   },
-  "/dizi/life-larry-and-the-pursuit-of-unhappiness-an-almost-history-of-america": {
-    "group": "Life, Larry and the Pursuit of Unhappiness: An Almost History of America",
+  "/dizi/syurup/": {
+    "group": "Syurup",
+    "year": 2022,
+    "poster": "https://dzycdn.com/img/t/163x245/syurup-2022.webp",
+    "imdb": 8.4
+  },
+  "/dizi/tagusari-bros/": {
+    "group": "TAGUSARI bros.",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/eA8lwlHAuFQrZzek25xgGZCgImu.jpg",
+    "poster": "https://image.tmdb.org/t/p/w500/69MPQL5lEcmI3x82tgCSVUZGha.jpg",
     "imdb": 6.7
+  },
+  "/dizi/perimeter/": {
+    "group": "Perimeter",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/g5Dn2t8VjV9LaSJKKB6yeSrQO5c.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/the-rumour/": {
+    "group": "The Rumour",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/w500/4JeMr89guc4A0SxWA4q7qyvV8W5.jpg",
+    "imdb": 3.2
+  },
+  "/dizi/avvocato-ligas/": {
+    "group": "Avvocato Ligas",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/vZJsHSCcS42IK1SA9sR0Un10coE.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/birdsong/": {
+    "group": "Birdsong",
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/x4QdPNpWjmI47iv9Z7F46BT3gQW.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/candy-cruz/": {
+    "group": "Candy Cruz",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/w500/hB5lEYzhXFVqyhT4bxmKwaoY7Gp.jpg",
+    "imdb": 8.0
+  },
+  "/dizi/crime-in-progress/": {
+    "group": "Crime in Progress",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/1RF5vIlXfJs9MWsjhJaM8X8CQRD.jpg",
+    "imdb": 8.6
+  },
+  "/dizi/el-inmortal/": {
+    "group": "El Inmortal",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/s7Ig1Ra8TrF0smCa20RteIsRR8H.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/22-juli/": {
+    "group": "22. Juli",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/o0sAM68L6mzzvLTOtGIpEieBXKU.jpg",
+    "imdb": 7.8
   },
   "/dizi/glory-2026/": {
     "group": "Glory 2026",
@@ -208,65 +268,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/lVeNrRLNhGSv47W1FR12CcpU5wc.jpg",
     "imdb": 7.6
-  },
-  "/dizi/reported-missing/": {
-    "group": "Reported Missing",
-    "year": 2017,
-    "poster": "https://image.tmdb.org/t/p/w500/qxmW2MyjhwgaFP2DccV2psTmD4a.jpg",
-    "imdb": 7.7
-  },
-  "/dizi/rosa-elettrica-in-fuga-con-il-nemico/": {
-    "group": "Rosa Elettrica – In fuga con il nemico",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/6L8mWi31O2SwdX8b3oCLv0S6eJI.jpg",
-    "imdb": 7.2
-  },
-  "/dizi/so-long-marianne/": {
-    "group": "So Long Marianne",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/tdJE9vLZAtb4Ln1A6gqAnS5YKGA.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/suddenly-amish/": {
-    "group": "Suddenly Amish",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/2oKurmdjblWDq7gIompMHVHqjHw.jpg",
-    "imdb": 10.0
-  },
-  "/dizi/taking-fire/": {
-    "group": "Taking Fire",
-    "year": 2016,
-    "poster": "https://image.tmdb.org/t/p/w500/1X8me2FeoJFdHRTKAyP4IO4671V.jpg",
-    "imdb": 7.9
-  },
-  "/dizi/the-guardians-of-justice/": {
-    "group": "The Guardians of Justice",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/ezZDQ8neVO4GK1CizSdFt1IhsUE.jpg",
-    "imdb": 5.1
-  },
-  "/dizi/the-pyramid-scheme/": {
-    "group": "The Pyramid Scheme",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/34sjPzz8xZCORirlywAJp1gUUyJ.jpg",
-    "imdb": 6.6
-  },
-  "/dizi/the-split/": {
-    "group": "The Split",
-    "year": 2018,
-    "poster": "https://image.tmdb.org/t/p/w500/vOxXjqBNGXTjZeYCsEebljiDkLj.jpg",
-    "imdb": 7.9
-  },
-  "/dizi/the-truth-about-my-murder/": {
-    "group": "The Truth About My Murder",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/9jRVhEQma3DTtDI23TuA4IAwOae.jpg",
-    "imdb": 7.2
-  },
-  "/dizi/time-mun-wela-tai/": {
-    "group": "Time Mun Wela Tai",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/rCaI3yJWO46JM6ZixEnlfibMGMC.jpg",
-    "imdb": 6.2
   }
 }
