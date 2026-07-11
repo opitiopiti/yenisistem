@@ -2266,5 +2266,23 @@
     "year": "2024",
     "imdb": "9.0",
     "poster": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg"
+  },
+  "/dizi/perdiendo-el-juicio": {
+    "group": "Perdiendo el juicio",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "6.5",
+    "poster": "https://image.tmdb.org/t/p/w500/ioyuupNi55EPjqutl0Kl6KaXZuV.jpg"
+  },
+  "/dizi/two-years-later": {
+    "group": "Two Years Later",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/1xzFf55zYVDtQI9o3wlsOb6A5Lp.jpg"
   }
 }
