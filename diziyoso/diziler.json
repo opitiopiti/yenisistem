@@ -32464,5 +32464,83 @@
     "year": 2020,
     "poster": "https://image.tmdb.org/t/p/w500/o0sAM68L6mzzvLTOtGIpEieBXKU.jpg",
     "imdb": 7.8
+  },
+  "/dizi/trying": {
+    "group": "Trying",
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/3zsnWBpxBWpcvmFP7ueHM5sGC80.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/the-cult-of-natureboy/": {
+    "group": "The Cult of NatureBoy",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/9I5vN4vTEA8NWjr9J6iVrFnqo99.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/the-silent-noise/": {
+    "group": "The Silent Noise",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/aLbVOaMwwSmJUxSbiA89bj6ZM6v.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/4x20-quick-hits/": {
+    "group": "4×20: Quick Hits",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/6DgGaWPAv3VIlfOVoJbrYfaNYOu.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/chernobyl-inside-the-meltdown/": {
+    "group": "Chernobyl: Inside the Meltdown",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/h6pIX1Q7TgqoKt4Gg4APDJtc8D1.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/crackhead/": {
+    "group": "Crackhead",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/kFan6zkpglIV93sAfKQxHL418C5.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/dan-vs/": {
+    "group": "Dan Vs.",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/wdoklBmmKaP8LtlBWvtDeihlLlD.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/dna/": {
+    "group": "DNA",
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/9nznsSr4DNObllAnI3Lqeg5S7Q6.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/forensics-murder-scene/": {
+    "group": "Forensics: Murder Scene",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/uEyGqM2aq1xaZWo1f5z5IIdOTCx.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/iubire-cu-parfum-de-lavanda/": {
+    "group": "Iubire cu parfum de lavandă",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/mqd3wkI1MiAu3g8pzAsbrhBHHw4.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/made-for-march/": {
+    "group": "Made for March",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/2WZlW2KAhJjGYermnzG3bFUBIwx.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/montmartre/": {
+    "group": "Montmartre",
+    "year": 2025,
+    "poster": "https://image.tmdb.org/t/p/w500/85zVShbs0gYhL38nTtVBMobuui.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/running-wilde/": {
+    "group": "Running Wilde",
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/hQBUVWTwNki4zJ99wP5L8Aaerre.jpg",
+    "imdb": 6.8
   }
 }
