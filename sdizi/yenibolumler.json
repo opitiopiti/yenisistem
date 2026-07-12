@@ -1,4 +1,16 @@
 {
+  "/diziler/mushoku-tensei-jobless-reincarnation.html": {
+    "group": "MUSHOKU TENSEI: JOBLESS REINCARNATION",
+    "year": "2021",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg"
+  },
+  "/diziler/revival.html": {
+    "group": "REVIVAL",
+    "year": "2025",
+    "imdb": "6.6",
+    "poster": "https://image.tmdb.org/t/p/w500/xf2u02mLodDN2ujMSfLFDkPVFac.jpg"
+  },
   "/diziler/my-adventures-with-superman.html": {
     "group": "MY ADVENTURES WITH SUPERMAN",
     "year": "2023",
@@ -76,17 +88,5 @@
     "year": "2026",
     "imdb": "6.1",
     "poster": "https://image.tmdb.org/t/p/w500/99SkFAS3S3iOtnplwH0byFUMiHK.jpg"
-  },
-  "/diziler/doc.html": {
-    "group": "DOC",
-    "year": "2025",
-    "imdb": "7.3",
-    "poster": "https://image.tmdb.org/t/p/w500/hYHrPWM6qGq2XSbaWUONckBgUir.jpg"
-  },
-  "/diziler/the-lady.html": {
-    "group": "THE LADY",
-    "year": "2025",
-    "imdb": "7.1",
-    "poster": "https://image.tmdb.org/t/p/w500/3C4MQlp0yWyVErSGVzHBObvFbMX.jpg"
   }
 }

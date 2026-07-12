@@ -23,6 +23,12 @@
     "poster": "https://image.tmdb.org/t/p/w500/8k5jU8aEQYRN2MS054OmzvVCmyd.jpg",
     "imdb": 7.4
   },
+  "/dizi/cape-fear": {
+    "group": "Cape Fear",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/mpZjJ0yOxMX2GCCXJ4viTZKhdRX.jpg",
+    "imdb": 4.6
+  },
   "/dizi/voyagers-exploring-pacific-waters": {
     "group": "Voyagers: Exploring Pacific Waters",
     "year": 2026,
@@ -107,11 +113,11 @@
     "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
     "imdb": 9.0
   },
-  "/dizi/the-husband-2026": {
-    "group": "The Husband 2026",
-    "year": 2026,
-    "poster": "https://dzycdn.com/img/t/294x441/the-husband-2026.webp",
-    "imdb": 8.1
+  "/dizi/plastiki-12000-bottle-boat/": {
+    "group": "Plastiki 12000 Bottle Boat",
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/mv9cJPmMAn5PRnVWN9mNmQIywPZ.jpg",
+    "imdb": 0.0
   },
   "/dizi/the-cult-of-natureboy/": {
     "group": "The Cult of NatureBoy",
@@ -274,11 +280,5 @@
     "year": 2025,
     "poster": "https://image.tmdb.org/t/p/w500/mGBw70glB0pXfnGClAexTExfkQF.jpg",
     "imdb": 6.2
-  },
-  "/dizi/geheimes-kuba/": {
-    "group": "Geheimes Kuba",
-    "year": 2015,
-    "poster": "https://image.tmdb.org/t/p/w500/8ZNQiTu0YQaYotPmGztgm8p7cqC.jpg",
-    "imdb": 7.6
   }
 }
