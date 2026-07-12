@@ -1,4 +1,16 @@
 {
+  "/diziler/supa-strikas.html": {
+    "group": "SUPA STRIKAS",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
+  "/diziler/one-piece-izle.html": {
+    "group": "ONE PIECE",
+    "year": "1999",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
+  },
   "/diziler/mushoku-tensei-jobless-reincarnation.html": {
     "group": "MUSHOKU TENSEI: JOBLESS REINCARNATION",
     "year": "2021",
@@ -76,17 +88,5 @@
     "year": "2025",
     "imdb": "6.7",
     "poster": "https://image.tmdb.org/t/p/w500/ujQp5egkJOkDHx4TehlgHePFcRv.jpg"
-  },
-  "/diziler/notes-from-the-last-row.html": {
-    "group": "NOTES FROM THE LAST ROW",
-    "year": "2026",
-    "imdb": "7.1",
-    "poster": "https://image.tmdb.org/t/p/w500/paRFCxAJRZOypfgnzYLo6KH5jjO.jpg"
-  },
-  "/diziler/the-miniature-wife.html": {
-    "group": "THE MINIATURE WIFE",
-    "year": "2026",
-    "imdb": "6.1",
-    "poster": "https://image.tmdb.org/t/p/w500/99SkFAS3S3iOtnplwH0byFUMiHK.jpg"
   }
 }
