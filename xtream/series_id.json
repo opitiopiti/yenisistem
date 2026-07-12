@@ -5486,8 +5486,8 @@
   "1918": {
     "name": "내일도 출근! (2026)",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1783174642
+    "last_episode": 4,
+    "last_modified": 1783842553
   },
   "1919": {
     "name": "BETTER CALL SAUL (2015)",
@@ -7370,8 +7370,8 @@
   "2236": {
     "name": "เพราะรักนำทาง (2024)",
     "last_season": 2,
-    "last_episode": 19,
-    "last_modified": 1783174642
+    "last_episode": 24,
+    "last_modified": 1783842553
   },
   "2237": {
     "name": "THE MORNING SHOW (2019)",
@@ -7424,8 +7424,8 @@
   "2245": {
     "name": "모두가 자신의 무가치함과 싸우고 있다 (2026)",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1783174642
+    "last_episode": 12,
+    "last_modified": 1783842553
   },
   "2246": {
     "name": "BURN NOTICE (2007)",
@@ -39194,8 +39194,8 @@
   "7575": {
     "name": "DIGIMON BEATBREAK (2025) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 37,
-    "last_modified": 1783252654
+    "last_episode": 38,
+    "last_modified": 1783842553
   },
   "7576": {
     "name": "DOROHEDORO 2 (2026) İNGİLİZCE",
@@ -70096,5 +70096,35 @@
     "last_season": 1,
     "last_episode": 8,
     "last_modified": 1783804032
+  },
+  "13675": {
+    "name": "L'ÉTÉ 36 (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1783842553
+  },
+  "13677": {
+    "name": "ガス人間 (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1783842553
+  },
+  "13679": {
+    "name": "맨 끝줄 소년 (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1783842553
+  },
+  "13680": {
+    "name": "NO TENGO MIEDO (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1783842553
+  },
+  "13687": {
+    "name": "SALCEDO, CUERO Y BOOGALOO (2026)",
+    "last_season": 1,
+    "last_episode": 12,
+    "last_modified": 1783842553
   }
 }
