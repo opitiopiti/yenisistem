@@ -4389,7 +4389,8 @@
     {"name": "AMONG US", "year": "2026"},
     {"name": "THE AGENCY", "year": "2024"},
     {"name": "THE TURKISH DETECTIVE", "year": "2023"},
-    {"name": "TWO YEARS LATER", "year": "2026"}
+    {"name": "TWO YEARS LATER", "year": "2026"},
+    {"name": "MADE FOR MARCH", "year": "2026"}
   ],
   "TBS DİZİLERİ": [
     {"name": "BLUE BOX", "year": "2024"},
@@ -4831,7 +4832,9 @@
     {"name": "WILD CRIME", "year": "2021"},
     {"name": "THE SEASON", "year": "2026"},
     {"name": "DIFFICULT PEOPLE", "year": "2015"},
-    {"name": "REBOOT 2026", "year": "2022"}
+    {"name": "REBOOT 2026", "year": "2022"},
+    {"name": "THE CULT OF NATUREBOY", "year": "2026"},
+    {"name": "4×20: QUICK HITS", "year": "2026"}
   ],
   "TVING DİZİLERİ": [
     {"name": "LOVE IN THE BIG CITY", "year": "2024"},
@@ -5253,7 +5256,8 @@
     {"name": "ANIMAL CONTROL", "year": "2023"},
     {"name": "HOUSE, M.D.", "year": "2004"},
     {"name": "MASTERCHEF JUNIOR", "year": "2013"},
-    {"name": "THE CREW", "year": "1995"}
+    {"name": "THE CREW", "year": "1995"},
+    {"name": "RUNNING WILDE", "year": "2010"}
   ],
   "ABC DİZİLERİ": [
     {"name": "SUPERSTAR", "year": "2021"},
@@ -6895,7 +6899,8 @@
     {"name": "LA MANTE", "year": "2017"},
     {"name": "MIRACULOUS, LES AVENTURES DE LADYBUG ET CHAT NOIR", "year": "2015"},
     {"name": "MADEMOISELLE HOLMES", "year": "2024"},
-    {"name": "L’ÉTÉ 36", "year": "2026"}
+    {"name": "L’ÉTÉ 36", "year": "2026"},
+    {"name": "MONTMARTRE", "year": "2025"}
   ],
   "STAR+ DİZİLERİ": [
     {"name": "PLANNERS", "year": "2023"},
@@ -7639,7 +7644,8 @@
     {"name": "COMPULSION", "year": "2022"},
     {"name": "FINDERS KEEPERS", "year": "2024"},
     {"name": "THE FORTUNE", "year": "2026"},
-    {"name": "THE AU PAIR", "year": "2025"}
+    {"name": "THE AU PAIR", "year": "2025"},
+    {"name": "FORENSICS: MURDER SCENE", "year": "2024"}
   ],
   "PARAVI DİZİLERİ": [
     {"name": "JAPAN SINKS: PEOPLE OF HOPE", "year": "2021"},
@@ -7882,7 +7888,8 @@
     {"name": "DAN DA DAN", "year": "2019"},
     {"name": "KRIGER", "year": "2018"},
     {"name": "FAMILIER SOM VORES", "year": "2024"},
-    {"name": "DICTE", "year": "2013"}
+    {"name": "DICTE", "year": "2013"},
+    {"name": "DNA", "year": "2019"}
   ],
   "SKY CRIME DİZİLERİ": [
     {"name": "I AM A KILLER: RELEASED", "year": "2020"},
@@ -8185,7 +8192,8 @@
   ],
   "CNN DİZİLERİ": [
     {"name": "CHRISTIANE AMANPOUR: SEX & LOVE AROUND THE WORLD", "year": "2018"},
-    {"name": "RACE FOR THE WHITE HOUSE", "year": "2016"}
+    {"name": "RACE FOR THE WHITE HOUSE", "year": "2016"},
+    {"name": "CHERNOBYL: INSIDE THE MELTDOWN", "year": "2026"}
   ],
   "BBC ALBA DİZİLERİ": [
     {"name": "SISTERS (2017)", "year": "2016"}
@@ -8440,7 +8448,8 @@
   "THREENOW DİZİLERİ": [
     {"name": "MADAM", "year": "2024"},
     {"name": "MEAN MUMS", "year": "2019"},
-    {"name": "FRIENDS LIKE HER", "year": "2024"}
+    {"name": "FRIENDS LIKE HER", "year": "2024"},
+    {"name": "CRACKHEAD", "year": "2026"}
   ],
   "UP FAITH & FAMILY DİZİLERİ": [
     {"name": "BLUE SKIES", "year": "2026"}
@@ -8946,7 +8955,8 @@
     {"name": "EL MARGINAL", "year": "2016"}
   ],
   "DISCOVERY FAMILY DİZİLERİ": [
-    {"name": "TIME WARP TRIO", "year": "2005"}
+    {"name": "TIME WARP TRIO", "year": "2005"},
+    {"name": "DAN VS.", "year": "2011"}
   ],
   "TOKAI TV DİZİLERİ": [
     {"name": "DETECTIVE ACADEMY", "year": "2022"}
@@ -9064,5 +9074,8 @@
   ],
   "SUPER CHANNEL FUSE DİZİLERİ": [
     {"name": "PURE 2019", "year": "2017"}
+  ],
+  "ANTENA 1 DİZİLERİ": [
+    {"name": "IUBIRE CU PARFUM DE LAVANDĂ", "year": "2024"}
   ]
 }
