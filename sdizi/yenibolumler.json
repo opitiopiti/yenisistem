@@ -1,4 +1,10 @@
 {
+  "/diziler/witch-hat-atelier.html": {
+    "group": "WITCH HAT ATELIER",
+    "year": "2025",
+    "imdb": "8.5",
+    "poster": null
+  },
   "/diziler/rick-and-morty.html": {
     "group": "RICK AND MORTY",
     "year": "2013",
@@ -7,9 +13,9 @@
   },
   "/diziler/supa-strikas-rookie-season.html": {
     "group": "SUPA STRIKAS: ROOKIE SEASON",
-    "year": null,
-    "imdb": null,
-    "poster": null
+    "year": "2021",
+    "imdb": "9.2",
+    "poster": "https://image.tmdb.org/t/p/w500/pwTWXcWYThMrZWuDCIKxzS2YdEA.jpg"
   },
   "/diziler/supa-strikas.html": {
     "group": "SUPA STRIKAS",
@@ -82,11 +88,5 @@
     "year": "2024",
     "imdb": "7.8",
     "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
-  },
-  "/diziler/silo.html": {
-    "group": "SILO",
-    "year": "2023",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/2QOuYPE6ZCqgVfhClNotQR06uVj.jpg"
   }
 }

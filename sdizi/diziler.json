@@ -16996,5 +16996,17 @@
     "year": "2008",
     "imdb": "7.5",
     "poster": null
+  },
+  "/diziler/witch-hat-atelier.html": {
+    "group": "WITCH HAT ATELIER",
+    "year": "2025",
+    "imdb": "8.5",
+    "poster": null
+  },
+  "/diziler/supa-strikas-rookie-season.html": {
+    "group": "SUPA STRIKAS: ROOKIE SEASON",
+    "year": "2021",
+    "imdb": "9.2",
+    "poster": "https://image.tmdb.org/t/p/w500/pwTWXcWYThMrZWuDCIKxzS2YdEA.jpg"
   }
 }
