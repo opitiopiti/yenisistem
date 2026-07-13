@@ -238,53 +238,5 @@
     "year": "2023",
     "poster": "https://image.tmdb.org/t/p/w500/hB5lEYzhXFVqyhT4bxmKwaoY7Gp.jpg",
     "imdb": 8.0
-  },
-  "/dizi/crime-in-progress/": {
-    "group": "Crime in Progress",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/1RF5vIlXfJs9MWsjhJaM8X8CQRD.jpg",
-    "imdb": 8.6
-  },
-  "/dizi/el-inmortal/": {
-    "group": "El Inmortal",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/s7Ig1Ra8TrF0smCa20RteIsRR8H.jpg",
-    "imdb": 7.0
-  },
-  "/dizi/22-juli/": {
-    "group": "22. Juli",
-    "year": 2020,
-    "poster": "https://image.tmdb.org/t/p/w500/o0sAM68L6mzzvLTOtGIpEieBXKU.jpg",
-    "imdb": 7.8
-  },
-  "/dizi/glory-2026/": {
-    "group": "Glory 2026",
-    "year": 2026,
-    "poster": "https://dzycdn.com/img/t/163x245/glory-2026.webp",
-    "imdb": 6.7
-  },
-  "/dizi/le-retour-danna-brodeur/": {
-    "group": "Le retour d’Anna Brodeur",
-    "year": 2024,
-    "poster": "https://image.tmdb.org/t/p/w500/2aHEoBgUyP5OTS1B3YAsQuC9k1y.jpg",
-    "imdb": 7.2
-  },
-  "/dizi/little-house-on-the-prairie-2026/": {
-    "group": "Little House on the Prairie 2026",
-    "year": 2026,
-    "poster": "https://dzycdn.com/img/t/163x245/little-house-on-the-prairie-2026.webp",
-    "imdb": 6.7
-  },
-  "/dizi/ms-x/": {
-    "group": "Ms. X",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/rrAWtZvOPNyNqaUqXCjLUC9syKL.jpg",
-    "imdb": 6.8
-  },
-  "/dizi/schattenseite/": {
-    "group": "Schattenseite",
-    "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/mGBw70glB0pXfnGClAexTExfkQF.jpg",
-    "imdb": 6.2
   }
 }
