@@ -37928,8 +37928,8 @@
   "7362": {
     "name": "HOUSE OF THE DRAGON (2022)",
     "last_season": 3,
-    "last_episode": 3,
-    "last_modified": 1783310340
+    "last_episode": 4,
+    "last_modified": 1783911721
   },
   "7363": {
     "name": "HUMAN VAPOR (2026)",
@@ -70130,13 +70130,19 @@
   "13730": {
     "name": "THE APARTMENT JOB (2026)",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1783873205
+    "last_episode": 2,
+    "last_modified": 1783911721
   },
   "13774": {
     "name": "THOUGH I AM AN INEPT VILLAINESS: TALE OF THE BUTTERFLY-RAT BODY SWAP IN THE MAIDEN COURT (2026) İNGİLİZCE",
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1783890679
+  },
+  "13817": {
+    "name": "KIM-BU-JANG (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1783911721
   }
 }
