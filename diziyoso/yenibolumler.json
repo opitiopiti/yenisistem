@@ -1,21 +1,15 @@
 {
-  "/dizi/ms-x": {
-    "group": "Ms. X",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/rrAWtZvOPNyNqaUqXCjLUC9syKL.jpg",
-    "imdb": 6.8
+  "/dizi/house-of-the-dragon": {
+    "group": "House of the Dragon",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/7V0Ebks0GgpKvQ7QbLAIdX5dos4.jpg",
+    "imdb": 8.3
   },
-  "/dizi/her-sey-mumkun": {
-    "group": "Her Şey Mümkün",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/xwDOirKzJgTBfrJlM6gp0Fc3GAY.jpg",
-    "imdb": 6.0
-  },
-  "/dizi/dogu": {
-    "group": "Doğu",
-    "year": 2021,
-    "poster": "https://image.tmdb.org/t/p/w500/ZAQbYIG2bHblv2lGapfFS6TmkX.jpg",
-    "imdb": 6.7
+  "/dizi/rick-and-morty": {
+    "group": "Rick and Morty",
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
+    "imdb": 9.0
   },
   "/dizi/proud": {
     "group": "Proud",
@@ -107,11 +101,23 @@
     "poster": "https://image.tmdb.org/t/p/w500/zwEYhe03vN1rbjF8Bsf9Dng0W8e.jpg",
     "imdb": 7.0
   },
-  "/dizi/rick-and-morty": {
-    "group": "Rick and Morty",
-    "year": 2013,
-    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg",
-    "imdb": 9.0
+  "/dizi/the-husband-2026": {
+    "group": "The Husband 2026",
+    "year": 2026,
+    "poster": "https://dzycdn.com/img/t/294x441/the-husband-2026.webp",
+    "imdb": 8.1
+  },
+  "/dizi/life-larry-and-the-pursuit-of-unhappiness-an-almost-history-of-america": {
+    "group": "Life, Larry and the Pursuit of Unhappiness: An Almost History of America",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/eA8lwlHAuFQrZzek25xgGZCgImu.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/gasu-ningen": {
+    "group": "Gasu Ningen",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/gSYPd4icODc7QdRA7BK0VqBxBYp.jpg",
+    "imdb": 7.0
   },
   "/dizi/plastiki-12000-bottle-boat/": {
     "group": "Plastiki 12000 Bottle Boat",

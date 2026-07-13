@@ -1,4 +1,10 @@
 {
+  "/dizi/house-of-the-dragon/": {
+    "group": "House of the Dragon",
+    "year": 2022,
+    "imdb": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w500/7QMsOTMUswlwxJP0rTTZfmz2tX2.jpg"
+  },
   "/dizi/silo/": {
     "group": "Silo",
     "year": 2023,
@@ -52,12 +58,6 @@
     "year": 2013,
     "imdb": 9.0,
     "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
-  },
-  "/dizi/house-of-the-dragon/": {
-    "group": "House of the Dragon",
-    "year": 2022,
-    "imdb": 8.3,
-    "poster": "https://image.tmdb.org/t/p/w500/7QMsOTMUswlwxJP0rTTZfmz2tX2.jpg"
   },
   "/dizi/elle/": {
     "group": "Elle",
