@@ -2288,7 +2288,7 @@
   "/dizi/loved-one": {
     "group": "Loved One",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 11,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.6",
@@ -2297,7 +2297,7 @@
   "/dizi/ms-x": {
     "group": "Ms. X",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.8",
@@ -2305,8 +2305,8 @@
   },
   "/dizi/quarterback": {
     "group": "Quarterback",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 3,
+    "last_episode": 7,
     "start_episode": 1,
     "year": "2023",
     "imdb": "8.0",
@@ -2315,7 +2315,7 @@
   "/dizi/the-dark": {
     "group": "The Dark",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.5",
@@ -2324,7 +2324,7 @@
   "/dizi/the-apartment-job": {
     "group": "The Apartment Job",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2,
     "start_episode": 1,
     "year": "2026",
     "imdb": "8.3",
