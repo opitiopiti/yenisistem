@@ -32548,5 +32548,17 @@
     "year": 2011,
     "poster": "https://image.tmdb.org/t/p/w500/mv9cJPmMAn5PRnVWN9mNmQIywPZ.jpg",
     "imdb": 0.0
+  },
+  "/dizi/a-plan-to-kill/": {
+    "group": "A Plan to Kill",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/6yaneGhEixPvUsXRLEw4PcRUIt9.jpg",
+    "imdb": 8.0
+  },
+  "/dizi/fandom/": {
+    "group": "Fandom",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/bk6af4kwnnPCMa5wzWieS6vP3rv.jpg",
+    "imdb": 5.8
   }
 }

@@ -1,4 +1,40 @@
 {
+  "/dizi/loved-one": {
+    "group": "Loved One",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.6",
+    "poster": "https://image.tmdb.org/t/p/w500/hLAhi5Qu4v5LeVcpnO5D5t5b67i.jpg"
+  },
+  "/dizi/ms-x": {
+    "group": "Ms. X",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.8",
+    "poster": "https://image.tmdb.org/t/p/w500/rrAWtZvOPNyNqaUqXCjLUC9syKL.jpg"
+  },
+  "/dizi/quarterback": {
+    "group": "Quarterback",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/bKdElEIyuwrbdochxCXwlaUBFaR.jpg"
+  },
+  "/dizi/the-dark": {
+    "group": "The Dark",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "6.5",
+    "poster": "https://image.tmdb.org/t/p/w500/mcrx2gcVd5mVVOQrdEWXayFbvVB.jpg"
+  },
   "/dizi/grantchester": {
     "group": "Grantchester",
     "last_season": 11,
@@ -25,5 +61,14 @@
     "year": "2013",
     "imdb": "9.1",
     "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg"
+  },
+  "/dizi/the-apartment-job": {
+    "group": "The Apartment Job",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "8.3",
+    "poster": "https://image.tmdb.org/t/p/w500/qFxbrHvNq5tn9SCBq3aKPgaGfyO.jpg"
   }
 }

@@ -119,6 +119,18 @@
     "poster": "https://image.tmdb.org/t/p/w500/gSYPd4icODc7QdRA7BK0VqBxBYp.jpg",
     "imdb": 7.0
   },
+  "/dizi/a-plan-to-kill/": {
+    "group": "A Plan to Kill",
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/6yaneGhEixPvUsXRLEw4PcRUIt9.jpg",
+    "imdb": 8.0
+  },
+  "/dizi/fandom/": {
+    "group": "Fandom",
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/bk6af4kwnnPCMa5wzWieS6vP3rv.jpg",
+    "imdb": 5.8
+  },
   "/dizi/plastiki-12000-bottle-boat/": {
     "group": "Plastiki 12000 Bottle Boat",
     "year": 2011,
@@ -226,17 +238,5 @@
     "year": 2026,
     "poster": "https://image.tmdb.org/t/p/w500/vZJsHSCcS42IK1SA9sR0Un10coE.jpg",
     "imdb": 7.3
-  },
-  "/dizi/birdsong/": {
-    "group": "Birdsong",
-    "year": 2012,
-    "poster": "https://image.tmdb.org/t/p/w500/x4QdPNpWjmI47iv9Z7F46BT3gQW.jpg",
-    "imdb": 7.3
-  },
-  "/dizi/candy-cruz/": {
-    "group": "Candy Cruz",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/w500/hB5lEYzhXFVqyhT4bxmKwaoY7Gp.jpg",
-    "imdb": 8.0
   }
 }
