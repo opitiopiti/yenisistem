@@ -53,40 +53,13 @@
     "imdb": "6.5",
     "poster": "https://image.tmdb.org/t/p/w500/mcrx2gcVd5mVVOQrdEWXayFbvVB.jpg"
   },
-  "/dizi/grantchester": {
-    "group": "Grantchester",
-    "last_season": 11,
-    "last_episode": 5,
-    "start_episode": 1,
-    "year": "2014",
-    "imdb": "7.1",
-    "poster": "https://image.tmdb.org/t/p/w500/5Itrb1x7OiA5A0XUreRuevR1hA6.jpg"
-  },
-  "/dizi/harry-wild": {
-    "group": "Harry Wild",
-    "last_season": 5,
-    "last_episode": 4,
-    "start_episode": 1,
-    "year": "2023",
-    "imdb": "7.2",
-    "poster": "https://image.tmdb.org/t/p/w500/aLnxpbhwsJ3XCATDEfFaAmJV80d.jpg"
-  },
-  "/dizi/rick-and-morty": {
-    "group": "Rick and Morty",
-    "last_season": 9,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2013",
-    "imdb": "9.1",
-    "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg"
-  },
-  "/dizi/the-apartment-job": {
-    "group": "The Apartment Job",
+  "/dizi/the-ghost-in-the-shell": {
+    "group": "The Ghost in the Shell",
     "last_season": 1,
-    "last_episode": 2,
+    "last_episode": 0,
     "start_episode": 1,
     "year": "2026",
-    "imdb": "8.3",
-    "poster": "https://image.tmdb.org/t/p/w500/qFxbrHvNq5tn9SCBq3aKPgaGfyO.jpg"
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/nUXjSyXAQZhOf32e6lkLX6C6Rf3.jpg"
   }
 }

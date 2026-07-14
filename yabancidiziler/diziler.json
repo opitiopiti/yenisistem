@@ -2338,5 +2338,14 @@
     "year": "2018",
     "imdb": "7.6",
     "poster": "https://image.tmdb.org/t/p/w500/c8FTtjQcQfqSI0McmVc1OOOf7Z7.jpg"
+  },
+  "/dizi/the-ghost-in-the-shell": {
+    "group": "The Ghost in the Shell",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/nUXjSyXAQZhOf32e6lkLX6C6Rf3.jpg"
   }
 }

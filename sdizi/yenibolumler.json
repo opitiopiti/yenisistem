@@ -1,4 +1,10 @@
 {
+  "/diziler/the-emperors-new-school.html": {
+    "group": "THE EMPEROR'S NEW SCHOOL",
+    "year": "2006",
+    "imdb": "6.6",
+    "poster": "https://image.tmdb.org/t/p/w500/g1TlTdWPcofNIklBdInaJFp7NkF.jpg"
+  },
   "/diziler/the-idol.html": {
     "group": "THE IDOL",
     "year": "2023",
@@ -59,12 +65,6 @@
     "imdb": "7.7",
     "poster": "https://image.tmdb.org/t/p/w500/kocOUpdLnHyqfMW4jSRLxWT0QhM.jpg"
   },
-  "/diziler/the-emperors-new-school.html": {
-    "group": "THE EMPEROR'S NEW SCHOOL",
-    "year": "2006",
-    "imdb": "6.6",
-    "poster": "https://image.tmdb.org/t/p/w500/g1TlTdWPcofNIklBdInaJFp7NkF.jpg"
-  },
   "/diziler/star-trek-starfleet-academy.html": {
     "group": "STAR TREK: STARFLEET ACADEMY",
     "year": "2026",
@@ -82,11 +82,5 @@
     "year": "2026",
     "imdb": "6.6",
     "poster": "https://image.tmdb.org/t/p/w500/oWUGSadxC9vQPOCeHDDVfDezmQC.jpg"
-  },
-  "/diziler/star-city.html": {
-    "group": "STAR CITY",
-    "year": "2026",
-    "imdb": "5.9",
-    "poster": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg"
   }
 }
