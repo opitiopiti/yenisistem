@@ -1,4 +1,13 @@
 {
+  "/dizi/all-american": {
+    "group": "All American",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2018",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/c8FTtjQcQfqSI0McmVc1OOOf7Z7.jpg"
+  },
   "/dizi/loved-one": {
     "group": "Loved One",
     "last_season": 1,
@@ -25,6 +34,15 @@
     "year": "2023",
     "imdb": "8.0",
     "poster": "https://image.tmdb.org/t/p/w500/bKdElEIyuwrbdochxCXwlaUBFaR.jpg"
+  },
+  "/dizi/see-you-at-work-tomorrow": {
+    "group": "See You at Work Tomorrow!",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "8.9",
+    "poster": "https://image.tmdb.org/t/p/w500/30P3ySNo0m0xNhHQMXzpmquLwxa.jpg"
   },
   "/dizi/the-dark": {
     "group": "The Dark",
