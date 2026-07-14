@@ -23605,9 +23605,9 @@
   },
   "4963": {
     "name": "QUARTERBACK (2023)",
-    "last_season": 2,
+    "last_season": 3,
     "last_episode": 7,
-    "last_modified": 1783174642
+    "last_modified": 1784064422
   },
   "4964": {
     "name": "KOALA MAN (2023)",
@@ -38042,8 +38042,8 @@
   "7383": {
     "name": "SEE YOU AT WORK TOMORROW! (2026)",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1783480009
+    "last_episode": 8,
+    "last_modified": 1784064422
   },
   "7384": {
     "name": "SOLD OUT ON YOU (2026)",
@@ -39164,8 +39164,8 @@
   "7570": {
     "name": "CROWNED IN A HUNDRED DAYS (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1783703378
+    "last_episode": 7,
+    "last_modified": 1784064422
   },
   "7571": {
     "name": "DARA-SAN OF REIWA (2026) İNGİLİZCE",
@@ -66086,8 +66086,8 @@
   "12545": {
     "name": "RED RIVER (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1783461147
+    "last_episode": 2,
+    "last_modified": 1784064422
   },
   "12546": {
     "name": "THE GHOST IN THE SHELL (2026) İNGİLİZCE",
@@ -70156,5 +70156,11 @@
     "last_season": 1,
     "last_episode": 12,
     "last_modified": 1783964379
+  },
+  "13906": {
+    "name": "THE DANGERS IN MY HEART MOVIE (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1784064422
   }
 }
