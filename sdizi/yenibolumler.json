@@ -1,4 +1,10 @@
 {
+  "/diziler/the-idol.html": {
+    "group": "THE IDOL",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
   "/diziler/grand-blue.html": {
     "group": "GRAND BLUE",
     "year": "2018",
@@ -82,11 +88,5 @@
     "year": "2026",
     "imdb": "5.9",
     "poster": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg"
-  },
-  "/diziler/cape-fear.html": {
-    "group": "CAPE FEAR",
-    "year": "2025",
-    "imdb": "0.0",
-    "poster": null
   }
 }
