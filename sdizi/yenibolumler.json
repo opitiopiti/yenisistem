@@ -1,4 +1,10 @@
 {
+  "/diziler/ride-or-die.html": {
+    "group": "RIDE OR DIE",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
   "/diziler/x-men-97.html": {
     "group": "X-MEN '97",
     "year": "2024",
@@ -76,11 +82,5 @@
     "year": "2021",
     "imdb": "8.4",
     "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg"
-  },
-  "/diziler/revival.html": {
-    "group": "REVIVAL",
-    "year": "2025",
-    "imdb": "6.6",
-    "poster": "https://image.tmdb.org/t/p/w500/xf2u02mLodDN2ujMSfLFDkPVFac.jpg"
   }
 }

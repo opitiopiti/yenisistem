@@ -2365,5 +2365,23 @@
     "year": "2020",
     "imdb": "8.0",
     "poster": "https://image.tmdb.org/t/p/w500/3zsnWBpxBWpcvmFP7ueHM5sGC80.jpg"
+  },
+  "/dizi/ride-or-die": {
+    "group": "Ride or Die",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/uWqEnvpwa2U28QheMdUdEcr4U0M.jpg"
+  },
+  "/dizi/the-ultimatum-marry-or-move-on": {
+    "group": "The Ultimatum: Marry or Move On",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2022",
+    "imdb": "5.5",
+    "poster": "https://image.tmdb.org/t/p/w500/bcVoA4XgP4SDrEPG7eg6RDgLo8B.jpg"
   }
 }
