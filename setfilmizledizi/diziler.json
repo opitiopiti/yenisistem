@@ -11062,5 +11062,11 @@
     "year": 2025,
     "imdb": 6.4,
     "poster": "https://image.tmdb.org/t/p/w500/sQIujEmJh0HZY2xg1Yl2fPyWM2e.jpg"
+  },
+  "/dizi/lucky/": {
+    "group": "Lucky",
+    "year": 2026,
+    "imdb": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg"
   }
 }
