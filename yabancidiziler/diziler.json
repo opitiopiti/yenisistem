@@ -2347,5 +2347,23 @@
     "year": "2026",
     "imdb": "7.3",
     "poster": "https://image.tmdb.org/t/p/w500/nUXjSyXAQZhOf32e6lkLX6C6Rf3.jpg"
+  },
+  "/dizi/lucky": {
+    "group": "Lucky",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg"
+  },
+  "/dizi/trying": {
+    "group": "Trying",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2020",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/3zsnWBpxBWpcvmFP7ueHM5sGC80.jpg"
   }
 }
