@@ -2369,7 +2369,7 @@
   "/dizi/ride-or-die": {
     "group": "Ride or Die",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.2",
@@ -2377,8 +2377,8 @@
   },
   "/dizi/the-ultimatum-marry-or-move-on": {
     "group": "The Ultimatum: Marry or Move On",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 4,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2022",
     "imdb": "5.5",
