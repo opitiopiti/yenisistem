@@ -15320,8 +15320,8 @@
   "3574": {
     "name": "TRYING (2020)",
     "last_season": 5,
-    "last_episode": 1,
-    "last_modified": 1783480009
+    "last_episode": 2,
+    "last_modified": 1784100977
   },
   "3575": {
     "name": "THIS CITY IS OURS (2025)",
@@ -37982,8 +37982,8 @@
   "7371": {
     "name": "MAXIMUM PLEASURE GUARANTEED (2026)",
     "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1783480009
+    "last_episode": 10,
+    "last_modified": 1784100977
   },
   "7372": {
     "name": "MURDER MINDFULLY (2024)",
@@ -70162,5 +70162,11 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1784064422
+  },
+  "13951": {
+    "name": "LUCKY (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1784100977
   }
 }
