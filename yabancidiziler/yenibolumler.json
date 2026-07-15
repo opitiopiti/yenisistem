@@ -2,7 +2,7 @@
   "/dizi/lucky": {
     "group": "Lucky",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -11,7 +11,7 @@
   "/dizi/maximum-pleasure-guaranteed": {
     "group": "Maximum Pleasure Guaranteed",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 10,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.0",
@@ -20,7 +20,7 @@
   "/dizi/the-dark": {
     "group": "The Dark",
     "last_season": 1,
-    "last_episode": 3,
+    "last_episode": 4,
     "start_episode": 1,
     "year": "2026",
     "imdb": "6.5",
@@ -28,8 +28,8 @@
   },
   "/dizi/trying": {
     "group": "Trying",
-    "last_season": 1,
-    "last_episode": 0,
+    "last_season": 5,
+    "last_episode": 2,
     "start_episode": 1,
     "year": "2020",
     "imdb": "8.0",
@@ -38,7 +38,7 @@
   "/dizi/x-men-97": {
     "group": "X-Men ’97",
     "last_season": 2,
-    "last_episode": 4,
+    "last_episode": 5,
     "start_episode": 1,
     "year": "2024",
     "imdb": "9.0",
