@@ -39140,8 +39140,8 @@
   "7566": {
     "name": "CHAINSMOKER CAT (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1783619259
+    "last_episode": 3,
+    "last_modified": 1784236729
   },
   "7567": {
     "name": "CHITOSE IS IN THE RAMUNE BOTTLE (2025) İNGİLİZCE",
@@ -39434,8 +39434,8 @@
   "7615": {
     "name": "KAIJU GIRL CARAMELISE (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1783633480
+    "last_episode": 3,
+    "last_modified": 1784236729
   },
   "7616": {
     "name": "KAKEGURUI TWIN (2022) İNGİLİZCE",
@@ -39842,8 +39842,8 @@
   "7683": {
     "name": "THE EXILED HEAVY KNIGHT KNOWS HOW TO GAME THE SYSTEM (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1783633480
+    "last_episode": 3,
+    "last_modified": 1784236729
   },
   "7684": {
     "name": "THE FOOD DIARY OF MISS MAID (2026) İNGİLİZCE",
@@ -70180,5 +70180,23 @@
     "last_season": 1,
     "last_episode": 10,
     "last_modified": 1784203745
+  },
+  "14080": {
+    "name": "SALCEDO, LEATHER, AND BOOGALOO (0000)",
+    "last_season": 1,
+    "last_episode": 12,
+    "last_modified": 1784236729
+  },
+  "14081": {
+    "name": "THE APARTMENT JOB (0000)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1784236729
+  },
+  "14082": {
+    "name": "THE HAWK (0000)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1784236729
   }
 }
