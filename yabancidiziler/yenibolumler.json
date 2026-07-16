@@ -61,59 +61,5 @@
     "year": "2024",
     "imdb": "9.0",
     "poster": "https://image.tmdb.org/t/p/w500/2HKBc5UiFw8JrruHq8S1Y7TnlW0.jpg"
-  },
-  "/dizi/all-american": {
-    "group": "All American",
-    "last_season": 8,
-    "last_episode": 2,
-    "start_episode": 1,
-    "year": "2018",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/c8FTtjQcQfqSI0McmVc1OOOf7Z7.jpg"
-  },
-  "/dizi/loved-one": {
-    "group": "Loved One",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "6.6",
-    "poster": "https://image.tmdb.org/t/p/w500/hLAhi5Qu4v5LeVcpnO5D5t5b67i.jpg"
-  },
-  "/dizi/ms-x": {
-    "group": "Ms. X",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "6.8",
-    "poster": "https://image.tmdb.org/t/p/w500/rrAWtZvOPNyNqaUqXCjLUC9syKL.jpg"
-  },
-  "/dizi/quarterback": {
-    "group": "Quarterback",
-    "last_season": 3,
-    "last_episode": 7,
-    "start_episode": 1,
-    "year": "2023",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/bKdElEIyuwrbdochxCXwlaUBFaR.jpg"
-  },
-  "/dizi/see-you-at-work-tomorrow": {
-    "group": "See You at Work Tomorrow!",
-    "last_season": 1,
-    "last_episode": 11,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "8.9",
-    "poster": "https://image.tmdb.org/t/p/w500/30P3ySNo0m0xNhHQMXzpmquLwxa.jpg"
-  },
-  "/dizi/the-ghost-in-the-shell": {
-    "group": "The Ghost in the Shell",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.3",
-    "poster": "https://image.tmdb.org/t/p/w500/nUXjSyXAQZhOf32e6lkLX6C6Rf3.jpg"
   }
 }
