@@ -1,4 +1,10 @@
 {
+  "/diziler/the-hawk.html": {
+    "group": "THE HAWK",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
   "/diziler/from-old-country-bumpkin-to-master-swordsman.html": {
     "group": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN",
     "year": "2025",
@@ -76,11 +82,5 @@
     "year": "2008",
     "imdb": "7.5",
     "poster": null
-  },
-  "/diziler/one-piece-izle.html": {
-    "group": "ONE PIECE",
-    "year": "1999",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
   }
 }
