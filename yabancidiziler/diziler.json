@@ -2392,5 +2392,23 @@
     "year": "2025",
     "imdb": "6.8",
     "poster": "https://image.tmdb.org/t/p/w500/ujQp5egkJOkDHx4TehlgHePFcRv.jpg"
+  },
+  "/dizi/el-mapa-de-los-anhelos": {
+    "group": "El mapa de los anhelos",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/wcgjZ7koqOYDcKUn6DmnNolqmUS.jpg"
+  },
+  "/dizi/the-east-palace": {
+    "group": "The East Palace",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg"
   }
 }

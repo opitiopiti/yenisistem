@@ -8,6 +8,24 @@
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/64gCOK6NKcXVI2amtVKk3Xx7cbC.jpg"
   },
+  "/dizi/el-mapa-de-los-anhelos": {
+    "group": "El mapa de los anhelos",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/wcgjZ7koqOYDcKUn6DmnNolqmUS.jpg"
+  },
+  "/dizi/proud": {
+    "group": "Proud",
+    "last_season": 1,
+    "last_episode": 5,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/6mFcUXwIFM21dCj6enARnx10Fx9.jpg"
+  },
   "/dizi/silo": {
     "group": "Silo",
     "last_season": 3,
@@ -25,6 +43,15 @@
     "year": "2024",
     "imdb": "8.9",
     "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
+  },
+  "/dizi/the-east-palace": {
+    "group": "The East Palace",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg"
   },
   "/dizi/chainsmoker-cat": {
     "group": "Chainsmoker Cat",
