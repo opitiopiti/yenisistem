@@ -3884,8 +3884,8 @@
   "1648": {
     "name": "THAT TIME I GOT REINCARNATED AS A SLIME (2018)",
     "last_season": 4,
-    "last_episode": 14,
-    "last_modified": 1783703378
+    "last_episode": 15,
+    "last_modified": 1784322912
   },
   "1649": {
     "name": "ALTAIR: A RECORD OF BATTLES (2017)",
@@ -39356,8 +39356,8 @@
   "7602": {
     "name": "HELL MODE: THE HARDCORE GAMER DOMINATES IN ANOTHER WORLD WITH GARBAGE BALANCING 2ND SEASON (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1783703378
+    "last_episode": 3,
+    "last_modified": 1784322912
   },
   "7603": {
     "name": "HEROINE? SAINT? NO, I’M AN ALL-WORKS MAID (AND PROUD OF IT)! (2026) İNGİLİZCE",
@@ -39764,8 +39764,8 @@
   "7670": {
     "name": "SORRY ABOUT MY LITTLE BROTHERS (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1783703378
+    "last_episode": 3,
+    "last_modified": 1784322912
   },
   "7671": {
     "name": "THAT TIME I GOT REINCARNATED AS A SLIME MOVIE 2: TEARS OF THE AZURE SEA (2026) İNGİLİZCE",
@@ -70228,5 +70228,11 @@
     "last_season": 1,
     "last_episode": 6,
     "last_modified": 1784307972
+  },
+  "14217": {
+    "name": "THE ELUSIVE SAMURAI 2ND SEASON (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1784322912
   }
 }
