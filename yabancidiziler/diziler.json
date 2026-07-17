@@ -2383,5 +2383,14 @@
     "year": "2022",
     "imdb": "5.5",
     "poster": "https://image.tmdb.org/t/p/w500/bcVoA4XgP4SDrEPG7eg6RDgLo8B.jpg"
+  },
+  "/dizi/from-old-country-bumpkin-to-master-swordsman": {
+    "group": "From Old Country Bumpkin to Master Swordsman",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2025",
+    "imdb": "6.8",
+    "poster": "https://image.tmdb.org/t/p/w500/ujQp5egkJOkDHx4TehlgHePFcRv.jpg"
   }
 }

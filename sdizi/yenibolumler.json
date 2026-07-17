@@ -1,4 +1,22 @@
 {
+  "/diziler/cape-fear.html": {
+    "group": "CAPE FEAR",
+    "year": "2025",
+    "imdb": "0.0",
+    "poster": null
+  },
+  "/diziler/silo.html": {
+    "group": "SILO",
+    "year": "2023",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/2QOuYPE6ZCqgVfhClNotQR06uVj.jpg"
+  },
+  "/diziler/sugar.html": {
+    "group": "SUGAR",
+    "year": "2024",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
+  },
   "/diziler/the-hawk.html": {
     "group": "THE HAWK",
     "year": "2026",
@@ -64,23 +82,5 @@
     "year": "2026",
     "imdb": "8.5",
     "poster": "https://image.tmdb.org/t/p/w500/78m1Tv3suHmUryTI9VNPwKLKjHZ.jpg"
-  },
-  "/diziler/rick-and-morty.html": {
-    "group": "RICK AND MORTY",
-    "year": "2013",
-    "imdb": "9.1",
-    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
-  },
-  "/diziler/supa-strikas-rookie-season.html": {
-    "group": "SUPA STRIKAS: ROOKIE SEASON",
-    "year": "2021",
-    "imdb": "9.2",
-    "poster": "https://image.tmdb.org/t/p/w500/pwTWXcWYThMrZWuDCIKxzS2YdEA.jpg"
-  },
-  "/diziler/supa-strikas.html": {
-    "group": "SUPA STRIKAS",
-    "year": "2008",
-    "imdb": "7.5",
-    "poster": null
   }
 }
