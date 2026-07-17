@@ -17032,5 +17032,17 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/yxnQQH2E1hfrW4vKOFTAOyFRlpj.jpg"
+  },
+  "/diziler/the-east-palace.html": {
+    "group": "THE EAST PALACE",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg"
+  },
+  "/diziler/the-map-of-longing.html": {
+    "group": "THE MAP OF LONGING",
+    "year": "2025",
+    "imdb": "0.0",
+    "poster": null
   }
 }

@@ -1,4 +1,22 @@
 {
+  "/diziler/the-east-palace.html": {
+    "group": "THE EAST PALACE",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg"
+  },
+  "/diziler/the-map-of-longing.html": {
+    "group": "THE MAP OF LONGING",
+    "year": "2025",
+    "imdb": "0.0",
+    "poster": null
+  },
+  "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
+    "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
+    "year": "2018",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg"
+  },
   "/diziler/cape-fear.html": {
     "group": "CAPE FEAR",
     "year": "2025",
@@ -64,23 +82,5 @@
     "year": "2006",
     "imdb": "6.6",
     "poster": "https://image.tmdb.org/t/p/w500/g1TlTdWPcofNIklBdInaJFp7NkF.jpg"
-  },
-  "/diziler/the-idol.html": {
-    "group": "THE IDOL",
-    "year": "2023",
-    "imdb": "4.4",
-    "poster": "https://image.tmdb.org/t/p/w500/gO9k7t9jSdkkWVG0deMZDpELZGw.jpg"
-  },
-  "/diziler/grand-blue.html": {
-    "group": "GRAND BLUE",
-    "year": "2018",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/ii1yrluzWisy1rygSKz8lJkAkil.jpg"
-  },
-  "/diziler/witch-hat-atelier.html": {
-    "group": "WITCH HAT ATELIER",
-    "year": "2026",
-    "imdb": "8.5",
-    "poster": "https://image.tmdb.org/t/p/w500/78m1Tv3suHmUryTI9VNPwKLKjHZ.jpg"
   }
 }
