@@ -52,32 +52,5 @@
     "year": "2026",
     "imdb": "7.2",
     "poster": "https://image.tmdb.org/t/p/w500/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg"
-  },
-  "/dizi/chainsmoker-cat": {
-    "group": "Chainsmoker Cat",
-    "last_season": 1,
-    "last_episode": 3,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.2",
-    "poster": "https://image.tmdb.org/t/p/w500/kqeKlSd7o9BCbTraZsDnksRSfxm.jpg"
-  },
-  "/dizi/criminal-minds": {
-    "group": "Criminal Minds",
-    "last_season": 19,
-    "last_episode": 9,
-    "start_episode": 1,
-    "year": "2005",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/gigxjNnACiXAfrwoMox5WJFgc0I.jpg"
-  },
-  "/dizi/from-old-country-bumpkin-to-master-swordsman": {
-    "group": "From Old Country Bumpkin to Master Swordsman",
-    "last_season": 2,
-    "last_episode": 2,
-    "start_episode": 1,
-    "year": "2025",
-    "imdb": "6.8",
-    "poster": "https://image.tmdb.org/t/p/w500/ujQp5egkJOkDHx4TehlgHePFcRv.jpg"
   }
 }
