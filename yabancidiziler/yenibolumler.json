@@ -1,4 +1,13 @@
 {
+  "/dizi/agent-kim-reactivated": {
+    "group": "Agent Kim Reactivated",
+    "last_season": 1,
+    "last_episode": 6,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": 8.5,
+    "poster": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg"
+  },
   "/dizi/cape-fear": {
     "group": "Cape Fear",
     "last_season": 1,
