@@ -7550,8 +7550,8 @@
   "2266": {
     "name": "WILL TRENT (2023)",
     "last_season": 4,
-    "last_episode": 16,
-    "last_modified": 1784399337
+    "last_episode": 18,
+    "last_modified": 1784467152
   },
   "2268": {
     "name": "JURASSIC WORLD: CHAOS THEORY (2024)",
@@ -37994,8 +37994,8 @@
   "7373": {
     "name": "MY ADVENTURES WITH SUPERMAN (2023)",
     "last_season": 3,
-    "last_episode": 5,
-    "last_modified": 1783855983
+    "last_episode": 6,
+    "last_modified": 1784467152
   },
   "7374": {
     "name": "MY BEAUTIFUL MAN (2021)",
@@ -65906,14 +65906,14 @@
   "12144": {
     "name": "IRON WOK JAN! (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1783855983
+    "last_episode": 3,
+    "last_modified": 1784467152
   },
   "12145": {
     "name": "LET'S GO KAIKIGUMI (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1783855983
+    "last_episode": 3,
+    "last_modified": 1784467152
   },
   "12146": {
     "name": "THE 100 GIRLFRIENDS WHO REALLY, REALLY, REALLY, REALLY, REALLY LOVE YOU SEASON 2 (2025) İNGİLİZCE",
@@ -65924,8 +65924,8 @@
   "12147": {
     "name": "YOU AND I ARE POLAR OPPOSITES 2ND SEASON (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1783855983
+    "last_episode": 3,
+    "last_modified": 1784467152
   },
   "12190": {
     "name": "GOODBYE, LARA (2026) İNGİLİZCE",
@@ -70246,5 +70246,11 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1784414844
+  },
+  "14348": {
+    "name": "ARZULARIN HARITASI (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1784467152
   }
 }
