@@ -2410,5 +2410,50 @@
     "year": "2026",
     "imdb": "7.2",
     "poster": "https://image.tmdb.org/t/p/w500/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg"
+  },
+  "/dizi/deep-revenge": {
+    "group": "Deep Revenge",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/et28hztErdfoNZ9zGjJ7Y8BhJiY.jpg"
+  },
+  "/dizi/the-hairdresser-mysteries": {
+    "group": "The Hairdresser Mysteries",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "5.6",
+    "poster": "https://image.tmdb.org/t/p/w500/AfL0EXKcjIW1V0TGxCuaZQNiPPP.jpg"
+  },
+  "/dizi/the-westies": {
+    "group": "The Westies",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/6nNxw6SsbEtSpktVEGdoYDqPH7C.jpg"
+  },
+  "/dizi/daemons-of-the-shadow-realm": {
+    "group": "Daemons of the Shadow Realm",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/vIE1llfr1lcmzlsV4xn8vhgtlQN.jpg"
+  },
+  "/dizi/smoking-behind-the-supermarket-with-you": {
+    "group": "Smoking Behind the Supermarket with You",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "8.3",
+    "poster": "https://image.tmdb.org/t/p/w500/n8ZvVflzDKN3vXe85F1KdC5CFf9.jpg"
   }
 }

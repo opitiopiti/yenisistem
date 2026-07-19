@@ -1,4 +1,49 @@
 {
+  "/dizi/deep-revenge": {
+    "group": "Deep Revenge",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/et28hztErdfoNZ9zGjJ7Y8BhJiY.jpg"
+  },
+  "/dizi/interview-with-the-vampire": {
+    "group": "Interview with the Vampire",
+    "last_season": 3,
+    "last_episode": 5,
+    "start_episode": 1,
+    "year": "2022",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/Afv4pPhqVMg2wOmhuDLiGUw4r4O.jpg"
+  },
+  "/dizi/my-adventures-with-superman": {
+    "group": "My Adventures with Superman",
+    "last_season": 3,
+    "last_episode": 4,
+    "start_episode": 1,
+    "year": "2023",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/tMslOS7noUUjc8BLvePk2QsV75v.jpg"
+  },
+  "/dizi/the-hairdresser-mysteries": {
+    "group": "The Hairdresser Mysteries",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "5.6",
+    "poster": "https://image.tmdb.org/t/p/w500/AfL0EXKcjIW1V0TGxCuaZQNiPPP.jpg"
+  },
+  "/dizi/the-westies": {
+    "group": "The Westies",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/6nNxw6SsbEtSpktVEGdoYDqPH7C.jpg"
+  },
   "/dizi/agent-kim-reactivated": {
     "group": "Agent Kim Reactivated",
     "last_season": 1,
@@ -8,58 +53,22 @@
     "imdb": 8.5,
     "poster": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg"
   },
-  "/dizi/cape-fear": {
-    "group": "Cape Fear",
+  "/dizi/daemons-of-the-shadow-realm": {
+    "group": "Daemons of the Shadow Realm",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 0,
     "start_episode": 1,
     "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/64gCOK6NKcXVI2amtVKk3Xx7cbC.jpg"
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/vIE1llfr1lcmzlsV4xn8vhgtlQN.jpg"
   },
-  "/dizi/el-mapa-de-los-anhelos": {
-    "group": "El mapa de los anhelos",
+  "/dizi/smoking-behind-the-supermarket-with-you": {
+    "group": "Smoking Behind the Supermarket with You",
     "last_season": 1,
-    "last_episode": 6,
+    "last_episode": 0,
     "start_episode": 1,
     "year": "2026",
-    "imdb": "7.2",
-    "poster": "https://image.tmdb.org/t/p/w500/wcgjZ7koqOYDcKUn6DmnNolqmUS.jpg"
-  },
-  "/dizi/proud": {
-    "group": "Proud",
-    "last_season": 1,
-    "last_episode": 6,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/6mFcUXwIFM21dCj6enARnx10Fx9.jpg"
-  },
-  "/dizi/silo": {
-    "group": "Silo",
-    "last_season": 3,
-    "last_episode": 3,
-    "start_episode": 1,
-    "year": "2023",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/fDMTqUcEh6qJwWZP1SHTfoaqsCy.jpg"
-  },
-  "/dizi/sugar": {
-    "group": "Sugar",
-    "last_season": 2,
-    "last_episode": 5,
-    "start_episode": 1,
-    "year": "2024",
-    "imdb": "8.9",
-    "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
-  },
-  "/dizi/the-east-palace": {
-    "group": "The East Palace",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.2",
-    "poster": "https://image.tmdb.org/t/p/w500/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg"
+    "imdb": "8.3",
+    "poster": "https://image.tmdb.org/t/p/w500/n8ZvVflzDKN3vXe85F1KdC5CFf9.jpg"
   }
 }
