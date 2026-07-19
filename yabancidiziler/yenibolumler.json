@@ -2,7 +2,7 @@
   "/dizi/deep-revenge": {
     "group": "Deep Revenge",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.2",
@@ -11,7 +11,7 @@
   "/dizi/interview-with-the-vampire": {
     "group": "Interview with the Vampire",
     "last_season": 3,
-    "last_episode": 5,
+    "last_episode": 7,
     "start_episode": 1,
     "year": "2022",
     "imdb": "7.2",
@@ -20,7 +20,7 @@
   "/dizi/my-adventures-with-superman": {
     "group": "My Adventures with Superman",
     "last_season": 3,
-    "last_episode": 4,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2023",
     "imdb": "7.7",
@@ -29,7 +29,7 @@
   "/dizi/the-hairdresser-mysteries": {
     "group": "The Hairdresser Mysteries",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 6,
     "start_episode": 1,
     "year": "2026",
     "imdb": "5.6",
@@ -38,7 +38,7 @@
   "/dizi/the-westies": {
     "group": "The Westies",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 3,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.2",
@@ -47,7 +47,7 @@
   "/dizi/agent-kim-reactivated": {
     "group": "Agent Kim Reactivated",
     "last_season": 1,
-    "last_episode": 7,
+    "last_episode": 8,
     "start_episode": 1,
     "year": "2026",
     "imdb": 8.5,
@@ -56,7 +56,7 @@
   "/dizi/daemons-of-the-shadow-realm": {
     "group": "Daemons of the Shadow Realm",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 15,
     "start_episode": 1,
     "year": "2026",
     "imdb": "7.9",
@@ -65,7 +65,7 @@
   "/dizi/smoking-behind-the-supermarket-with-you": {
     "group": "Smoking Behind the Supermarket with You",
     "last_season": 1,
-    "last_episode": 0,
+    "last_episode": 2,
     "start_episode": 1,
     "year": "2026",
     "imdb": "8.3",
