@@ -1,4 +1,10 @@
 {
+  "/diziler/my-adventures-with-superman.html": {
+    "group": "MY ADVENTURES WITH SUPERMAN",
+    "year": "2023",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/kocOUpdLnHyqfMW4jSRLxWT0QhM.jpg"
+  },
   "/diziler/the-east-palace.html": {
     "group": "THE EAST PALACE",
     "year": "2026",
@@ -76,11 +82,5 @@
     "year": "2020",
     "imdb": "8.0",
     "poster": "https://image.tmdb.org/t/p/w500/eHTDuZp8UtbSK1XehE59UJrgOXg.jpg"
-  },
-  "/diziler/the-emperors-new-school.html": {
-    "group": "THE EMPEROR'S NEW SCHOOL",
-    "year": "2006",
-    "imdb": "6.6",
-    "poster": "https://image.tmdb.org/t/p/w500/g1TlTdWPcofNIklBdInaJFp7NkF.jpg"
   }
 }
