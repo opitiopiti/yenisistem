@@ -94,9 +94,6 @@ jobs:
           
       - name: Run vavoo.py Script
         run: python private_py/vavoosistemleri/vavoo.py || true
-          
-      - name: Run vavoom3u8.py Script
-        run: python private_py/vavoosistemleri/vavoom3u8.py || true
 
       - name: Run vavooapp.py Script
         run: python private_py/vavoosistemleri/vavooapp.py || true
@@ -115,23 +112,18 @@ jobs:
 
       - name: Run dizibolfilmler.py Script
         run: python private_py/dizibol/dizibolfilmler.py || true 
-
-      - name: Run dizifilmdiziler.py Script
-        run: python private_py/dizifilm/diziler.py || true
         
       - name: Sync M3U outputs to private repo
         run: |
           git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/m3ufile.git privaate_m3u8file
 
           cp v/vavoo.m3u privaate_m3u8file/vavoo.m3u || echo "v/vavoo.m3u bulunamadı"
-          cp v/vavoo2.m3u privaate_m3u8file/vavoo2.m3u || echo "v/vavoo2.m3u bulunamadi"
           cp v/vavooapp.m3u privaate_m3u8file/vavooapp.m3u || echo "v/vavooapp.m3u bulunamadi"
           cp dizigomfilmler.m3u privaate_m3u8file/dizigomfilmler.m3u || echo "dizigomfilmler bulunamadı"
           cp dizibolyerli.m3u privaate_m3u8file/dizibolyerli.m3u || echo "dizibolyerl bulunamadi"
           cp setfilmizlefilmler.m3u privaate_m3u8file/setfilmizlefilmler.m3u || echo "setfilmizlefilmler bulunamadi"
           cp dizibolfilmler.m3u privaate_m3u8file/dizibolfilmler.m3u || echo "dizibolfilmler.m3u bulunamadi"
           cp hdfilmsite.m3u privaate_m3u8file/hdfilmsite.m3u || echo "hdfilmsite.m3u bulunamadi"
-          cp dizifilmdiziler.m3u privaate_m3u8file/dizifilmdiziler.m3u || echo "dizifilmdiziler.m3u bulunmadi"
           
           cd privaate_m3u8file
           git config user.name "GitHub Actions"
