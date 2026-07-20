@@ -1,4 +1,10 @@
 {
+  "/diziler/grand-blue.html": {
+    "group": "GRAND BLUE",
+    "year": "2018",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/ii1yrluzWisy1rygSKz8lJkAkil.jpg"
+  },
   "/diziler/uncle-from-another-world.html": {
     "group": "UNCLE FROM ANOTHER WORLD",
     "year": "2022",
@@ -82,11 +88,5 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/uWqEnvpwa2U28QheMdUdEcr4U0M.jpg"
-  },
-  "/diziler/x-men-97.html": {
-    "group": "X-MEN '97",
-    "year": "2024",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg"
   }
 }
