@@ -43,32 +43,5 @@
     "year": "2026",
     "imdb": "7.2",
     "poster": "https://image.tmdb.org/t/p/w500/6nNxw6SsbEtSpktVEGdoYDqPH7C.jpg"
-  },
-  "/dizi/agent-kim-reactivated": {
-    "group": "Agent Kim Reactivated",
-    "last_season": 1,
-    "last_episode": 8,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": 8.5,
-    "poster": "https://image.tmdb.org/t/p/w500/jruaZAm1KjkFRhgRcdF8tqakhpH.jpg"
-  },
-  "/dizi/daemons-of-the-shadow-realm": {
-    "group": "Daemons of the Shadow Realm",
-    "last_season": 1,
-    "last_episode": 15,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "7.9",
-    "poster": "https://image.tmdb.org/t/p/w500/vIE1llfr1lcmzlsV4xn8vhgtlQN.jpg"
-  },
-  "/dizi/smoking-behind-the-supermarket-with-you": {
-    "group": "Smoking Behind the Supermarket with You",
-    "last_season": 1,
-    "last_episode": 2,
-    "start_episode": 1,
-    "year": "2026",
-    "imdb": "8.3",
-    "poster": "https://image.tmdb.org/t/p/w500/n8ZvVflzDKN3vXe85F1KdC5CFf9.jpg"
   }
 }
