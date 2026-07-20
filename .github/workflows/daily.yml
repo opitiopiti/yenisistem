@@ -9,48 +9,10 @@ concurrency:
   group: xtream-system
   cancel-in-progress: false
 
-jobs:
+jobs:         
   part1:
-    name: dizibol generator
+    name: Sinewix Proxy Sistemi
     runs-on: ubuntu-latest
-    env:
-      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
-      
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-
-      - name: Clone scripts repo
-        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
-
-      - name: Install dependencies
-        run: |
-          pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml aiohttp aiofiles python-dotenv httpx
-
-      - name: Run dizibol script
-        run: python private_py/dizibol/tumdiziler.py || true
-
-      - name: Sync dizibol output
-        run: |
-          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/daily_m3u.git out_repo
-
-          cp dizibol.m3u out_repo/dizibol.m3u || true
-
-          cd out_repo
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-          git add .
-          git commit -m "Auto dizibol update" || exit 0
-          git push origin main
-          
-  part2:
-    name: Proxy Sistemi
-    runs-on: ubuntu-latest
-    needs: part1
     env:
       M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
 
@@ -87,10 +49,10 @@ jobs:
           git commit -m "Sinewix Proxy Update [auto]" || exit 0
           git push origin main
 
-  part3:
+  part2:
     name: sinewix generator
     runs-on: ubuntu-latest
-    needs: part2
+    needs: part1
     env:
       M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
       
@@ -128,10 +90,10 @@ jobs:
           git commit -m "Auto sinewix update" || exit 0
           git push origin main
 
-  part4:
+  part3:
     name: DiziFilm Proxy Sistemi
     runs-on: ubuntu-latest
-    needs: part2
+    needs: part1
     env:
       M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
 
@@ -169,10 +131,10 @@ jobs:
           git push origin main
 
 
-  part5:
+  part4:
     name: dizifilm generator
     runs-on: ubuntu-latest
-    needs: part4
+    needs: part3
     env:
       M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
       
@@ -207,4 +169,42 @@ jobs:
           git config user.email "actions@github.com"
           git add .
           git commit -m "Auto DiziFilm update" || exit 0
+          git push origin main
+
+  part5:
+    name: dizibol generator
+    runs-on: ubuntu-latest
+    needs: part2
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+      
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone scripts repo
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp aiofiles python-dotenv httpx
+
+      - name: Run dizibol script
+        run: python private_py/dizibol/tumdiziler.py || true
+
+      - name: Sync dizibol output
+        run: |
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/daily_m3u.git out_repo
+
+          cp dizibol.m3u out_repo/dizibol.m3u || true
+
+          cd out_repo
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Auto dizibol update" || exit 0
           git push origin main
