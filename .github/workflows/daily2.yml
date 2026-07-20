@@ -1,0 +1,91 @@
+name: DAILY MAKER DİZİFİLM
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 1 * * *'
+
+concurrency:
+  group: xtream-system
+  cancel-in-progress: false
+
+jobs:
+  part1:
+    name: Proxy Sistemi
+    runs-on: ubuntu-latest
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+
+    steps:
+      - name: Checkout public repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone private repo
+        run: |
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests
+          
+      - name: Run dizifilm proxy script
+        run: python private_py/dizifilm/proxyarama.py || true
+
+      - name: Commit proxy result
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+
+          git add dizifilm/pro.txt || true
+          git commit -m "DiziFilm Proxy Update [auto]" || exit 0
+          git push origin main
+
+
+  part2:
+    name: dizifilm generator
+    runs-on: ubuntu-latest
+    needs: part1
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+      
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone scripts repo
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp aiofiles python-dotenv httpx
+
+      - name: Run dizifilm scripts
+        run: |
+          python private_py/dizifilm/diziler.py || true
+          python private_py/dizifilm/filmler.py || true
+
+      - name: Sync outputs
+        run: |
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/m3ufile.git out_repo
+
+          cp *.m3u out_repo/ || true
+
+          cd out_repo
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Auto DiziFilm update" || exit 0
+          git push origin main
