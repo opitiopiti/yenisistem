@@ -1334,11 +1334,11 @@
   "/dizi/off-campus": {
     "group": "Off Campus",
     "last_season": 1,
-    "last_episode": 8,
+    "last_episode": 0,
     "start_episode": 1,
     "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/tcPc5ZMBO4y2BtCJMe3o2nwZb2B.jpg"
+    "imdb": 8.907,
+    "poster": "https://image.tmdb.org/t/p/w500/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg"
   },
   "/dizi/perfect-match": {
     "group": "Perfect Match",
