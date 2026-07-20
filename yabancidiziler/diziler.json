@@ -2455,5 +2455,23 @@
     "year": "2026",
     "imdb": "8.3",
     "poster": "https://image.tmdb.org/t/p/w500/n8ZvVflzDKN3vXe85F1KdC5CFf9.jpg"
+  },
+  "/dizi/black-torch": {
+    "group": "Black Torch",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.5",
+    "poster": "https://image.tmdb.org/t/p/w500/iWTBUy7tyJVnzSLFuV6os5G0J04.jpg"
+  },
+  "/dizi/spooky-in-love": {
+    "group": "Spooky in Love",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "8.8",
+    "poster": "https://image.tmdb.org/t/p/w500/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg"
   }
 }

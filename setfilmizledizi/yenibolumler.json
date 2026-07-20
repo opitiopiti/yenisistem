@@ -1,4 +1,28 @@
 {
+  "/dizi/severance/": {
+    "group": "Severance",
+    "year": 2022,
+    "imdb": 8.6,
+    "poster": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg"
+  },
+  "/dizi/defending-jacob/": {
+    "group": "Defending Jacob",
+    "year": 2020,
+    "imdb": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w500/JTmkzwSDRiS9nvSPwpDB9fmZj2.jpg"
+  },
+  "/dizi/house-of-the-dragon/": {
+    "group": "House of the Dragon",
+    "year": 2022,
+    "imdb": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w500/7QMsOTMUswlwxJP0rTTZfmz2tX2.jpg"
+  },
+  "/dizi/rick-and-morty/": {
+    "group": "Rick and Morty",
+    "year": 2013,
+    "imdb": 9.0,
+    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
+  },
   "/dizi/asirlik-gece/": {
     "group": "Asırlık Gece",
     "year": 2026,
@@ -46,18 +70,6 @@
     "year": 2020,
     "imdb": 8.0,
     "poster": "https://image.tmdb.org/t/p/w500/eHTDuZp8UtbSK1XehE59UJrgOXg.jpg"
-  },
-  "/dizi/rick-and-morty/": {
-    "group": "Rick and Morty",
-    "year": 2013,
-    "imdb": 9.0,
-    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
-  },
-  "/dizi/house-of-the-dragon/": {
-    "group": "House of the Dragon",
-    "year": 2022,
-    "imdb": 8.3,
-    "poster": "https://image.tmdb.org/t/p/w500/7QMsOTMUswlwxJP0rTTZfmz2tX2.jpg"
   },
   "/dizi/star-city/": {
     "group": "Star City",

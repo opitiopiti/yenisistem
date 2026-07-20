@@ -1,4 +1,22 @@
 {
+  "/dizi/rick-and-morty": {
+    "group": "Rick and Morty",
+    "last_season": 9,
+    "last_episode": 8,
+    "start_episode": 1,
+    "year": "2013",
+    "imdb": "9.1",
+    "poster": "https://image.tmdb.org/t/p/w500/owhkU6KRqdXoUQpjV8uyZGPtX58.jpg"
+  },
+  "/dizi/black-torch": {
+    "group": "Black Torch",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "7.5",
+    "poster": "https://image.tmdb.org/t/p/w500/iWTBUy7tyJVnzSLFuV6os5G0J04.jpg"
+  },
   "/dizi/deep-revenge": {
     "group": "Deep Revenge",
     "last_season": 1,
@@ -25,6 +43,33 @@
     "year": "2023",
     "imdb": "7.7",
     "poster": "https://image.tmdb.org/t/p/w500/tMslOS7noUUjc8BLvePk2QsV75v.jpg"
+  },
+  "/dizi/sparks-of-tomorrow": {
+    "group": "Sparks of Tomorrow",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "8.9",
+    "poster": "https://image.tmdb.org/t/p/w500/yDTcX4l5D3OFeYGsQVI5Jqxx1D7.jpg"
+  },
+  "/dizi/spooky-in-love": {
+    "group": "Spooky in Love",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "8.8",
+    "poster": "https://image.tmdb.org/t/p/w500/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg"
+  },
+  "/dizi/the-apartment-job": {
+    "group": "The Apartment Job",
+    "last_season": 1,
+    "last_episode": 2,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": "8.3",
+    "poster": "https://image.tmdb.org/t/p/w500/qFxbrHvNq5tn9SCBq3aKPgaGfyO.jpg"
   },
   "/dizi/the-hairdresser-mysteries": {
     "group": "The Hairdresser Mysteries",
