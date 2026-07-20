@@ -36,7 +36,7 @@ jobs:
 
       - name: Sync dizibol output
         run: |
-          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/sinewix.git out_repo
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/daily_m3u.git out_repo
 
           cp dizibol.m3u out_repo/dizibol.m3u || true
 
@@ -50,6 +50,7 @@ jobs:
   part2:
     name: Proxy Sistemi
     runs-on: ubuntu-latest
+    needs: part1
     env:
       M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
 
@@ -116,7 +117,7 @@ jobs:
 
       - name: Sync outputs
         run: |
-          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/sinewix.git out_repo
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/daily_m3u.git out_repo
 
           cp *.m3u out_repo/ || true
 
@@ -197,11 +198,11 @@ jobs:
 
       - name: Sync outputs
         run: |
-          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/m3ufile.git out_repo
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/m3ufile.git dizifilm_repo
 
-          cp *.m3u out_repo/ || true
+          cp *.m3u dizifilm_repo/ || true
 
-          cd out_repo
+          cd dizifilm_repo
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add .
