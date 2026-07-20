@@ -2473,5 +2473,14 @@
     "year": "2026",
     "imdb": "8.8",
     "poster": "https://image.tmdb.org/t/p/w500/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg"
+  },
+  "https://www.dizizon.com": {
+    "group": "Off Campus",
+    "last_season": 1,
+    "last_episode": 0,
+    "start_episode": 1,
+    "year": "2026",
+    "imdb": 8.907,
+    "poster": "https://image.tmdb.org/t/p/w500/cbODFqkcmRgrYH8NkG4Q4Hcg8Z1.jpg"
   }
 }
