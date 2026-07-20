@@ -1,4 +1,4 @@
-name: DAILY MAKER DİZİFİLM
+name: DAILY - DİZİFİLM
 
 on:
   workflow_dispatch:
