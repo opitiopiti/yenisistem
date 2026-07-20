@@ -129,7 +129,7 @@ jobs:
           git push origin main
 
   part4:
-    name: Proxy Sistemi
+    name: DiziFilm Proxy Sistemi
     runs-on: ubuntu-latest
     needs: part2
     env:
@@ -154,7 +154,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install requests
+          pip install requests beautifulsoup4 lxml aiohttp aiofiles
           
       - name: Run dizifilm proxy script
         run: python private_py/dizifilm/proxyarama.py || true
