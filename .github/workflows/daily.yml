@@ -170,7 +170,46 @@ jobs:
           git add .
           git commit -m "Auto DiziFilm update" || exit 0
           git push origin main
+          
+  part6:
+    name: hdizipal generator
+    runs-on: ubuntu-latest
+    needs: part4
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+      
+    steps:
+      - uses: actions/checkout@v4
 
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone scripts repo
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp aiofiles python-dotenv httpx
+
+      - name: Run dizifilm scripts
+        run: |
+          python private_py/dizimor/hdizipal.py || true
+
+      - name: Sync outputs
+        run: |
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/m3ufile.git hdizipal_repo
+
+          cp *.m3u hdizipal_repo/ || true
+
+          cd hdizipal_repo
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Auto HDizipal update" || exit 0
+          git push origin main
+          
   part5:
     name: dizibol generator
     runs-on: ubuntu-latest
