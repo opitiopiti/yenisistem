@@ -1,4 +1,16 @@
 {
+  "/dizi/presumed-innocent/": {
+    "group": "Presumed Innocent",
+    "year": 2024,
+    "imdb": 7.7,
+    "poster": "https://image.tmdb.org/t/p/w500/7MXg0BxuSRWz2yKc03M40du2mrc.jpg"
+  },
+  "/dizi/bad-monkey/": {
+    "group": "Bad Monkey",
+    "year": 2024,
+    "imdb": 7.3,
+    "poster": "https://image.tmdb.org/t/p/w500/lUGG3lxIF3f2N796t4aHmxDhLK5.jpg"
+  },
   "/dizi/severance/": {
     "group": "Severance",
     "year": 2022,

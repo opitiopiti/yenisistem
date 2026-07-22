@@ -11074,5 +11074,17 @@
     "year": 2026,
     "imdb": 5.0,
     "poster": "https://image.tmdb.org/t/p/w500/yEkp5AJHUn8l75hQXeGhZ183XSR.jpg"
+  },
+  "/dizi/stick-2025-izle/": {
+    "group": "Stick",
+    "year": 2025,
+    "imdb": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w500/y8EWrf5Ry1WmYksWT7MOPWexvr5.jpg"
+  },
+  "/dizi/bad-monkey-2024-izle/": {
+    "group": "Bad Monkey",
+    "year": 2024,
+    "imdb": 7.3,
+    "poster": "https://image.tmdb.org/t/p/w500/lUGG3lxIF3f2N796t4aHmxDhLK5.jpg"
   }
 }
