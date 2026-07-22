@@ -35947,9 +35947,9 @@
   },
   "7031": {
     "name": "A SHOP FOR KILLERS (2024)",
-    "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1783174642
+    "last_season": 2,
+    "last_episode": 2,
+    "last_modified": 1784738901
   },
   "7032": {
     "name": "LOVE VICTOR (2020)",
@@ -39332,8 +39332,8 @@
   "7598": {
     "name": "HANA-KIMI SEASON 2 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1784134135
+    "last_episode": 5,
+    "last_modified": 1784738901
   },
   "7599": {
     "name": "HANAMONOGATARI (2014) İNGİLİZCE",
@@ -39362,8 +39362,8 @@
   "7603": {
     "name": "HEROINE? SAINT? NO, I’M AN ALL-WORKS MAID (AND PROUD OF IT)! (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1784134135
+    "last_episode": 5,
+    "last_modified": 1784738901
   },
   "7604": {
     "name": "HIGH SCHOOL DXD NEW (2013) İNGİLİZCE",
@@ -39896,8 +39896,8 @@
   "7692": {
     "name": "THE VILLAGER OF LV999 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1784134135
+    "last_episode": 5,
+    "last_modified": 1784738901
   },
   "7693": {
     "name": "THE VILLAINESS IS ADORED BY THE PRINCE OF THE NEIGHBOR KINGDOM (2026) İNGİLİZCE",
@@ -49136,8 +49136,8 @@
   "9233": {
     "name": "YARIN İŞTE GÖRÜŞÜRÜZ! (2026)",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1784477870
+    "last_episode": 10,
+    "last_modified": 1784738901
   },
   "9234": {
     "name": "PROXY KONTROL (2099) İNGİLİZCE",
@@ -66122,8 +66122,8 @@
   "12637": {
     "name": "CLEVATESS SEASON 2 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1784134135
+    "last_episode": 3,
+    "last_modified": 1784738901
   },
   "12638": {
     "name": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN SEASON 2 (2026) İNGİLİZCE",
@@ -66140,14 +66140,14 @@
   "12640": {
     "name": "SAGA OF TANYA THE EVIL II (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1784134135
+    "last_episode": 3,
+    "last_modified": 1784738901
   },
   "12641": {
     "name": "TRAPPED IN A DATING SIM: THE WORLD OF OTOME GAMES IS TOUGH FOR MOBS 2ND SEASON (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1784134135
+    "last_episode": 3,
+    "last_modified": 1784738901
   },
   "12684": {
     "name": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN (2025)",
@@ -71524,5 +71524,23 @@
     "last_season": 1,
     "last_episode": 11,
     "last_modified": 1784652747
+  },
+  "14730": {
+    "name": "ELITE FORCE (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1784738901
+  },
+  "14731": {
+    "name": "MY DAUGHTER’S FATHER (2026)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1784738901
+  },
+  "14733": {
+    "name": "MY DAUGHTERS FATHER (2026)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1784738901
   }
 }
