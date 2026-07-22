@@ -13,8 +13,6 @@
     "priority": 9, "enabled": true },
   "dizimor": { 
     "priority": 10, "enabled": true },
-  "dizibol": { 
-    "priority": 11, "enabled": true },
   "cortinaeaccoladed": { 
     "priority": 12, "enabled": true },
   "sibnet": {
@@ -31,7 +29,8 @@
     "priority": 18, "enabled": true },
 
 
-  
+  "dizibol": { 
+    "priority": 11, "enabled": false },  
   "diziyo": { 
     "priority": 4, "enabled": false },
   "dizigom": { 
