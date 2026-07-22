@@ -1,4 +1,10 @@
 {
+  "/diziler/x-men-97.html": {
+    "group": "X-MEN '97",
+    "year": "2024",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg"
+  },
   "/diziler/lucky.html": {
     "group": "LUCKY",
     "year": "2026",
@@ -82,11 +88,5 @@
     "year": "2023",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/2QOuYPE6ZCqgVfhClNotQR06uVj.jpg"
-  },
-  "/diziler/sugar.html": {
-    "group": "SUGAR",
-    "year": "2024",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
   }
 }
