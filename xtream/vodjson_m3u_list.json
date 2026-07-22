@@ -9,7 +9,7 @@
   },
   {
     "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/dizibolfilmler.m3u",
-    "enabled": true
+    "enabled": false
   },
   {
     "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/setfilmizlefilmler.m3u",
