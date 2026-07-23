@@ -1,4 +1,10 @@
 {
+  "/diziler/elite-force.html": {
+    "group": "ELITE FORCE",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
   "/diziler/from-old-country-bumpkin-to-master-swordsman.html": {
     "group": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN",
     "year": "2025",
@@ -82,11 +88,5 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/wcgjZ7koqOYDcKUn6DmnNolqmUS.jpg"
-  },
-  "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
-    "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
-    "year": "2018",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg"
   }
 }
