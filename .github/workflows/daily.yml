@@ -193,7 +193,7 @@ jobs:
           pip install --upgrade pip
           pip install requests beautifulsoup4 lxml aiohttp aiofiles python-dotenv httpx
 
-      - name: Run dizifilm scripts
+      - name: Run hdizipal scripts
         run: |
           python private_py/dizimor/hdizipal.py || true
 
