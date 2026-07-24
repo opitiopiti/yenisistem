@@ -1,4 +1,10 @@
 {
+  "/diziler/ransom-canyon.html": {
+    "group": "RANSOM CANYON",
+    "year": "2025",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/vp6A0mthGwZmnowmLxqNPF0lVRN.jpg"
+  },
   "/diziler/elite-force.html": {
     "group": "ELITE FORCE",
     "year": "2026",
@@ -82,11 +88,5 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg"
-  },
-  "/diziler/the-map-of-longing.html": {
-    "group": "THE MAP OF LONGING",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/wcgjZ7koqOYDcKUn6DmnNolqmUS.jpg"
   }
 }
