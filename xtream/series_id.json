@@ -5984,8 +5984,8 @@
   "2001": {
     "name": "SILO (2023)",
     "last_season": 3,
-    "last_episode": 3,
-    "last_modified": 1784273991
+    "last_episode": 4,
+    "last_modified": 1784894776
   },
   "2002": {
     "name": "ANG MUTYA NG SECTION E (2025)",
@@ -6776,8 +6776,8 @@
   "2137": {
     "name": "PROUD (2026)",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1784307972
+    "last_episode": 7,
+    "last_modified": 1784894776
   },
   "2138": {
     "name": "NARCOS (2015)",
@@ -71578,5 +71578,11 @@
     "last_season": 1,
     "last_episode": 11,
     "last_modified": 1784825554
+  },
+  "14855": {
+    "name": "ASSASSINATION CLASSROOM THE MOVIE: OUR TIME (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1784894776
   }
 }
