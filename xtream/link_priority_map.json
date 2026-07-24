@@ -23,10 +23,12 @@
     "priority": 15, "enabled": true },
   "imagestoo": { 
     "priority": 16, "enabled": true },
-  "vidmixi": { 
+  "videopark": { 
     "priority": 17, "enabled": true },
-  "dosyaload": { 
+  "vidmixi": { 
     "priority": 18, "enabled": true },
+  "dosyaload": { 
+    "priority": 19, "enabled": true },
 
 
   "dizibol": { 
