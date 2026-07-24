@@ -16838,7 +16838,7 @@
   "/diziler/cape-fear.html": {
     "group": "CAPE FEAR",
     "year": "2025",
-    "imdb": "0.0",
+    "imdb": "6.8",
     "poster": null
   },
   "/diziler/teach-you-a-lesson.html": {
@@ -17056,5 +17056,11 @@
     "year": "2026",
     "imdb": "6.2",
     "poster": "https://image.tmdb.org/t/p/w500/ymjYmuHG4Af93fcoF0NKwx9Rovb.jpg"
+  },
+  "/diziler/the-finder.html": {
+    "group": "THE FINDER",
+    "year": "2012",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/1ssqed8krPnhVJCxGtw6Z3KrINw.jpg"
   }
 }

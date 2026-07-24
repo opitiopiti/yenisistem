@@ -1,4 +1,28 @@
 {
+  "/diziler/sugar.html": {
+    "group": "SUGAR",
+    "year": "2024",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
+  },
+  "/diziler/cape-fear.html": {
+    "group": "CAPE FEAR",
+    "year": "2025",
+    "imdb": "6.8",
+    "poster": null
+  },
+  "/diziler/silo.html": {
+    "group": "SILO",
+    "year": "2023",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/2QOuYPE6ZCqgVfhClNotQR06uVj.jpg"
+  },
+  "/diziler/the-finder.html": {
+    "group": "THE FINDER",
+    "year": "2012",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/1ssqed8krPnhVJCxGtw6Z3KrINw.jpg"
+  },
   "/diziler/ransom-canyon.html": {
     "group": "RANSOM CANYON",
     "year": "2025",
@@ -64,29 +88,5 @@
     "year": "2013",
     "imdb": "9.1",
     "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
-  },
-  "/diziler/one-piece-izle.html": {
-    "group": "ONE PIECE",
-    "year": "1999",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
-  },
-  "/diziler/mushoku-tensei-jobless-reincarnation.html": {
-    "group": "MUSHOKU TENSEI: JOBLESS REINCARNATION",
-    "year": "2021",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg"
-  },
-  "/diziler/my-adventures-with-superman.html": {
-    "group": "MY ADVENTURES WITH SUPERMAN",
-    "year": "2023",
-    "imdb": "7.7",
-    "poster": "https://image.tmdb.org/t/p/w500/kocOUpdLnHyqfMW4jSRLxWT0QhM.jpg"
-  },
-  "/diziler/the-east-palace.html": {
-    "group": "THE EAST PALACE",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/yfYohBszGqoAW8oM0qydOtJ4kPh.jpg"
   }
 }
