@@ -72,10 +72,6 @@
     "enabled": true
   },
   {
-    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/maneul_guncellenen_m3u/jetfilmizle_yerlifilmler.m3u",
-    "enabled": true
-  },
-  {
     "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/sabitm3u/denemeseries.m3u",
     "enabled": true
   }
