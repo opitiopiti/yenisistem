@@ -1,4 +1,28 @@
 {
+  "/dizi/silo/": {
+    "group": "Silo",
+    "year": 2023,
+    "imdb": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w500/fDMTqUcEh6qJwWZP1SHTfoaqsCy.jpg"
+  },
+  "/dizi/sugar/": {
+    "group": "Sugar",
+    "year": 2024,
+    "imdb": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
+  },
+  "/dizi/cape-fear/": {
+    "group": "Cape Fear",
+    "year": 2026,
+    "imdb": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w500/64gCOK6NKcXVI2amtVKk3Xx7cbC.jpg"
+  },
+  "/dizi/ransom-canyon/": {
+    "group": "Ransom Canyon",
+    "year": 2025,
+    "imdb": 6.8,
+    "poster": "https://image.tmdb.org/t/p/w500/vp6A0mthGwZmnowmLxqNPF0lVRN.jpg"
+  },
   "/dizi/i-will-find-you/": {
     "group": "I Will Find You",
     "year": 2026,
@@ -71,24 +95,6 @@
     "imdb": 5.0,
     "poster": "https://image.tmdb.org/t/p/w500/yEkp5AJHUn8l75hQXeGhZ183XSR.jpg"
   },
-  "/dizi/silo/": {
-    "group": "Silo",
-    "year": 2023,
-    "imdb": 8.1,
-    "poster": "https://image.tmdb.org/t/p/w500/fDMTqUcEh6qJwWZP1SHTfoaqsCy.jpg"
-  },
-  "/dizi/sugar/": {
-    "group": "Sugar",
-    "year": 2024,
-    "imdb": 7.4,
-    "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
-  },
-  "/dizi/cape-fear/": {
-    "group": "Cape Fear",
-    "year": 2026,
-    "imdb": 7.5,
-    "poster": "https://image.tmdb.org/t/p/w500/64gCOK6NKcXVI2amtVKk3Xx7cbC.jpg"
-  },
   "/dizi/black-bird/": {
     "group": "Black Bird",
     "year": 2022,
@@ -118,11 +124,5 @@
     "year": 2025,
     "imdb": 6.3,
     "poster": "https://image.tmdb.org/t/p/w500/sQIujEmJh0HZY2xg1Yl2fPyWM2e.jpg"
-  },
-  "/dizi/elle/": {
-    "group": "Elle",
-    "year": 2026,
-    "imdb": 6.2,
-    "poster": "https://image.tmdb.org/t/p/w500/mrHrUOCk2FigPX3j8Q2FiY4liRa.jpg"
   }
 }
