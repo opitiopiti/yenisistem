@@ -4867,9 +4867,9 @@
   },
   "1812": {
     "name": "BREAKING BAD (2008)",
-    "last_season": 5,
-    "last_episode": 16,
-    "last_modified": 1783174642
+    "last_season": 6,
+    "last_episode": 1,
+    "last_modified": 1784979216
   },
   "1813": {
     "name": "원더풀스 (2026)",
@@ -39038,8 +39038,8 @@
   "7549": {
     "name": "ASCENDANCE OF A BOOKWORM SEASON 4 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 14,
-    "last_modified": 1784373865
+    "last_episode": 15,
+    "last_modified": 1784979216
   },
   "7550": {
     "name": "A HUNDRED SCENES OF AWAJIMA (2026) İNGİLİZCE",
@@ -39962,8 +39962,8 @@
   "7703": {
     "name": "WELCOME TO DEMON SCHOOL, IRUMA-KUN 4 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 16,
-    "last_modified": 1784373865
+    "last_episode": 17,
+    "last_modified": 1784979216
   },
   "7704": {
     "name": "WHEN THEY CRY: HIGURASHI (2006) İNGİLİZCE",
@@ -49262,8 +49262,8 @@
   "9254": {
     "name": "PRAY SPEAK WHAT HAS HAPPENED (2025)",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1783174642
+    "last_episode": 5,
+    "last_modified": 1784979216
   },
   "9255": {
     "name": "ALTIN VE HIRS: FENN'IN HAZINESININ PEŞINDE (2025)",
@@ -53288,8 +53288,8 @@
   "9931": {
     "name": "ALL’S FAIR (2025)",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1783174642
+    "last_episode": 9,
+    "last_modified": 1784979216
   },
   "9932": {
     "name": "ALMOST HAPPY (2020)",
@@ -70082,8 +70082,8 @@
   "13627": {
     "name": "KÖSTEBEKGILLER: GÜNEŞ GÜNLÜĞÜ (2026) TR",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1783769221
+    "last_episode": 10,
+    "last_modified": 1784979216
   },
   "13671": {
     "name": "HANAORI-SAN STILL WANTS TO FIGHT IN THE NEXT LIFE (2026) İNGİLİZCE",
@@ -71626,5 +71626,17 @@
     "last_season": 8,
     "last_episode": 16,
     "last_modified": 1784965070
+  },
+  "14903": {
+    "name": "HZ. ÖMER (2012)",
+    "last_season": 1,
+    "last_episode": 31,
+    "last_modified": 1784979216
+  },
+  "14904": {
+    "name": "MARVEL’S IRON FIST (2017)",
+    "last_season": 2,
+    "last_episode": 10,
+    "last_modified": 1784979216
   }
 }
