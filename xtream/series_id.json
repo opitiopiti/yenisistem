@@ -7201,9 +7201,9 @@
   },
   "2208": {
     "name": "STAR TREK: STRANGE NEW WORLDS (2022)",
-    "last_season": 3,
-    "last_episode": 10,
-    "last_modified": 1783174642
+    "last_season": 4,
+    "last_episode": 1,
+    "last_modified": 1785052700
   },
   "2209": {
     "name": "MERLIN (2008)",
@@ -39194,8 +39194,8 @@
   "7575": {
     "name": "DIGIMON BEATBREAK (2025) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 39,
-    "last_modified": 1784448823
+    "last_episode": 40,
+    "last_modified": 1785052700
   },
   "7576": {
     "name": "DOROHEDORO 2 (2026) İNGİLİZCE",
@@ -70142,8 +70142,8 @@
   "13817": {
     "name": "KIM-BU-JANG (2026)",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1783911721
+    "last_episode": 9,
+    "last_modified": 1785052700
   },
   "13860": {
     "name": "THE WESTIES (2026)",
@@ -70202,8 +70202,8 @@
   "14083": {
     "name": "X-MEN '97 XMEN 97 X MEN 97 X MAN 97 XMAN 97 (2024)",
     "last_season": 2,
-    "last_episode": 5,
-    "last_modified": 1784273991
+    "last_episode": 6,
+    "last_modified": 1785052700
   },
   "14128": {
     "name": "ASIRLIK GECE (2026) TR",
@@ -71644,5 +71644,17 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1784996758
+  },
+  "14915": {
+    "name": "TWO YEARS LATER (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1785052700
+  },
+  "14916": {
+    "name": "KÔKAKU KIDÔTAI (2026)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1785052700
   }
 }
