@@ -1,4 +1,10 @@
 {
+  "/diziler/my-adventures-with-superman.html": {
+    "group": "MY ADVENTURES WITH SUPERMAN",
+    "year": "2023",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/kocOUpdLnHyqfMW4jSRLxWT0QhM.jpg"
+  },
   "/diziler/bleach-thousand-year-blood-war.html": {
     "group": "BLEACH: THOUSAND-YEAR BLOOD WAR",
     "year": "2022",
@@ -82,11 +88,5 @@
     "year": "2025",
     "imdb": "6.3",
     "poster": "https://image.tmdb.org/t/p/w500/mjJMOLr966Q78YUPu0pVA0ydBIP.jpg"
-  },
-  "/diziler/grand-blue.html": {
-    "group": "GRAND BLUE",
-    "year": "2018",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/ii1yrluzWisy1rygSKz8lJkAkil.jpg"
   }
 }
