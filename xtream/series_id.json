@@ -4754,8 +4754,8 @@
   "1793": {
     "name": "RICK AND MORTY (2013)",
     "last_season": 9,
-    "last_episode": 9,
-    "last_modified": 1784551523
+    "last_episode": 10,
+    "last_modified": 1785142878
   },
   "1794": {
     "name": "BOJACK HORSEMAN (2014)",
@@ -70142,8 +70142,8 @@
   "13817": {
     "name": "KIM-BU-JANG (2026)",
     "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1785052700
+    "last_episode": 10,
+    "last_modified": 1785142878
   },
   "13860": {
     "name": "THE WESTIES (2026)",
@@ -70190,8 +70190,8 @@
   "14081": {
     "name": "THE APARTMENT JOB (0000)",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1784236729
+    "last_episode": 6,
+    "last_modified": 1785142878
   },
   "14082": {
     "name": "THE HAWK (0000)",
@@ -71668,5 +71668,17 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1785122497
+  },
+  "14932": {
+    "name": "SEE YOU AT WORK TOMORROW! (0000)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1785142878
+  },
+  "14935": {
+    "name": "ÖZEL HAREKÂT TIMI (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1785142878
   }
 }
