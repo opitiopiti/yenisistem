@@ -1,4 +1,10 @@
 {
+  "/diziler/rick-and-morty.html": {
+    "group": "RICK AND MORTY",
+    "year": "2013",
+    "imdb": "9.1",
+    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
+  },
   "/diziler/one-piece-izle.html": {
     "group": "ONE PIECE",
     "year": "1999",
@@ -82,11 +88,5 @@
     "year": "2024",
     "imdb": "9.0",
     "poster": "https://image.tmdb.org/t/p/w500/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg"
-  },
-  "/diziler/lucky.html": {
-    "group": "LUCKY",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg"
   }
 }
