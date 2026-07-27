@@ -1,4 +1,16 @@
 {
+  "/diziler/grand-blue.html": {
+    "group": "GRAND BLUE",
+    "year": "2018",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/ii1yrluzWisy1rygSKz8lJkAkil.jpg"
+  },
+  "/diziler/furious.html": {
+    "group": "FURIOUS",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/qcTNUGkxpaFycXkItD3Jpn0Mcox.jpg"
+  },
   "/diziler/rick-and-morty.html": {
     "group": "RICK AND MORTY",
     "year": "2013",
@@ -76,17 +88,5 @@
     "year": "2025",
     "imdb": "6.7",
     "poster": "https://image.tmdb.org/t/p/w500/ujQp5egkJOkDHx4TehlgHePFcRv.jpg"
-  },
-  "/diziler/a-shop-for-killers.html": {
-    "group": "A SHOP FOR KILLERS",
-    "year": "2024",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg"
-  },
-  "/diziler/x-men-97.html": {
-    "group": "X-MEN '97",
-    "year": "2024",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg"
   }
 }
