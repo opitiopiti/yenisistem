@@ -38827,9 +38827,9 @@
   },
   "7514": {
     "name": "THE AGENCY: CENTRAL INTELLIGENCE (2024)",
-    "last_season": 1,
+    "last_season": 2,
     "last_episode": 10,
-    "last_modified": 1783174642
+    "last_modified": 1785158708
   },
   "7515": {
     "name": "ATRAPADOS (2025)",
@@ -48991,9 +48991,9 @@
   },
   "9209": {
     "name": "THE WALKING DEAD: DEAD CITY (2023)",
-    "last_season": 2,
-    "last_episode": 8,
-    "last_modified": 1783174642
+    "last_season": 3,
+    "last_episode": 1,
+    "last_modified": 1785158708
   },
   "9210": {
     "name": "THE WALKING DEAD: ORIGINS (2021)",
@@ -66014,8 +66014,8 @@
   "12362": {
     "name": "LOVE UNSEEN BENEATH THE CLEAR NIGHT SKY (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1784566345
+    "last_episode": 4,
+    "last_modified": 1785158708
   },
   "12363": {
     "name": "THE INSIPID PRINCE'S FURTIVE GRAB FOR THE THRONE (2026) İNGİLİZCE",
@@ -71680,5 +71680,17 @@
     "last_season": 1,
     "last_episode": 6,
     "last_modified": 1785142878
+  },
+  "14940": {
+    "name": "PRESIDENT CURTIS (2026)",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1785158708
+  },
+  "14942": {
+    "name": "FURIOUS (2026)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1785158708
   }
 }
