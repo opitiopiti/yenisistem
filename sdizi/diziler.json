@@ -434,7 +434,7 @@
   "/diziler/bat-fam.html": {
     "group": "BAT-FAM",
     "year": "2024",
-    "imdb": "0.0",
+    "imdb": "6.1",
     "poster": null
   },
   "/diziler/as-you-stood-by.html": {
@@ -17068,5 +17068,11 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/qcTNUGkxpaFycXkItD3Jpn0Mcox.jpg"
+  },
+  "/diziler/ponies.html": {
+    "group": "PONIES",
+    "year": "2026",
+    "imdb": "6.4",
+    "poster": "https://image.tmdb.org/t/p/w500/5SFjDV42IMWpZDAcu3fT9LUpFHY.jpg"
   }
 }
