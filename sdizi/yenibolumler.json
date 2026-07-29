@@ -1,4 +1,10 @@
 {
+  "/diziler/from-old-country-bumpkin-to-master-swordsman.html": {
+    "group": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN",
+    "year": "2025",
+    "imdb": "6.7",
+    "poster": "https://image.tmdb.org/t/p/w500/ujQp5egkJOkDHx4TehlgHePFcRv.jpg"
+  },
   "/diziler/a-shop-for-killers.html": {
     "group": "A SHOP FOR KILLERS",
     "year": "2024",
@@ -82,11 +88,5 @@
     "year": "2024",
     "imdb": "7.8",
     "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
-  },
-  "/diziler/cape-fear.html": {
-    "group": "CAPE FEAR",
-    "year": "2025",
-    "imdb": "6.8",
-    "poster": null
   }
 }
