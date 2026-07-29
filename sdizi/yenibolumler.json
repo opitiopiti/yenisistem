@@ -1,4 +1,22 @@
 {
+  "/diziler/x-men-97.html": {
+    "group": "X-MEN '97",
+    "year": "2024",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg"
+  },
+  "/diziler/lucky.html": {
+    "group": "LUCKY",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg"
+  },
+  "/diziler/trying.html": {
+    "group": "TRYING",
+    "year": "2020",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/eHTDuZp8UtbSK1XehE59UJrgOXg.jpg"
+  },
   "/diziler/ponies.html": {
     "group": "PONIES",
     "year": "2026",
@@ -70,23 +88,5 @@
     "year": "2023",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/2QOuYPE6ZCqgVfhClNotQR06uVj.jpg"
-  },
-  "/diziler/the-finder.html": {
-    "group": "THE FINDER",
-    "year": "2012",
-    "imdb": "7.7",
-    "poster": "https://image.tmdb.org/t/p/w500/1ssqed8krPnhVJCxGtw6Z3KrINw.jpg"
-  },
-  "/diziler/ransom-canyon.html": {
-    "group": "RANSOM CANYON",
-    "year": "2025",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/vp6A0mthGwZmnowmLxqNPF0lVRN.jpg"
-  },
-  "/diziler/elite-force.html": {
-    "group": "ELITE FORCE",
-    "year": "2026",
-    "imdb": "6.2",
-    "poster": "https://image.tmdb.org/t/p/w500/ymjYmuHG4Af93fcoF0NKwx9Rovb.jpg"
   }
 }
