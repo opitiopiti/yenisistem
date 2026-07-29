@@ -35948,8 +35948,8 @@
   "7031": {
     "name": "A SHOP FOR KILLERS (2024)",
     "last_season": 2,
-    "last_episode": 2,
-    "last_modified": 1784738901
+    "last_episode": 4,
+    "last_modified": 1785344161
   },
   "7032": {
     "name": "LOVE VICTOR (2020)",
@@ -38150,8 +38150,8 @@
   "7401": {
     "name": "X-MEN ’97 (2024)",
     "last_season": 2,
-    "last_episode": 6,
-    "last_modified": 1784756279
+    "last_episode": 7,
+    "last_modified": 1785344161
   },
   "7402": {
     "name": "AMADEUS (2025)",
@@ -39332,8 +39332,8 @@
   "7598": {
     "name": "HANA-KIMI SEASON 2 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1784738901
+    "last_episode": 6,
+    "last_modified": 1785344161
   },
   "7599": {
     "name": "HANAMONOGATARI (2014) İNGİLİZCE",
@@ -39362,8 +39362,8 @@
   "7603": {
     "name": "HEROINE? SAINT? NO, I’M AN ALL-WORKS MAID (AND PROUD OF IT)! (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1784738901
+    "last_episode": 6,
+    "last_modified": 1785344161
   },
   "7604": {
     "name": "HIGH SCHOOL DXD NEW (2013) İNGİLİZCE",
@@ -39896,8 +39896,8 @@
   "7692": {
     "name": "THE VILLAGER OF LV999 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1784738901
+    "last_episode": 6,
+    "last_modified": 1785344161
   },
   "7693": {
     "name": "THE VILLAINESS IS ADORED BY THE PRINCE OF THE NEIGHBOR KINGDOM (2026) İNGİLİZCE",
@@ -41252,8 +41252,8 @@
   "7919": {
     "name": "BETTER LATE THAN SINGLE (2025)",
     "last_season": 2,
-    "last_episode": 8,
-    "last_modified": 1784825554
+    "last_episode": 10,
+    "last_modified": 1785344161
   },
   "7920": {
     "name": "BETTER (2023)",
@@ -66122,32 +66122,32 @@
   "12637": {
     "name": "CLEVATESS SEASON 2 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1784738901
+    "last_episode": 4,
+    "last_modified": 1785344161
   },
   "12638": {
     "name": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN SEASON 2 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1784756279
+    "last_episode": 4,
+    "last_modified": 1785344161
   },
   "12639": {
     "name": "MY STEPMOTHER AND STEPSISTERS AREN’T WICKED (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1784756279
+    "last_episode": 4,
+    "last_modified": 1785344161
   },
   "12640": {
     "name": "SAGA OF TANYA THE EVIL II (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1784738901
+    "last_episode": 4,
+    "last_modified": 1785344161
   },
   "12641": {
     "name": "TRAPPED IN A DATING SIM: THE WORLD OF OTOME GAMES IS TOUGH FOR MOBS 2ND SEASON (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1784738901
+    "last_episode": 4,
+    "last_modified": 1785344161
   },
   "12684": {
     "name": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN (2025)",
@@ -71486,8 +71486,8 @@
   "14678": {
     "name": "DREAM TO YOU (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1785188366
+    "last_episode": 6,
+    "last_modified": 1785344161
   },
   "14682": {
     "name": "SÜPER SUBBU (2026)",
@@ -71576,8 +71576,8 @@
   "14845": {
     "name": "OVERDO (2026)",
     "last_season": 1,
-    "last_episode": 20,
-    "last_modified": 1785258649
+    "last_episode": 21,
+    "last_modified": 1785344161
   },
   "14855": {
     "name": "ASSASSINATION CLASSROOM THE MOVIE: OUR TIME (2026) İNGİLİZCE",
@@ -71698,5 +71698,35 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1785275589
+  },
+  "14950": {
+    "name": "FINAL PROJECT (2026)",
+    "last_season": 1,
+    "last_episode": 20,
+    "last_modified": 1785344161
+  },
+  "14954": {
+    "name": "WRATH (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1785344161
+  },
+  "14955": {
+    "name": "GAZAP (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1785344161
+  },
+  "14956": {
+    "name": "SON PROJE (2026)",
+    "last_season": 1,
+    "last_episode": 20,
+    "last_modified": 1785344161
+  },
+  "14957": {
+    "name": "WINX CLUB: THE MAGIC IS BACK (2025)",
+    "last_season": 2,
+    "last_episode": 6,
+    "last_modified": 1785344161
   }
 }
