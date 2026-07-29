@@ -1,4 +1,10 @@
 {
+  "/diziler/a-shop-for-killers.html": {
+    "group": "A SHOP FOR KILLERS",
+    "year": "2024",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg"
+  },
   "/diziler/x-men-97.html": {
     "group": "X-MEN '97",
     "year": "2024",
@@ -82,11 +88,5 @@
     "year": "2025",
     "imdb": "6.8",
     "poster": null
-  },
-  "/diziler/silo.html": {
-    "group": "SILO",
-    "year": "2023",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/2QOuYPE6ZCqgVfhClNotQR06uVj.jpg"
   }
 }
