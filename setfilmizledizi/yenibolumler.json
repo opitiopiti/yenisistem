@@ -1,4 +1,10 @@
 {
+  "/dizi/sugar/": {
+    "group": "Sugar",
+    "year": 2024,
+    "imdb": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
+  },
   "/dizi/stuart-fails-to-save-the-universe/": {
     "group": "Stuart Fails to Save the Universe",
     "year": 2026,
@@ -34,12 +40,6 @@
     "year": 2023,
     "imdb": 8.1,
     "poster": "https://image.tmdb.org/t/p/w500/fDMTqUcEh6qJwWZP1SHTfoaqsCy.jpg"
-  },
-  "/dizi/sugar/": {
-    "group": "Sugar",
-    "year": 2024,
-    "imdb": 7.4,
-    "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
   },
   "/dizi/cape-fear/": {
     "group": "Cape Fear",
@@ -142,11 +142,5 @@
     "year": 2026,
     "imdb": 7.5,
     "poster": "https://image.tmdb.org/t/p/w500/eAdYAXdMh9ceE4WyHfQ8RcWNb6t.jpg"
-  },
-  "/dizi/yuzde-iki/": {
-    "group": "Yüzde İki",
-    "year": 2025,
-    "imdb": 6.3,
-    "poster": "https://image.tmdb.org/t/p/w500/sQIujEmJh0HZY2xg1Yl2fPyWM2e.jpg"
   }
 }
