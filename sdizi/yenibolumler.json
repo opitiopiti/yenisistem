@@ -1,4 +1,10 @@
 {
+  "/diziler/see-you-at-work-tomorrow.html": {
+    "group": "SEE YOU AT WORK TOMORROW!",
+    "year": "2026",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg"
+  },
   "/diziler/will-trent.html": {
     "group": "WILL TRENT",
     "year": "2023",
@@ -82,11 +88,5 @@
     "year": "2022",
     "imdb": "9.0",
     "poster": "https://image.tmdb.org/t/p/w500/cR4P0EJrLX2bdWij1VYLf8VB78M.jpg"
-  },
-  "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
-    "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
-    "year": "2018",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg"
   }
 }

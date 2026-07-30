@@ -8529,7 +8529,7 @@
     "group": "HUNTER X HUNTER OVA",
     "year": "2002",
     "imdb": "8.7",
-    "poster": null
+    "poster": "https://image.tmdb.org/t/p/w500/m5fRPYLziGuqHBJt2LalEmg8sgc.jpg"
   },
   "/diziler/hunter-x-hunter-1999.html": {
     "group": "HUNTER X HUNTER",
@@ -17074,5 +17074,11 @@
     "year": "2026",
     "imdb": "6.4",
     "poster": "https://image.tmdb.org/t/p/w500/5SFjDV42IMWpZDAcu3fT9LUpFHY.jpg"
+  },
+  "/diziler/see-you-at-work-tomorrow.html": {
+    "group": "SEE YOU AT WORK TOMORROW!",
+    "year": "2026",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg"
   }
 }
