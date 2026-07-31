@@ -1,4 +1,10 @@
 {
+  "/diziler/batman-caped-crusader.html": {
+    "group": "BATMAN: CAPED CRUSADER",
+    "year": "2024",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/imuZQcnPNKNygPw28TESUq4tNsb.jpg"
+  },
   "/diziler/cape-fear.html": {
     "group": "CAPE FEAR",
     "year": "2025",
@@ -82,11 +88,5 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/qcTNUGkxpaFycXkItD3Jpn0Mcox.jpg"
-  },
-  "/diziler/rick-and-morty.html": {
-    "group": "RICK AND MORTY",
-    "year": "2013",
-    "imdb": "9.1",
-    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
   }
 }
