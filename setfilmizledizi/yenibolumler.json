@@ -1,4 +1,16 @@
 {
+  "/dizi/furious/": {
+    "group": "Furious",
+    "year": 2026,
+    "imdb": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w500/xnxxrEKtBaIcI1ewq50pLkOMU6u.jpg"
+  },
+  "/dizi/silo/": {
+    "group": "Silo",
+    "year": 2023,
+    "imdb": 8.1,
+    "poster": "https://image.tmdb.org/t/p/w500/fDMTqUcEh6qJwWZP1SHTfoaqsCy.jpg"
+  },
   "/dizi/foundation/": {
     "group": "Foundation",
     "year": 2021,
@@ -64,12 +76,6 @@
     "year": 2025,
     "imdb": 8.1,
     "poster": "https://image.tmdb.org/t/p/w500/2c6ofLTa5CRfeQjVA1bWiYBdxQN.jpg"
-  },
-  "/dizi/silo/": {
-    "group": "Silo",
-    "year": 2023,
-    "imdb": 8.1,
-    "poster": "https://image.tmdb.org/t/p/w500/fDMTqUcEh6qJwWZP1SHTfoaqsCy.jpg"
   },
   "/dizi/cape-fear/": {
     "group": "Cape Fear",
@@ -154,11 +160,5 @@
     "year": 2022,
     "imdb": 8.1,
     "poster": "https://image.tmdb.org/t/p/w500/qu312pwM61NPTr7nexvovCClDNP.jpg"
-  },
-  "/dizi/maximum-pleasure-guaranteed/": {
-    "group": "Maximum Pleasure Guaranteed",
-    "year": 2026,
-    "imdb": 7.1,
-    "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
   }
 }
