@@ -1,1 +1,26 @@
-{}
+{
+  "/dizi/the-wrath-ve-the-dawn/": {
+    "group": "The Wrath & The Dawn",
+    "year": "0",
+    "poster": "https://image.tmdb.org/t/p/original/sg4QZgXllPD3WgXRhgruIzQfl0U.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/the-bombing-of-pan-am/": {
+    "group": "The Bombing of Pan Am 103",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/9RR6jkc35HOJcZG3modHZwh3J3J.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/bayrak-tasiyanlar/": {
+    "group": "Bayrak Taşıyanlar",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/rRBa63o8iaDQJo1rcgALAHYO4XN.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/amsterdam-centraal-24/": {
+    "group": "Amsterdam Centraal 24/7",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/2U9ok4oUuKTqhP6l3k5xpsbyMjJ.jpg",
+    "imdb": 8.5
+  }
+}
