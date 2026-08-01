@@ -1,4 +1,10 @@
 {
+  "/diziler/bleach-thousand-year-blood-war.html": {
+    "group": "BLEACH: THOUSAND-YEAR BLOOD WAR",
+    "year": "2022",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/cR4P0EJrLX2bdWij1VYLf8VB78M.jpg"
+  },
   "/diziler/batman-caped-crusader.html": {
     "group": "BATMAN: CAPED CRUSADER",
     "year": "2024",
@@ -82,11 +88,5 @@
     "year": "2018",
     "imdb": "7.8",
     "poster": "https://image.tmdb.org/t/p/w500/ii1yrluzWisy1rygSKz8lJkAkil.jpg"
-  },
-  "/diziler/furious.html": {
-    "group": "FURIOUS",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/qcTNUGkxpaFycXkItD3Jpn0Mcox.jpg"
   }
 }

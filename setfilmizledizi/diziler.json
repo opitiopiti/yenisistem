@@ -11116,5 +11116,17 @@
     "year": 2026,
     "imdb": 6.5,
     "poster": "https://www.setfilmizle.uk/thumb_/149x224-1/wp-content/uploads/2026/07/wrath-2026-izle.webp"
+  },
+  "/dizi/wondla-2024-izle/": {
+    "group": "WondLa",
+    "year": 2024,
+    "imdb": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w500/nacwwHnoCz1MX9tIrFTnnNqLmax.jpg"
+  },
+  "/dizi/platonic-2023-izle/": {
+    "group": "Platonic",
+    "year": 2023,
+    "imdb": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w500/7G8wB9CG82nITeFwRFIRSk0sQJs.jpg"
   }
 }

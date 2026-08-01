@@ -1,4 +1,22 @@
 {
+  "/dizi/foundation/": {
+    "group": "Foundation",
+    "year": 2021,
+    "imdb": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w500/tg9I5pOY4M9CKj8U0cxVBTsm5eh.jpg"
+  },
+  "/dizi/platonic/": {
+    "group": "Platonic",
+    "year": 2023,
+    "imdb": 7.2,
+    "poster": "https://image.tmdb.org/t/p/w500/7G8wB9CG82nITeFwRFIRSk0sQJs.jpg"
+  },
+  "/dizi/wondla/": {
+    "group": "WondLa",
+    "year": 2024,
+    "imdb": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w500/nacwwHnoCz1MX9tIrFTnnNqLmax.jpg"
+  },
   "/dizi/wrath/": {
     "group": "Wrath",
     "year": 2026,
@@ -142,17 +160,5 @@
     "year": 2026,
     "imdb": 7.1,
     "poster": "https://image.tmdb.org/t/p/w500/f9U0oTlvLlqbww2Gm5j8Lhf1r9W.jpg"
-  },
-  "/dizi/star-city/": {
-    "group": "Star City",
-    "year": 2026,
-    "imdb": 6.0,
-    "poster": "https://image.tmdb.org/t/p/w500/b8VtW6IEIyEWYdnJHx8bG8RdAak.jpg"
-  },
-  "/dizi/harman-yeri/": {
-    "group": "Harman Yeri",
-    "year": 2026,
-    "imdb": 7.5,
-    "poster": "https://image.tmdb.org/t/p/w500/eAdYAXdMh9ceE4WyHfQ8RcWNb6t.jpg"
   }
 }
