@@ -1,4 +1,10 @@
 {
+  "/diziler/my-adventures-with-superman.html": {
+    "group": "MY ADVENTURES WITH SUPERMAN",
+    "year": "2023",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/kocOUpdLnHyqfMW4jSRLxWT0QhM.jpg"
+  },
   "/diziler/star-trek-strange-new-worlds.html": {
     "group": "STAR TREK: STRANGE NEW WORLDS",
     "year": "2022",
@@ -82,11 +88,5 @@
     "year": "2020",
     "imdb": "8.0",
     "poster": "https://image.tmdb.org/t/p/w500/eHTDuZp8UtbSK1XehE59UJrgOXg.jpg"
-  },
-  "/diziler/ponies.html": {
-    "group": "PONIES",
-    "year": "2026",
-    "imdb": "6.4",
-    "poster": "https://image.tmdb.org/t/p/w500/5SFjDV42IMWpZDAcu3fT9LUpFHY.jpg"
   }
 }
