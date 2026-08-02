@@ -1,4 +1,16 @@
 {
+  "/diziler/one-piece-izle.html": {
+    "group": "ONE PIECE",
+    "year": "1999",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
+  },
+  "/diziler/power-book-iii-raising-kanan.html": {
+    "group": "POWER BOOK III: RAISING KANAN",
+    "year": "2021",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/pZ7IaHON9hnu8C0g3zdoWwIsJ9t.jpg"
+  },
   "/diziler/mushoku-tensei-jobless-reincarnation.html": {
     "group": "MUSHOKU TENSEI: JOBLESS REINCARNATION",
     "year": "2021",
@@ -76,17 +88,5 @@
     "year": "2024",
     "imdb": "8.4",
     "poster": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg"
-  },
-  "/diziler/x-men-97.html": {
-    "group": "X-MEN '97",
-    "year": "2024",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg"
-  },
-  "/diziler/lucky.html": {
-    "group": "LUCKY",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg"
   }
 }
