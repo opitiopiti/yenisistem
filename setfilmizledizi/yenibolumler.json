@@ -1,4 +1,28 @@
 {
+  "/dizi/lucky/": {
+    "group": "Lucky",
+    "year": 2026,
+    "imdb": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg"
+  },
+  "/dizi/sugar/": {
+    "group": "Sugar",
+    "year": 2024,
+    "imdb": 7.4,
+    "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
+  },
+  "/dizi/cape-fear/": {
+    "group": "Cape Fear",
+    "year": 2026,
+    "imdb": 7.5,
+    "poster": "https://image.tmdb.org/t/p/w500/64gCOK6NKcXVI2amtVKk3Xx7cbC.jpg"
+  },
+  "/dizi/trying/": {
+    "group": "Trying",
+    "year": 2020,
+    "imdb": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w500/eHTDuZp8UtbSK1XehE59UJrgOXg.jpg"
+  },
   "/dizi/furious/": {
     "group": "Furious",
     "year": 2026,
@@ -41,12 +65,6 @@
     "imdb": 7.6,
     "poster": "https://image.tmdb.org/t/p/w500/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg"
   },
-  "/dizi/sugar/": {
-    "group": "Sugar",
-    "year": 2024,
-    "imdb": 7.4,
-    "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
-  },
   "/dizi/stuart-fails-to-save-the-universe/": {
     "group": "Stuart Fails to Save the Universe",
     "year": 2026,
@@ -77,12 +95,6 @@
     "imdb": 8.1,
     "poster": "https://image.tmdb.org/t/p/w500/2c6ofLTa5CRfeQjVA1bWiYBdxQN.jpg"
   },
-  "/dizi/cape-fear/": {
-    "group": "Cape Fear",
-    "year": 2026,
-    "imdb": 7.5,
-    "poster": "https://image.tmdb.org/t/p/w500/64gCOK6NKcXVI2amtVKk3Xx7cbC.jpg"
-  },
   "/dizi/ransom-canyon/": {
     "group": "Ransom Canyon",
     "year": 2025,
@@ -94,18 +106,6 @@
     "year": 2026,
     "imdb": 7.1,
     "poster": "https://image.tmdb.org/t/p/w500/pb9oYHHNzauiCQZT03MpDAg46GI.jpg"
-  },
-  "/dizi/lucky/": {
-    "group": "Lucky",
-    "year": 2026,
-    "imdb": 7.5,
-    "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg"
-  },
-  "/dizi/trying/": {
-    "group": "Trying",
-    "year": 2020,
-    "imdb": 8.0,
-    "poster": "https://image.tmdb.org/t/p/w500/eHTDuZp8UtbSK1XehE59UJrgOXg.jpg"
   },
   "/dizi/stick/": {
     "group": "Stick",
@@ -154,11 +154,5 @@
     "year": 2026,
     "imdb": 5.0,
     "poster": "https://image.tmdb.org/t/p/w500/yEkp5AJHUn8l75hQXeGhZ183XSR.jpg"
-  },
-  "/dizi/black-bird/": {
-    "group": "Black Bird",
-    "year": 2022,
-    "imdb": 8.1,
-    "poster": "https://image.tmdb.org/t/p/w500/qu312pwM61NPTr7nexvovCClDNP.jpg"
   }
 }
