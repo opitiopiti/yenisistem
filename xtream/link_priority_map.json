@@ -3,8 +3,10 @@
     "priority": 1, "enabled": true },
   "sinewix": { 
     "priority": 2, "enabled": true },
-  "m3utoken": { 
+  "vavoo_hemtokenhemtokensiz": { 
     "priority": 3, "enabled": true },
+  "m3utoken": { 
+    "priority": 4, "enabled": true },
   "dizipod": { 
     "priority": 7, "enabled": true },
   "setfilmizle": { 
