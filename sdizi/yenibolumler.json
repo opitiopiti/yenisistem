@@ -1,4 +1,16 @@
 {
+  "/diziler/grand-blue.html": {
+    "group": "GRAND BLUE",
+    "year": "2018",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/ii1yrluzWisy1rygSKz8lJkAkil.jpg"
+  },
+  "/diziler/president-curtis.html": {
+    "group": "PRESIDENT CURTIS",
+    "year": "2026",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg"
+  },
   "/diziler/furious.html": {
     "group": "FURIOUS",
     "year": "2026",
@@ -70,23 +82,5 @@
     "year": "2025",
     "imdb": "7.3",
     "poster": "https://image.tmdb.org/t/p/w500/9RR6jkc35HOJcZG3modHZwh3J3J.jpg"
-  },
-  "/diziler/see-you-at-work-tomorrow.html": {
-    "group": "SEE YOU AT WORK TOMORROW!",
-    "year": "2026",
-    "imdb": "7.2",
-    "poster": "https://image.tmdb.org/t/p/w500/gTP1MKGz5kIrXCpb3HTgzVyIW6l.jpg"
-  },
-  "/diziler/will-trent.html": {
-    "group": "WILL TRENT",
-    "year": "2023",
-    "imdb": "7.7",
-    "poster": "https://image.tmdb.org/t/p/w500/qG5O46gUxxYGImld03tl2zLhvrg.jpg"
-  },
-  "/diziler/from-old-country-bumpkin-to-master-swordsman.html": {
-    "group": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN",
-    "year": "2025",
-    "imdb": "6.7",
-    "poster": "https://image.tmdb.org/t/p/w500/ujQp5egkJOkDHx4TehlgHePFcRv.jpg"
   }
 }
