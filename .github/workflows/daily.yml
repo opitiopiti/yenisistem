@@ -173,6 +173,7 @@ jobs:
           
   part6:
     name: hdizipal generator
+    if: false
     runs-on: ubuntu-latest
     needs: part4
     env:
