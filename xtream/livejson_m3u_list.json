@@ -13,7 +13,7 @@
   },
   {
     "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/vavooapp.m3u",
-    "enabled": false
+    "enabled": true
   },
   {
     "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/vavoo2.m3u",
