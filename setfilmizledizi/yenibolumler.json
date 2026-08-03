@@ -1,4 +1,10 @@
 {
+  "/dizi/house-of-the-dragon/": {
+    "group": "House of the Dragon",
+    "year": 2022,
+    "imdb": 8.3,
+    "poster": "https://image.tmdb.org/t/p/w500/7QMsOTMUswlwxJP0rTTZfmz2tX2.jpg"
+  },
   "/dizi/lucky/": {
     "group": "Lucky",
     "year": 2026,
@@ -70,12 +76,6 @@
     "year": 2026,
     "imdb": 7.1,
     "poster": "https://image.tmdb.org/t/p/w500/bvH9g6TXhQaTG1WhU7hbfXM8LNP.jpg"
-  },
-  "/dizi/house-of-the-dragon/": {
-    "group": "House of the Dragon",
-    "year": 2022,
-    "imdb": 8.3,
-    "poster": "https://image.tmdb.org/t/p/w500/7QMsOTMUswlwxJP0rTTZfmz2tX2.jpg"
   },
   "/dizi/monarch-legacy-of-monsters-2023-izle/": {
     "group": "Monarch: Legacy of Monsters",

@@ -1,4 +1,10 @@
 {
+  "/diziler/furious.html": {
+    "group": "FURIOUS",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/qcTNUGkxpaFycXkItD3Jpn0Mcox.jpg"
+  },
   "/diziler/one-piece-izle.html": {
     "group": "ONE PIECE",
     "year": "1999",
@@ -82,11 +88,5 @@
     "year": "2025",
     "imdb": "6.7",
     "poster": "https://image.tmdb.org/t/p/w500/ujQp5egkJOkDHx4TehlgHePFcRv.jpg"
-  },
-  "/diziler/a-shop-for-killers.html": {
-    "group": "A SHOP FOR KILLERS",
-    "year": "2024",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg"
   }
 }
