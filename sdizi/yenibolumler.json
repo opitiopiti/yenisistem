@@ -1,4 +1,10 @@
 {
+  "/diziler/futurama.html": {
+    "group": "FUTURAMA",
+    "year": "1999",
+    "imdb": "8.5",
+    "poster": "https://image.tmdb.org/t/p/w500/6ZS8SOno6kTmWz4eQ8lX8EBXOMv.jpg"
+  },
   "/diziler/grand-blue.html": {
     "group": "GRAND BLUE",
     "year": "2018",
@@ -70,17 +76,5 @@
     "year": "2024",
     "imdb": "7.8",
     "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
-  },
-  "/diziler/silo.html": {
-    "group": "SILO",
-    "year": "2023",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/2QOuYPE6ZCqgVfhClNotQR06uVj.jpg"
-  },
-  "/diziler/the-bombing-of-pan-am-103.html": {
-    "group": "THE BOMBING OF PAN AM 103",
-    "year": "2025",
-    "imdb": "7.3",
-    "poster": "https://image.tmdb.org/t/p/w500/9RR6jkc35HOJcZG3modHZwh3J3J.jpg"
   }
 }
