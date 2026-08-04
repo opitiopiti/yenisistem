@@ -39164,8 +39164,8 @@
   "7570": {
     "name": "CROWNED IN A HUNDRED DAYS (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 12,
-    "last_modified": 1785486295
+    "last_episode": 13,
+    "last_modified": 1785831022
   },
   "7571": {
     "name": "DARA-SAN OF REIWA (2026) İNGİLİZCE",
@@ -72088,5 +72088,11 @@
     "last_season": 2,
     "last_episode": 6,
     "last_modified": 1785726816
+  },
+  "15046": {
+    "name": "YOU DIZI (2018)",
+    "last_season": 5,
+    "last_episode": 10,
+    "last_modified": 1785831022
   }
 }
