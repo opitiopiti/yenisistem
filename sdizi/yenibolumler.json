@@ -1,4 +1,10 @@
 {
+  "/diziler/from-old-country-bumpkin-to-master-swordsman.html": {
+    "group": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN",
+    "year": "2025",
+    "imdb": "6.7",
+    "poster": "https://image.tmdb.org/t/p/w500/ujQp5egkJOkDHx4TehlgHePFcRv.jpg"
+  },
   "/diziler/star-wars-visions-presents-the-ninth-jedi.html": {
     "group": "STAR WARS: VISIONS PRESENTS - THE NINTH JEDI",
     "year": "2026",
@@ -70,11 +76,5 @@
     "year": "2021",
     "imdb": "7.7",
     "poster": "https://image.tmdb.org/t/p/w500/pZ7IaHON9hnu8C0g3zdoWwIsJ9t.jpg"
-  },
-  "/diziler/mushoku-tensei-jobless-reincarnation.html": {
-    "group": "MUSHOKU TENSEI: JOBLESS REINCARNATION",
-    "year": "2021",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg"
   }
 }
