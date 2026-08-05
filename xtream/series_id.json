@@ -6434,8 +6434,8 @@
   "2078": {
     "name": "X-MEN '97 (2024)",
     "last_season": 2,
-    "last_episode": 7,
-    "last_modified": 1785328355
+    "last_episode": 8,
+    "last_modified": 1785933113
   },
   "2079": {
     "name": "NEW GIRL (2011)",
@@ -15320,8 +15320,8 @@
   "3574": {
     "name": "TRYING (2020)",
     "last_season": 5,
-    "last_episode": 4,
-    "last_modified": 1785328355
+    "last_episode": 5,
+    "last_modified": 1785933113
   },
   "3575": {
     "name": "THIS CITY IS OURS (2025)",
@@ -65575,9 +65575,9 @@
   },
   "12005": {
     "name": "YÜZYILLIK YALNIZLIK (2024)",
-    "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1783174642
+    "last_season": 2,
+    "last_episode": 7,
+    "last_modified": 1785933113
   },
   "12006": {
     "name": "YÜZÜKLERIN EFENDISI: GÜÇ YÜZÜKLERI (2022)",
@@ -72100,5 +72100,17 @@
     "last_season": 4,
     "last_episode": 1,
     "last_modified": 1785917518
+  },
+  "15053": {
+    "name": "STAR WARS: VISIONS PRESENTS (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1785933113
+  },
+  "15054": {
+    "name": "STERLING POINT (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1785933113
   }
 }
