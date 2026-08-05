@@ -1,4 +1,16 @@
 {
+  "/diziler/star-wars-visions-presents-the-ninth-jedi.html": {
+    "group": "STAR WARS: VISIONS PRESENTS - THE NINTH JEDI",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/r1AnM76TBeTNB5zRcIk2kRUXTDF.jpg"
+  },
+  "/diziler/a-shop-for-killers.html": {
+    "group": "A SHOP FOR KILLERS",
+    "year": "2024",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg"
+  },
   "/diziler/x-men-97.html": {
     "group": "X-MEN '97",
     "year": "2024",
@@ -64,17 +76,5 @@
     "year": "2021",
     "imdb": "8.4",
     "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg"
-  },
-  "/diziler/my-adventures-with-superman.html": {
-    "group": "MY ADVENTURES WITH SUPERMAN",
-    "year": "2023",
-    "imdb": "7.7",
-    "poster": "https://image.tmdb.org/t/p/w500/kocOUpdLnHyqfMW4jSRLxWT0QhM.jpg"
-  },
-  "/diziler/star-trek-strange-new-worlds.html": {
-    "group": "STAR TREK: STRANGE NEW WORLDS",
-    "year": "2022",
-    "imdb": "8.3",
-    "poster": "https://image.tmdb.org/t/p/w500/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg"
   }
 }
