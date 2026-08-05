@@ -6913,9 +6913,9 @@
   },
   "2160": {
     "name": "TED LASSO (2020)",
-    "last_season": 3,
-    "last_episode": 12,
-    "last_modified": 1783174642
+    "last_season": 4,
+    "last_episode": 1,
+    "last_modified": 1785917518
   },
   "2161": {
     "name": "RECALÉ (2026)",
@@ -70166,8 +70166,8 @@
   "13951": {
     "name": "LUCKY (2026)",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1785328355
+    "last_episode": 5,
+    "last_modified": 1785917518
   },
   "13994": {
     "name": "RIDE OR DIE (2026)",
@@ -72094,5 +72094,11 @@
     "last_season": 5,
     "last_episode": 10,
     "last_modified": 1785831022
+  },
+  "15047": {
+    "name": "STAR TREK STRANGE NEW WORLDS (2022)",
+    "last_season": 4,
+    "last_episode": 1,
+    "last_modified": 1785917518
   }
 }
