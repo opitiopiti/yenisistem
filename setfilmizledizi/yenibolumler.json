@@ -1,4 +1,10 @@
 {
+  "/dizi/see/": {
+    "group": "See",
+    "year": 2019,
+    "imdb": 7.6,
+    "poster": "https://image.tmdb.org/t/p/w500/lKDIhc9FQibDiBQ57n3ELfZCyZg.jpg"
+  },
   "/dizi/house-of-the-dragon/": {
     "group": "House of the Dragon",
     "year": 2022,
