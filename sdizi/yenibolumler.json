@@ -1,4 +1,10 @@
 {
+  "/diziler/sterling-point.html": {
+    "group": "STERLING POINT",
+    "year": "2026",
+    "imdb": "6.4",
+    "poster": "https://image.tmdb.org/t/p/w500/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg"
+  },
   "/diziler/from-old-country-bumpkin-to-master-swordsman.html": {
     "group": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN",
     "year": "2025",
@@ -70,11 +76,5 @@
     "year": "1999",
     "imdb": "9.0",
     "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
-  },
-  "/diziler/power-book-iii-raising-kanan.html": {
-    "group": "POWER BOOK III: RAISING KANAN",
-    "year": "2021",
-    "imdb": "7.7",
-    "poster": "https://image.tmdb.org/t/p/w500/pZ7IaHON9hnu8C0g3zdoWwIsJ9t.jpg"
   }
 }
