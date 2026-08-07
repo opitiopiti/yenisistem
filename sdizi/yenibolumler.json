@@ -1,4 +1,16 @@
 {
+  "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
+    "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
+    "year": "2018",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg"
+  },
+  "/diziler/ricky-gervais-alley-cats.html": {
+    "group": "ALLEY CATS",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
   "/diziler/sugar.html": {
     "group": "SUGAR",
     "year": "2024",
@@ -70,11 +82,5 @@
     "year": "2020",
     "imdb": "8.0",
     "poster": "https://image.tmdb.org/t/p/w500/eHTDuZp8UtbSK1XehE59UJrgOXg.jpg"
-  },
-  "/diziler/futurama.html": {
-    "group": "FUTURAMA",
-    "year": "1999",
-    "imdb": "8.5",
-    "poster": "https://image.tmdb.org/t/p/w500/6ZS8SOno6kTmWz4eQ8lX8EBXOMv.jpg"
   }
 }
