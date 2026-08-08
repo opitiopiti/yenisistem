@@ -1,4 +1,10 @@
 {
+  "/dizi/pluribus/": {
+    "group": "Pluribus",
+    "year": 2025,
+    "imdb": 8.0,
+    "poster": "https://image.tmdb.org/t/p/w500/z7Nga7Q9IGFWs5OEduY2gGFxnX3.jpg"
+  },
   "/dizi/see/": {
     "group": "See",
     "year": 2019,
@@ -148,17 +154,5 @@
     "year": 2020,
     "imdb": 7.7,
     "poster": "https://image.tmdb.org/t/p/w500/JTmkzwSDRiS9nvSPwpDB9fmZj2.jpg"
-  },
-  "/dizi/rick-and-morty/": {
-    "group": "Rick and Morty",
-    "year": 2013,
-    "imdb": 9.0,
-    "poster": "https://image.tmdb.org/t/p/w500/WGRQ8FpjkDTzivQJ43t94bOuY0.jpg"
-  },
-  "/dizi/asirlik-gece/": {
-    "group": "Asırlık Gece",
-    "year": 2026,
-    "imdb": 5.0,
-    "poster": "https://image.tmdb.org/t/p/w500/yEkp5AJHUn8l75hQXeGhZ183XSR.jpg"
   }
 }
