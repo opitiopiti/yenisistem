@@ -7202,8 +7202,8 @@
   "2208": {
     "name": "STAR TREK: STRANGE NEW WORLDS (2022)",
     "last_season": 4,
-    "last_episode": 2,
-    "last_modified": 1785570659
+    "last_episode": 3,
+    "last_modified": 1786169095
   },
   "2209": {
     "name": "MERLIN (2008)",
@@ -72154,5 +72154,11 @@
     "last_season": 1,
     "last_episode": 6,
     "last_modified": 1786136664
+  },
+  "15087": {
+    "name": "IREON YEOT GATEUN SARANG (2026)",
+    "last_season": 1,
+    "last_episode": 12,
+    "last_modified": 1786169095
   }
 }
