@@ -39194,8 +39194,8 @@
   "7575": {
     "name": "DIGIMON BEATBREAK (2025) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 41,
-    "last_modified": 1785657313
+    "last_episode": 42,
+    "last_modified": 1786255863
   },
   "7576": {
     "name": "DOROHEDORO 2 (2026) İNGİLİZCE",
@@ -71768,8 +71768,8 @@
   "14992": {
     "name": "FIGHTLAND (2026)",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1785657313
+    "last_episode": 2,
+    "last_modified": 1786255863
   },
   "14993": {
     "name": "EŞREF RÜYA (2025) TR",
@@ -72166,5 +72166,11 @@
     "last_season": 1,
     "last_episode": 4,
     "last_modified": 1786240511
+  },
+  "15097": {
+    "name": "GLADIATORS: WARRIORS OF THE ANCIENT WORLD (2025)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1786255863
   }
 }
