@@ -1,4 +1,16 @@
 {
+  "/diziler/my-adventures-with-superman.html": {
+    "group": "MY ADVENTURES WITH SUPERMAN",
+    "year": "2023",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/kocOUpdLnHyqfMW4jSRLxWT0QhM.jpg"
+  },
+  "/diziler/star-trek-strange-new-worlds.html": {
+    "group": "STAR TREK: STRANGE NEW WORLDS",
+    "year": "2022",
+    "imdb": "8.3",
+    "poster": "https://image.tmdb.org/t/p/w500/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg"
+  },
   "/diziler/bleach-thousand-year-blood-war.html": {
     "group": "BLEACH: THOUSAND-YEAR BLOOD WAR",
     "year": "2022",
@@ -70,17 +82,5 @@
     "year": "2024",
     "imdb": "8.4",
     "poster": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg"
-  },
-  "/diziler/x-men-97.html": {
-    "group": "X-MEN '97",
-    "year": "2024",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg"
-  },
-  "/diziler/ted-lasso.html": {
-    "group": "TED LASSO",
-    "year": "2020",
-    "imdb": "8.8",
-    "poster": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
   }
 }
