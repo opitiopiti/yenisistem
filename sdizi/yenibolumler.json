@@ -1,4 +1,22 @@
 {
+  "/diziler/one-piece-izle.html": {
+    "group": "ONE PIECE",
+    "year": "1999",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
+  },
+  "/diziler/mushoku-tensei-jobless-reincarnation.html": {
+    "group": "MUSHOKU TENSEI: JOBLESS REINCARNATION",
+    "year": "2021",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg"
+  },
+  "/diziler/life-larry-and-the-pursuit-of-unhappiness-an-almost-history-of-america.html": {
+    "group": "LIFE, LARRY AND THE PURSUIT OF UNHAPPINESS: AN ALMOST HISTORY OF AMERICA",
+    "year": "2026",
+    "imdb": "6.7",
+    "poster": "https://image.tmdb.org/t/p/w500/eA8lwlHAuFQrZzek25xgGZCgImu.jpg"
+  },
   "/diziler/my-adventures-with-superman.html": {
     "group": "MY ADVENTURES WITH SUPERMAN",
     "year": "2023",
@@ -64,23 +82,5 @@
     "year": "2026",
     "imdb": "6.4",
     "poster": "https://image.tmdb.org/t/p/w500/cThLWEGs6BEqY0QZMbU4FAeWwPT.jpg"
-  },
-  "/diziler/from-old-country-bumpkin-to-master-swordsman.html": {
-    "group": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN",
-    "year": "2025",
-    "imdb": "6.7",
-    "poster": "https://image.tmdb.org/t/p/w500/ujQp5egkJOkDHx4TehlgHePFcRv.jpg"
-  },
-  "/diziler/star-wars-visions-presents-the-ninth-jedi.html": {
-    "group": "STAR WARS: VISIONS PRESENTS - THE NINTH JEDI",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/r1AnM76TBeTNB5zRcIk2kRUXTDF.jpg"
-  },
-  "/diziler/a-shop-for-killers.html": {
-    "group": "A SHOP FOR KILLERS",
-    "year": "2024",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg"
   }
 }
