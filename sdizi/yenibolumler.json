@@ -1,4 +1,10 @@
 {
+  "/diziler/grand-blue.html": {
+    "group": "GRAND BLUE",
+    "year": "2018",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/ii1yrluzWisy1rygSKz8lJkAkil.jpg"
+  },
   "/diziler/futurama.html": {
     "group": "FUTURAMA",
     "year": "1999",
@@ -82,11 +88,5 @@
     "year": "2023",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/2QOuYPE6ZCqgVfhClNotQR06uVj.jpg"
-  },
-  "/diziler/my-life-with-the-walter-boys.html": {
-    "group": "MY LIFE WITH THE WALTER BOYS",
-    "year": "2023",
-    "imdb": "6.8",
-    "poster": "https://image.tmdb.org/t/p/w500/jg3YdxDNlxay0NWTxgAPif647Hj.jpg"
   }
 }
