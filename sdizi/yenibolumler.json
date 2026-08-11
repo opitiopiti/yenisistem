@@ -1,4 +1,10 @@
 {
+  "/diziler/the-o-c.html": {
+    "group": "THE O.C.",
+    "year": "2003",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/xDc6BMGDaeyalpSZ9KKk7RCBCz5.jpg"
+  },
   "/diziler/grand-blue.html": {
     "group": "GRAND BLUE",
     "year": "2018",
@@ -82,11 +88,5 @@
     "year": "2024",
     "imdb": "7.8",
     "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
-  },
-  "/diziler/silo.html": {
-    "group": "SILO",
-    "year": "2023",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/2QOuYPE6ZCqgVfhClNotQR06uVj.jpg"
   }
 }
