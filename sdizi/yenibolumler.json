@@ -1,4 +1,10 @@
 {
+  "/diziler/re-zero-starting-life-in-another-world.html": {
+    "group": "RE: ZERO - STARTING LIFE IN ANOTHER WORLD",
+    "year": "2016",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/aRwmcX36r1ZpR5Xq5mmFcpUDQ8J.jpg"
+  },
   "/diziler/a-shop-for-killers.html": {
     "group": "A SHOP FOR KILLERS",
     "year": "2024",
@@ -31,9 +37,9 @@
   },
   "/diziler/mourinho.html": {
     "group": "MOURINHO",
-    "year": null,
-    "imdb": null,
-    "poster": null
+    "year": "2026",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/uUgrxU3Gjl7HeaAlYa4glHWFbO5.jpg"
   },
   "/diziler/the-o-c.html": {
     "group": "THE O.C.",
@@ -82,11 +88,5 @@
     "year": "2026",
     "imdb": "6.7",
     "poster": "https://image.tmdb.org/t/p/w500/eA8lwlHAuFQrZzek25xgGZCgImu.jpg"
-  },
-  "/diziler/my-adventures-with-superman.html": {
-    "group": "MY ADVENTURES WITH SUPERMAN",
-    "year": "2023",
-    "imdb": "7.7",
-    "poster": "https://image.tmdb.org/t/p/w500/kocOUpdLnHyqfMW4jSRLxWT0QhM.jpg"
   }
 }
