@@ -1,4 +1,40 @@
 {
+  "/diziler/a-shop-for-killers.html": {
+    "group": "A SHOP FOR KILLERS",
+    "year": "2024",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg"
+  },
+  "/diziler/x-men-97.html": {
+    "group": "X-MEN '97",
+    "year": "2024",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg"
+  },
+  "/diziler/ted-lasso.html": {
+    "group": "TED LASSO",
+    "year": "2020",
+    "imdb": "8.8",
+    "poster": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
+  },
+  "/diziler/lucky.html": {
+    "group": "LUCKY",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg"
+  },
+  "/diziler/trying.html": {
+    "group": "TRYING",
+    "year": "2020",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/eHTDuZp8UtbSK1XehE59UJrgOXg.jpg"
+  },
+  "/diziler/mourinho.html": {
+    "group": "MOURINHO",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
   "/diziler/the-o-c.html": {
     "group": "THE O.C.",
     "year": "2003",
@@ -52,41 +88,5 @@
     "year": "2023",
     "imdb": "7.7",
     "poster": "https://image.tmdb.org/t/p/w500/kocOUpdLnHyqfMW4jSRLxWT0QhM.jpg"
-  },
-  "/diziler/star-trek-strange-new-worlds.html": {
-    "group": "STAR TREK: STRANGE NEW WORLDS",
-    "year": "2022",
-    "imdb": "8.3",
-    "poster": "https://image.tmdb.org/t/p/w500/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg"
-  },
-  "/diziler/bleach-thousand-year-blood-war.html": {
-    "group": "BLEACH: THOUSAND-YEAR BLOOD WAR",
-    "year": "2022",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/cR4P0EJrLX2bdWij1VYLf8VB78M.jpg"
-  },
-  "/diziler/our-sticky-love.html": {
-    "group": "OUR STICKY LOVE",
-    "year": "2026",
-    "imdb": "7.5",
-    "poster": "https://image.tmdb.org/t/p/w500/tSZ4aFpTGc8Oj52SuzPUUZ7WKL0.jpg"
-  },
-  "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
-    "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
-    "year": "2018",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg"
-  },
-  "/diziler/ricky-gervais-alley-cats.html": {
-    "group": "ALLEY CATS",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/mWC77mH2Nv7KMP8vGzwwCVkhsWu.jpg"
-  },
-  "/diziler/sugar.html": {
-    "group": "SUGAR",
-    "year": "2024",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/dNrk52Rt13MxwahLneTZJezM6qD.jpg"
   }
 }
