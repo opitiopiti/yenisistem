@@ -1,4 +1,16 @@
 {
+  "/diziler/silo.html": {
+    "group": "SILO",
+    "year": "2023",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/2QOuYPE6ZCqgVfhClNotQR06uVj.jpg"
+  },
+  "/diziler/my-brilliant-career.html": {
+    "group": "MY BRILLIANT CAREER",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
   "/diziler/the-shards.html": {
     "group": "THE SHARDS",
     "year": "2026",
@@ -76,17 +88,5 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/qcTNUGkxpaFycXkItD3Jpn0Mcox.jpg"
-  },
-  "/diziler/president-curtis.html": {
-    "group": "PRESIDENT CURTIS",
-    "year": "2026",
-    "imdb": "7.3",
-    "poster": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg"
-  },
-  "/diziler/one-piece-izle.html": {
-    "group": "ONE PIECE",
-    "year": "1999",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
   }
 }
