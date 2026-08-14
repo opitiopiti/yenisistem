@@ -1,22 +1,4 @@
 {
-  "/dizi/jose-mourinho/": {
-    "group": "José Mourinho",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/uUgrxU3Gjl7HeaAlYa4glHWFbO5.jpg",
-    "imdb": 8.3
-  },
-  "/dizi/surlar/": {
-    "group": "Surlar",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/AfgiYkzGNhrJRQj8RhJk05rAQRe.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/parlak-kariyerim/": {
-    "group": "Parlak Kariyerim",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/iON8B0MhOqE05I34JgA6WXYnAYZ.jpg",
-    "imdb": 5.7
-  },
   "/dizi/amsterdam-centraal-24/": {
     "group": "Amsterdam Centraal 24/7",
     "year": "2025",
