@@ -1,4 +1,16 @@
 {
+  "/diziler/bleach-thousand-year-blood-war.html": {
+    "group": "BLEACH: THOUSAND-YEAR BLOOD WAR",
+    "year": "2022",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/cR4P0EJrLX2bdWij1VYLf8VB78M.jpg"
+  },
+  "/diziler/star-trek-strange-new-worlds.html": {
+    "group": "STAR TREK: STRANGE NEW WORLDS",
+    "year": "2022",
+    "imdb": "8.3",
+    "poster": "https://image.tmdb.org/t/p/w500/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg"
+  },
   "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
     "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
     "year": "2018",
@@ -76,17 +88,5 @@
     "year": "2003",
     "imdb": "7.6",
     "poster": "https://image.tmdb.org/t/p/w500/xDc6BMGDaeyalpSZ9KKk7RCBCz5.jpg"
-  },
-  "/diziler/grand-blue.html": {
-    "group": "GRAND BLUE",
-    "year": "2018",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/ii1yrluzWisy1rygSKz8lJkAkil.jpg"
-  },
-  "/diziler/futurama.html": {
-    "group": "FUTURAMA",
-    "year": "1999",
-    "imdb": "8.5",
-    "poster": "https://image.tmdb.org/t/p/w500/6ZS8SOno6kTmWz4eQ8lX8EBXOMv.jpg"
   }
 }
