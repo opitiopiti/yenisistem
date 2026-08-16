@@ -1,4 +1,16 @@
 {
+  "/diziler/agent-kim-reactivated.html": {
+    "group": "AGENT KIM REACTIVATED",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
+  "/diziler/my-adventures-with-superman.html": {
+    "group": "MY ADVENTURES WITH SUPERMAN",
+    "year": "2023",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/kocOUpdLnHyqfMW4jSRLxWT0QhM.jpg"
+  },
   "/diziler/bleach-thousand-year-blood-war.html": {
     "group": "BLEACH: THOUSAND-YEAR BLOOD WAR",
     "year": "2022",
@@ -76,17 +88,5 @@
     "year": "2020",
     "imdb": "8.0",
     "poster": "https://image.tmdb.org/t/p/w500/eHTDuZp8UtbSK1XehE59UJrgOXg.jpg"
-  },
-  "/diziler/mourinho.html": {
-    "group": "MOURINHO",
-    "year": "2026",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/uUgrxU3Gjl7HeaAlYa4glHWFbO5.jpg"
-  },
-  "/diziler/the-o-c.html": {
-    "group": "THE O.C.",
-    "year": "2003",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/xDc6BMGDaeyalpSZ9KKk7RCBCz5.jpg"
   }
 }
