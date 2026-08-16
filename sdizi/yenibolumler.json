@@ -1,4 +1,16 @@
 {
+  "/diziler/one-piece-izle.html": {
+    "group": "ONE PIECE",
+    "year": "1999",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
+  },
+  "/diziler/mushoku-tensei-jobless-reincarnation.html": {
+    "group": "MUSHOKU TENSEI: JOBLESS REINCARNATION",
+    "year": "2021",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg"
+  },
   "/diziler/agent-kim-reactivated.html": {
     "group": "AGENT KIM REACTIVATED",
     "year": "2026",
@@ -76,17 +88,5 @@
     "year": "2020",
     "imdb": "8.8",
     "poster": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
-  },
-  "/diziler/lucky.html": {
-    "group": "LUCKY",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg"
-  },
-  "/diziler/trying.html": {
-    "group": "TRYING",
-    "year": "2020",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/eHTDuZp8UtbSK1XehE59UJrgOXg.jpg"
   }
 }
