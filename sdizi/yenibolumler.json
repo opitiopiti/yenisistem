@@ -1,4 +1,10 @@
 {
+  "/diziler/grand-blue.html": {
+    "group": "GRAND BLUE",
+    "year": "2018",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/ii1yrluzWisy1rygSKz8lJkAkil.jpg"
+  },
   "/diziler/furious.html": {
     "group": "FURIOUS",
     "year": "2026",
@@ -82,11 +88,5 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/fhpa8B6USatHybK04XBbPAB6Mlz.jpg"
-  },
-  "/diziler/the-shards.html": {
-    "group": "THE SHARDS",
-    "year": "2026",
-    "imdb": "5.8",
-    "poster": "https://image.tmdb.org/t/p/w500/rh7k9oa18I3ibdLdWOWKHqrHQM1.jpg"
   }
 }
