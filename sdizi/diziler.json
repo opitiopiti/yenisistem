@@ -17152,5 +17152,17 @@
     "year": "2026",
     "imdb": "7.6",
     "poster": "https://image.tmdb.org/t/p/w500/mxa7YxVln3Rwnd2Va82PoclTznj.jpg"
+  },
+  "/diziler/lanterns.html": {
+    "group": "LANTERNS",
+    "year": "2026",
+    "imdb": "8.6",
+    "poster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg"
+  },
+  "/diziler/in-plain-sight-2008.html": {
+    "group": "IN PLAIN SIGHT",
+    "year": "2008",
+    "imdb": "7.4",
+    "poster": "https://image.tmdb.org/t/p/w500/utJdDq3c9uRCdvYHlF5qptWLZfh.jpg"
   }
 }

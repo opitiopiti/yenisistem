@@ -1,4 +1,28 @@
 {
+  "/diziler/furious.html": {
+    "group": "FURIOUS",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/qcTNUGkxpaFycXkItD3Jpn0Mcox.jpg"
+  },
+  "/diziler/futurama.html": {
+    "group": "FUTURAMA",
+    "year": "1999",
+    "imdb": "8.5",
+    "poster": "https://image.tmdb.org/t/p/w500/6ZS8SOno6kTmWz4eQ8lX8EBXOMv.jpg"
+  },
+  "/diziler/president-curtis.html": {
+    "group": "PRESIDENT CURTIS",
+    "year": "2026",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg"
+  },
+  "/diziler/lanterns.html": {
+    "group": "LANTERNS",
+    "year": "2026",
+    "imdb": "8.6",
+    "poster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg"
+  },
   "/diziler/one-piece-izle.html": {
     "group": "ONE PIECE",
     "year": "1999",
@@ -64,29 +88,5 @@
     "year": "2025",
     "imdb": "6.7",
     "poster": "https://image.tmdb.org/t/p/w500/ujQp5egkJOkDHx4TehlgHePFcRv.jpg"
-  },
-  "/diziler/re-zero-starting-life-in-another-world.html": {
-    "group": "RE: ZERO - STARTING LIFE IN ANOTHER WORLD",
-    "year": "2016",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/aRwmcX36r1ZpR5Xq5mmFcpUDQ8J.jpg"
-  },
-  "/diziler/a-shop-for-killers.html": {
-    "group": "A SHOP FOR KILLERS",
-    "year": "2024",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/7yUY1HUyQuybbvkAAhLzQ7x1l9g.jpg"
-  },
-  "/diziler/x-men-97.html": {
-    "group": "X-MEN '97",
-    "year": "2024",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg"
-  },
-  "/diziler/ted-lasso.html": {
-    "group": "TED LASSO",
-    "year": "2020",
-    "imdb": "8.8",
-    "poster": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
   }
 }
