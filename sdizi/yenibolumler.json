@@ -23,6 +23,12 @@
     "imdb": "8.6",
     "poster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg"
   },
+  "/diziler/in-plain-sight-2008.html": {
+    "group": "IN PLAIN SIGHT",
+    "year": "2008",
+    "imdb": "7.4",
+    "poster": "https://image.tmdb.org/t/p/w500/utJdDq3c9uRCdvYHlF5qptWLZfh.jpg"
+  },
   "/diziler/one-piece-izle.html": {
     "group": "ONE PIECE",
     "year": "1999",
@@ -82,11 +88,5 @@
     "year": "2026",
     "imdb": "5.8",
     "poster": "https://image.tmdb.org/t/p/w500/rh7k9oa18I3ibdLdWOWKHqrHQM1.jpg"
-  },
-  "/diziler/from-old-country-bumpkin-to-master-swordsman.html": {
-    "group": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN",
-    "year": "2025",
-    "imdb": "6.7",
-    "poster": "https://image.tmdb.org/t/p/w500/ujQp5egkJOkDHx4TehlgHePFcRv.jpg"
   }
 }
