@@ -70130,8 +70130,8 @@
   "13730": {
     "name": "THE APARTMENT JOB (2026)",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1786844194
+    "last_episode": 12,
+    "last_modified": 1786930627
   },
   "13774": {
     "name": "THOUGH I AM AN INEPT VILLAINESS: TALE OF THE BUTTERFLY-RAT BODY SWAP IN THE MAIDEN COURT (2026) İNGİLİZCE",
@@ -70244,8 +70244,8 @@
   "14303": {
     "name": "SPOOKY IN LOVE (2026)",
     "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1786844194
+    "last_episode": 10,
+    "last_modified": 1786930627
   },
   "14348": {
     "name": "ARZULARIN HARITASI (2026)",
@@ -72274,5 +72274,11 @@
     "last_season": 2,
     "last_episode": 2,
     "last_modified": 1786844194
+  },
+  "15151": {
+    "name": "GATE24: THE BORDER (2026)",
+    "last_season": 1,
+    "last_episode": 24,
+    "last_modified": 1786930627
   }
 }
