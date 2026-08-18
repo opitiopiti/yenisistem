@@ -1,4 +1,10 @@
 {
+  "/diziler/the-apartment-job.html": {
+    "group": "THE APARTMENT JOB",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
   "/diziler/grand-blue.html": {
     "group": "GRAND BLUE",
     "year": "2018",
@@ -82,11 +88,5 @@
     "year": "2023",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/2QOuYPE6ZCqgVfhClNotQR06uVj.jpg"
-  },
-  "/diziler/my-brilliant-career.html": {
-    "group": "MY BRILLIANT CAREER",
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/fhpa8B6USatHybK04XBbPAB6Mlz.jpg"
   }
 }
