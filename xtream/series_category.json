@@ -2346,7 +2346,8 @@
     {"name": "ALLEY CATS", "year": "2026"},
     {"name": "OUR STICKY LOVE", "year": "2026"},
     {"name": "MOURINHO", "year": "2026"},
-    {"name": "MY BRILLIANT CAREER", "year": "2026"}
+    {"name": "MY BRILLIANT CAREER", "year": "2026"},
+    {"name": "ANIELA", "year": "2025"}
   ],
   "HBO DİZİLERİ": [
     {"name": "THE PITT", "year": "2025"},
@@ -5470,7 +5471,8 @@
     {"name": "SIRENS", "year": "1993"},
     {"name": "JANET KING", "year": "2014"},
     {"name": "THE RIVER 2012", "year": "2012"},
-    {"name": "HAPPY DAYS", "year": "1974"}
+    {"name": "HAPPY DAYS", "year": "1974"},
+    {"name": "SECRETS & LIES", "year": "2015"}
   ],
   "FX DİZİLERİ": [
     {"name": "THE OLD MAN", "year": "2022"},
@@ -5724,7 +5726,8 @@
     {"name": "TIP TOE", "year": "2026"},
     {"name": "VENGEANCE: MURDER ON THE HEATH", "year": "2026"},
     {"name": "MAKE THAT MOVIE", "year": "2026"},
-    {"name": "PURE 2019", "year": "2019"}
+    {"name": "PURE 2019", "year": "2019"},
+    {"name": "LONDON IRISH", "year": "2013"}
   ],
   "FRANCE 2 DİZİLERİ": [
     {"name": "MIRAGE", "year": "2020"},
@@ -5735,7 +5738,8 @@
     {"name": "LES TÉMOINS", "year": "2015"},
     {"name": "DIX POUR CENT", "year": "2015"},
     {"name": "DESENCHANTEES", "year": "2025"},
-    {"name": "DÉSENCHANTÉES", "year": "2025"}
+    {"name": "DÉSENCHANTÉES", "year": "2025"},
+    {"name": "LANETLER", "year": "2014"}
   ],
   "TENCENT QQ DİZİLERİ": [
     {"name": "RUN AWAY", "year": "2023"},
@@ -5888,7 +5892,8 @@
     {"name": "OPERATION UNDERCOVER", "year": "2024"},
     {"name": "FEDS", "year": "2023"},
     {"name": "CHILDREN OF THE SNOW", "year": "2019"},
-    {"name": "BODIES IN THE WATER", "year": "2024"}
+    {"name": "BODIES IN THE WATER", "year": "2024"},
+    {"name": "TWO SHALLOW GRAVES", "year": "2022"}
   ],
   "NBC DİZİLERİ": [
     {"name": "PROJECT UFO", "year": "1978"},
@@ -6979,7 +6984,8 @@
   ],
   "REELZ DİZİLERİ": [
     {"name": "DELETE", "year": "2013"},
-    {"name": "THE KENNEDYS", "year": "2011"}
+    {"name": "THE KENNEDYS", "year": "2011"},
+    {"name": "KENNEDY AILESI", "year": "2015"}
   ],
   "FOOD NETWORK DİZİLERİ": [
     {"name": "BIG BET", "year": "2022"},
@@ -7689,7 +7695,8 @@
     {"name": "FINDERS KEEPERS", "year": "2024"},
     {"name": "THE FORTUNE", "year": "2026"},
     {"name": "THE AU PAIR", "year": "2025"},
-    {"name": "FORENSICS: MURDER SCENE", "year": "2024"}
+    {"name": "FORENSICS: MURDER SCENE", "year": "2024"},
+    {"name": "8 DAYS THAT MADE ROME", "year": "2017"}
   ],
   "PARAVI DİZİLERİ": [
     {"name": "JAPAN SINKS: PEOPLE OF HOPE", "year": "2021"},
@@ -8258,7 +8265,8 @@
     {"name": "CALL ME BRUNA", "year": "2016"}
   ],
   "ITV ENCORE DİZİLERİ": [
-    {"name": "THE FRANKENSTEIN CHRONICLES", "year": "2015"}
+    {"name": "THE FRANKENSTEIN CHRONICLES", "year": "2015"},
+    {"name": "HOUDINI & DOYLE", "year": "2016"}
   ],
   "LIONSGATE+ DİZİLERİ": [
     {"name": "THE WHITE PRINCESS", "year": "2017"},
@@ -9000,7 +9008,8 @@
     {"name": "YEHH JADU HAI JINN KA!", "year": "2019"}
   ],
   "TV PÚBLICA DİZİLERİ": [
-    {"name": "EL MARGINAL", "year": "2016"}
+    {"name": "EL MARGINAL", "year": "2016"},
+    {"name": "LA COSA MAL", "year": "2015"}
   ],
   "DISCOVERY FAMILY DİZİLERİ": [
     {"name": "TIME WARP TRIO", "year": "2005"},
@@ -9130,5 +9139,17 @@
   ],
   "SBS 6 DİZİLERİ": [
 
+  ],
+  "WWE NETWORK DİZİLERİ": [
+    {"name": "WWE UNTOLD", "year": "2018"}
+  ],
+  "BBC ONE YORKSHIRE AND LINCOLNSHIRE DİZİLERİ": [
+    {"name": "INSIDE: ABD", "year": "2006"}
+  ],
+  "FOX CRIME DİZİLERİ": [
+    {"name": "IL MOSTRO DI FIRENZE", "year": "2009"}
+  ],
+  "TELEVÍZIA MARKÍZA DİZİLERİ": [
+    {"name": "MESTO TIEŇOV", "year": "2008"}
   ]
 }
