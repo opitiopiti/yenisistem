@@ -1,398 +1,416 @@
 {
-  "/dizi/pennyworth/": {
-    "group": "Pennyworth: The Origin of Batman's Butler",
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/original/mEHMfWe7pCWMelEkdrtRvVULopT.jpg",
-    "imdb": 7.8
+  "/dizi/the-darkness/": {
+    "group": "Echoes in the Darkness",
+    "year": "1987",
+    "poster": "https://image.tmdb.org/t/p/original/4BbVcJMRSK4J3O17vxGlCEVfYTH.jpg",
+    "imdb": 0.0
   },
-  "/dizi/baskets/": {
-    "group": "Baskets",
-    "year": "2016",
-    "poster": "https://image.tmdb.org/t/p/original/kkbttiaCH1brriYAoBFVvNHHOcn.jpg",
-    "imdb": 7.0
+  "/dizi/long-way-home/": {
+    "group": "Long Way Home",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/1RwUnfSIChKVfsrS69ZMN51RhRA.jpg",
+    "imdb": 7.9
   },
-  "/dizi/the-affair/": {
-    "group": "The Affair",
-    "year": "2014",
-    "poster": "https://image.tmdb.org/t/p/original/8scKJeu6GoxMqpt7UO5aMeU0TOn.jpg",
-    "imdb": 6.7
+  "/dizi/snakes-and-ladders/": {
+    "group": "Snakes and Ladders",
+    "year": "1989",
+    "poster": "https://image.tmdb.org/t/p/original/d538V4g0ZoGvaIlBaMiGFjbo1Sq.jpg",
+    "imdb": 0.0
   },
-  "/dizi/la-mante/": {
-    "group": "Mantis",
-    "year": "2017",
-    "poster": "https://image.tmdb.org/t/p/original/qyZtFzKozN6oiIhCwctdrJwO50b.jpg",
-    "imdb": 7.0
+  "/dizi/untold/": {
+    "group": "WWE Untold",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/original/yygFWRNbwEEmoOF3j99BJHQ9d8l.jpg",
+    "imdb": 0.0
   },
-  "/dizi/the-unit/": {
-    "group": "The Unit",
-    "year": "2006",
-    "poster": "https://image.tmdb.org/t/p/original/ftwhXqizcVRo4pgqFnTysR9tAIM.jpg",
-    "imdb": 7.3
+  "/dizi/our-unwritten-seoul/": {
+    "group": "Our Unwritten Seoul",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/woGYRE5vChxqUqTBJJaOhO9Cqk6.jpg",
+    "imdb": 8.4
   },
-  "/dizi/the-rook/": {
-    "group": "The Rook",
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/original/wwAy8PF5fx1ttY5T4pltL2vxNgs.jpg",
+  "/dizi/mad-unicorn/": {
+    "group": "Hızlı Teslimat",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/7QeX24363a9AeaZ7UnIpFHDlH1F.jpg",
+    "imdb": 8.8
+  },
+  "/dizi/the-mortician/": {
+    "group": "Cenazeci",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/vhJ3FFCtL5I3FKJmJ75WL5xdQgy.jpg",
+    "imdb": 7.1
+  },
+  "/dizi/aniela/": {
+    "group": "Aniela",
+    "year": "2009",
+    "poster": "https://image.tmdb.org/t/p/original/B5xMaOvJGA2quijDbla4j7cSyw.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/chespirito-not-really-on-purpose/": {
+    "group": "Chespirito: Not really on purpose",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/iMrFH5GNdjJtvSuUpCzunhdZcdT.jpg",
+    "imdb": 8.0
+  },
+  "/dizi/romcon-who-the-fk-is-jason-porter/": {
+    "group": "Romantik Dolandırıcı: Kim bu Jason Porter?",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/zCJhrURXonq6QRdERvbx76OP5FK.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/the-suite-life-on-deck/": {
+    "group": "Zack ve Cody Güvertede",
+    "year": "2008",
+    "poster": "https://image.tmdb.org/t/p/original/j37l9CYQxTMzzy6vCgdbW0Nmjoy.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/under-a-dark-sun/": {
+    "group": "Siyah Güneş",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/kvRTqH3wRYlFMqrg7l4wVjB1TYf.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/irma-vep/": {
+    "group": "Irma Vep",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/gVST8KoYxV8A0ZtlitzEaKeE5L2.jpg",
     "imdb": 6.5
   },
-  "/dizi/marvels-runaways/": {
-    "group": "Marvel's Runaways",
-    "year": "2017",
-    "poster": "https://image.tmdb.org/t/p/original/hnHEhbzh0F7kN3Ah1lzRjtQuW16.jpg",
+  "/dizi/low-life/": {
+    "group": "Low Life",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/MHx7VaeclEFLlV3OL0zV0la5oZ.jpg",
+    "imdb": 7.1
+  },
+  "/dizi/hitmakers/": {
+    "group": "Hit Şarkıların Yazarları",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/dZ2n30NvXLTa2E9YQHz6rosHdko.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/the-winning-try/": {
+    "group": "The Winning Try",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/lGLMcZyPNNXVOaFZOAuMFrtYsH5.jpg",
+    "imdb": 8.5
+  },
+  "/dizi/hajime-no-ippo-fighting-spirit/": {
+    "group": "Fighting Spirit MMA",
+    "year": "2010",
+    "poster": "https://image.tmdb.org/t/p/original/vcIYlKjyJWh6RLVkZnnHMMuBpAI.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/glass-heart/": {
+    "group": "Glass Heart",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/bAyTAAtY9ccmnKgsH7xqZLyQw16.jpg",
+    "imdb": 8.4
+  },
+  "/dizi/the-yogurt-shop-murders/": {
+    "group": "The Yogurt Shop Murders",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/r25wcu2RZcWzq6GtR8MPD7i25OS.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/love-is-blind-uk/": {
+    "group": "Love is Blind: Birleşik Krallık",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/rGeMqJbsKBvt7YoAgeNcpnC75ge.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/in-the-mud/": {
+    "group": "غصون في الوحل",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/n8Wbf97mYpTGW40EMaWhfVP0Mjg.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/aema/": {
+    "group": "Aema",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/8nqMjX3d0oVEnXWrpqsgEhxqen5.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/two-graves/": {
+    "group": "Two Shallow Graves",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/cvCzL1RfVSvSaWBQxVZYUsnm5UH.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/kpopped/": {
+    "group": "KPOPPED",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/gIOJfyABw8QWjvRT1BfkPyoBISe.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/the-runarounds/": {
+    "group": "The Runarounds",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/653V492dSynzQcSDPubzZLJAjkf.jpg",
+    "imdb": 8.0
+  },
+  "/dizi/tempest/": {
+    "group": "Tempest",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/A2wLUIQ1V8dTLlhz7TwwTM84Ak.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/beauty-and-the-bester/": {
+    "group": "Thabo Bester: Bir Canavarın Kaçış Hikâyesi",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/obSkCHbM7FSxYS1raahO7TLVifO.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/maledictions/": {
+    "group": "Lanetler",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/x1nTOgqSWOSqAttI2QhJCK2NDAN.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/inside-usa/": {
+    "group": "Inside: ABD",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/757sSeqtdKCPO48WvARUOEKFTqc.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/the-murky-stream/": {
+    "group": "Bulanık Dere",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/8F9lwJueqM3xPQJnXW2bQOqMGf7.jpg",
+    "imdb": 7.8
+  },
+  "/dizi/my-wife-and-kids/": {
+    "group": "My Wife and Kids",
+    "year": "2001",
+    "poster": "https://image.tmdb.org/t/p/original/eyQsN8bU27fdIs2D66gFmcIo0dM.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/romantics-anonymous/": {
+    "group": "Romantics Anonymous",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/pWxp3dGimhJEm4J7A4k1yj4154C.jpg",
+    "imdb": 8.2
+  },
+  "/dizi/the-monster-of-florence/": {
+    "group": "Il mostro di Firenze",
+    "year": "2009",
+    "poster": "https://image.tmdb.org/t/p/original/5dHuJyAI95QBMexxygvfUPef1m8.jpg",
     "imdb": 7.3
   },
-  "/dizi/the-chosen-one/": {
-    "group": "The Chosen One",
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/original/kbAheGTyuU0vCWOjzeFkd24bPuJ.jpg",
-    "imdb": 6.8
+  "/dizi/juan-gabriel-i-must-i-can-i-will/": {
+    "group": "Juan Gabriel: I Must, I Can, I Will",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/c9rfR44NJIQTtWXpBXkYXqupgfr.jpg",
+    "imdb": 8.6
   },
-  "/dizi/the-pier/": {
-    "group": "The End Of The Pier Show",
-    "year": "1974",
+  "/dizi/saare-jahan-se-accha-the-silent-guardians/": {
+    "group": "Gizli Muhafızlar",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/p4moj0PXeFILF3mNBJywHqmfBm7.jpg",
+    "imdb": 6.0
+  },
+  "/dizi/had-i-not-seen-the-sun/": {
+    "group": "Had I Not Seen the Sun",
+    "year": "0",
     "poster": "",
     "imdb": 0.0
   },
-  "/dizi/unit/": {
-    "group": "Unité 42",
-    "year": "2017",
-    "poster": "https://image.tmdb.org/t/p/original/wu1V250LBGv8VISXoNsC9qKl9qh.jpg",
-    "imdb": 5.8
-  },
-  "/dizi/stargate-atlantis/": {
-    "group": "Stargate Atlantis",
-    "year": "2004",
-    "poster": "https://image.tmdb.org/t/p/original/l0JYr2iqwId6VOmCV8dHzlIM6Wd.jpg",
-    "imdb": 8.0
-  },
-  "/dizi/the-prisoner/": {
-    "group": "The Prisoner",
-    "year": "1967",
-    "poster": "https://image.tmdb.org/t/p/original/1FtqAlj6jsBk25PKwL2NrgzdFSo.jpg",
-    "imdb": 7.7
-  },
-  "/dizi/wallander/": {
-    "group": "Wallander",
-    "year": "2005",
-    "poster": "https://image.tmdb.org/t/p/original/fTyD5mKW6Id4vb7qQN5D81s6waX.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/the-paper/": {
-    "group": "The Paper",
+  "/dizi/knife-edge-chasing-michelin-stars/": {
+    "group": "Knife Edge: Chasing Michelin Stars",
     "year": "2025",
-    "poster": "https://image.tmdb.org/t/p/original/ySA5MvhoxTdezNUMe0ifPmhxH4w.jpg",
-    "imdb": 7.1
-  },
-  "/dizi/zero-hour/": {
-    "group": "Zero Hour",
-    "year": "2013",
-    "poster": "https://image.tmdb.org/t/p/original/vRExY6DiLcDp4q4o8KJveDNmQwo.jpg",
-    "imdb": 5.6
-  },
-  "/dizi/the-fades/": {
-    "group": "The Fades",
-    "year": "2011",
-    "poster": "https://image.tmdb.org/t/p/original/6YEXq1g6QQ3k5rEaeocMNk3eGcF.jpg",
-    "imdb": 7.2
-  },
-  "/dizi/the-five/": {
-    "group": "The Five",
-    "year": "2016",
-    "poster": "https://image.tmdb.org/t/p/original/dAWDDSMkx0A1D9QbiBeUoV954qF.jpg",
-    "imdb": 6.8
-  },
-  "/dizi/roots/": {
-    "group": "Roots",
-    "year": "1977",
-    "poster": "https://image.tmdb.org/t/p/original/enNlryvjiyPLhIZNgAmzVrHGiMG.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/stitchers/": {
-    "group": "Stitchers",
-    "year": "2015",
-    "poster": "https://image.tmdb.org/t/p/original/wriOiQ3rdPhoMe1NofcLJRx9fns.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/freakish/": {
-    "group": "Freakish",
-    "year": "2016",
-    "poster": "https://image.tmdb.org/t/p/original/mfnKy9zX5t56gE1Tp5OWikF6agE.jpg",
-    "imdb": 6.4
-  },
-  "/dizi/rellik/": {
-    "group": "Rellik",
-    "year": "2017",
-    "poster": "https://image.tmdb.org/t/p/original/trsaHyd2kg7ZIZKrNaINQx9m1AG.jpg",
-    "imdb": 6.1
-  },
-  "/dizi/tabula-rasa/": {
-    "group": "Tabula Rasa",
-    "year": "2017",
-    "poster": "https://image.tmdb.org/t/p/original/rZW3ZCScA98Eej75JcTqUWfxwhS.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/the-defiant-ones/": {
-    "group": "Meydan Okuyanlar",
-    "year": "2017",
-    "poster": "https://image.tmdb.org/t/p/original/38JFkjD3SZvbDKvgDEXPUXbK5d0.jpg",
-    "imdb": 7.8
-  },
-  "/dizi/hemlock-grove/": {
-    "group": "Hemlock Grove",
-    "year": "2013",
-    "poster": "https://image.tmdb.org/t/p/original/zu3bPbiYPsHt12A0LIPRUASmnqO.jpg",
-    "imdb": 7.1
-  },
-  "/dizi/mom/": {
-    "group": "Mom",
-    "year": "2013",
-    "poster": "https://image.tmdb.org/t/p/original/kIi3T7X0kmiV9vGDme146P2d979.jpg",
-    "imdb": 7.3
-  },
-  "/dizi/jericho/": {
-    "group": "Jericho",
-    "year": "2006",
-    "poster": "https://image.tmdb.org/t/p/original/a57H9UsS388Av2LSLKO9inNmY7j.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/the-velvet-collection/": {
-    "group": "Velvet Colección",
-    "year": "2017",
-    "poster": "https://image.tmdb.org/t/p/original/dYrLZbWKKSUECCQ5CCvpEm6HZma.jpg",
-    "imdb": 5.7
-  },
-  "/dizi/the-kettering-incident/": {
-    "group": "The Kettering Incident",
-    "year": "2016",
-    "poster": "https://image.tmdb.org/t/p/original/cHvjyl7y7kqXpciGfYsFCyYmjVp.jpg",
-    "imdb": 6.5
-  },
-  "/dizi/the-lost-room/": {
-    "group": "The Lost Room",
-    "year": "2006",
-    "poster": "https://image.tmdb.org/t/p/original/ixfo1ysvboBxYehdDDC9D0T3Q33.jpg",
-    "imdb": 7.8
-  },
-  "/dizi/the-pillars-of-the-earth/": {
-    "group": "Bir Katedralin Öyküsü",
-    "year": "2010",
-    "poster": "https://image.tmdb.org/t/p/original/952uUaNc6zJbb0rXSwFPskp2SKY.jpg",
-    "imdb": 7.7
-  },
-  "/dizi/versailles/": {
-    "group": "Versay",
-    "year": "2015",
-    "poster": "https://image.tmdb.org/t/p/original/fMqCRNpc2FadD0n7vJLRmlS0aEt.jpg",
-    "imdb": 7.7
-  },
-  "/dizi/tell-me-a-story/": {
-    "group": "Bana Masal Anlat",
-    "year": "2018",
-    "poster": "https://image.tmdb.org/t/p/original/56aw0q12N8ujbcEdCXaLZMfAYXd.jpg",
-    "imdb": 7.1
-  },
-  "/dizi/cathedral-of-the-sea/": {
-    "group": "Deniz Katedrali",
-    "year": "2018",
-    "poster": "https://image.tmdb.org/t/p/original/2JL3GtBBHK3wYhKqAm5i509kRA3.jpg",
-    "imdb": 6.7
-  },
-  "/dizi/the-mick/": {
-    "group": "The Mick",
-    "year": "2017",
-    "poster": "https://image.tmdb.org/t/p/original/jwYBohob30EeP1rJJMx9zcWSaGS.jpg",
-    "imdb": 7.1
-  },
-  "/dizi/legend-of-the-seeker/": {
-    "group": "Legend of the Seeker",
-    "year": "2008",
-    "poster": "https://image.tmdb.org/t/p/original/ibclBUwEjsvfi8hpdO2i9jdOMUI.jpg",
-    "imdb": 7.5
-  },
-  "/dizi/the-pacific/": {
-    "group": "The Pacific",
-    "year": "2010",
-    "poster": "https://image.tmdb.org/t/p/original/x9Y1IMFdY8Ma222KcQadFEau0EB.jpg",
-    "imdb": 7.8
-  },
-  "/dizi/the-twilight-zone/": {
-    "group": "Alacakaranlık Kuşağı",
-    "year": "1959",
-    "poster": "https://image.tmdb.org/t/p/original/rgXN8DsraVEjCD9tOWuR8wnpcaB.jpg",
-    "imdb": 8.5
-  },
-  "/dizi/terminator-the-sarah-connor-chronicles/": {
-    "group": "Terminator: The Sarah Connor Chronicles",
-    "year": "2008",
-    "poster": "https://image.tmdb.org/t/p/original/a6ikbXQFChlVjr2G5AFgwMHPtEN.jpg",
-    "imdb": 7.5
-  },
-  "/dizi/transferts/": {
-    "group": "Transferts",
-    "year": "2017",
-    "poster": "https://image.tmdb.org/t/p/original/6VxiBzO0hY1PoGTkWFbDsucKUrH.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/the-guest-book/": {
-    "group": "The Guest Book",
-    "year": "2017",
-    "poster": "https://image.tmdb.org/t/p/original/7fHjNrwB0qWZ9FsCVivQuAd8H2g.jpg",
-    "imdb": 7.0
-  },
-  "/dizi/cocaine-coast/": {
-    "group": "Kokain Sahili",
-    "year": "2018",
-    "poster": "https://image.tmdb.org/t/p/original/rYHpGglzDjGlRtsqb2O52ktfnmW.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/when-calls-the-heart/": {
-    "group": "Kalp Çağrısı",
-    "year": "2014",
-    "poster": "https://image.tmdb.org/t/p/original/3d8XxE3qDLzeewtaC4DGamI6Ofa.jpg",
-    "imdb": 8.3
-  },
-  "/dizi/svartsjon/": {
-    "group": "Lac-Noir",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/original/unAqKRyIwjwLtjdWgcXFYrMIZZ.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/sCdkFjh3o1wW2Wd82IHG6gXBA3D.jpg",
     "imdb": 0.0
   },
-  "/dizi/man-seeking-woman/": {
-    "group": "Kadın Arayan Adam",
-    "year": "2015",
-    "poster": "https://image.tmdb.org/t/p/original/wXsJOBQm8zuYe89iItzIOeA0YTX.jpg",
-    "imdb": 7.0
+  "/dizi/playing-gracie-darling/": {
+    "group": "Playing Gracie Darling",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/7UWdkbSUd1d1GB28IyIKDbftzhM.jpg",
+    "imdb": 6.2
   },
-  "/dizi/gunpowder/": {
-    "group": "Gunpowder",
+  "/dizi/city-of-shadows/": {
+    "group": "Mesto tieňov",
+    "year": "2008",
+    "poster": "https://image.tmdb.org/t/p/original/kB2Kys2Y4aizb1uMVqCwPOLMsVK.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/born-to-be-wild/": {
+    "group": "Born to Be Wild",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/m1Ih0GIUIWez6H4vNOdiKSow4w.jpg",
+    "imdb": 8.5
+  },
+  "/dizi/million-follower-detective/": {
+    "group": "Million-Follower Detective",
+    "year": "0",
+    "poster": "",
+    "imdb": 0.0
+  },
+  "/dizi/down-for-love/": {
+    "group": "Aşk Sendromu",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/o6Udbjr4wURYJhmSsTmZlG548h0.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/smilf/": {
+    "group": "SMILF",
     "year": "2017",
-    "poster": "https://image.tmdb.org/t/p/original/3eHeKVmm08g8LDoXobBioyti7id.jpg",
-    "imdb": 6.8
-  },
-  "/dizi/who-is-america/": {
-    "group": "Who Is America?",
-    "year": "2018",
-    "poster": "https://image.tmdb.org/t/p/original/c9mfeInTpaaft7FzbeAdTj1eCAt.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/touch/": {
-    "group": "Touch",
-    "year": "2012",
-    "poster": "https://image.tmdb.org/t/p/original/4qreaxQD4azrRuZWdevyjVAKt8V.jpg",
-    "imdb": 6.6
-  },
-  "/dizi/the-librarians/": {
-    "group": "The Librarians",
-    "year": "2014",
-    "poster": "https://image.tmdb.org/t/p/original/jnEzRcKFqaSXLAP87gVKTXawwGg.jpg",
-    "imdb": 7.2
-  },
-  "/dizi/the-tomorrow-people/": {
-    "group": "Yarının İnsanları",
-    "year": "2013",
-    "poster": "https://image.tmdb.org/t/p/original/3EavFY6TuhDm4ERbDGrZ1oEqB57.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/stargate-universe/": {
-    "group": "Stargate Universe",
-    "year": "2009",
-    "poster": "https://image.tmdb.org/t/p/original/dHOaOZGUhnoRXeK9mhYeSRPh59H.jpg",
-    "imdb": 7.4
-  },
-  "/dizi/last-resort/": {
-    "group": "Last Resort",
-    "year": "2012",
-    "poster": "https://image.tmdb.org/t/p/original/sU4bMBN12QZxSNp6A1U3UHUGxlY.jpg",
-    "imdb": 6.7
-  },
-  "/dizi/dominion/": {
-    "group": "Dominion",
-    "year": "2014",
-    "poster": "https://image.tmdb.org/t/p/original/2rBiS2m5hZbTSxorXQmUcbt2cTU.jpg",
-    "imdb": 6.5
-  },
-  "/dizi/minority-report/": {
-    "group": "Minority Report",
-    "year": "2015",
-    "poster": "https://image.tmdb.org/t/p/original/oUbANT6vjAFbHvhDQ3cxCZOzPK1.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/yrHVP3NQgvMwGhjcA9W49P7uE4O.jpg",
     "imdb": 5.9
   },
-  "/dizi/sleepy-hollow/": {
-    "group": "Sleepy Hollow",
+  "/dizi/crap-happens/": {
+    "group": "La Cosa Mal",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/t1crZAAlQ7pXKG6FtlmoRYjOWQ6.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/pretty-hard-cases/": {
+    "group": "Pretty Hard Cases",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/logy60poXm2R5RKPE0YaArgcZv1.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/london-irish/": {
+    "group": "London Irish",
     "year": "2013",
-    "poster": "https://image.tmdb.org/t/p/original/2RHj62XneYMCRPAyQrEIrKVij12.jpg",
-    "imdb": 7.4
+    "poster": "https://image.tmdb.org/t/p/original/191QgMNYwQ5TXbBMhOhmUC5SkrU.jpg",
+    "imdb": 7.6
   },
-  "/dizi/cuckoo/": {
-    "group": "Cuckoo",
-    "year": "2012",
-    "poster": "https://image.tmdb.org/t/p/original/eFBfQIouobewXiw5g1fWwwNt7t0.jpg",
-    "imdb": 6.7
+  "/dizi/a-christmas-carol/": {
+    "group": "A Christmas Carol",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/jVt8wyiVxmqozjTcNIIK64REp2H.jpg",
+    "imdb": 0.0
   },
-  "/dizi/helix/": {
-    "group": "Helix",
-    "year": "2014",
-    "poster": "https://image.tmdb.org/t/p/original/7goT0IcsXjRo9fdMlWKr6ZRmaNP.jpg",
-    "imdb": 6.6
+  "/dizi/blood-machines/": {
+    "group": "Blood Machines",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/63YJqpUJZ1d6JmeRawLMy4yYKsN.jpg",
+    "imdb": 0.0
   },
-  "/dizi/haven/": {
-    "group": "Haven",
-    "year": "2010",
-    "poster": "https://image.tmdb.org/t/p/original/aceumwROgphFLSyOXFfijaoSZJE.jpg",
-    "imdb": 7.5
+  "/dizi/looking-for-alaska/": {
+    "group": "Looking for Alaska",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/9Sf2xUDLU0gyJfwDvmXhIqIzgrj.jpg",
+    "imdb": 7.9
   },
-  "/dizi/extant/": {
-    "group": "Extant",
-    "year": "2014",
-    "poster": "https://image.tmdb.org/t/p/original/nFwqHXoP1FxFbd8G8dY13y9bfAX.jpg",
-    "imdb": 6.3
+  "/dizi/the-making-of-the-mob/": {
+    "group": "The Making of The Mob",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/original/izg65s60N9nl2QZWF7KBXODKa3D.jpg",
+    "imdb": 6.8
   },
-  "/dizi/klondike/": {
-    "group": "Klondike",
-    "year": "2014",
-    "poster": "https://image.tmdb.org/t/p/original/2GefrF8K5fqyiHoMF0M5Qh8LCi5.jpg",
+  "/dizi/dag/": {
+    "group": "DAG",
+    "year": "2000",
+    "poster": "https://image.tmdb.org/t/p/original/lGSG9MSSg37OArbla5gh2KFR4Ha.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/legacies/": {
+    "group": "Legacies",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/original/qTZIgXrBKURBK1KrsT7fe3qwtl9.jpg",
+    "imdb": 8.4
+  },
+  "/dizi/burning-bush/": {
+    "group": "Devrim Ateşi",
+    "year": "2013",
+    "poster": "https://image.tmdb.org/t/p/original/8zSUqSpQN8YSb0ZuPuZ3Q2IC3Aq.jpg",
     "imdb": 7.1
   },
-  "/dizi/future-man/": {
-    "group": "Future Man",
-    "year": "2017",
-    "poster": "https://image.tmdb.org/t/p/original/49mOgAEa4eKpPsoBH8UvvXwEMDT.jpg",
+  "/dizi/secrets-and-lies/": {
+    "group": "Secrets & Lies",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/original/y1HaNebKAtwHOSpC3T3NTChoKtJ.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/casual/": {
+    "group": "Casual",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/original/wWxTA0T98HRaIqP01iQtuY9QlOC.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/rake/": {
+    "group": "Rake",
+    "year": "2010",
+    "poster": "https://image.tmdb.org/t/p/original/fEZ7l6pKP0ORZ26VsBjeEnRPKG5.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/hinterland/": {
+    "group": "Y Gwyll",
+    "year": "2013",
+    "poster": "https://image.tmdb.org/t/p/original/uyYp5sZqTkviCtRjQNuOuqWTssM.jpg",
     "imdb": 7.2
   },
-  "/dizi/scorpion/": {
-    "group": "Scorpion",
+  "/dizi/the-after/": {
+    "group": "The After",
     "year": "2014",
-    "poster": "https://image.tmdb.org/t/p/original/hzeirSF6bRjssDh5JFrm5WRwFLd.jpg",
-    "imdb": 8.2
+    "poster": "https://image.tmdb.org/t/p/original/kP8Rvq5C6zRWzYZJJlk3f1jXstY.jpg",
+    "imdb": 6.6
   },
-  "/dizi/chance/": {
-    "group": "Chance",
+  "/dizi/houdini/": {
+    "group": "Houdini & Doyle",
     "year": "2016",
-    "poster": "https://image.tmdb.org/t/p/original/OC3QtOSM8fURbkV6nJ8guOUFnu.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/yEyowhS6l1vwvvu92mcdrdUogXn.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/8-days/": {
+    "group": "8 Days That Made Rome",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/original/wrpnMRcdi5i40TdJ02j4fIlwzx4.jpg",
+    "imdb": 8.1
+  },
+  "/dizi/the-kennedys/": {
+    "group": "Kennedy Ailesi",
+    "year": "2011",
+    "poster": "https://image.tmdb.org/t/p/original/5p9PlTy9I4svxsEHzDXrDdv809v.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/this-is-england/": {
+    "group": "This Is England '86",
+    "year": "2010",
+    "poster": "https://image.tmdb.org/t/p/original/hUwvcDAZG0nbVQokqZh1oQt8Cpm.jpg",
+    "imdb": 7.8
+  },
+  "/dizi/the-catch/": {
+    "group": "The Catch",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/original/yqaRCjgG2dbBtCLrHISkHVCnGDE.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/the-enemy-within/": {
+    "group": "The Enemy Within",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/AaEEjBDTuoLA9e0e4EQDBRxwDtZ.jpg",
     "imdb": 6.9
   },
-  "/dizi/the-cry/": {
-    "group": "The Cry",
-    "year": "2018",
-    "poster": "https://image.tmdb.org/t/p/original/a7Qdjk9jBSkZM3Zobfj2ua2pw7r.jpg",
-    "imdb": 6.6
+  "/dizi/rotten/": {
+    "group": "Rotten Mango",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/bSPxKdrsA8QsdZ644hgHSHnHnht.jpg",
+    "imdb": 0.0
   },
-  "/dizi/tin-star/": {
-    "group": "Tin Star",
-    "year": "2017",
-    "poster": "https://image.tmdb.org/t/p/original/lFHZBtugqDiLtjVP9GC3Ig5GfwU.jpg",
-    "imdb": 6.6
-  },
-  "/dizi/nikita/": {
-    "group": "Nikita",
+  "/dizi/jack-taylor/": {
+    "group": "Jack Taylor",
     "year": "2010",
-    "poster": "https://image.tmdb.org/t/p/original/762vNuJRCKv4Dw27cSza77YTvJz.jpg",
-    "imdb": 7.3
+    "poster": "https://image.tmdb.org/t/p/original/slQ1Ub79XQwlyZeEej4LH8COWGN.jpg",
+    "imdb": 6.9
   },
-  "/dizi/deadly-class/": {
-    "group": "Deadly Class",
+  "/dizi/uncontrollably-fond/": {
+    "group": "Uncontrollably Fond",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/original/1QRIGPpzIr9ifaUaFxTADaGV3S1.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/bloom/": {
+    "group": "Bloom",
     "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/original/u2GSiPazSXpyNQz0yymOUCUm944.jpg",
-    "imdb": 7.4
+    "poster": "https://image.tmdb.org/t/p/original/hQLvvlRcOvHogJjYxnqAbhGc8hR.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/secret-diary-of-a-call-girl/": {
+    "group": "Bir Telekızının Gizli Günlüğü",
+    "year": "2007",
+    "poster": "https://image.tmdb.org/t/p/original/ewp0mtvdtb1QLq8CRzlL2MMdTss.jpg",
+    "imdb": 6.8
   }
 }
