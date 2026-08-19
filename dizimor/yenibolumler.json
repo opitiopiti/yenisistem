@@ -1,4 +1,70 @@
 {
+  "/dizi/the-missing/": {
+    "group": "The Missing",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/original/yZnR6EccMv4Evcady5M8MSzAmuq.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/doctor-foster/": {
+    "group": "Doctor Foster",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/original/gJiaterDM3tZ2yioR24RzJpLhzD.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/strike-back/": {
+    "group": "Strike Back",
+    "year": "2010",
+    "poster": "https://image.tmdb.org/t/p/original/c0ItaC2Grf4WVJ06G87BjNn9pRs.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/rome/": {
+    "group": "Roma",
+    "year": "2005",
+    "poster": "https://image.tmdb.org/t/p/original/1A1BwgWO3Sw379VEhR0vkTuE3XW.jpg",
+    "imdb": 8.2
+  },
+  "/dizi/happy/": {
+    "group": "Happy Days",
+    "year": "1974",
+    "poster": "https://image.tmdb.org/t/p/original/sepIwNPCEhkKvFOQSjXK6tekkjR.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/wynonna-earp/": {
+    "group": "Wynonna Earp",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/original/qnIaDelA81dmFaXrhpz6M6dpGSD.jpg",
+    "imdb": 7.8
+  },
+  "/dizi/origin/": {
+    "group": "Origin",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/original/h01iyro5u51wr2e6bXadHjmQ5Dd.jpg",
+    "imdb": 7.1
+  },
+  "/dizi/timeless/": {
+    "group": "Timeless",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/original/wFaS9kROwztTWNxIKBbOLwIgApV.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/midnight-texas/": {
+    "group": "Midnight, Texas",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/original/jsBaMDKtE7BikyFI8v59YlwwhIu.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/the-deuce/": {
+    "group": "The Deuce",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/original/tKFUwmue5g45rthZOyYWd7l931y.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/ripper-street/": {
+    "group": "Ripper Street",
+    "year": "2012",
+    "poster": "https://image.tmdb.org/t/p/original/6w8yKYsA7RkuyauW224kBZQebFt.jpg",
+    "imdb": 7.4
+  },
   "/dizi/amsterdam-centraal-24/": {
     "group": "Amsterdam Centraal 24/7",
     "year": "2025",
