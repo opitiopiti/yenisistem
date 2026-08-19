@@ -1,4 +1,10 @@
 {
+  "/diziler/re-zero-starting-life-in-another-world.html": {
+    "group": "RE: ZERO - STARTING LIFE IN ANOTHER WORLD",
+    "year": "2016",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/aRwmcX36r1ZpR5Xq5mmFcpUDQ8J.jpg"
+  },
   "/diziler/trying.html": {
     "group": "TRYING",
     "year": "2020",
@@ -82,11 +88,5 @@
     "year": "2023",
     "imdb": "7.7",
     "poster": "https://image.tmdb.org/t/p/w500/kocOUpdLnHyqfMW4jSRLxWT0QhM.jpg"
-  },
-  "/diziler/bleach-thousand-year-blood-war.html": {
-    "group": "BLEACH: THOUSAND-YEAR BLOOD WAR",
-    "year": "2022",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/cR4P0EJrLX2bdWij1VYLf8VB78M.jpg"
   }
 }
