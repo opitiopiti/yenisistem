@@ -3116,8 +3116,8 @@
   "1520": {
     "name": "RE ZERO STARTING LIFE IN ANOTHER WORLD REZERO STARTING (2016)",
     "last_season": 1,
-    "last_episode": 77,
-    "last_modified": 1783174642
+    "last_episode": 79,
+    "last_modified": 1787205845
   },
   "1521": {
     "name": "AMERICAN DRAGON: JAKE LONG (2005)",
@@ -4100,8 +4100,8 @@
   "1684": {
     "name": "BLEACH (2004)",
     "last_season": 2,
-    "last_episode": 42,
-    "last_modified": 1785755147
+    "last_episode": 44,
+    "last_modified": 1787205845
   },
   "1685": {
     "name": "KIM POSSIBLE (2002)",
@@ -4724,8 +4724,8 @@
   "1788": {
     "name": "ONE PIECE (1999) İNGİLİZCE",
     "last_season": 23,
-    "last_episode": 1172,
-    "last_modified": 1785755147
+    "last_episode": 1174,
+    "last_modified": 1787205845
   },
   "1789": {
     "name": "DEMON SLAYER: KIMETSU NO YAIBA (2019)",
@@ -72098,8 +72098,8 @@
   "15047": {
     "name": "STAR TREK STRANGE NEW WORLDS (2022)",
     "last_season": 4,
-    "last_episode": 1,
-    "last_modified": 1785917518
+    "last_episode": 3,
+    "last_modified": 1787205845
   },
   "15053": {
     "name": "STAR WARS: VISIONS PRESENTS (2026)",
@@ -72322,5 +72322,11 @@
     "last_season": 1,
     "last_episode": 2,
     "last_modified": 1787155697
+  },
+  "15173": {
+    "name": "X MEN 97 (2024)",
+    "last_season": 2,
+    "last_episode": 9,
+    "last_modified": 1787205845
   }
 }
