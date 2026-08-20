@@ -31054,5 +31054,395 @@
     "year": "2024",
     "poster": "https://image.tmdb.org/t/p/original/PFwqLDF2n5q62kDW37qP59ZHCv.jpg",
     "imdb": 6.0
+  },
+  "/dizi/the-winchesters/": {
+    "group": "The Winchesters",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/oyleYabGfn6c50bIo4M3c7ogrfL.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/the-watcher/": {
+    "group": "The Watcher",
+    "year": "1995",
+    "poster": "https://image.tmdb.org/t/p/original/6RrseODZo2e66XOzC1XMzMuecnf.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/unsolved-the-murders-of-tupac-and-the-notorious-b-i-g/": {
+    "group": "Unsolved: The Murders of Tupac and The Notorious B.I.G.",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/original/qWV5jwbQcPsQpLJnzB71gVIp9na.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/five-came-back-the-reference-films/": {
+    "group": "Five Came Back - The Reference Films",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/7kdWQgjcSc3JiSZ027G4lUVZJ7N.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/the-gloaming/": {
+    "group": "The Gloaming",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/tgPN0Ur45f3upig342nu3cPzz5C.jpg",
+    "imdb": 6.3
+  },
+  "/dizi/dubai-bling/": {
+    "group": "Sofia Bling Bling Dubai",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/oDpsCJRa7P6EwsrHH0ZeUzIMPIa.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/swimming-with-sharks/": {
+    "group": "Swimming with Sharks",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/kiBuVgOdEYAx2kApt5FJ4SXiczz.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/a-grito-herido/": {
+    "group": "Tiklerimden Fazlasıyım",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/aAMITid8hFFytKmdeh3eSNbCJDA.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/lie-with-me/": {
+    "group": "Lie With Me",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/lK34ugXXc5hxlRvFBEpyixuJEGU.jpg",
+    "imdb": 6.3
+  },
+  "/dizi/the-end-of-love/": {
+    "group": "Love at the End of the World",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/9yrqUR1PeqdJ0RvAhKEnvio2gbD.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/woman-of-the-dead/": {
+    "group": "The Dead Woman of Amelung",
+    "year": "1995",
+    "poster": "https://image.tmdb.org/t/p/original/s5rBXJ2CFK9rWRZmLl0vqrPcSrM.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/poong-the-joseon-psychiatrist/": {
+    "group": "Poong, the Joseon Psychiatrist",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/wT1sEPCuOqdu1ibSeLhxKJABrWj.jpg",
+    "imdb": 5.5
+  },
+  "/dizi/so-i-married-an-anti-fan/": {
+    "group": "Bir Anti-Fan'ımla Evlendim",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/wcRJ64E8xrO1GxuRIp2RXwE7sU6.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/il-re/": {
+    "group": "The King",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/sIFDFiOTOJ6H7TdyT8BBUibrCh3.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/please-come-back-mister/": {
+    "group": "Please Come Back, Mister",
+    "year": "0",
+    "poster": "https://image.tmdb.org/t/p/original/diC6kUl5Z050pbGJRMuODYqOVBf.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/prime-time/": {
+    "group": "WWF Prime Time Wrestling",
+    "year": "1985",
+    "poster": "https://image.tmdb.org/t/p/original/9AlHvGSjxZ9CN4uN9ThJ7RGqc4y.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/frozen-planet-ii/": {
+    "group": "Donmuş Gezegen II",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/p3hSdvuPfx7AXgOk7Ut1Spin6FJ.jpg",
+    "imdb": 8.4
+  },
+  "/dizi/web-of-death/": {
+    "group": "Web of Death",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/original/sQkQTFmESc2AcG7nbmfbNsjaybV.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/witness-number/": {
+    "group": "Witness Number 3",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/ndsa5dKu1U0QDpwNfDd8Ajd4tjt.jpg",
+    "imdb": 6.1
+  },
+  "/dizi/unseen/": {
+    "group": "Sight Unseen",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/nCTVxygzAXh8uKDYoBCnI0Cy9E1.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/tapie/": {
+    "group": "Tapie",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/original/jqP43GHOt39b2YOr8yVlU6kuaep.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/home-and-away/": {
+    "group": "Home and Away",
+    "year": "1988",
+    "poster": "https://image.tmdb.org/t/p/original/vn0eKMiG69bhQtxb7qLRo8SSqu5.jpg",
+    "imdb": 6.4
+  },
+  "/dizi/askin-gercek-yuzu/": {
+    "group": "Aşkın Gerçek Yüzü",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/fpiL20BTFXUG5MxflLVKo69Z1Q4.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/ares-live/": {
+    "group": "ARES: live",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/original/hftvg1uY3ocBseBHK2467KPIBLQ.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/v-wars/": {
+    "group": "V Wars",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/njOxOfBp0d7DgdrMnOH1VugC9yZ.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/alma-rebelde/": {
+    "group": "Alma Rebelde",
+    "year": "1999",
+    "poster": "https://image.tmdb.org/t/p/original/oCBUhWWDrZu8S00Q1ZKeEK50in5.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/blue-water-high/": {
+    "group": "Blue Water High",
+    "year": "2005",
+    "poster": "https://image.tmdb.org/t/p/original/4S5Twq1WW3Ihn3x2mvnL8i5pVC.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/the-rookie-feds/": {
+    "group": "The Rookie: Feds",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/ttqpW20UVabyy8DQFWe56ov1JHS.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/kurtulus/": {
+    "group": "Kurtuluş",
+    "year": "1994",
+    "poster": "https://image.tmdb.org/t/p/original/7k6ptprJ3HKiLzYyz00G9vsixfs.jpg",
+    "imdb": 8.0
+  },
+  "/dizi/unsolved-mysteries/": {
+    "group": "Unsolved Mysteries",
+    "year": "1988",
+    "poster": "https://image.tmdb.org/t/p/original/1bOXbWqNsRU2ykPiE586I18coLf.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/amanda-to-the-rescue/": {
+    "group": "Amanda to the Rescue",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/original/azOIyD19Dvwj8YmrFd2qtAHAVRm.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/alex-honnold-ile-arktik-tirmanisi/": {
+    "group": "Alex Honnold ile Arktik Tırmanışı",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/n5yUEIhrxfrxPLeeDbhoHg483kk.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/ancient-powers/": {
+    "group": "Ancient Powers",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/original/4Dnb7jKVaaGIjtMq2S9JWwoiMwA.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/apocalypse-la-paix-impossible-1918/": {
+    "group": "Apocalypse - La Paix impossible (1918-1926)",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/original/gFrssYCTfOX4TVgTEDQPHzgnvTb.jpg",
+    "imdb": 7.8
+  },
+  "/dizi/big-cat-country/": {
+    "group": "Big Cat Country",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/gf5ZPRCz5X8isVraQnJdjMEAlPe.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/tarihe-yakindan-bakis/": {
+    "group": "Tarihe Yakından Bakış",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/original/673ZWUOVpnZXZxtmlrfjPkgeeyd.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/avrupa-sinir-kontrolu/": {
+    "group": "Avrupa Sınır Kontrolü",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/8of2SW5GHSRArU1ues1KnwuBkYQ.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/acimasiz-kis/": {
+    "group": "Acımasız Kış",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/lfbHahrfGSqeUuI6GzNbT0M1cv7.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/sifreler-ve-komplolar/": {
+    "group": "Şifreler ve Komplolar",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/original/kvEgY8YDXb4haI23fHN0ZUej571.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/dinozor-avcilari/": {
+    "group": "Dinozor Avcıları",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/madAXj5H8F2ye3oObfUVxq2xi2W.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/expedition-from-hell-the-lost-tapes/": {
+    "group": "Expedition from Hell: The Lost Tapes",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/6evmqI2Zphsgvkq3KHCuXrfN3Jn.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/nesli-tukenmis-mi/": {
+    "group": "Nesli Tükenmiş mi?",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/original/4ghej2G9L8RP0JjLMAHdMQ5shKm.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/altin-pesinde-kopuklu-sular/": {
+    "group": "Altın Peşinde: Köpüklü Sular",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/original/xgMyo8Re5uufo90Dxm773Tnjh1o.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/harry-potter-hogwarts-tournament-of-houses/": {
+    "group": "Harry Potter: Hogwarts Tournament of Houses",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/tEHHfzqHnfNJUp4L30wQeYl2xRo.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/gumruk-muhafaza-turkiye/": {
+    "group": "Gümrük Muhafaza Türkiye",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/jUX13IG3Lp9P4KmS03rsiBTtbrT.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/homicide/": {
+    "group": "Homicide",
+    "year": "1964",
+    "poster": "https://image.tmdb.org/t/p/original/vL44ejhfQ7xmEDXwvugeNdM4E0b.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/son-surat-kacis/": {
+    "group": "Son Sürat Kaçış",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/original/4gUPQpT81YCImhU1U3aBva7yeO4.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/in-search-of-monsters/": {
+    "group": "In Search of Monsters",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/l3CAC6Q7b8zcVSJSmNl5ZiiBjSb.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/gorunmez-katiller/": {
+    "group": "Görünmez Katiller",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/original/4Jwnu9lGksROWb9Kgvm5RD7fGKn.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/jonbent-an-american-murder-mystery/": {
+    "group": "JonBenét: An American Murder Mystery",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/original/7kcaWNFMkece1AQtA2DnllFuNkH.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/keep-this-between-us/": {
+    "group": "Keep This Between Us",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/4F6DQPDTi4Vjj6IFVqyLXju3Jt2.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/menudo-forever-young/": {
+    "group": "Menudo: Forever Young",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/5mEfYiNgHfELd4xXWqapqZpfKCy.jpg",
+    "imdb": 5.9
+  },
+  "/dizi/race/": {
+    "group": "The Amazing Race",
+    "year": "2001",
+    "poster": "https://image.tmdb.org/t/p/original/x1jq0atcQg6UkaZpco0kFL6QHuM.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/dahaad/": {
+    "group": "Dahaad",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/original/9Sc9LcCmfoehvpJPBBT8e0sx1m4.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/darkness-those-who-kill/": {
+    "group": "Darkness: Those Who Kill",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/974ZaID3ffa1PRg8niyD1d2TjUi.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/dogada-dimdizlak-tek-basina/": {
+    "group": "Doğada Dımdızlak Tek Başına",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/original/bnTOkR05kL1Dk6FOyDXXQR6zW47.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/nasanin-aciklanamayan-dosyalari/": {
+    "group": "NASA'nın Açıklanamayan Dosyaları",
+    "year": "2012",
+    "poster": "https://image.tmdb.org/t/p/original/6w5zVDc6YyiSQZPtJXnboZ2lKfq.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/no-taste-like-home-with-antoni-porowski/": {
+    "group": "No Taste Like Home with Antoni Porowski",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/6GgurhVsXzTaAMDeGxzTIgrs3B3.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/ahtapotlarin-gizemli-dunyasi/": {
+    "group": "Ahtapotların Gizemli Dünyası",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/pwrvUropIHXe8z3vwGMi5VunOHh.jpg",
+    "imdb": 8.3
+  },
+  "/dizi/penguenlerin-gizemli-dunyasi/": {
+    "group": "Penguenlerin Gizemli Dünyası",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/AdcisrKXK9mubb5irh4RbMRWAjH.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/kurtarma-avcilari-klasik-arabalar/": {
+    "group": "Kurtarma Avcıları: Klasik Arabalar",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/original/2Yndrpe2gpHwaErbcNBhpqzpseI.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/spacey-unmasked/": {
+    "group": "Spacey Unmasked",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/2PEaTdXkmztlGmsAuFtIJsJsSYF.jpg",
+    "imdb": 5.4
+  },
+  "/dizi/serengeti/": {
+    "group": "Serengeti",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/31ckbBXdYq9iMCrXVBgpBiTpMsU.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/springwatch/": {
+    "group": "Springwatch",
+    "year": "2005",
+    "poster": "https://image.tmdb.org/t/p/original/20eViMeHXpfOIKeaiDFL6hCjaeZ.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/tesla-bir-cinayetin-perde-arkasi/": {
+    "group": "Tesla: Bir Cinayetin Perde Arkası",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/original/iQArzXjd0ePOkAnM6q0aUasDBG2.jpg",
+    "imdb": 0.0
   }
 }

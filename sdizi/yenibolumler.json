@@ -1,4 +1,16 @@
 {
+  "/diziler/the-shards.html": {
+    "group": "THE SHARDS",
+    "year": "2026",
+    "imdb": "5.8",
+    "poster": "https://image.tmdb.org/t/p/w500/rh7k9oa18I3ibdLdWOWKHqrHQM1.jpg"
+  },
+  "/diziler/stuart-fails-to-save-the-universe.html": {
+    "group": "STUART FAILS TO SAVE THE UNIVERSE",
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg"
+  },
   "/diziler/its-always-sunny-in-philadelphia.html": {
     "group": "IT'S ALWAYS SUNNY IN PHILADELPHIA",
     "year": "2005",
@@ -70,17 +82,5 @@
     "year": "2026",
     "imdb": "8.6",
     "poster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg"
-  },
-  "/diziler/in-plain-sight-2008.html": {
-    "group": "IN PLAIN SIGHT",
-    "year": "2008",
-    "imdb": "7.4",
-    "poster": "https://image.tmdb.org/t/p/w500/utJdDq3c9uRCdvYHlF5qptWLZfh.jpg"
-  },
-  "/diziler/one-piece-izle.html": {
-    "group": "ONE PIECE",
-    "year": "1999",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
   }
 }
