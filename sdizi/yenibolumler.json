@@ -1,4 +1,10 @@
 {
+  "/diziler/outer-banks.html": {
+    "group": "OUTER BANKS",
+    "year": "2020",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg"
+  },
   "/diziler/the-shards.html": {
     "group": "THE SHARDS",
     "year": "2026",
@@ -76,11 +82,5 @@
     "year": "2026",
     "imdb": "7.3",
     "poster": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg"
-  },
-  "/diziler/lanterns.html": {
-    "group": "LANTERNS",
-    "year": "2026",
-    "imdb": "8.6",
-    "poster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg"
   }
 }

@@ -31636,5 +31636,347 @@
     "year": "2022",
     "poster": "https://image.tmdb.org/t/p/original/mMtXEgD82cPqF8z8fORxU8ILCZu.jpg",
     "imdb": 6.6
+  },
+  "/dizi/emergency-couple/": {
+    "group": "Emergency Couple",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/original/8m7ejLDta1URZfecow6kbtmKLW2.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/mob-city/": {
+    "group": "Mob City",
+    "year": "2013",
+    "poster": "https://image.tmdb.org/t/p/original/e8JV85MCJQTHnbX6a7W0h2hepAK.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/lovely-horribly/": {
+    "group": "Lovely Horribly",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/original/iJlSSm7gDWNFwXhxokbIa8O53yg.jpg",
+    "imdb": 5.9
+  },
+  "/dizi/submission/": {
+    "group": "Submission",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/original/uD2J4giOBcTRUOwcoN33WYCDuKF.jpg",
+    "imdb": 6.0
+  },
+  "/dizi/brockmire/": {
+    "group": "Brockmire",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/original/5qt3pvbEqIhCI2pBCAPES0v8zP3.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/the-head/": {
+    "group": "The Head",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/gFiFKWx8nBjo3iRYcosdJeYUtaX.jpg",
+    "imdb": 7.1
+  },
+  "/dizi/real-detective/": {
+    "group": "Real Detective",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/original/4f7CCoRbrETYNvkShUFwoma3bEZ.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/strangers-from-hell/": {
+    "group": "Strangers From Hell",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/yiW9Prv24gm4Ym9Woz4cUHLmCNI.jpg",
+    "imdb": 8.0
+  },
+  "/dizi/the-feed/": {
+    "group": "The Feed",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/qLC4AyssOIIF4oacH3WC78hBZv7.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/signs/": {
+    "group": "Bir Katilin Alametleri",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/cWnmUhWJkp4nZQj9fsG8sWtXm6l.jpg",
+    "imdb": 7.8
+  },
+  "/dizi/tales-of-irish-castles/": {
+    "group": "Tales of Irish Castles",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/original/z7kO4Q2IIh6M8oz2rLDaHvYlnZW.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/harlots/": {
+    "group": "Harlots",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/original/w6F93B2ZUCEUhRpgCS1cU82htqz.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/ncis-los-angeles/": {
+    "group": "NCIS: Los Angeles",
+    "year": "2009",
+    "poster": "https://image.tmdb.org/t/p/original/TIIgcznwNfNr3KOZvxn26eKV99.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/hilda/": {
+    "group": "Hilda Hurricane",
+    "year": "1998",
+    "poster": "https://image.tmdb.org/t/p/original/xJgDZQDscZpQ5JJ2Ms9QOYoIEk9.jpg",
+    "imdb": 8.1
+  },
+  "/dizi/dont-look-deeper/": {
+    "group": "Daha Derine Bakma",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/v1bZu7mjkiDwTweN7S98pUB3hEm.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/the-third-day/": {
+    "group": "The Third Day",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/cW3xE7FKgkXRE1RdZyvUJIoDBFg.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/sloborn/": {
+    "group": "The Island",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/bKffzAa462OD1KJrBsjJvCFAlRd.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/beautiful-world/": {
+    "group": "Beautiful World",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/cns7l7UMcpdiqiqV1R3r53idJE7.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/the-miracle/": {
+    "group": "The Miracle",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/original/cWheNzsteZYLYAbYGpNrvfdwxrQ.jpg",
+    "imdb": 5.7
+  },
+  "/dizi/little-voice/": {
+    "group": "Little Voice",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/vxzWAyNw7T7r7a6aQdPe2bahMPh.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/trickster/": {
+    "group": "Trickster",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/xOGaNevMHwbrHSo6zwIZxECMt8m.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/real-humans/": {
+    "group": "Real Humans",
+    "year": "2012",
+    "poster": "https://image.tmdb.org/t/p/original/alG1Z8LtLoX8hKo9dWBnwPYiiG3.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/tell-me-you-love-me/": {
+    "group": "Tell Me You Love Me",
+    "year": "2007",
+    "poster": "https://image.tmdb.org/t/p/original/pPdoG5kNcQmsIne4Hq8SoLunpJX.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/the-victims-game/": {
+    "group": "The Victims' Game",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/u6VnTkJWn6T24Gwqg3xvrUdqAjw.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/the-miniaturist/": {
+    "group": "The Miniaturist",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/original/bO57OA7pR4dXBQLTshuDEpkPyHF.jpg",
+    "imdb": 7.1
+  },
+  "/dizi/miss-scarlet-the-duke/": {
+    "group": "Bayan Scarlet ve Dük",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/9pbxTckwvaTXMABenkcmO1VhQi8.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/wireless/": {
+    "group": "Wireless",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/lXdVZam2mc8Z9HuvxPnOKWeJS0O.jpg",
+    "imdb": 6.1
+  },
+  "/dizi/rubicon/": {
+    "group": "Rubicon",
+    "year": "2010",
+    "poster": "https://image.tmdb.org/t/p/original/aYvsIIHsHkIz8fv3qbQCJpkgmLO.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/the-guest/": {
+    "group": "The Guest",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/original/mZq0Ou89Er6EOBnpRFWCvxNj3AY.jpg",
+    "imdb": 8.0
+  },
+  "/dizi/the-holiday-movies-that-made-us/": {
+    "group": "The Holiday Movies That Made Us",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/iA2DIddggmq1UCoWqAxZCxy3Q7c.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/show-me-a-hero/": {
+    "group": "Bana Bir Kahraman Göster",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/original/dDxqWY5Qpcy6Smf7SGvGRlf7u6e.jpg",
+    "imdb": 7.1
+  },
+  "/dizi/cleverman/": {
+    "group": "Cleverman",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/original/ndwQn6o3qTpkN8pHmOeVoToDS6J.jpg",
+    "imdb": 5.8
+  },
+  "/dizi/the-nokdu-flower/": {
+    "group": "The Nokdu Flower",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/4YGEVSzW6a2zl8ehibbNLCpFJ32.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/my-only-one/": {
+    "group": "My Only One",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/original/ftKBwFREgQ6SxfmjaSsFsnZol3g.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/old-school-intern/": {
+    "group": "Old School Intern",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/77pPh1GDXD0V41iIBlvJfPmNhRA.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/river-where-the-moon-rises/": {
+    "group": "Ayın Yükseldiği Nehir",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/cfyp8X11Kdv57Hc3iySJcGhwfVh.jpg",
+    "imdb": 6.0
+  },
+  "/dizi/dear-my-friends/": {
+    "group": "Dear Them",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/original/zRbFN9oZS9XdMuRTBTpyATz3TO4.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/fflam/": {
+    "group": "Fflam",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/98xdBs06jUTry1PNsz78g6d2uFX.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/once-upon-a-time-in-lingjian-mountain/": {
+    "group": "Once Upon A Time In Lingjian Mountain",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/pjybBoxfCwAdoHgMxDqhtqjuDi.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/best-lover/": {
+    "group": "Best Lover",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/original/yn0MIfncUAtJoOOFpgmLKTJxNWC.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/dealer/": {
+    "group": "The Dealer",
+    "year": "0",
+    "poster": "",
+    "imdb": 0.0
+  },
+  "/dizi/the-lost-pirate-kingdom/": {
+    "group": "Kayıp Korsan Krallığı",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/dPAJwlMo2SOJVpPk1vtYFLHKqRK.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/my-mother-and-other-strangers/": {
+    "group": "My Mother and Other Strangers",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/original/iL1KVAU3J8aqY2MvHmbJJHdhEHh.jpg",
+    "imdb": 6.4
+  },
+  "/dizi/human-universe/": {
+    "group": "Human Universe",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/original/nHzDkYBxluQmIlfD6G6kHBuzvr1.jpg",
+    "imdb": 8.2
+  },
+  "/dizi/magical-andes/": {
+    "group": "And Dağları'nın Büyüsü",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/tdt4tYgvJ1wofFAbDFQAH65RYwX.jpg",
+    "imdb": 8.2
+  },
+  "/dizi/sisyphus-the-myth/": {
+    "group": "Sisyphus",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/b1DNvoML4aBrE0MyM1buWwvOnbS.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/perpetual-grace-ltd/": {
+    "group": "Perpetual Grace LTD",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/xHwhr4eq7Be4rDEpo3t8rsItjlW.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/discovery-of-romance/": {
+    "group": "Discovery of Romance",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/original/eNvEUIEcb5FqjrjuQHlUcEV0Wwu.jpg",
+    "imdb": 7.1
+  },
+  "/dizi/the-path/": {
+    "group": "The Path",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/original/se3MZ1OVfIrZqFJkpm3kVnpkKpO.jpg",
+    "imdb": 6.4
+  },
+  "/dizi/secrets-of-great-british-castles/": {
+    "group": "Büyük Britanya Kalelerinin Sırları",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/original/9s3NXdZ0ZX9JD6Tb2iVYosSAp25.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/elvis-presley-the-searcher/": {
+    "group": "Elvis Presley: The Searcher",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/original/e7QDejokKHrstqa3adoGOZ5vFvW.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/panic/": {
+    "group": "Panic!",
+    "year": "1957",
+    "poster": "https://image.tmdb.org/t/p/original/mK2KXuEpwXp2jYUgiGTmmC5S4l.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/coyote/": {
+    "group": "Coyote",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/dzAwoFc87V2zku5FqYoijKfCOvh.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/liseys-story/": {
+    "group": "Lisey's Story",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/nBh4EuCmk3ZWfs16KKuhYHUqWdM.jpg",
+    "imdb": 6.1
+  },
+  "/dizi/motherland/": {
+    "group": "Motherland",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/original/n7usotT9Vc3is9Hw3dLsnTzLDxP.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/solos/": {
+    "group": "Solos",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/szoC8f6wAXGmgn0aiSDroRx7Ngs.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/intergalactic/": {
+    "group": "Intergalactic",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/5ACNgLDwj51Wa86J6t9TQrFzDTX.jpg",
+    "imdb": 4.7
   }
 }
