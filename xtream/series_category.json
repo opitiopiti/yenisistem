@@ -2349,7 +2349,8 @@
     {"name": "MY BRILLIANT CAREER", "year": "2026"},
     {"name": "ANIELA", "year": "2025"},
     {"name": "THE INFLUENCERS", "year": "2024"},
-    {"name": "ASUNTA", "year": "2024"}
+    {"name": "ASUNTA", "year": "2024"},
+    {"name": "FIVE CAME BACK - THE REFERENCE FILMS", "year": "2017"}
   ],
   "HBO DİZİLERİ": [
     {"name": "THE PITT", "year": "2025"},
@@ -4070,7 +4071,8 @@
     {"name": "BIMILUI SOOP", "year": "2017"},
     {"name": "GRADUATION", "year": "2024"},
     {"name": "NAEIL GEUDAEWA", "year": "2017"},
-    {"name": "SPOOKY IN LOVE", "year": "2026"}
+    {"name": "SPOOKY IN LOVE", "year": "2026"},
+    {"name": "POONG, THE JOSEON PSYCHIATRIST", "year": "2022"}
   ],
   "BBC IPLAYER DİZİLERİ": [
     {"name": "MANDY", "year": "2019"},
@@ -4623,7 +4625,8 @@
     {"name": "UNITED STATES OF AL", "year": "2021"},
     {"name": "CSI: NY", "year": "2004"},
     {"name": "CSI: MIAMI", "year": "2002"},
-    {"name": "JERICHO", "year": "2006"}
+    {"name": "JERICHO", "year": "2006"},
+    {"name": "THE AMAZING RACE", "year": "2001"}
   ],
   "STAN DİZİLERİ": [
     {"name": "CAUGHT", "year": "2023"},
@@ -5474,7 +5477,8 @@
     {"name": "JANET KING", "year": "2014"},
     {"name": "THE RIVER 2012", "year": "2012"},
     {"name": "HAPPY DAYS", "year": "1974"},
-    {"name": "SECRETS & LIES", "year": "2015"}
+    {"name": "SECRETS & LIES", "year": "2015"},
+    {"name": "BLUE WATER HIGH", "year": "2005"}
   ],
   "FX DİZİLERİ": [
     {"name": "THE OLD MAN", "year": "2022"},
@@ -5729,7 +5733,9 @@
     {"name": "VENGEANCE: MURDER ON THE HEATH", "year": "2026"},
     {"name": "MAKE THAT MOVIE", "year": "2026"},
     {"name": "PURE 2019", "year": "2019"},
-    {"name": "LONDON IRISH", "year": "2013"}
+    {"name": "LONDON IRISH", "year": "2013"},
+    {"name": "APOCALYPSE - LA PAIX IMPOSSIBLE (1918-1926)", "year": "1918"},
+    {"name": "SPACEY UNMASKED", "year": "2024"}
   ],
   "FRANCE 2 DİZİLERİ": [
     {"name": "MIRAGE", "year": "2020"},
@@ -5896,7 +5902,8 @@
     {"name": "FEDS", "year": "2023"},
     {"name": "CHILDREN OF THE SNOW", "year": "2019"},
     {"name": "BODIES IN THE WATER", "year": "2024"},
-    {"name": "TWO SHALLOW GRAVES", "year": "2022"}
+    {"name": "TWO SHALLOW GRAVES", "year": "2022"},
+    {"name": "JONBENÉT: AN AMERICAN MURDER MYSTERY", "year": "2016"}
   ],
   "NBC DİZİLERİ": [
     {"name": "PROJECT UFO", "year": "1978"},
@@ -6244,7 +6251,8 @@
     {"name": "DINO HUNTERS", "year": "2020"},
     {"name": "FINDING ESCOBAR'S MILLIONS", "year": "2017"},
     {"name": "ALASKA: THE LAST FRONTIER", "year": "2011"},
-    {"name": "TAKING FIRE", "year": "2016"}
+    {"name": "TAKING FIRE", "year": "2016"},
+    {"name": "EXPEDITION FROM HELL: THE LOST TAPES", "year": "2024"}
   ],
   "MEGA CHANNEL DİZİLERİ": [
     {"name": "MAESTRO IN BLUE", "year": "2022"},
@@ -6420,7 +6428,8 @@
     {"name": "INSPECTOR GEORGE GENTLY", "year": "2008"},
     {"name": "ANDREW MARR’S HISTORY OF THE WORLD", "year": "2012"},
     {"name": "JUST WILLIAM 2010", "year": "2010"},
-    {"name": "THE BOMBING OF PAN AM 103", "year": "2025"}
+    {"name": "THE BOMBING OF PAN AM 103", "year": "2025"},
+    {"name": "THE KING", "year": "2022"}
   ],
   "TVNZ 1 DİZİLERİ": [
     {"name": "WOMEN IN BLUE", "year": "2014"},
@@ -7273,7 +7282,8 @@
     {"name": "LIFE’S TOO SHORT", "year": "2011"},
     {"name": "THE GREAT WAR", "year": "1964"},
     {"name": "THE KUMARS AT NO. 42", "year": "2001"},
-    {"name": "CUNK & OTHER HUMANS ON 2019", "year": "2019"}
+    {"name": "CUNK & OTHER HUMANS ON 2019", "year": "2019"},
+    {"name": "SPRINGWATCH", "year": "2005"}
   ],
   "ZDFNEO DİZİLERİ": [
     {"name": "DEAD END", "year": "2019"}
@@ -7361,7 +7371,8 @@
   "BILIBILI DİZİLERİ": [
     {"name": "DELICACIES DESTINY", "year": "2022"},
     {"name": "CHI SHEN", "year": "2020"},
-    {"name": "TO BE HERO X", "year": "2025"}
+    {"name": "TO BE HERO X", "year": "2025"},
+    {"name": "ANCIENT POWERS", "year": "2023"}
   ],
   "PBS PASSPORT DİZİLERİ": [
     {"name": "SANDITON", "year": "2019"},
@@ -7583,7 +7594,8 @@
   ],
   "LAS ESTRELLAS DİZİLERİ": [
     {"name": "REBELDE", "year": "2004"},
-    {"name": "JULIANTINA", "year": "2019"}
+    {"name": "JULIANTINA", "year": "2019"},
+    {"name": "ALMA REBELDE", "year": "1999"}
   ],
   "VIKI DİZİLERİ": [
     {"name": "TO MY STAR", "year": "2021"},
@@ -7666,7 +7678,8 @@
     {"name": "WANTED", "year": "2016"},
     {"name": "BACK WITH THE EX", "year": "2018"},
     {"name": "THE CLAREMONT MURDERS", "year": "2023"},
-    {"name": "CATCHING MILAT", "year": "2015"}
+    {"name": "CATCHING MILAT", "year": "2015"},
+    {"name": "HOME AND AWAY", "year": "1988"}
   ],
   "5 DİZİLERİ": [
     {"name": "ANNE BOLEYN", "year": "2021"},
@@ -7812,7 +7825,8 @@
   "GAGAOOLALA DİZİLERİ": [
     {"name": "CRAVING YOU", "year": "2020"},
     {"name": "CAPTURE LOVER", "year": "2020"},
-    {"name": "THE INNOCENT", "year": "2020"}
+    {"name": "THE INNOCENT", "year": "2020"},
+    {"name": "LOVE AT THE END OF THE WORLD", "year": "2021"}
   ],
   "CINEMAX DİZİLERİ": [
     {"name": "STRIKE BACK", "year": "2010"},
@@ -8204,7 +8218,8 @@
     {"name": "CRAIG OF THE CREEK", "year": "2018"},
     {"name": "THE SECRET SATURDAYS", "year": "2008"},
     {"name": "BATMAN: THE BRAVE AND THE BOLD", "year": "2008"},
-    {"name": "GENERATOR REX", "year": "2010"}
+    {"name": "GENERATOR REX", "year": "2010"},
+    {"name": "HARRY POTTER: HOGWARTS TOURNAMENT OF HOUSES", "year": "2021"}
   ],
   "TVE DİZİLERİ": [
     {"name": "FUGITIVA", "year": "2018"}
@@ -8671,7 +8686,8 @@
     {"name": "İSTANBUL HESABI", "year": "2020"},
     {"name": "EL TURCO", "year": "2025"},
     {"name": "RU", "year": "2024"},
-    {"name": "ELECTRO MONOLOG", "year": "2021"}
+    {"name": "ELECTRO MONOLOG", "year": "2021"},
+    {"name": "KURTULUŞ", "year": "2024"}
   ],
   "BLUTV DİZİLERİ": [
     {"name": "İLK VE SON", "year": "2021"},
@@ -8926,7 +8942,8 @@
     {"name": "FATE/STAY NIGHT", "year": "2006"}
   ],
   "ANIMAL PLANET DİZİLERİ": [
-    {"name": "EXTINCT OR ALIVE", "year": "2018"}
+    {"name": "EXTINCT OR ALIVE", "year": "2018"},
+    {"name": "AMANDA TO THE RESCUE", "year": "2018"}
   ],
   "SCIENCE DİZİLERİ": [
     {"name": "SECRETS OF THE UNDERGROUND", "year": "2017"},
@@ -8993,7 +9010,8 @@
   ],
   "TRAVEL CHANNEL DİZİLERİ": [
     {"name": "GHOST NATION", "year": "2019"},
-    {"name": "URBAN LEGEND", "year": "2022"}
+    {"name": "URBAN LEGEND", "year": "2022"},
+    {"name": "IN SEARCH OF MONSTERS", "year": "2019"}
   ],
   "WILDBRAINTV DİZİLERİ": [
     {"name": "FANGBONE!", "year": "2016"}
@@ -9194,5 +9212,8 @@
   ],
   "ІНТЕР DİZİLERİ": [
     {"name": "КРАСНАЯ КОРОЛЕВА", "year": "2015"}
+  ],
+  "LOVE NATURE DİZİLERİ": [
+    {"name": "BIG CAT COUNTRY", "year": "2019"}
   ]
 }
