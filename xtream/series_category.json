@@ -2347,7 +2347,8 @@
     {"name": "OUR STICKY LOVE", "year": "2026"},
     {"name": "MOURINHO", "year": "2026"},
     {"name": "MY BRILLIANT CAREER", "year": "2026"},
-    {"name": "ANIELA", "year": "2025"}
+    {"name": "ANIELA", "year": "2025"},
+    {"name": "THE INFLUENCERS", "year": "2024"}
   ],
   "HBO DİZİLERİ": [
     {"name": "THE PITT", "year": "2025"},
@@ -6634,7 +6635,11 @@
     {"name": "MARY & GEORGE", "year": "2024"},
     {"name": "MR. BIGSTUFF", "year": "2024"},
     {"name": "INTERGALACTIC", "year": "2021"},
-    {"name": "ROSA ELETTRICA – IN FUGA CON IL NEMICO", "year": "2026"}
+    {"name": "ROSA ELETTRICA – IN FUGA CON IL NEMICO", "year": "2026"},
+    {"name": "İYILIK", "year": "2022"},
+    {"name": "BIR PERI MASALI", "year": "2022"},
+    {"name": "SON YAZ", "year": "2021"},
+    {"name": "SENDEN DAHA GÜZEL", "year": "2022"}
   ],
   "FAMILY CHANNEL DİZİLERİ": [
     {"name": "I WOKE UP A VAMPIRE", "year": "2023"},
@@ -7605,7 +7610,8 @@
     {"name": "PARIS HAS FALLEN", "year": "2024"},
     {"name": "WAR OF THE WORLDS", "year": "2019"},
     {"name": "DJANGO", "year": "2023"},
-    {"name": "L'EFFONDREMENT", "year": "2019"}
+    {"name": "L'EFFONDREMENT", "year": "2019"},
+    {"name": "PARIS POLISI 1900", "year": "2021"}
   ],
   "MNET DİZİLERİ": [
     {"name": "STREET WOMAN FIGHTER", "year": "2021"},
@@ -8515,7 +8521,10 @@
     {"name": "RAMO", "year": "2020"},
     {"name": "CENNET MAHALLESI", "year": "2004"},
     {"name": "DELI YÜREK", "year": "1998"},
-    {"name": "KURTLAR VADISI", "year": "2003"}
+    {"name": "KURTLAR VADISI", "year": "2003"},
+    {"name": "ÜÇ KURUŞ", "year": "2021"},
+    {"name": "TATLI HAYAT", "year": "2001"},
+    {"name": "ŞEREF SÖZÜ", "year": "2020"}
   ],
   "TRT1 DİZİLERİ": [
     {"name": "AŞKIN YOLCULUĞU: HACI BAYRAM-I VELI", "year": "2022"},
@@ -8524,7 +8533,13 @@
     {"name": "VEFA SULTAN", "year": "2025"},
     {"name": "YUNUS EMRE: AŞKIN YOLCULUĞU", "year": "2015"},
     {"name": "ÇALIKUŞU", "year": "1986"},
-    {"name": "TEŞKILAT", "year": "2021"}
+    {"name": "TEŞKILAT", "year": "2021"},
+    {"name": "KASABA DOKTORU", "year": "2022"},
+    {"name": "BIR ZAMANLAR KIBRIS", "year": "2021"},
+    {"name": "BALKAN NINNISI", "year": "2022"},
+    {"name": "ZENGIN KIZ FAKIR OĞLAN", "year": "2012"},
+    {"name": "TUTUNAMAYANLAR", "year": "2020"},
+    {"name": "SENI KALBIME SAKLADIM", "year": "2022"}
   ],
   "TELEMUNDO DİZİLERİ": [
     {"name": "LA REINA DEL SUR", "year": "2011"},
@@ -8599,7 +8614,9 @@
     {"name": "BÖRÜ", "year": "2018"},
     {"name": "BÖRÜ 2039", "year": "2018"},
     {"name": "20 DAKIKA", "year": "2013"},
-    {"name": "46: YOK OLAN", "year": "2016"}
+    {"name": "46: YOK OLAN", "year": "2016"},
+    {"name": "GECENIN UCUNDA", "year": "2022"},
+    {"name": "SÖZ", "year": "2017"}
   ],
   "KANAL D DİZİLERİ": [
     {"name": "ARKADAŞIM HOŞGELDIN", "year": "2013"},
@@ -8608,7 +8625,12 @@
     {"name": "KUZEY GÜNEY", "year": "2011"},
     {"name": "KURTLAR VADISI: PUSU", "year": "2007"},
     {"name": "EŞREF RÜYA", "year": "2025"},
-    {"name": "SURLAR", "year": "2010"}
+    {"name": "SURLAR", "year": "2010"},
+    {"name": "ZALIM İSTANBUL", "year": "2019"},
+    {"name": "YAPRAK DÖKÜMÜ", "year": "2006"},
+    {"name": "VATANIM SENSIN", "year": "2016"},
+    {"name": "SIYAH BEYAZ AŞK", "year": "2017"},
+    {"name": "SEVERSIN", "year": "2022"}
   ],
   "GAIN DİZİLERİ": [
     {"name": "FER", "year": "2025"},
@@ -8680,7 +8702,10 @@
     {"name": "AVRUPA YAKASI", "year": "2004"},
     {"name": "MARNALI", "year": "2021"},
     {"name": "EZEL", "year": "2009"},
-    {"name": "SON-HAE BO-GI SILH-EO-SEO", "year": "2012"}
+    {"name": "SON-HAE BO-GI SILH-EO-SEO", "year": "2012"},
+    {"name": "BEN BU CIHANA SIĞMAZAM", "year": "2022"},
+    {"name": "YAHŞI CAZIBE", "year": "2010"},
+    {"name": "SEVMEK ZAMANI", "year": "2022"}
   ],
   "BEIN CONNECT DİZİLERİ": [
     {"name": "AILE ŞIRKETI", "year": "2020"},
@@ -9098,7 +9123,8 @@
     {"name": "ARTHUR ET LES ENFANTS DE LA TABLE RONDE", "year": "2018"}
   ],
   "TV8 DİZİLERİ": [
-    {"name": "YAZGI", "year": "2022"}
+    {"name": "YAZGI", "year": "2022"},
+    {"name": "KIRMIZI ODA", "year": "2020"}
   ],
   "ELISA VIIHDE DİZİLERİ": [
     {"name": "MÄDÄT OMENAT", "year": "2021"}
