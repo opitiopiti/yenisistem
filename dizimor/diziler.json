@@ -30658,5 +30658,401 @@
     "year": "2022",
     "poster": "https://image.tmdb.org/t/p/original/2ljuDEUnjFsaP090hFIZhh51w9.jpg",
     "imdb": 8.1
+  },
+  "/dizi/everybody-loves-diamonds/": {
+    "group": "Herkes Elmas Sever",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/original/poOAMMNzOzV76l7ZdplokduNPr1.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/robbie-williams/": {
+    "group": "Robbie Williams",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/original/1p83qorKxcTS4UTEJ87k14VGOyR.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/twin-love/": {
+    "group": "İkiz Aşk",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/original/jz33sRLarBHjKe9GSI2IcnZ8yGt.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/afili-ask/": {
+    "group": "Afili Aşk",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/2zlMdUJn7kbKREmQSzMY41XvBoZ.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/moon-in-the-day/": {
+    "group": "Moon in the Day",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/original/ve3BVNLuhpF2Es4q0vKCwwdVd2k.jpg",
+    "imdb": 7.1
+  },
+  "/dizi/zumruduanka/": {
+    "group": "Zümrüdüanka",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/f5GAhc1hiaVRu39XF1a0bOg83cg.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/analog-squad/": {
+    "group": "Analog Çete",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/original/8Fe09Xrig1xRGKmgW46ev7Kf8gp.jpg",
+    "imdb": 8.1
+  },
+  "/dizi/planners/": {
+    "group": "Planners",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/original/wsGfLMmHtDesMdAAqe8UyEumuIU.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/yalniz-kurt/": {
+    "group": "Yalnız Kurt",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/65cC7t9rJKQG0bfRxWzst6wSsjT.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/just-like-me/": {
+    "group": "Just Like Me!",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/original/bXAWrNVadiUELIFIaFSyyTqybb4.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/bts-monuments-beyond-the-star/": {
+    "group": "BTS Monuments: Beyond The Star",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/original/vM8ofwkC13UZUfXGSNUy49CAxDz.jpg",
+    "imdb": 8.3
+  },
+  "/dizi/like-flowers-in-sand/": {
+    "group": "Like Flowers in Sand",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/original/4XOwAl8TwRjL3bAlwDEtily4EhJ.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/raffa/": {
+    "group": "Raffa",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/original/tCmWm3JImL2E4hQpJ2VZ6O1WTcJ.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/uyanis-buyuk-selcuklu/": {
+    "group": "Uyanış: Büyük Selçuklu",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/oX7GxT6ah1vA6uwrx5uiw2M2sXA.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/the-goldbergs/": {
+    "group": "The Goldbergs",
+    "year": "2013",
+    "poster": "https://image.tmdb.org/t/p/original/3aQipkhSCHUmaHjImqEqT80k6GP.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/love-is-blind-sweden/": {
+    "group": "Love is Blind: İsveç",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/dwnREOnAaleZQd02zSLCWLGiV8P.jpg",
+    "imdb": 5.9
+  },
+  "/dizi/tuzak/": {
+    "group": "Tuzak",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/IHX7A7tMc2hAET8Oy7DRdglfOz.jpg",
+    "imdb": 8.7
+  },
+  "/dizi/captivating-the-king/": {
+    "group": "Captivating the King",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/llCDNlOzbjrDIroIMQwCQDoElZU.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/doctor-slump/": {
+    "group": "Doctor Slump",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/6z9AXyb66MsMcUHbiQ3UQVr9MEB.jpg",
+    "imdb": 8.1
+  },
+  "/dizi/choir/": {
+    "group": "Choir",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/n7PzFrsNTAlAObDcxUdipiythFv.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/baby-bandito/": {
+    "group": "Baby Bandito",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/dKFSCimy2Lfqmh9bqXskzzLZrSC.jpg",
+    "imdb": 7.8
+  },
+  "/dizi/nascar-full-speed/": {
+    "group": "NASCAR: Tam Gaz",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/fXhZCpFlFXST8qZt2dYT4XTeF1E.jpg",
+    "imdb": 7.1
+  },
+  "/dizi/lets-talk-about-chu/": {
+    "group": "Chu Hakkında Konuşalım",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/krmdKa9v0O6QGHRv86PatYSIgYG.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/rael-the-alien-prophet/": {
+    "group": "Raël: Uzaylıların Peygamberi",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/rmHYNAmWMrKtuNYZOgrpm2C4Mbe.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/luz-the-light-of-the-heart/": {
+    "group": "Luz",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/8YDVWAxzTsUrfzIHvQEpq6wUrOC.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/the-swarm/": {
+    "group": "The Swarm",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/original/6n06DWAkLMt52F6Ui1aWjuLUnKB.jpg",
+    "imdb": 6.4
+  },
+  "/dizi/tozluyaka/": {
+    "group": "Tozluyaka",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/3Fe4MMlydVQ3o5eYA4AVKjLMSPb.jpg",
+    "imdb": 5.3
+  },
+  "/dizi/ready-set-love/": {
+    "group": "Bekârların Savaşı",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/OYbSWazDoq27F02ag7CmaNLdmw.jpg",
+    "imdb": 7.8
+  },
+  "/dizi/comedy-chaos/": {
+    "group": "Comedy Chaos",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/xdGjXNy00tKuRVH95mtyu7QL0tc.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/risque-business-the-netherlands-and-germany/": {
+    "group": "Risqué Business: Hollanda ve Almanya",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/oWxqJWhsKuFl4Jefjpj8Dd2oTf1.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/messis-world-cup-the-rise-of-a-legend/": {
+    "group": "Messi's World Cup: The Rise of a Legend",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/iVYu4CooA9vSEpbJPiqV9wSJll.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/tozkoparan-iskender/": {
+    "group": "Tozkoparan İskender",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/z1QxafIMhZHQrUC9HDUyOPKIF43.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/dreaming-whilst-black/": {
+    "group": "Dreaming Whilst Black",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/pJ53JJt41HoG8RSSEUszGZISXxW.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/the-dynasty-new-england-patriots/": {
+    "group": "The Dynasty: New England Patriots",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/68d28XHYGsU5m9pRkRUUdDKXfbP.jpg",
+    "imdb": 8.0
+  },
+  "/dizi/earthsounds/": {
+    "group": "Earthsounds",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/9lfg9REfxUx8xyCuNMalxzawYpQ.jpg",
+    "imdb": 8.8
+  },
+  "/dizi/can-i-tell-you-a-secret/": {
+    "group": "Sana Bir Sır Vereyim mi?",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/2FGjlE4b3FfbTFBl0vahPsxQTfC.jpg",
+    "imdb": 4.3
+  },
+  "/dizi/the-impossible-heir/": {
+    "group": "The Impossible Heir",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/gohAuKheCdRkliOgCHHielPi5ro.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/american-conspiracy-the-octopus-murders/": {
+    "group": "Ahtapot: Bir Amerikan Komplosu",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/lrcJuD9HPu5ZVcZaLk9cB0xufi5.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/red-queen/": {
+    "group": "Красная королева",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/original/mgdSJPXKIyj4MAIMXwLEphh7ZcR.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/the-completely-made-up-adventures-of-dick-turpin/": {
+    "group": "The Completely Made-Up Adventures of Dick Turpin",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/6UZwXEb6S6KYW7JmdYM17mNUTPv.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/maamla-legal-hai/": {
+    "group": "Yasal Meseleler",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/A9krYovvsiUXcQLOnQ2O53MHVwd.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/sipahi/": {
+    "group": "Sipahi",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/lJ9UxWig0VKqZqZ1Qu9QR5gBfhc.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/supersex/": {
+    "group": "Supersex",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/aZrdCklOUe4nQ1sbH3j2WjMXGIe.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/the-indrani-mukerjea-story-buried-truth/": {
+    "group": "Indrani Mukerjea: Gizlenen Gerçek",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/bnKsvPH5QnXofRHwO9AJiWhRDPO.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/ara-san-juan-the-submarine-that-disappeared/": {
+    "group": "ARA San Juan: Kaybolan Denizaltı",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/xytXKYBrNW9z3kOfkxoRWqRwzkL.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/turning-point-the-bomb-and-the-cold-war/": {
+    "group": "Dönüm Noktası: Atom Bombası ve Soğuk Savaş",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/5XBYN5Sb0yBvvodwr8fJa7iyuo2.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/what-we-lose-to-love/": {
+    "group": "What We Lose to Love",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/6IwLZFAGu4o1JRg5iV2H37sOvsu.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/sen-cal-kapimi/": {
+    "group": "Sen Çal Kapımı",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/nzBenFJ2D2MCWTwTt2uc4BGWLtA.jpg",
+    "imdb": 8.2
+  },
+  "/dizi/sefirin-kizi/": {
+    "group": "Sefirin Kızı",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/wkCIfkSUb71xjq0y8POOYHn1cll.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/such-brave-girls/": {
+    "group": "Such Brave Girls",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/original/7g60yren32dIyR0ZsMFPXWn3vGt.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/the-outreau-case-a-french-nightmare/": {
+    "group": "Outreau Davası: Bir Fransız Kâbusu",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/as9hrocKQm4YrLko726xqlTR4zU.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/mercy-street/": {
+    "group": "Mercy Street",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/original/v3HNGQnmu9WurwETVAATRSwMXzg.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/files-of-the-unexplained/": {
+    "group": "Esrarengiz Olaylar",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/4gZjH3R2aGAfJ2SoYt2Fqr8BHii.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/the-magic-prank-show-with-justin-willman/": {
+    "group": "Justin Willman ile Sihirli Şakalar",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/28osTKv8CwO4qqnKKxjVtQBhFQi.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/savasci/": {
+    "group": "Savaşçı",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/original/b2IvcQrcq3he4zpGcn3VFipwQDv.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/midsummer-night/": {
+    "group": "A Midsummer Night's Dream",
+    "year": "0",
+    "poster": "https://image.tmdb.org/t/p/original/qqLij4v61PjyGNzC81IyFJ3oDr.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/our-living-world/": {
+    "group": "Hayat Dolu Dünyamız",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/1xUhIpdJOna0vGmUohTC9hnWaRj.jpg",
+    "imdb": 8.1
+  },
+  "/dizi/ramo/": {
+    "group": "Ramo",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/ccnWNCUKbuYd4ip7kKYFLAR8QaC.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/paul-t-goldman/": {
+    "group": "Paul T. Goldman",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/original/vD2fYs4RA65j1Et8B8JJMiLlngS.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/the-asunta-case/": {
+    "group": "Asunta",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/mqVwu7nwNyYv6ehdVbRGCkLraUQ.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/the-serpent-queen/": {
+    "group": "The Serpent Queen",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/qrpIpzbwoAZJTegfKSTlmz15jbf.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/payitaht-abdulhamid/": {
+    "group": "Payitaht: Abdülhamid",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/original/fmaWiokhUVDsVkCfoWaQEDFZFFP.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/heeramandi-the-diamond-bazaar/": {
+    "group": "Heeramandi: Elmas Pazarı",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/w2xTt5iSJNJaiDDhWsVE3ilBRBL.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/frankly-speaking/": {
+    "group": "Frankly Speaking",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/3m179bXlVEtvKsIn0VEZk5y9n0o.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/heels/": {
+    "group": "Heels",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/69kPJaCFMXuZfbCrbDaYfMZbtJt.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/postcards/": {
+    "group": "Kartpostallar",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/PFwqLDF2n5q62kDW37qP59ZHCv.jpg",
+    "imdb": 6.0
   }
 }
