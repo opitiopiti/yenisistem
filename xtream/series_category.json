@@ -2348,7 +2348,8 @@
     {"name": "MOURINHO", "year": "2026"},
     {"name": "MY BRILLIANT CAREER", "year": "2026"},
     {"name": "ANIELA", "year": "2025"},
-    {"name": "THE INFLUENCERS", "year": "2024"}
+    {"name": "THE INFLUENCERS", "year": "2024"},
+    {"name": "ASUNTA", "year": "2024"}
   ],
   "HBO DİZİLERİ": [
     {"name": "THE PITT", "year": "2025"},
@@ -5862,7 +5863,8 @@
     {"name": "MR. THROWBACK", "year": "2024"},
     {"name": "JOHN CARPENTER'S SUBURBAN SCREAMS", "year": "2023"},
     {"name": "QUEER AS FOLK", "year": "2022"},
-    {"name": "THE FIVE STAR WEEKEND", "year": "2026"}
+    {"name": "THE FIVE STAR WEEKEND", "year": "2026"},
+    {"name": "PAUL T. GOLDMAN", "year": "2023"}
   ],
   "ENA DİZİLERİ": [
     {"name": "TASTEFULLY YOURS", "year": "2025"},
@@ -6639,7 +6641,11 @@
     {"name": "İYILIK", "year": "2022"},
     {"name": "BIR PERI MASALI", "year": "2022"},
     {"name": "SON YAZ", "year": "2021"},
-    {"name": "SENDEN DAHA GÜZEL", "year": "2022"}
+    {"name": "SENDEN DAHA GÜZEL", "year": "2022"},
+    {"name": "ZÜMRÜDÜANKA", "year": "2020"},
+    {"name": "TOZLUYAKA", "year": "2022"},
+    {"name": "SEN ÇAL KAPIMI", "year": "2020"},
+    {"name": "SAVAŞÇI", "year": "2017"}
   ],
   "FAMILY CHANNEL DİZİLERİ": [
     {"name": "I WOKE UP A VAMPIRE", "year": "2023"},
@@ -8524,7 +8530,8 @@
     {"name": "KURTLAR VADISI", "year": "2003"},
     {"name": "ÜÇ KURUŞ", "year": "2021"},
     {"name": "TATLI HAYAT", "year": "2001"},
-    {"name": "ŞEREF SÖZÜ", "year": "2020"}
+    {"name": "ŞEREF SÖZÜ", "year": "2020"},
+    {"name": "SIPAHI", "year": "2022"}
   ],
   "TRT1 DİZİLERİ": [
     {"name": "AŞKIN YOLCULUĞU: HACI BAYRAM-I VELI", "year": "2022"},
@@ -8539,7 +8546,10 @@
     {"name": "BALKAN NINNISI", "year": "2022"},
     {"name": "ZENGIN KIZ FAKIR OĞLAN", "year": "2012"},
     {"name": "TUTUNAMAYANLAR", "year": "2020"},
-    {"name": "SENI KALBIME SAKLADIM", "year": "2022"}
+    {"name": "SENI KALBIME SAKLADIM", "year": "2022"},
+    {"name": "UYANIŞ: BÜYÜK SELÇUKLU", "year": "2020"},
+    {"name": "TOZKOPARAN İSKENDER", "year": "2021"},
+    {"name": "PAYITAHT: ABDÜLHAMID", "year": "2017"}
   ],
   "TELEMUNDO DİZİLERİ": [
     {"name": "LA REINA DEL SUR", "year": "2011"},
@@ -8616,7 +8626,8 @@
     {"name": "20 DAKIKA", "year": "2013"},
     {"name": "46: YOK OLAN", "year": "2016"},
     {"name": "GECENIN UCUNDA", "year": "2022"},
-    {"name": "SÖZ", "year": "2017"}
+    {"name": "SÖZ", "year": "2017"},
+    {"name": "SEFIRIN KIZI", "year": "2019"}
   ],
   "KANAL D DİZİLERİ": [
     {"name": "ARKADAŞIM HOŞGELDIN", "year": "2013"},
@@ -8630,7 +8641,8 @@
     {"name": "YAPRAK DÖKÜMÜ", "year": "2006"},
     {"name": "VATANIM SENSIN", "year": "2016"},
     {"name": "SIYAH BEYAZ AŞK", "year": "2017"},
-    {"name": "SEVERSIN", "year": "2022"}
+    {"name": "SEVERSIN", "year": "2022"},
+    {"name": "AFILI AŞK", "year": "2019"}
   ],
   "GAIN DİZİLERİ": [
     {"name": "FER", "year": "2025"},
@@ -8705,7 +8717,8 @@
     {"name": "SON-HAE BO-GI SILH-EO-SEO", "year": "2012"},
     {"name": "BEN BU CIHANA SIĞMAZAM", "year": "2022"},
     {"name": "YAHŞI CAZIBE", "year": "2010"},
-    {"name": "SEVMEK ZAMANI", "year": "2022"}
+    {"name": "SEVMEK ZAMANI", "year": "2022"},
+    {"name": "YALNIZ KURT", "year": "2022"}
   ],
   "BEIN CONNECT DİZİLERİ": [
     {"name": "AILE ŞIRKETI", "year": "2020"},
@@ -9124,7 +9137,8 @@
   ],
   "TV8 DİZİLERİ": [
     {"name": "YAZGI", "year": "2022"},
-    {"name": "KIRMIZI ODA", "year": "2020"}
+    {"name": "KIRMIZI ODA", "year": "2020"},
+    {"name": "TUZAK", "year": "2022"}
   ],
   "ELISA VIIHDE DİZİLERİ": [
     {"name": "MÄDÄT OMENAT", "year": "2021"}
@@ -9177,5 +9191,8 @@
   ],
   "TELEVÍZIA MARKÍZA DİZİLERİ": [
     {"name": "MESTO TIEŇOV", "year": "2008"}
+  ],
+  "ІНТЕР DİZİLERİ": [
+    {"name": "КРАСНАЯ КОРОЛЕВА", "year": "2015"}
   ]
 }
