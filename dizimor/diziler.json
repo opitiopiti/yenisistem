@@ -33094,5 +33094,383 @@
     "year": "2013",
     "poster": "https://image.tmdb.org/t/p/original/s76PIU65SPAhdWho32UGnwUampm.jpg",
     "imdb": 6.6
+  },
+  "/dizi/zbrodnia/": {
+    "group": "Scene of the Crime",
+    "year": "1985",
+    "poster": "https://image.tmdb.org/t/p/original/aiwHa0PyYVP8HVkdHEWLGz9DpC4.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/an-idiot-abroad/": {
+    "group": "An Idiot Abroad",
+    "year": "2010",
+    "poster": "https://image.tmdb.org/t/p/original/4gTU5vFGhyxOoMrJGXvNJS1gRNM.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/masters-of-horror/": {
+    "group": "Masters of Horror",
+    "year": "2005",
+    "poster": "https://image.tmdb.org/t/p/original/vgTy1Lfi5P1yD7ZvsuoPKYvxwzv.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/true-love/": {
+    "group": "True Love",
+    "year": "2012",
+    "poster": "https://image.tmdb.org/t/p/original/dzSZES4c7xKzgmJP6Eu7r0ilvH6.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/coroner/": {
+    "group": "Coroner",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/7zEVxcNEDxVtRf29zvjjy6cazm4.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/hackerville/": {
+    "group": "Hackerville",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/original/wE27FJKh4DMpwH41TOQFBKhULPG.jpg",
+    "imdb": 7.1
+  },
+  "/dizi/bullets/": {
+    "group": "Bullets",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/original/wscj8xaewKilQM4FxtibJ5S1gaY.jpg",
+    "imdb": 5.8
+  },
+  "/dizi/big/": {
+    "group": "Big Brother",
+    "year": "2000",
+    "poster": "https://image.tmdb.org/t/p/original/q2TMOpJITXP2sHd6CrBmO7FvYk1.jpg",
+    "imdb": 4.8
+  },
+  "/dizi/marriage-contract/": {
+    "group": "The Marriage Contract",
+    "year": "0",
+    "poster": "https://image.tmdb.org/t/p/original/nmxjjtgMhYpQGIrM25ZlSJXGHfH.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/sick-of-it/": {
+    "group": "Sick of It",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/original/mJu4Z4KjTIbdHfUr8d6aEzzNjlu.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/the-night-watchman/": {
+    "group": "The Night Watcher",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/cJZXMnDezxR4GecGBHJPfktRGNZ.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/i-do-i-do/": {
+    "group": "How Do I Look?",
+    "year": "2004",
+    "poster": "https://image.tmdb.org/t/p/original/ds5IZMUDAqAHTVzJCCXAqDlebeE.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/two-cops/": {
+    "group": "Two Cops",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/original/6Wqqwrke3hpl6kwt537J4dI3h1y.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/judge-vs-judge/": {
+    "group": "Judge vs. Judge",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/original/2VHSWgQ6SQnEBxJfhvi6NNWxUAr.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/over-there/": {
+    "group": "Over There",
+    "year": "2005",
+    "poster": "https://image.tmdb.org/t/p/original/u9bB7TKDuBn9N0vZcmOqMuCOcjX.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/the-light-in-your-eyes/": {
+    "group": "The Light in Your Eyes",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/jP2JNty7IOest7u3Tesu844aF6O.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/7th-grade-civil-servant/": {
+    "group": "7th Grade Civil Servant",
+    "year": "2013",
+    "poster": "https://image.tmdb.org/t/p/original/9x5cAQNdbekri1SogT5BawESRyI.jpg",
+    "imdb": 7.1
+  },
+  "/dizi/beating-again/": {
+    "group": "Beating Again",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/hnT7Lc4YF3SxgS8CgWP9dVt1IGv.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/one-more-happy-ending/": {
+    "group": "Happy Once Again",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/original/p2oqc4u0O8BqNLNS2EtBiPUUFq7.jpg",
+    "imdb": 7.1
+  },
+  "/dizi/smoking/": {
+    "group": "The Smoking Room",
+    "year": "2004",
+    "poster": "https://image.tmdb.org/t/p/original/m3GsnbQFqsQ0O1VdFsPh0XPhtET.jpg",
+    "imdb": 8.3
+  },
+  "/dizi/youre-beautiful/": {
+    "group": "You Are So Pretty",
+    "year": "2011",
+    "poster": "https://image.tmdb.org/t/p/original/rTydXk0FoNkcoSiCBYeqRdaSer9.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/pure/": {
+    "group": "Pure Genius",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/original/iMHokrKVOI7KDCQhXe6NyPkuPw8.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/desenfrenadas/": {
+    "group": "Unstoppable with NBK",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/iQxdxeASxPlExDPHSU76dcJv9yN.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/outmatched/": {
+    "group": "Outmatched",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/hdjUHBVibA5tS0o3ML5d2Bp0fVW.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/the-outcast/": {
+    "group": "The Outcast",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/original/kWfRfmctS33pbuP1cjhL70XVVxO.jpg",
+    "imdb": 5.1
+  },
+  "/dizi/outcasts/": {
+    "group": "Outcasts",
+    "year": "2011",
+    "poster": "https://image.tmdb.org/t/p/original/1QUfhOHzbLDhgOmedXH7gMC8ezK.jpg",
+    "imdb": 6.3
+  },
+  "/dizi/scams/": {
+    "group": "Dirty Scams",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/lVuEI5JhV5O8PmhXj6SATPCTCfd.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/saving-hope/": {
+    "group": "Saving Hope",
+    "year": "2012",
+    "poster": "https://image.tmdb.org/t/p/original/1OGQisCT1T5ChkzZVdFqhX4O1G.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/no-second-chance/": {
+    "group": "Deniz Inside My Heart",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/original/4Etul99NzBpTF44fKmiGJUEpBuO.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/dark-money/": {
+    "group": "Dark Money",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/sYCOQbb7bXra6BMgV8HQfNO1YNu.jpg",
+    "imdb": 5.2
+  },
+  "/dizi/trust-me/": {
+    "group": "Trust Me",
+    "year": "2009",
+    "poster": "https://image.tmdb.org/t/p/original/4z2mkbWdoMmLr4ud1ri1Rqyh94c.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/crusoe/": {
+    "group": "Crusoe",
+    "year": "2008",
+    "poster": "https://image.tmdb.org/t/p/original/hMhLX6t3C5xAmPqqHoD6ddcwI3I.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/the-z-virus/": {
+    "group": "The Z Virus",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/original/fpoKTwnM1mneiCAnZT9m5m5EcO6.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/the-lava-field/": {
+    "group": "The Lava Field",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/original/oBkTr0YcMBn7y02pywDFTAkNwUw.jpg",
+    "imdb": 6.1
+  },
+  "/dizi/tribal/": {
+    "group": "Tribal",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/y1abxKfJRw62eF0qPuPtFCzyJgD.jpg",
+    "imdb": 5.8
+  },
+  "/dizi/the-wrong-mans/": {
+    "group": "The Wrong Mans",
+    "year": "2013",
+    "poster": "https://image.tmdb.org/t/p/original/fLuNqPmaHu64QUw8lRtLib5iFEm.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/the-tunnel/": {
+    "group": "Tünel",
+    "year": "2013",
+    "poster": "https://image.tmdb.org/t/p/original/6gNjFMFdx0AcujftDGHXSSBVkBM.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/the-name-of-the-rose/": {
+    "group": "The Name of the Rose",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/bWqo16NIS3nwTcCWOPNaeSQ0FGI.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/lincoln-rhyme-hunt-for-the-bone-collector/": {
+    "group": "Lincoln Rhyme: Hunt for the Bone Collector",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/vIgxUeQRtnspj0BLm3H7rawSqPK.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/cain-and-abel/": {
+    "group": "Cain and Abel",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/original/olNiRvf1YeCmkIuZJ930Om7Ayrq.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/the-road-to-calvary/": {
+    "group": "The Road to Calvary",
+    "year": "1977",
+    "poster": "https://image.tmdb.org/t/p/original/ue4SApdSCUvdpNag4jxVSay56oO.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/skin-wars/": {
+    "group": "Skin Wars",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/original/3eZ8JhBlcab7TklqS1sL6YsvMoN.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/el-lobista/": {
+    "group": "The Lobbyist",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/original/gevIzXnjw5u0XUo8rsbaeANIvRM.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/without-you/": {
+    "group": "Without You",
+    "year": "2011",
+    "poster": "https://image.tmdb.org/t/p/original/5cxu9GMLB53N5Xp387ZcS5ixOae.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/gu-family-book/": {
+    "group": "Gu Family Book",
+    "year": "2013",
+    "poster": "https://image.tmdb.org/t/p/original/kt4pmFvJnWyQImadYyVCiP1DQdH.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/fear-itself/": {
+    "group": "Fear Itself",
+    "year": "2008",
+    "poster": "https://image.tmdb.org/t/p/original/vlcynm3pJf5tRsyXre9oEnVAEVb.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/crime-diaries-night-out/": {
+    "group": "Crime Diaries: Night Out",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/4Dq9Jd3AREUUOWKUrw5o8QbQowj.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/the-witness-for-the-prosecution/": {
+    "group": "The Witness for the Prosecution",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/original/n6i4LpDcyiwGbZg3to3Z8puyS1F.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/our-world-war/": {
+    "group": "Our World War",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/original/2IlaZm6UCbaXNDaEbo4YqcYObHb.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/ice-fantasy/": {
+    "group": "Ice Fantasy",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/original/lD0HzBSC3JPbIXFRh4txPdl9pz2.jpg",
+    "imdb": 5.9
+  },
+  "/dizi/true-terror-with-robert-englund/": {
+    "group": "True Terror with Robert Englund",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/btIKUn9VrDn5Fw4gFElhZt0om40.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/transplant/": {
+    "group": "Nakil",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/ukvqJZI0XctnLst0CTE2r0AC2eu.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/vanity-fair/": {
+    "group": "Vanity Fair",
+    "year": "1998",
+    "poster": "https://image.tmdb.org/t/p/original/55koDFLAS25RufmG3mEKJq7HpvB.jpg",
+    "imdb": 7.6
+  },
+  "/dizi/strongest-deliveryman/": {
+    "group": "Strongest Deliveryman",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/original/5R8ofR1cX7mc17cayDfrLQuFJ0w.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/beethoven-virus/": {
+    "group": "Beethoven Virus",
+    "year": "2008",
+    "poster": "https://image.tmdb.org/t/p/original/fshOP8JVg7zfyiFraYXxElvklNP.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/the-lizzie-borden-chronicles/": {
+    "group": "The Lizzie Borden Chronicles",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/original/wBw8X6N33aUZ6i9ARzK6uvVX8KK.jpg",
+    "imdb": 6.5
+  },
+  "/dizi/100-hotter/": {
+    "group": "100% Hotter",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/original/n4LQqWbZ9601ZiNvkQyQ5X3modi.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/the-idiot/": {
+    "group": "The Idiot Box",
+    "year": "1991",
+    "poster": "https://image.tmdb.org/t/p/original/2f3BcUnfRKnQFnnvE14qn5IoqjM.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/everyday-miracles/": {
+    "group": "Everyday Miracles: The Genius of Sofas, Stockings and Scanners",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/original/iPVbAd99lsSVHPwG66uvv4bSums.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/hitmen/": {
+    "group": "Hitmen",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/7ZI2VkK0V45XxpfFhUdt5f2KxH1.jpg",
+    "imdb": 5.9
+  },
+  "/dizi/50-states-of-fright/": {
+    "group": "50 States of Fright",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/bfX15CYiGgBfasc8lVJ7mmxhrMz.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/my-love-from-the-star/": {
+    "group": "My Love From The Star",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/original/q0zmSFniW3ME3nOTuMxzw44fN1R.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/homemade/": {
+    "group": "Homemade",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/26GU1SxoQ70jTdLxje0spWjRo0V.jpg",
+    "imdb": 5.5
   }
 }
