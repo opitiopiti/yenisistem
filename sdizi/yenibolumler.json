@@ -1,4 +1,16 @@
 {
+  "/diziler/silo.html": {
+    "group": "SILO",
+    "year": "2023",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/2QOuYPE6ZCqgVfhClNotQR06uVj.jpg"
+  },
+  "/diziler/stuart-fails-to-save-the-universe.html": {
+    "group": "STUART FAILS TO SAVE THE UNIVERSE",
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg"
+  },
   "/diziler/outer-banks.html": {
     "group": "OUTER BANKS",
     "year": "2020",
@@ -10,12 +22,6 @@
     "year": "2026",
     "imdb": "5.8",
     "poster": "https://image.tmdb.org/t/p/w500/rh7k9oa18I3ibdLdWOWKHqrHQM1.jpg"
-  },
-  "/diziler/stuart-fails-to-save-the-universe.html": {
-    "group": "STUART FAILS TO SAVE THE UNIVERSE",
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg"
   },
   "/diziler/its-always-sunny-in-philadelphia.html": {
     "group": "IT'S ALWAYS SUNNY IN PHILADELPHIA",
@@ -70,17 +76,5 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/qcTNUGkxpaFycXkItD3Jpn0Mcox.jpg"
-  },
-  "/diziler/futurama.html": {
-    "group": "FUTURAMA",
-    "year": "1999",
-    "imdb": "8.5",
-    "poster": "https://image.tmdb.org/t/p/w500/6ZS8SOno6kTmWz4eQ8lX8EBXOMv.jpg"
-  },
-  "/diziler/president-curtis.html": {
-    "group": "PRESIDENT CURTIS",
-    "year": "2026",
-    "imdb": "7.3",
-    "poster": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg"
   }
 }

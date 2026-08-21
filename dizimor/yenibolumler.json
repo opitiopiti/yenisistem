@@ -1,356 +1,386 @@
 {
-  "/dizi/please-feel-at-ease-mr-ling/": {
-    "group": "Please Feel At Ease Mr. Ling",
-    "year": "2021",
-    "poster": "https://image.tmdb.org/t/p/original/vyIqVFR2RI3H1EFUOiHZjGnpLxV.jpg",
+  "/dizi/interrogation/": {
+    "group": "Interrogation",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/oJAvkzejtQzqwsDjkd8Y0m2oDL9.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/the-crimson-petal-and-the-white/": {
+    "group": "The Crimson Petal and the White",
+    "year": "2011",
+    "poster": "https://image.tmdb.org/t/p/original/9FW1YDO53Tmp0NYX1OA12hlCllz.jpg",
     "imdb": 7.0
   },
-  "/dizi/o-j-made-in-america/": {
-    "group": "O.J.: Made in America",
-    "year": "2016",
-    "poster": "https://image.tmdb.org/t/p/original/fZ17ZtCsfKGKqkt835IVtRWGUt.jpg",
-    "imdb": 8.1
-  },
-  "/dizi/manchild/": {
-    "group": "Manchild",
-    "year": "2002",
-    "poster": "https://image.tmdb.org/t/p/original/haoVIgypNbuSc2ZYhHxWdHRIDu4.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/the-best-ending/": {
-    "group": "The Best Ending",
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/original/axAWKXIPfYjJWDs0TNrJDFRSWYL.jpg",
-    "imdb": 2.0
-  },
-  "/dizi/ideal-boyfriend/": {
-    "group": "Ideal Boyfriend",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/original/xOOD6P4yGs0afFy47lLwaXdI1Gu.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/adhura/": {
-    "group": "Love Adhura",
-    "year": "2024",
-    "poster": "https://image.tmdb.org/t/p/original/8Eln34RtqelIOVpMrmzdRb7BMwb.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/white-christmas/": {
-    "group": "White House Christmas",
-    "year": "1998",
-    "poster": "https://image.tmdb.org/t/p/original/uE5TogXeDyTROZuFoisfXRO5DFJ.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/the-king-of-tears-lee-bang-won/": {
-    "group": "The King of Tears, Lee Bang Won",
-    "year": "2021",
-    "poster": "https://image.tmdb.org/t/p/original/zcqtV0hpsv6K4uWmlFRroBm2Ehv.jpg",
-    "imdb": 6.0
-  },
-  "/dizi/beyond-paradise/": {
-    "group": "Beyond Paradise",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/original/1zyKeMDCLpn2UK6hxU2IrVLgot2.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/nine-nine-time-travels/": {
-    "group": "Nine: Nine Time Travels",
-    "year": "2013",
-    "poster": "https://image.tmdb.org/t/p/original/ovPIZo5cAoz77f77GJZPISBCpco.jpg",
-    "imdb": 7.6
-  },
-  "/dizi/the-suspicious-housekeeper/": {
-    "group": "The Suspicious Housekeeper",
-    "year": "2013",
-    "poster": "https://image.tmdb.org/t/p/original/rIaLjG3d9Kxi5XsRByREza2uDSS.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/the-one-and-only/": {
-    "group": "The One and Only",
-    "year": "2008",
-    "poster": "",
-    "imdb": 0.0
-  },
-  "/dizi/the-take/": {
-    "group": "The Take",
-    "year": "2009",
-    "poster": "https://image.tmdb.org/t/p/original/1caD6qD3acG2NmVnZeH0xibcfT4.jpg",
-    "imdb": 7.5
-  },
-  "/dizi/the-returned/": {
-    "group": "The Returned",
-    "year": "2015",
-    "poster": "https://image.tmdb.org/t/p/original/cKp0ZDYGydWxI3v8KS3tY8W9aM7.jpg",
+  "/dizi/tin-man/": {
+    "group": "Tin Man",
+    "year": "2007",
+    "poster": "https://image.tmdb.org/t/p/original/4OeV2fR2IxhLsILMfkh10oY6Ju2.jpg",
     "imdb": 6.7
   },
-  "/dizi/everyone-else-burns/": {
-    "group": "Everyone Else Burns",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/original/m2HhbbskGM4ty4u13o7gV1JVQQu.jpg",
+  "/dizi/traveler/": {
+    "group": "Traveler",
+    "year": "2007",
+    "poster": "https://image.tmdb.org/t/p/original/wUHt1W2yNmobzTWaiM7OCZ1mWXh.jpg",
     "imdb": 6.6
   },
-  "/dizi/public-enemy/": {
-    "group": "Public Enemy",
-    "year": "2016",
-    "poster": "https://image.tmdb.org/t/p/original/6YMVU8i5EUDZtB8OVj43qUllMkb.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/year-of-the-rabbit/": {
-    "group": "Year of the Rabbit",
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/original/3o7vYuhRn6LSlE1YjaiTtbhU8Ja.jpg",
-    "imdb": 7.0
-  },
-  "/dizi/the-smile-has-left-your-eyes/": {
-    "group": "One Million Stars Falling from the Sky",
-    "year": "2002",
-    "poster": "https://image.tmdb.org/t/p/original/oZD94Ff5bwRqJVAxZTuR44kagEg.jpg",
-    "imdb": 8.1
-  },
-  "/dizi/princess-hours/": {
-    "group": "Düşlerimin Prensi",
-    "year": "2006",
-    "poster": "https://image.tmdb.org/t/p/original/6igzmvshVazvXuUXzRhAqdiLTrk.jpg",
-    "imdb": 7.6
-  },
-  "/dizi/call-the-midwife/": {
-    "group": "Call the Midwife",
-    "year": "2012",
-    "poster": "https://image.tmdb.org/t/p/original/b1p0nL00x563ACkcmGNIRP4ZnkA.jpg",
-    "imdb": 7.5
-  },
-  "/dizi/whites/": {
-    "group": "Whites",
-    "year": "2010",
-    "poster": "https://image.tmdb.org/t/p/original/ad7sgrs2nuPw49tQtJYJ9LjZT7S.jpg",
-    "imdb": 7.1
-  },
-  "/dizi/in-the-name-of-god-a-holy-betrayal/": {
-    "group": "In the Name of God: A Holy Betrayal",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/original/WQ3CR3ETqTen0jrpid7fuBzbKS.jpg",
-    "imdb": 7.7
-  },
-  "/dizi/spaced/": {
-    "group": "Spaced",
-    "year": "1999",
-    "poster": "https://image.tmdb.org/t/p/original/igZWEYUohDxlLodq8RkeJa7jBna.jpg",
-    "imdb": 7.9
-  },
-  "/dizi/super-junior-the-last-man-standing/": {
-    "group": "Super Junior: The Last Man Standing",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/original/6yRcUfKkV89VEFiLwzuryJHtHHb.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/my-unicorn-girl/": {
-    "group": "My Unicorn Girl",
-    "year": "2020",
-    "poster": "https://image.tmdb.org/t/p/original/3ezScOwKaCgW5O8zms2DVpUQbBA.jpg",
-    "imdb": 8.0
-  },
-  "/dizi/dearest/": {
-    "group": "Daddy Dearest",
-    "year": "1993",
-    "poster": "https://image.tmdb.org/t/p/original/ehIoN6dJpqceh8CoHhCOrwXah5A.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/nofilter/": {
-    "group": "Dating #NoFilter",
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/original/ePfAmpwmi5k67wGKRoXBvkeDGEw.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/our-blooming-youth/": {
-    "group": "Our Blooming Youth",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/original/tHgHwIE8Da9nXagbFZ1AryuVs3X.jpg",
-    "imdb": 6.5
-  },
-  "/dizi/thus-spoke-kishibe-rohan/": {
-    "group": "Thus Spoke Kishibe Rohan",
-    "year": "2020",
-    "poster": "https://image.tmdb.org/t/p/original/ct6bb8AZXh21mHzzBIV8LBZ4jl3.jpg",
-    "imdb": 8.1
-  },
-  "/dizi/filthy-envy/": {
-    "group": "Filthy Envy",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/original/yP8ORJ1uvBbYuGoPlLTTHWdMp6X.jpg",
-    "imdb": 5.1
-  },
-  "/dizi/taiwan-crime-stories/": {
-    "group": "Taiwan Crime Stories",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/original/yS3pUgxZO9N3avyRSKpBhkxOhpW.jpg",
-    "imdb": 7.2
-  },
-  "/dizi/cryptid/": {
-    "group": "Cryptid",
-    "year": "2020",
-    "poster": "https://image.tmdb.org/t/p/original/iAz6TpYcPWn0e923yytuhjIlnyB.jpg",
-    "imdb": 5.9
-  },
-  "/dizi/female-ceo-love-me/": {
-    "group": "Female CEO Love Me",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/original/4Xtunx5PIiJrE3lHdJjoh5QLRSo.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/crash-course/": {
-    "group": "Crash Course",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/original/zUl6AVdUI04oiK1G3Xqmjpu8noh.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/yakuza-lover/": {
-    "group": "Yakuza Lover",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/original/2IdhUReOtRQQcsBfGZthWtVIyqi.jpg",
-    "imdb": 6.5
-  },
-  "/dizi/ga-doo-ris-sushi-restaurant/": {
-    "group": "Ga Doo Ri’s Sushi Restaurant",
-    "year": "2020",
-    "poster": "https://image.tmdb.org/t/p/original/pV55rqyRbra6e5vRm3ogUBPCBlF.jpg",
-    "imdb": 5.1
-  },
-  "/dizi/one-night-morning/": {
-    "group": "One Night Morning",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/original/zvvHiD8kIFrEUNMm4YQbTYJWzWP.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/island/": {
-    "group": "Fantasy Island",
-    "year": "1978",
-    "poster": "https://image.tmdb.org/t/p/original/ppxhytiPrgojE4eb6Tw0EonDzeP.jpg",
-    "imdb": 6.5
-  },
-  "/dizi/a-romance-of-the-little-forest/": {
-    "group": "A Romance of the Little Forest",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/original/Apr0JHGiCeBbmwLCwAXZP3Fxw4h.jpg",
-    "imdb": 7.1
-  },
-  "/dizi/meet-me-after-school/": {
-    "group": "Meet Me After School",
-    "year": "2018",
-    "poster": "https://image.tmdb.org/t/p/original/mU5baLDpeMz9tH9JD7yZzRwA6Ru.jpg",
-    "imdb": 7.3
-  },
-  "/dizi/night-of-love-with-you/": {
-    "group": "Night of Love With You",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/original/xefqYoDexRyYjwjbpBFnvVIvz21.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/lighter-and-princess/": {
-    "group": "Lighter and Princess",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/original/4sTPsdWANtK4oo9eGeQAI1ugi54.jpg",
-    "imdb": 8.0
-  },
-  "/dizi/see-you-tomorrow/": {
-    "group": "See You Tomorrow",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/original/9BLSWkXQvXTibHhdUqmwVYNBJaQ.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/vadhandhi/": {
-    "group": "Vadhandhi: The Mystery of Mani",
-    "year": "0",
-    "poster": "",
-    "imdb": 0.0
-  },
-  "/dizi/women-in-taipei/": {
-    "group": "Women in Taipei",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/original/8Pa12ZNabwyTmNsYKXF17NNfkNZ.jpg",
-    "imdb": 5.9
-  },
-  "/dizi/your-playlist/": {
-    "group": "Your Playlist",
+  "/dizi/allen-v-farrow/": {
+    "group": "Allen v. Farrow",
     "year": "2021",
-    "poster": "https://image.tmdb.org/t/p/original/1qt0eSuawwTNLC0Vtq0vAgLatd7.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/blue-of-winter/": {
-    "group": "Blue of Winter",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/original/qoR8szlb0cQtN7fPXvBZuul82uA.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/silent-cargo/": {
-    "group": "Silent Cargo",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/original/9ElfVoAsUMdp3fHHTbsEb9psIP1.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/jXC3tk2apwPxDpFHQaQH5ATDhlP.jpg",
     "imdb": 6.3
   },
-  "/dizi/sumo-do-sumo-dont/": {
-    "group": "Sumo Do, Sumo Don't",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/original/1egQiI146vuXF0CkuZMiBH3RqFb.jpg",
+  "/dizi/wakefield/": {
+    "group": "Wakefield",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/5sEYtkSEnnesXXfqgAwY5WEqUGB.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/shine-or-go-crazy/": {
+    "group": "Shine or Go Crazy",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/original/slFIsJC1zDnBmbOL6txUxnERO4k.jpg",
+    "imdb": 5.2
+  },
+  "/dizi/miss-panda-mr-hedgehog/": {
+    "group": "Panda and Hedgehog",
+    "year": "2012",
+    "poster": "https://image.tmdb.org/t/p/original/2deFrwS2F9S1wr17EipAcR3C4Y3.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/leonardo/": {
+    "group": "Leonardo",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/t19XDd3pLIsBGcIsG83IcEVQhr9.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/persons-unknown/": {
+    "group": "Persons Unknown",
+    "year": "2010",
+    "poster": "https://image.tmdb.org/t/p/original/kp0kGKLo6kPkUakdtzOtWPL5XAI.jpg",
+    "imdb": 6.2
+  },
+  "/dizi/immortal-classic/": {
+    "group": "Immortal Classic",
+    "year": "2012",
+    "poster": "https://image.tmdb.org/t/p/original/aE8Oo316c2qflwOmvoBimoKbpxh.jpg",
     "imdb": 0.0
   },
-  "/dizi/cleaning-up/": {
-    "group": "Cleaning Up",
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/original/9LSpeWnsSDX6MNNNs5AfEticY3L.jpg",
-    "imdb": 6.8
+  "/dizi/destined-to-meet-you/": {
+    "group": "Destined to Meet You",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/rZWdZOLqpfR06F0DAiQWpx1orQX.jpg",
+    "imdb": 7.2
   },
-  "/dizi/take-1/": {
-    "group": "One Take",
+  "/dizi/will-you-be-my-manager/": {
+    "group": "Will You Be My Manager?",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/xJKF8yEFRNcdgqGbMMOIaRbHj9m.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/in-the-heat-of-the-night/": {
+    "group": "In the Heat of the Night",
+    "year": "1988",
+    "poster": "https://image.tmdb.org/t/p/original/tZ1EH5HiMclbP6DWgIl8D7qETv2.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/bandwaale/": {
+    "group": "Bandwaale",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/hUm812cWO6dtQHOolYrjsd9s53z.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/london-kills/": {
+    "group": "London Kills",
     "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/9YqT6OWah3zQfFMFQGLzQHDObcq.jpg",
+    "imdb": 6.6
+  },
+  "/dizi/sounds-of-winter/": {
+    "group": "Sounds of Winter",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/dn0MVtByu6DKGzb2n9QBm9AqRCr.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/blindspotting/": {
+    "group": "Blindspotting",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/igf2O23e4Jbc9QzI6vIPnxLhvvQ.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/bel-air/": {
+    "group": "Bel-Air",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/j8tbXWXrL15RucA6H4khq87dEXa.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/full-circle/": {
+    "group": "Full Circle",
+    "year": "1960",
     "poster": "",
     "imdb": 0.0
   },
-  "/dizi/shining-vale/": {
-    "group": "Shining Vale",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/original/hp2W5D5rahuFsZbm4gkgUhpHLLr.jpg",
+  "/dizi/lover-merman/": {
+    "group": "Lover Merman",
+    "year": "2025",
+    "poster": "",
+    "imdb": 0.0
+  },
+  "/dizi/angela-diniz-murdered-and-convicted/": {
+    "group": "Ângela Diniz: Murdered and Convicted",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/vv06mGgXN8nJ6N7BRWAMRf41dRY.jpg",
     "imdb": 7.4
   },
-  "/dizi/prisma/": {
-    "group": "Prisma",
-    "year": "2024",
-    "poster": "https://image.tmdb.org/t/p/original/vtTAIYN5NBKR648eveyV8K15dP.jpg",
+  "/dizi/just-makeup/": {
+    "group": "JUST MAKEUP",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/wEWR4MoS5HeqP24NZeeL2Zgg4CC.jpg",
     "imdb": 0.0
   },
-  "/dizi/the-zone-survival-mission/": {
-    "group": "The Zone: Survival Mission",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/original/sPElCgAvz2dcj2upa545xuKfd3o.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/single-drunk-female/": {
-    "group": "Single Drunk Female",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/original/oZ4AIq36U3SNkoHU7uQYVnNzqXk.jpg",
-    "imdb": 6.1
-  },
-  "/dizi/to-the-beautiful-you/": {
-    "group": "To the Beautiful You",
-    "year": "2012",
-    "poster": "https://image.tmdb.org/t/p/original/raj21Y25bZfZebWSJDmEWQ14N2P.jpg",
+  "/dizi/chosen-home/": {
+    "group": "Chosen Home",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/jU4lcDB5JKj22HrH7DoiKb6vN9C.jpg",
     "imdb": 6.8
   },
-  "/dizi/alive-oncologists-medical-record/": {
-    "group": "Alive: Dr. Kokoro, The Medical Oncologist",
-    "year": "2020",
-    "poster": "https://image.tmdb.org/t/p/original/8aekysV0L1FMs3MzmMvb7tWt0iY.jpg",
+  "/dizi/the-vallecas-files/": {
+    "group": "The Vallecas Files",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/pqeyf3jKrPetq00FK1R0dopeZvz.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/just-alice/": {
+    "group": "Just Alice",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/207YZbjmhL6CAi6MxenjyeZLNUT.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/the-resurrected/": {
+    "group": "The Resurrected Man",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/tWUeEM40nLj4WLXZYtrwoCXq8GY.jpg",
     "imdb": 0.0
   },
-  "/dizi/unicorn-ni-notte/": {
-    "group": "Riding a Unicorn",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/original/xPPgXqkvCB0IyZJRu3cVYgSoKTZ.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/change-days/": {
-    "group": "Change Days",
+  "/dizi/be-loved-in-house-i-do/": {
+    "group": "Be Loved in House: I Do",
     "year": "2021",
-    "poster": "https://image.tmdb.org/t/p/original/iC764nvQ6A6eS5WdH4trj9wnG9w.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/i4LFvQsG8PAgD7VLRLFJ5PZxf3J.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/will-it-snow-for-christmas/": {
+    "group": "Will It Snow For Christmas?",
+    "year": "2009",
+    "poster": "https://image.tmdb.org/t/p/original/e4qIKvsdgQeleBVIW2uclbaCYvc.jpg",
     "imdb": 0.0
+  },
+  "/dizi/riv4lries/": {
+    "group": "RIV4LRIES",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/AgZPHkdb4WpXB3fWNfLaMKbG9ML.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/american-housewife/": {
+    "group": "American Housewife",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/original/uDXPOk3fx1kPM1tQdrTdE2f76p2.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/the-19th-medical-chart/": {
+    "group": "The 19th Medical Chart",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/kQl9lIhurDIMU4FWNvy1sL1T5PB.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/mistresses/": {
+    "group": "Mistresses",
+    "year": "2013",
+    "poster": "https://image.tmdb.org/t/p/original/6ayoSSIrbLYm6MrgBhzw2tTp96a.jpg",
+    "imdb": 5.3
+  },
+  "/dizi/eli-stone/": {
+    "group": "Eli Stone",
+    "year": "2008",
+    "poster": "https://image.tmdb.org/t/p/original/hWVuLjx3QPhpfTCePbB9nunIJt0.jpg",
+    "imdb": 6.7
+  },
+  "/dizi/crime-scene-zero/": {
+    "group": "Crime Scene Zero",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/nXrnNlGBQMBL43rSzc7XW5yA3tk.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/their-marriage/": {
+    "group": "Their Marriage",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/wPOQxoLgqGV70DUnIymo3Ihwik2.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/next-gen-chef/": {
+    "group": "Next Gen Chef",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/omQ06GyWE8clsxcfL9q2YrQwzvy.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/suga/": {
+    "group": "Suga",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/bz2H877iD2wmvMgjAngwMSZvv8P.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/ratu-ratu-queens-the-series/": {
+    "group": "Ratu Ratu Queens: The Series",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/rf0NMolWIVNMxNgYmDwyyFkFHhb.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/kiss-or-die/": {
+    "group": "Kiss or Die",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/jILwmNK7wX2323WYd1lbUhinG2h.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/moonshine/": {
+    "group": "Moonshine",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/jDhM8gMmzOMxmg8FC0VEf2DMaNb.jpg",
+    "imdb": 5.9
+  },
+  "/dizi/andhera/": {
+    "group": "Andhera",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/wXVttISNv9GkbTCojifhZXeITG.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/final-draft/": {
+    "group": "Final Draft",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/4QCwUGodBj8vZidlVapg9JsUXSZ.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/necaxa/": {
+    "group": "Necaxa",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/tKiQ7H60U8hLCzCBQpzbHGfFGTm.jpg",
+    "imdb": 5.3
+  },
+  "/dizi/arabia-kadali/": {
+    "group": "Arabia Kadali",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/9pbnrMwfILtRo8kDalvXNOMtoJy.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/learning-to-love/": {
+    "group": "Loquinha Learning To Love",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/dFw12AE65KV4jimckNtyAEnjMvf.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/rangeen/": {
+    "group": "Rangeen Kahaniyan",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/xTuK1bIAMuQpjeTt3UW3PjPj7lQ.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/heesu-in-class/": {
+    "group": "Heesu in Class 2",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/78PHlTpwNz7iCjUgMnJoYC7v20N.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/cult-massacre-one-day-in-jonestown/": {
+    "group": "Cult Massacre: One Day in Jonestown",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/kmWwsTDwxgRp1iRBwTKoWnb0ivj.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/billy-joel-and-so-it-goes/": {
+    "group": "Billy Joel: And So It Goes",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/xxXyWzAMNanhgiBzvfpRZJ5RdMU.jpg",
+    "imdb": 8.7
+  },
+  "/dizi/superstar/": {
+    "group": "Superstar",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/3mOmJCOsGIWVFlKyoHqytcF2Z6i.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/delirium/": {
+    "group": "Delirium",
+    "year": "2014",
+    "poster": "https://image.tmdb.org/t/p/original/ognhEEPaAmki6G0qx9Jn06cn2CL.jpg",
+    "imdb": 9.7
+  },
+  "/dizi/addicted-heroin/": {
+    "group": "Addicted Heroin",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/j8b5J3mQjPtDQnELFM1uLiKDL4d.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/chihayafuru-full-circle/": {
+    "group": "Chihayafuru: Full Circle",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/pk4vA5eGEbjMZMD19WSePqh9d4z.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/all-the-sharks/": {
+    "group": "All the Sharks",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/cUdDyEnpS27HhxkUeAsDWEJnRH4.jpg",
+    "imdb": 7.8
+  },
+  "/dizi/building-the-band/": {
+    "group": "Building the Band",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/uNX52MJTHL8oi8vmrK8d3TElhRg.jpg",
+    "imdb": 7.4
+  },
+  "/dizi/the-many-deaths-of-nora-dalmasso/": {
+    "group": "The Many Deaths of Nora Dalmasso",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/ja6BP5xleodB50Gv8sl59TRHAC1.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/suspicious-minds/": {
+    "group": "Suspicious Minds",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/m9E2IVdXpcsoQCmY8eAjXWC4YV7.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/cocaine-air-smugglers-at-30000-ft/": {
+    "group": "Cocaine Air: Smugglers at 30,000 Ft.",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/1CSakKtqVkAKU4HrZLjUeHYFJ4O.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/call-her-alex/": {
+    "group": "Call Her Alex",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/dJdLZWBV8NM0MBYOPLrnBLshluE.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/not-her-first-rodeo/": {
+    "group": "Not Her First Rodeo",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/nfVhWoU8BVY23lHk6zq3sgT2Z8s.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/losmen-bu-broto-the-series/": {
+    "group": "Losmen Bu Broto: The Series",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/lKPXfmtaCNTpby0B913aIkpANhI.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/pee-wee-as-himself/": {
+    "group": "Pee-wee as Himself",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/245axX0GN2QQE8KwXGKEvAVl1YP.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/spies-of-warsaw/": {
+    "group": "Spies of Warsaw",
+    "year": "2013",
+    "poster": "https://image.tmdb.org/t/p/original/s76PIU65SPAhdWho32UGnwUampm.jpg",
+    "imdb": 6.6
   }
 }
