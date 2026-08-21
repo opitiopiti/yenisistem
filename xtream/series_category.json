@@ -2632,7 +2632,8 @@
     {"name": "SENE 1936", "year": "2017"},
     {"name": "STUART FAILS TO SAVE THE UNIVERSE", "year": "2026"},
     {"name": "LANTERNS", "year": "2026"},
-    {"name": "ROMA", "year": "2005"}
+    {"name": "ROMA", "year": "2005"},
+    {"name": "ONE TAKE", "year": "1993"}
   ],
   "AMAZON PRIME DİZİLERİ": [
     {"name": "BAIT", "year": "2026"},
@@ -3059,7 +3060,10 @@
     {"name": "EXAM", "year": "2026"},
     {"name": "RIDE OR DIE", "year": "2026"},
     {"name": "STERLING POINT", "year": "2026"},
-    {"name": "PANIC!", "year": "2021"}
+    {"name": "PANIC!", "year": "2021"},
+    {"name": "LOVE ADHURA", "year": "2024"},
+    {"name": "FILTHY ENVY", "year": "2022"},
+    {"name": "SILENT CARGO", "year": "2022"}
   ],
   "APPLE TV+ DİZİLERİ": [
     {"name": "THE LAST THING HE TOLD ME", "year": "2023"},
@@ -4075,7 +4079,9 @@
     {"name": "NAEIL GEUDAEWA", "year": "2017"},
     {"name": "SPOOKY IN LOVE", "year": "2026"},
     {"name": "POONG, THE JOSEON PSYCHIATRIST", "year": "2022"},
-    {"name": "LITTLE CABIN IN THE WOODS", "year": "2018"}
+    {"name": "LITTLE CABIN IN THE WOODS", "year": "2018"},
+    {"name": "ONE MILLION STARS FALLING FROM THE SKY", "year": "2018"},
+    {"name": "SEE YOU TOMORROW", "year": "2026"}
   ],
   "BBC IPLAYER DİZİLERİ": [
     {"name": "MANDY", "year": "2019"},
@@ -5306,7 +5312,9 @@
     {"name": "MASTERCHEF JUNIOR", "year": "2013"},
     {"name": "THE CREW", "year": "1995"},
     {"name": "RUNNING WILDE", "year": "2010"},
-    {"name": "MANTIS", "year": "1994"}
+    {"name": "MANTIS", "year": "1994"},
+    {"name": "DADDY DEAREST", "year": "1993"},
+    {"name": "FANTASY ISLAND", "year": "2021"}
   ],
   "ABC DİZİLERİ": [
     {"name": "SUPERSTAR", "year": "2021"},
@@ -6500,7 +6508,8 @@
     {"name": "TERROR IN RESONANCE", "year": "2014"},
     {"name": "THUNDER 3", "year": "2026"},
     {"name": "LOVED ONE", "year": "2026"},
-    {"name": "THE GHOST IN THE SHELL", "year": "2026"}
+    {"name": "THE GHOST IN THE SHELL", "year": "2026"},
+    {"name": "ALIVE: DR. KOKORO, THE MEDICAL ONCOLOGIST", "year": "2020"}
   ],
   "WONDER PROJECT DİZİLERİ": [
     {"name": "HOUSE OF DAVID", "year": "2025"}
@@ -7012,12 +7021,14 @@
     {"name": "UNLOCK MY BOSS", "year": "2022"},
     {"name": "SUMMER STRIKE", "year": "2022"},
     {"name": "COLOR RUSH", "year": "2020"},
-    {"name": "SUMMER GUYS", "year": "2021"}
+    {"name": "SUMMER GUYS", "year": "2021"},
+    {"name": "GA DOO RI’S SUSHI RESTAURANT", "year": "2020"}
   ],
   "E! DİZİLERİ": [
     {"name": "#NOFILTER", "year": "2019"},
     {"name": "THE ROYALS", "year": "2015"},
-    {"name": "THE ARRANGEMENT", "year": "2017"}
+    {"name": "THE ARRANGEMENT", "year": "2017"},
+    {"name": "DATING #NOFILTER", "year": "2019"}
   ],
   "REELZ DİZİLERİ": [
     {"name": "DELETE", "year": "2013"},
@@ -7300,7 +7311,8 @@
     {"name": "THE GREAT WAR", "year": "1964"},
     {"name": "THE KUMARS AT NO. 42", "year": "2001"},
     {"name": "CUNK & OTHER HUMANS ON 2019", "year": "2019"},
-    {"name": "SPRINGWATCH", "year": "2005"}
+    {"name": "SPRINGWATCH", "year": "2005"},
+    {"name": "MANCHILD", "year": "2002"}
   ],
   "ZDFNEO DİZİLERİ": [
     {"name": "DEAD END", "year": "2019"}
@@ -9239,5 +9251,11 @@
   ],
   "LOVE NATURE DİZİLERİ": [
     {"name": "BIG CAT COUNTRY", "year": "2019"}
+  ],
+  "HGTV DİZİLERİ": [
+    {"name": "WHITE HOUSE CHRISTMAS", "year": "1998"}
+  ],
+  "TBC DİZİLERİ": [
+    {"name": "RIDING A UNICORN", "year": "2022"}
   ]
 }
