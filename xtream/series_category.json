@@ -2351,7 +2351,8 @@
     {"name": "THE INFLUENCERS", "year": "2024"},
     {"name": "ASUNTA", "year": "2024"},
     {"name": "FIVE CAME BACK - THE REFERENCE FILMS", "year": "2017"},
-    {"name": "JUST ALICE", "year": "2025"}
+    {"name": "JUST ALICE", "year": "2025"},
+    {"name": "DIRTY SCAMS", "year": "2024"}
   ],
   "HBO DİZİLERİ": [
     {"name": "THE PITT", "year": "2025"},
@@ -2634,7 +2635,8 @@
     {"name": "STUART FAILS TO SAVE THE UNIVERSE", "year": "2026"},
     {"name": "LANTERNS", "year": "2026"},
     {"name": "ROMA", "year": "2005"},
-    {"name": "ONE TAKE", "year": "1993"}
+    {"name": "ONE TAKE", "year": "1993"},
+    {"name": "HACKERVILLE", "year": "2018"}
   ],
   "AMAZON PRIME DİZİLERİ": [
     {"name": "BAIT", "year": "2026"},
@@ -4639,7 +4641,9 @@
     {"name": "CSI: MIAMI", "year": "2002"},
     {"name": "JERICHO", "year": "2006"},
     {"name": "THE AMAZING RACE", "year": "2001"},
-    {"name": "INTELLIGENCE", "year": "2014"}
+    {"name": "INTELLIGENCE", "year": "2014"},
+    {"name": "SCENE OF THE CRIME", "year": "1991"},
+    {"name": "BIG BROTHER", "year": "2000"}
   ],
   "STAN DİZİLERİ": [
     {"name": "CAUGHT", "year": "2023"},
@@ -5496,7 +5500,8 @@
     {"name": "THE RIVER 2012", "year": "2012"},
     {"name": "HAPPY DAYS", "year": "1974"},
     {"name": "SECRETS & LIES", "year": "2015"},
-    {"name": "BLUE WATER HIGH", "year": "2005"}
+    {"name": "BLUE WATER HIGH", "year": "2005"},
+    {"name": "NAKIL", "year": "1974"}
   ],
   "FX DİZİLERİ": [
     {"name": "THE OLD MAN", "year": "2022"},
@@ -5643,7 +5648,9 @@
     {"name": "FATED TO LOVE YOU", "year": "2014"},
     {"name": "TALE OF ARANG", "year": "2012"},
     {"name": "PERFECT CROWN", "year": "2026"},
-    {"name": "OLD SCHOOL INTERN", "year": "2020"}
+    {"name": "OLD SCHOOL INTERN", "year": "2020"},
+    {"name": "THE MARRIAGE CONTRACT", "year": "2023"},
+    {"name": "YOU ARE SO PRETTY", "year": "2011"}
   ],
   "VRT MAX DİZİLERİ": [
     {"name": "HIGH TIDES", "year": "2023"},
@@ -6152,7 +6159,8 @@
     {"name": "SHUANG CHENG GU SHI", "year": "2026"},
     {"name": "CANG LAN JUE", "year": "2022"},
     {"name": "THE KING IN LOVE", "year": "2020"},
-    {"name": "SISYPHUS", "year": "2020"}
+    {"name": "SISYPHUS", "year": "2020"},
+    {"name": "THE NIGHT WATCHER", "year": "2026"}
   ],
   "ESPN+ DİZİLERİ": [
     {"name": "IN THE ARENA: SERENA WILLIAMS", "year": "2024"},
@@ -6682,7 +6690,8 @@
     {"name": "ZÜMRÜDÜANKA", "year": "2020"},
     {"name": "TOZLUYAKA", "year": "2022"},
     {"name": "SEN ÇAL KAPIMI", "year": "2020"},
-    {"name": "SAVAŞÇI", "year": "2017"}
+    {"name": "SAVAŞÇI", "year": "2017"},
+    {"name": "DENIZ INSIDE MY HEART", "year": "2016"}
   ],
   "FAMILY CHANNEL DİZİLERİ": [
     {"name": "I WOKE UP A VAMPIRE", "year": "2023"},
@@ -7234,7 +7243,8 @@
     {"name": "COUPLING", "year": "2000"},
     {"name": "SEXY BEASTS", "year": "2014"},
     {"name": "SINCHRONICITY", "year": "2006"},
-    {"name": "BEING HUMAN", "year": "2009"}
+    {"name": "BEING HUMAN", "year": "2009"},
+    {"name": "THE SMOKING ROOM", "year": "2004"}
   ],
   "SPECTRUM ORIGINALS DİZİLERİ": [
     {"name": "PANHANDLE", "year": "2022"},
@@ -7314,7 +7324,8 @@
     {"name": "THE KUMARS AT NO. 42", "year": "2001"},
     {"name": "CUNK & OTHER HUMANS ON 2019", "year": "2019"},
     {"name": "SPRINGWATCH", "year": "2005"},
-    {"name": "MANCHILD", "year": "2002"}
+    {"name": "MANCHILD", "year": "2002"},
+    {"name": "THE WRONG MANS", "year": "2013"}
   ],
   "ZDFNEO DİZİLERİ": [
     {"name": "DEAD END", "year": "2019"}
@@ -9048,7 +9059,8 @@
   "TRAVEL CHANNEL DİZİLERİ": [
     {"name": "GHOST NATION", "year": "2019"},
     {"name": "URBAN LEGEND", "year": "2022"},
-    {"name": "IN SEARCH OF MONSTERS", "year": "2019"}
+    {"name": "IN SEARCH OF MONSTERS", "year": "2019"},
+    {"name": "TRUE TERROR WITH ROBERT ENGLUND", "year": "2020"}
   ],
   "WILDBRAINTV DİZİLERİ": [
     {"name": "FANGBONE!", "year": "2016"}
@@ -9197,7 +9209,8 @@
     {"name": "TUZAK", "year": "2022"}
   ],
   "ELISA VIIHDE DİZİLERİ": [
-    {"name": "MÄDÄT OMENAT", "year": "2021"}
+    {"name": "MÄDÄT OMENAT", "year": "2021"},
+    {"name": "BULLETS", "year": "2018"}
   ],
   "SNAPCHAT DİZİLERİ": [
     {"name": "SAVE ME", "year": "2020"}
@@ -9259,5 +9272,11 @@
   ],
   "TBC DİZİLERİ": [
     {"name": "RIDING A UNICORN", "year": "2022"}
+  ],
+  "AHA DİZİLERİ": [
+    {"name": "UNSTOPPABLE WITH NBK", "year": "2021"}
+  ],
+  "SUPERSTAR TV DİZİLERİ": [
+    {"name": "TÜNEL", "year": "2023"}
   ]
 }
