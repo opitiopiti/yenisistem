@@ -34450,5 +34450,17 @@
     "year": "2022",
     "poster": "https://image.tmdb.org/t/p/original/u7xqyWcJXL0LejV6PQrkYPQbfD2.jpg",
     "imdb": 7.4
+  },
+  "/dizi/istedigin-hayat/": {
+    "group": "İstediğin Hayat",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/8E0wOc44yCUhAMYayQtsGBcCm0X.jpg",
+    "imdb": 6.8
+  },
+  "/dizi/en-iyi-arkadasim-lay-lay/": {
+    "group": "En İyi Arkadaşım Lay Lay",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/zqHF8bo8YjqMKZoHqXCAZRDiwoS.jpg",
+    "imdb": 6.6
   }
 }
