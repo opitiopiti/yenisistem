@@ -34438,5 +34438,17 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/original/zQSXfv1GiLJW2kszQUNMyrZGoqF.jpg",
     "imdb": 0.0
+  },
+  "/dizi/detlev-rohwedder-suikasti/": {
+    "group": "Detlev Rohwedder Suikastı",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/dwgxSxTdh2534AAk2uLkkwFxISN.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/asi-yillar/": {
+    "group": "Asi Yıllar",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/u7xqyWcJXL0LejV6PQrkYPQbfD2.jpg",
+    "imdb": 7.4
   }
 }

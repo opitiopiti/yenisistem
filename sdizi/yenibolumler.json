@@ -1,4 +1,10 @@
 {
+  "/diziler/bleach-thousand-year-blood-war.html": {
+    "group": "BLEACH: THOUSAND-YEAR BLOOD WAR",
+    "year": "2022",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/cR4P0EJrLX2bdWij1VYLf8VB78M.jpg"
+  },
   "/diziler/a-thousand-blows.html": {
     "group": "A THOUSAND BLOWS",
     "year": "2024",
@@ -70,11 +76,5 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/xsrkiXg8EuNNtbPtbmvCxg95gK7.jpg"
-  },
-  "/diziler/ted-lasso.html": {
-    "group": "TED LASSO",
-    "year": "2020",
-    "imdb": "8.8",
-    "poster": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
   }
 }

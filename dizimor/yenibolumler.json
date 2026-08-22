@@ -1,128 +1,14 @@
 {
-  "/dizi/hope-and-gloria/": {
-    "group": "Hope and Gloria",
-    "year": "1995",
-    "poster": "https://image.tmdb.org/t/p/original/3bB5fiIV8cUXBZaaRureSkb7lqa.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/santaj/": {
-    "group": "Şantaj",
-    "year": "2021",
-    "poster": "https://image.tmdb.org/t/p/original/kHKPcdXouxS8KnV22ThM5YkETdW.jpg",
-    "imdb": 7.6
-  },
-  "/dizi/parfum/": {
-    "group": "Parfüm",
-    "year": "2018",
-    "poster": "https://image.tmdb.org/t/p/original/52g425QWzu2IVVsNE1f1uILYMyW.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/yuksek-ates/": {
-    "group": "Yüksek Ateş",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/original/nDZNkLzQBhWUxBgI8ARCFmqnblm.jpg",
-    "imdb": 7.6
-  },
-  "/dizi/les-norton/": {
-    "group": "Les Norton",
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/original/uHPAuxYiU4RNTTL1baZIWJgDMoJ.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/guneyin-kralicesi/": {
-    "group": "Güneyin Kraliçesi",
-    "year": "2011",
-    "poster": "https://image.tmdb.org/t/p/original/1qCGOuNVOlaBb7MMDen6CLzp0UE.jpg",
-    "imdb": 7.9
-  },
-  "/dizi/gecenin-kadinlari/": {
-    "group": "Gecenin Kadınları",
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/original/jqkqHizvBk24Q84lklR2kR9pC3a.jpg",
-    "imdb": 5.9
-  },
-  "/dizi/infamia/": {
-    "group": "Infamia",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/original/d12dXWivpu5wBBUTe03wQB8DhyU.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/zeit-der-geheimnisse/": {
-    "group": "Zeit der Geheimnisse",
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/original/irbLkYk4LjCKGz5N9d9bkBPqJjF.jpg",
-    "imdb": 6.3
-  },
-  "/dizi/odio-il-natale/": {
-    "group": "Odio il Natale",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/original/4x36JTjaCyB0QvMGmMNGuma6DpJ.jpg",
-    "imdb": 6.6
-  },
-  "/dizi/henry-danger/": {
-    "group": "Henry Danger",
-    "year": "2014",
-    "poster": "https://image.tmdb.org/t/p/original/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
-    "imdb": 8.3
-  },
-  "/dizi/hanedan/": {
-    "group": "Hanedan",
-    "year": "2017",
-    "poster": "https://image.tmdb.org/t/p/original/bHPBkLvxoyhb4fACXUdqmkRSaXb.jpg",
-    "imdb": 8.1
-  },
-  "/dizi/den-som-drber/": {
-    "group": "Den som dræber",
-    "year": "2011",
-    "poster": "https://image.tmdb.org/t/p/original/8jkHD9au4mR6OEJ6tBIgfpptlWg.jpg",
-    "imdb": 7.0
-  },
-  "/dizi/orman/": {
-    "group": "Orman",
+  "/dizi/detlev-rohwedder-suikasti/": {
+    "group": "Detlev Rohwedder Suikastı",
     "year": "2020",
-    "poster": "https://image.tmdb.org/t/p/original/m9h8PANv21KCVmDjtrkgQDIrau8.jpg",
-    "imdb": 6.9
-  },
-  "/dizi/law-ve-order-uk/": {
-    "group": "Law & Order: UK",
-    "year": "2009",
-    "poster": "https://image.tmdb.org/t/p/original/6cQ76tkIVRTurBgktZxryH8cdh4.jpg",
+    "poster": "https://image.tmdb.org/t/p/original/dwgxSxTdh2534AAk2uLkkwFxISN.jpg",
     "imdb": 7.0
   },
-  "/dizi/blood-and-water/": {
-    "group": "Blood and Water",
-    "year": "2015",
-    "poster": "https://image.tmdb.org/t/p/original/rIRxx5L5dVzsGQVtyyWe7OQLSp6.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/call-my-agent-bollywood/": {
-    "group": "Call My Agent Bollywood",
-    "year": "2021",
-    "poster": "https://image.tmdb.org/t/p/original/iaDpI2BBF6KGLSyaBkxt1qMVWq9.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/hold-on-harutora-kun/": {
-    "group": "Hold on, Harutora-kun",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/bJtkqWg46TQJZnAgdLuOvWTKUPA.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/labyrinth-of-hortensia-and-the-minotaur/": {
-    "group": "Labyrinth of Hortensia and the Minotaur",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/WrkTq0zI9eaZgJx06yC1mh4VVq.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/25-years-of-you/": {
-    "group": "25 Years of You",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/lHaOdbxwY7uMdnX5vcgjaoUB0vf.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/monsters-of-god/": {
-    "group": "Monsters of God",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/zQSXfv1GiLJW2kszQUNMyrZGoqF.jpg",
-    "imdb": 0.0
+  "/dizi/asi-yillar/": {
+    "group": "Asi Yıllar",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/u7xqyWcJXL0LejV6PQrkYPQbfD2.jpg",
+    "imdb": 7.4
   }
 }
