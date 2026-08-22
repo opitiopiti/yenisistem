@@ -2352,7 +2352,10 @@
     {"name": "ASUNTA", "year": "2024"},
     {"name": "FIVE CAME BACK - THE REFERENCE FILMS", "year": "2017"},
     {"name": "JUST ALICE", "year": "2025"},
-    {"name": "DIRTY SCAMS", "year": "2024"}
+    {"name": "DIRTY SCAMS", "year": "2024"},
+    {"name": "UMTHETHO", "year": "2026"},
+    {"name": "MORIA", "year": "2026"},
+    {"name": "CONVERSATIONS WITH A KILLER: THE CHARLES MANSON TAPES", "year": "2026"}
   ],
   "HBO DİZİLERİ": [
     {"name": "THE PITT", "year": "2025"},
@@ -2636,7 +2639,11 @@
     {"name": "LANTERNS", "year": "2026"},
     {"name": "ROMA", "year": "2005"},
     {"name": "ONE TAKE", "year": "1993"},
-    {"name": "HACKERVILLE", "year": "2018"}
+    {"name": "HACKERVILLE", "year": "2018"},
+    {"name": "BRING ME THE BEAUTIES: A MODEL CULT", "year": "2026"},
+    {"name": "THE TOPURIAS", "year": "2026"},
+    {"name": "TSUNAMI: THE AFTERMATH", "year": "2006"},
+    {"name": "SLAVES OF FAITH: HERALDS OF THE GOSPEL", "year": "2026"}
   ],
   "AMAZON PRIME DİZİLERİ": [
     {"name": "BAIT", "year": "2026"},
@@ -3066,7 +3073,8 @@
     {"name": "PANIC!", "year": "2021"},
     {"name": "LOVE ADHURA", "year": "2024"},
     {"name": "FILTHY ENVY", "year": "2022"},
-    {"name": "SILENT CARGO", "year": "2022"}
+    {"name": "SILENT CARGO", "year": "2022"},
+    {"name": "ISAKAPATNAM", "year": "2026"}
   ],
   "APPLE TV+ DİZİLERİ": [
     {"name": "THE LAST THING HE TOLD ME", "year": "2023"},
@@ -3300,7 +3308,8 @@
     {"name": "AIR GEAR", "year": "2006"},
     {"name": "POKEMON HORIZONS", "year": "2023"},
     {"name": "SYURUP", "year": "2011"},
-    {"name": "THE PRINCE OF TENNIS ~ MATCH! TENNIS JUNIORS ~", "year": "2001"}
+    {"name": "THE PRINCE OF TENNIS ~ MATCH! TENNIS JUNIORS ~", "year": "2001"},
+    {"name": "SAINT LOVE SURVIVORS", "year": "2026"}
   ],
   "JTBC DİZİLERİ": [
     {"name": "STILL SHINING", "year": "2026"},
@@ -3526,7 +3535,8 @@
     {"name": "AGUI MAEUMEUL ILGNEUN JADEUL", "year": "2022"},
     {"name": "SIKEURIT GADEUN", "year": "2010"},
     {"name": "SYURUP", "year": "2021"},
-    {"name": "NATURAL SIX", "year": "2012"}
+    {"name": "NATURAL SIX", "year": "2012"},
+    {"name": "PASSIONATE LOVE", "year": "2013"}
   ],
   "DISNEY+ DİZİLERİ": [
     {"name": "STAR WARS: TALES OF THE UNDERWORLD", "year": "2025"},
@@ -3907,7 +3917,8 @@
     {"name": "MS. X", "year": "2026"},
     {"name": "THE EMPEROR'S NEW SCHOOL", "year": "2006"},
     {"name": "ELITE FORCE", "year": "2016"},
-    {"name": "STAR WARS: VISIONS PRESENTS - THE NINTH JEDI", "year": "2026"}
+    {"name": "STAR WARS: VISIONS PRESENTS - THE NINTH JEDI", "year": "2026"},
+    {"name": "TRAVIS JAPAN SUMMER VACATION!! IN THE USA", "year": "2026"}
   ],
   "HUNAN TV DİZİLERİ": [
     {"name": "MIDSUMMER NIGHT", "year": "2013"},
@@ -4085,7 +4096,10 @@
     {"name": "POONG, THE JOSEON PSYCHIATRIST", "year": "2022"},
     {"name": "LITTLE CABIN IN THE WOODS", "year": "2018"},
     {"name": "ONE MILLION STARS FALLING FROM THE SKY", "year": "2018"},
-    {"name": "SEE YOU TOMORROW", "year": "2026"}
+    {"name": "SEE YOU TOMORROW", "year": "2026"},
+    {"name": "A PIECE OF YOUR MIND", "year": "2020"},
+    {"name": "THE MIDNIGHT ROMANCE IN HAGWON", "year": "2024"},
+    {"name": "SERENDIPITY'S EMBRACE", "year": "2024"}
   ],
   "BBC IPLAYER DİZİLERİ": [
     {"name": "MANDY", "year": "2019"},
@@ -4491,7 +4505,8 @@
     {"name": "91 DAYS", "year": "2016"},
     {"name": "SHOWA GENROKU RAKUGO SHINJU", "year": "2016"},
     {"name": "TAGUSARI BROS.", "year": "2026"},
-    {"name": "SMOKING BEHIND THE SUPERMARKET WITH YOU", "year": "2026"}
+    {"name": "SMOKING BEHIND THE SUPERMARKET WITH YOU", "year": "2026"},
+    {"name": "UNTIL THE T-SHIRT DRIES", "year": "2026"}
   ],
   "MGM+ DİZİLERİ": [
     {"name": "NINE BODIES IN A MEXICAN MORGUE", "year": "2025"},
@@ -4890,7 +4905,8 @@
     {"name": "FURIOUS", "year": "2026"},
     {"name": "THE SHARDS", "year": "2026"},
     {"name": "THE CURSE OF VON DUTCH: A BRAND TO DIE FOR", "year": "2021"},
-    {"name": "DELIRIUM", "year": "2014"}
+    {"name": "DELIRIUM", "year": "2014"},
+    {"name": "SQUATTERS: GET THE F*** OUT OF MY HOUSE", "year": "2026"}
   ],
   "TVING DİZİLERİ": [
     {"name": "LOVE IN THE BIG CITY", "year": "2024"},
@@ -4924,7 +4940,8 @@
     {"name": "YIJAE, GOT JOOKSEUMMIDA", "year": "2023"},
     {"name": "SOOLKKUNDOSHIYEOJADEUL", "year": "2021"},
     {"name": "A BLOODY LUCKY DAY", "year": "2023"},
-    {"name": "PYRAMID GAME", "year": "2024"}
+    {"name": "PYRAMID GAME", "year": "2024"},
+    {"name": "MY MILITARY VALENTINE", "year": "2024"}
   ],
   "TOKYO MX DİZİLERİ": [
     {"name": "SOLO LEVELING", "year": "2024"},
@@ -5174,7 +5191,8 @@
     {"name": "TOUGEN ANKI", "year": "2025"},
     {"name": "RANMA1/2", "year": "2024"},
     {"name": "S.S.P.T", "year": "1985"},
-    {"name": "SUMUD", "year": "2017"}
+    {"name": "SUMUD", "year": "2017"},
+    {"name": "TATSUKI: TOO KIND FOR SCHOOL", "year": "2026"}
   ],
   "WOWOW DİZİLERİ": [
     {"name": "GOLDEN KAMUY -THE HUNT OF PRISONERS IN HOKKAIDO-", "year": "2024"},
@@ -5188,7 +5206,8 @@
     {"name": "AO HARU RIDE", "year": "2023"},
     {"name": "GOLDEN KAMUY: HOKKAIDO SHISEI SHUJIN SOUDATSUHEN", "year": "2024"},
     {"name": "BACCANO!", "year": "2007"},
-    {"name": "COWBOY BEBOP", "year": "1998"}
+    {"name": "COWBOY BEBOP", "year": "1998"},
+    {"name": "KENZO KITAKATA: SUIKODEN", "year": "2026"}
   ],
   "E CHANNEL DİZİLERİ": [
     {"name": "THE EMPRESS", "year": "2011"}
@@ -5651,7 +5670,8 @@
     {"name": "PERFECT CROWN", "year": "2026"},
     {"name": "OLD SCHOOL INTERN", "year": "2020"},
     {"name": "THE MARRIAGE CONTRACT", "year": "2023"},
-    {"name": "YOU ARE SO PRETTY", "year": "2011"}
+    {"name": "YOU ARE SO PRETTY", "year": "2011"},
+    {"name": "MOON RIVER", "year": "2025"}
   ],
   "VRT MAX DİZİLERİ": [
     {"name": "HIGH TIDES", "year": "2023"},
@@ -5795,7 +5815,9 @@
     {"name": "MAI DEMON", "year": "2021"},
     {"name": "WU FU LIN MEN", "year": "2020"},
     {"name": "STARCITY", "year": "2025"},
-    {"name": "THOUSAND YEARS OF LOVE", "year": "2024"}
+    {"name": "THOUSAND YEARS OF LOVE", "year": "2024"},
+    {"name": "THE FIRST JASMINE", "year": "2026"},
+    {"name": "DAZZLING HIM", "year": "2024"}
   ],
   "WAVVE DİZİLERİ": [
     {"name": "WILL YOU BE MY MANAGER?", "year": "2025"},
@@ -5810,7 +5832,8 @@
     {"name": "MAY I HELP YOU", "year": "2022"},
     {"name": "DARIMI PAEMILLI", "year": "2024"},
     {"name": "S LINE", "year": "2025"},
-    {"name": "CHEER UP!", "year": "2022"}
+    {"name": "CHEER UP!", "year": "2022"},
+    {"name": "FANLETTER, PLEASE", "year": "2022"}
   ],
   "FXX DİZİLERİ": [
     {"name": "IT'S ALWAYS SUNNY IN PHILADELPHIA", "year": "2005"},
@@ -6142,7 +6165,8 @@
     {"name": "COLOR OF WOMAN", "year": "2011"},
     {"name": "HEAVEN'S GARDEN", "year": "2011"},
     {"name": "LOVE AFFAIR IN THE AFTERNOON", "year": "2019"},
-    {"name": "PANDA AND HEDGEHOG", "year": "2012"}
+    {"name": "PANDA AND HEDGEHOG", "year": "2012"},
+    {"name": "TWELVE NIGHTS", "year": "2018"}
   ],
   "IQIYI DİZİLERİ": [
     {"name": "LAST ONE STANDING", "year": "2019"},
@@ -6183,7 +6207,9 @@
     {"name": "MEDALIST", "year": "2025"},
     {"name": "WANDANCE", "year": "2025"},
     {"name": "DORAEMON", "year": "2005"},
-    {"name": "MOCOMI", "year": "2021"}
+    {"name": "MOCOMI", "year": "2021"},
+    {"name": "YOUR SUMMER, MY STORM", "year": "2026"},
+    {"name": "THE END OF THE WORLD WITH YOU", "year": "2023"}
   ],
   "SHOWMAX DİZİLERİ": [
     {"name": "DAN DA DAN", "year": "2021"},
@@ -6520,7 +6546,8 @@
     {"name": "THUNDER 3", "year": "2026"},
     {"name": "LOVED ONE", "year": "2026"},
     {"name": "THE GHOST IN THE SHELL", "year": "2026"},
-    {"name": "ALIVE: DR. KOKORO, THE MEDICAL ONCOLOGIST", "year": "2020"}
+    {"name": "ALIVE: DR. KOKORO, THE MEDICAL ONCOLOGIST", "year": "2020"},
+    {"name": "BLACK TRICK: THE LAWYER WHO CONTROLS JUSTICE", "year": "2026"}
   ],
   "WONDER PROJECT DİZİLERİ": [
     {"name": "HOUSE OF DAVID", "year": "2025"}
@@ -6692,7 +6719,8 @@
     {"name": "TOZLUYAKA", "year": "2022"},
     {"name": "SEN ÇAL KAPIMI", "year": "2020"},
     {"name": "SAVAŞÇI", "year": "2017"},
-    {"name": "DENIZ INSIDE MY HEART", "year": "2016"}
+    {"name": "DENIZ INSIDE MY HEART", "year": "2016"},
+    {"name": "POSSESSION", "year": "2026"}
   ],
   "FAMILY CHANNEL DİZİLERİ": [
     {"name": "I WOKE UP A VAMPIRE", "year": "2023"},
@@ -6781,7 +6809,8 @@
     {"name": "GIRL FROM NOWHERE THE RESET", "year": "2026"},
     {"name": "LOVE IN THE MOONLIGHT", "year": "2025"},
     {"name": "DEURIM HAI", "year": "2016"},
-    {"name": "TIME MUN WELA TAI", "year": "2024"}
+    {"name": "TIME MUN WELA TAI", "year": "2024"},
+    {"name": "SPARE ME YOUR MERCY", "year": "2024"}
   ],
   "MANGO TV DİZİLERİ": [
     {"name": "THE LEOPARD", "year": "2025"},
@@ -6952,7 +6981,9 @@
   ],
   "GMM25 DİZİLERİ": [
     {"name": "IRRÉSISTIBLE", "year": "2021"},
-    {"name": "PLUTO", "year": "2024"}
+    {"name": "PLUTO", "year": "2024"},
+    {"name": "LOVE YOU TEACHER", "year": "2026"},
+    {"name": "THE DARK DICE", "year": "2025"}
   ],
   "SHUDDER DİZİLERİ": [
     {"name": "CREEPSHOW", "year": "2019"},
@@ -6981,7 +7012,11 @@
     {"name": "KUROKO'S BASKETBALL", "year": "2012"},
     {"name": "ACCEL WORLD", "year": "2012"},
     {"name": "CODE GEASS: LELOUCH OF THE REBELLION", "year": "2006"},
-    {"name": "SANDA", "year": "2025"}
+    {"name": "SANDA", "year": "2025"},
+    {"name": "LET'S END OUR FRIENDSHIP NOW", "year": "2026"},
+    {"name": "BUSINESS MARRIAGE", "year": "2024"},
+    {"name": "TAKARA-KUN AND AMAGI-KUN", "year": "2022"},
+    {"name": "MY BEAUTIFUL MAN", "year": "2021"}
   ],
   "NINE NETWORK DİZİLERİ": [
     {"name": "FIRST ACT", "year": "2015"},
@@ -7217,7 +7252,8 @@
   "WATCHA DİZİLERİ": [
     {"name": "RECIPE FOR FAREWELL", "year": "2022"},
     {"name": "ULTIMATE WEAPON ALICE", "year": "2022"},
-    {"name": "LIGHT ON ME", "year": "2021"}
+    {"name": "LIGHT ON ME", "year": "2021"},
+    {"name": "SEMANTIC ERROR", "year": "2022"}
   ],
   "CHANNEL 4+ DİZİLERİ": [
     {"name": "EVERYONE ELSE BURNS", "year": "2023"},
@@ -7327,7 +7363,10 @@
     {"name": "CUNK & OTHER HUMANS ON 2019", "year": "2019"},
     {"name": "SPRINGWATCH", "year": "2005"},
     {"name": "MANCHILD", "year": "2002"},
-    {"name": "THE WRONG MANS", "year": "2013"}
+    {"name": "THE WRONG MANS", "year": "2013"},
+    {"name": "BLOOD SACRIFICE", "year": "2015"},
+    {"name": "THE CELTS: BLOOD, IRON AND SACRIFICE", "year": "2015"},
+    {"name": "TAKE A HIKE", "year": "2021"}
   ],
   "ZDFNEO DİZİLERİ": [
     {"name": "DEAD END", "year": "2019"}
@@ -7387,7 +7426,8 @@
     {"name": "DETECTIVE ALICE", "year": "2015"},
     {"name": "MISSING KOREA", "year": "2015"},
     {"name": "THE MIRACLE", "year": "2016"},
-    {"name": "MAEUMUI SORI", "year": "2016"}
+    {"name": "MAEUMUI SORI", "year": "2016"},
+    {"name": "GTO (2026)", "year": "2020"}
   ],
   "BRITBOX DİZİLERİ": [
     {"name": "MAGPIE MURDERS", "year": "2022"},
@@ -7646,7 +7686,8 @@
     {"name": "TO MY STAR", "year": "2021"},
     {"name": "YOUR PLAYLIST", "year": "2021"},
     {"name": "WHERE YOUR EYES LINGER", "year": "2020"},
-    {"name": "CAFÉ KILIMANJARO", "year": "2020"}
+    {"name": "CAFÉ KILIMANJARO", "year": "2020"},
+    {"name": "THE WITCH STORE", "year": "2022"}
   ],
   "RIVIT TV DİZİLERİ": [
     {"name": "ENTRAPPED", "year": "2015"},
@@ -7687,7 +7728,8 @@
     {"name": "CITY HUNTER", "year": "1987"},
     {"name": "LOVE ALL PLAY", "year": "2022"},
     {"name": "SYSTEM CRASH", "year": "1999"},
-    {"name": "DEEP REVENGE", "year": "2026"}
+    {"name": "DEEP REVENGE", "year": "2026"},
+    {"name": "POPULAR SERIZAWA ACTS WEIRD AROUND ME", "year": "2026"}
   ],
   "RTP1 DİZİLERİ": [
     {"name": "UNTIL LIFE DO US PART", "year": "2021"},
@@ -8954,7 +8996,8 @@
   ],
   "ALLBLK DİZİLERİ": [
     {"name": "TERROR LAKE DRIVE", "year": "2020"},
-    {"name": "JUPITER JONES", "year": "2026"}
+    {"name": "JUPITER JONES", "year": "2026"},
+    {"name": "JUDGE ME NOT", "year": "2023"}
   ],
   "ALARBY TELEVISION DİZİLERİ": [
     {"name": "TAKKI", "year": "2012"}
@@ -9280,5 +9323,14 @@
   ],
   "SUPERSTAR TV DİZİLERİ": [
     {"name": "TÜNEL", "year": "2023"}
+  ],
+  "OKSUSU DİZİLERİ": [
+    {"name": "WEDNESDAY 3:30 PM", "year": "2017"}
+  ],
+  "MAX DİZİLERİ": [
+    {"name": "GANG WAR: BANDIDOS", "year": "2026"}
+  ],
+  "MBN DİZİLERİ": [
+    {"name": "MISSING CROWN PRINCE", "year": "2024"}
   ]
 }
