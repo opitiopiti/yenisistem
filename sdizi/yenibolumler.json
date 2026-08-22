@@ -1,4 +1,10 @@
 {
+  "/diziler/a-thousand-blows.html": {
+    "group": "A THOUSAND BLOWS",
+    "year": "2024",
+    "imdb": "7.4",
+    "poster": null
+  },
   "/diziler/blood-sacrifice.html": {
     "group": "BLOOD SACRIFICE",
     "year": "2026",
@@ -70,11 +76,5 @@
     "year": "2020",
     "imdb": "8.8",
     "poster": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
-  },
-  "/diziler/the-apartment-job.html": {
-    "group": "THE APARTMENT JOB",
-    "year": "2026",
-    "imdb": "6.9",
-    "poster": "https://image.tmdb.org/t/p/w500/qFxbrHvNq5tn9SCBq3aKPgaGfyO.jpg"
   }
 }
