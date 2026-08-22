@@ -1,4 +1,10 @@
 {
+  "/diziler/blood-sacrifice.html": {
+    "group": "BLOOD SACRIFICE",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
   "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
     "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
     "year": "2018",
@@ -70,11 +76,5 @@
     "year": "2026",
     "imdb": "6.9",
     "poster": "https://image.tmdb.org/t/p/w500/qFxbrHvNq5tn9SCBq3aKPgaGfyO.jpg"
-  },
-  "/diziler/grand-blue.html": {
-    "group": "GRAND BLUE",
-    "year": "2018",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/ii1yrluzWisy1rygSKz8lJkAkil.jpg"
   }
 }
