@@ -35780,8 +35780,8 @@
   "7003": {
     "name": "FLEX X COP (2024)",
     "last_season": 2,
-    "last_episode": 2,
-    "last_modified": 1786343757
+    "last_episode": 5,
+    "last_modified": 1787377299
   },
   "7004": {
     "name": "MY GIRL (2020)",
@@ -72164,8 +72164,8 @@
   "15092": {
     "name": "UNTIL THE T-SHIRT DRIES (2026)",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1786240511
+    "last_episode": 6,
+    "last_modified": 1787377299
   },
   "15097": {
     "name": "GLADIATORS: WARRIORS OF THE ANCIENT WORLD (2025)",
@@ -72358,5 +72358,11 @@
     "last_season": 1,
     "last_episode": 3,
     "last_modified": 1787327903
+  },
+  "15188": {
+    "name": "HOLD ON, HARUTORA-KUN (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1787377299
   }
 }
