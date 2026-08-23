@@ -5528,7 +5528,8 @@
     {"name": "SECRETS & LIES", "year": "2015"},
     {"name": "BLUE WATER HIGH", "year": "2005"},
     {"name": "NAKIL", "year": "1974"},
-    {"name": "LES NORTON", "year": "2019"}
+    {"name": "LES NORTON", "year": "2019"},
+    {"name": "THE BAKER AND THE BEAUTY", "year": "2020"}
   ],
   "FX DİZİLERİ": [
     {"name": "THE OLD MAN", "year": "2022"},
@@ -7693,7 +7694,8 @@
   "LAS ESTRELLAS DİZİLERİ": [
     {"name": "REBELDE", "year": "2004"},
     {"name": "JULIANTINA", "year": "2019"},
-    {"name": "ALMA REBELDE", "year": "1999"}
+    {"name": "ALMA REBELDE", "year": "1999"},
+    {"name": "ALMA DE HIERRO", "year": "2008"}
   ],
   "VIKI DİZİLERİ": [
     {"name": "TO MY STAR", "year": "2021"},
@@ -9352,5 +9354,11 @@
   ],
   "LA 2 DİZİLERİ": [
     {"name": "ORMAN", "year": "2017"}
+  ],
+  "ION DİZİLERİ": [
+    {"name": "THE ADVENTURES OF SWISS FAMILY ROBINSON", "year": "1998"}
+  ],
+  "SJÓNVARP SÍMANS DİZİLERİ": [
+    {"name": "STELLA BLÓMKVIST", "year": "2017"}
   ]
 }
