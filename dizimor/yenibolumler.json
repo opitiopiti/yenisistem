@@ -1,14 +1,26 @@
 {
-  "/dizi/istedigin-hayat/": {
-    "group": "İstediğin Hayat",
-    "year": "2024",
-    "poster": "https://image.tmdb.org/t/p/original/8E0wOc44yCUhAMYayQtsGBcCm0X.jpg",
-    "imdb": 6.8
+  "/dizi/motive/": {
+    "group": "Motive",
+    "year": "2013",
+    "poster": "https://image.tmdb.org/t/p/original/gA5mK6VO1tJ4DCGhmXEcsYetvqH.jpg",
+    "imdb": 6.4
   },
-  "/dizi/en-iyi-arkadasim-lay-lay/": {
-    "group": "En İyi Arkadaşım Lay Lay",
+  "/dizi/wentworth/": {
+    "group": "Wentworth",
+    "year": "2013",
+    "poster": "https://image.tmdb.org/t/p/original/3nikr0NE3t8UMgI1Ba6hXaeEgKr.jpg",
+    "imdb": 8.0
+  },
+  "/dizi/whiskey-cavalier/": {
+    "group": "Whiskey Cavalier",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/vDw6JCPcMbGYaeMWz1AEcwdlGaA.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/waffles-ve-mochi/": {
+    "group": "Waffles ve Mochi",
     "year": "2021",
-    "poster": "https://image.tmdb.org/t/p/original/zqHF8bo8YjqMKZoHqXCAZRDiwoS.jpg",
-    "imdb": 6.6
+    "poster": "https://image.tmdb.org/t/p/original/oPpA8DMcMThacHlAo5az83WxwBr.jpg",
+    "imdb": 6.9
   }
 }
