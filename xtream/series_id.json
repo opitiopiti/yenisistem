@@ -4100,8 +4100,8 @@
   "1684": {
     "name": "BLEACH (2004)",
     "last_season": 2,
-    "last_episode": 44,
-    "last_modified": 1787205845
+    "last_episode": 45,
+    "last_modified": 1787464352
   },
   "1685": {
     "name": "KIM POSSIBLE (2002)",
@@ -39194,8 +39194,8 @@
   "7575": {
     "name": "DIGIMON BEATBREAK (2025) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 43,
-    "last_modified": 1786859376
+    "last_episode": 44,
+    "last_modified": 1787464352
   },
   "7576": {
     "name": "DOROHEDORO 2 (2026) İNGİLİZCE",
@@ -72370,5 +72370,17 @@
     "last_season": 3,
     "last_episode": 3,
     "last_modified": 1787413404
+  },
+  "15194": {
+    "name": "UNLUCKY BAE (2026)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1787464352
+  },
+  "15195": {
+    "name": "SHARK 2 THE STORM (2025)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1787464352
   }
 }
