@@ -1,1 +1,26 @@
-{}
+{
+  "/dizi/gupi/": {
+    "group": "Gupi",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/4yfVzVduVckj2D5oYqnjIQnVJn7.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/gizli-kimlik/": {
+    "group": "Gizli Kimlik",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/p35DDkuhC4hh3EvbDncu7EYk77e.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/trigger-point/": {
+    "group": "Trigger Point",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/cjMpwyWL0l1n0EkNw88QyzWRsHW.jpg",
+    "imdb": 6.9
+  },
+  "/dizi/sherlock-ve-kizi/": {
+    "group": "Sherlock ve Kızı",
+    "year": "2025",
+    "poster": "https://image.tmdb.org/t/p/original/ifh5NNMzUEqErsHmeKjjGblbOav.jpg",
+    "imdb": 6.7
+  }
+}
