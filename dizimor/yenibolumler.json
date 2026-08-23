@@ -1,80 +1,56 @@
 {
-  "/dizi/doubt/": {
-    "group": "Doubt",
-    "year": "2017",
-    "poster": "https://image.tmdb.org/t/p/original/vZ8TpyyLKpx8w1OzP6gNh9YNUrw.jpg",
-    "imdb": 4.5
+  "/dizi/the-tattooist-of-auschwitz/": {
+    "group": "The Tattooist of Auschwitz",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/nAdgX2CmkrNaRTJelFlBkpRQO0b.jpg",
+    "imdb": 8.0
   },
-  "/dizi/yabani-ask/": {
-    "group": "Yabani Aşk",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/original/gqbdjn5tMe3kKa3HrrVVLUwnA3I.jpg",
-    "imdb": 6.1
+  "/dizi/the-adventures-of-swiss-family-robinson/": {
+    "group": "The Adventures of Swiss Family Robinson",
+    "year": "1998",
+    "poster": "https://image.tmdb.org/t/p/original/pS3h1RbjHqOunRSM95gP2mZGNOS.jpg",
+    "imdb": 0.0
   },
-  "/dizi/changing-ends/": {
-    "group": "Changing Ends",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/original/mpIqXlSOukifmLocpzw0PAl2rJE.jpg",
-    "imdb": 6.3
+  "/dizi/the-spiderwick-chronicles/": {
+    "group": "The Spiderwick Chronicles",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/ic5Hs6zYcM4YUuxyezFUAFQie39.jpg",
+    "imdb": 6.9
   },
-  "/dizi/den-som-draeber/": {
-    "group": "Den som dræber",
-    "year": "2011",
-    "poster": "https://image.tmdb.org/t/p/original/8jkHD9au4mR6OEJ6tBIgfpptlWg.jpg",
-    "imdb": 7.0
+  "/dizi/the-outpost/": {
+    "group": "The Outpost",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/original/pqHFkhlO4xRRNOzWEEl3yV9KXiu.jpg",
+    "imdb": 7.4
   },
-  "/dizi/the-celts-blood-iron-and-sacrifice/": {
-    "group": "The Celts: Blood, Iron and Sacrifice",
-    "year": "2015",
-    "poster": "https://image.tmdb.org/t/p/original/iRsIvqIIGNjFWbU1IXVH29vPRCk.jpg",
+  "/dizi/the-baker-and-the-beauty/": {
+    "group": "The Baker and the Beauty",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/i0AB2fH7KZNlrh9SBNY3a5ooD0Q.jpg",
     "imdb": 7.3
   },
-  "/dizi/how-to-get-your-dream-job/": {
-    "group": "How to Get Your Dream Job",
-    "year": "0",
-    "poster": "",
-    "imdb": 0.0
+  "/dizi/stella-blmkvist/": {
+    "group": "Stella Blómkvist",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/original/uiXcwlLhpuouT4aAJu1eaH7dhJ4.jpg",
+    "imdb": 6.3
   },
-  "/dizi/gto/": {
-    "group": "GTO (2026)",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/rH24CrEztHtJ2MnQ3m3QTGUYg3s.jpg",
-    "imdb": 0.0
+  "/dizi/insanin-kralligi/": {
+    "group": "İnsanın Krallığı",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/jQZIZcmkSFPL1QEMjQgqXKKFb44.jpg",
+    "imdb": 7.4
   },
-  "/dizi/harry-artik-evlenmeli/": {
-    "group": "Harry Artık Evlenmeli",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/fPSY7T3z7lmQu166LcjV7VWVc6V.jpg",
-    "imdb": 0.0
+  "/dizi/alma-de-hierro/": {
+    "group": "Alma de Hierro",
+    "year": "2008",
+    "poster": "https://image.tmdb.org/t/p/original/po8W7l4QTEs8U9dTF4oW6iX7WBn.jpg",
+    "imdb": 7.7
   },
-  "/dizi/the-missing-husband/": {
-    "group": "The Missing Husband",
-    "year": "2023",
-    "poster": "https://image.tmdb.org/t/p/original/sOQnW9bXwDQXaIabli0LP1Bglm5.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/korku-burnu/": {
-    "group": "Korku Burnu",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/pkhR1xBgHPgxYMlSBZE903XbmE4.jpg",
-    "imdb": 7.2
-  },
-  "/dizi/son-proje/": {
-    "group": "Son Proje",
-    "year": "2026",
-    "poster": "https://image.tmdb.org/t/p/original/oTUmgFg0i2dupCCckTp433sYlRC.jpg",
-    "imdb": 7.9
-  },
-  "/dizi/how-to-pray-for-your-sons-and-daughters-and-loved-ones/": {
-    "group": "How to Pray for your Sons and Daughters and Loved Ones",
-    "year": "2022",
-    "poster": "https://image.tmdb.org/t/p/original/c4W6ylimNfvv9MeTiNFzqsYC4nv.jpg",
-    "imdb": 0.0
-  },
-  "/dizi/love-is-blind-arjantin/": {
-    "group": "Love is Blind: Arjantin",
-    "year": "2024",
-    "poster": "https://image.tmdb.org/t/p/original/oR9fhZWaP3p0RbkTGwLUhgPhryR.jpg",
-    "imdb": 0.0
+  "/dizi/olumcul-kadinlar/": {
+    "group": "Ölümcül Kadınlar",
+    "year": "2011",
+    "poster": "https://image.tmdb.org/t/p/original/qUE2ceDcYaz53okDNFNeLIlXaek.jpg",
+    "imdb": 6.1
   }
 }
