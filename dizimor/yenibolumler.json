@@ -1,26 +1,80 @@
 {
-  "/dizi/motive/": {
-    "group": "Motive",
-    "year": "2013",
-    "poster": "https://image.tmdb.org/t/p/original/gA5mK6VO1tJ4DCGhmXEcsYetvqH.jpg",
-    "imdb": 6.4
+  "/dizi/doubt/": {
+    "group": "Doubt",
+    "year": "2017",
+    "poster": "https://image.tmdb.org/t/p/original/vZ8TpyyLKpx8w1OzP6gNh9YNUrw.jpg",
+    "imdb": 4.5
   },
-  "/dizi/wentworth/": {
-    "group": "Wentworth",
-    "year": "2013",
-    "poster": "https://image.tmdb.org/t/p/original/3nikr0NE3t8UMgI1Ba6hXaeEgKr.jpg",
-    "imdb": 8.0
+  "/dizi/yabani-ask/": {
+    "group": "Yabani Aşk",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/original/gqbdjn5tMe3kKa3HrrVVLUwnA3I.jpg",
+    "imdb": 6.1
   },
-  "/dizi/whiskey-cavalier/": {
-    "group": "Whiskey Cavalier",
-    "year": "2019",
-    "poster": "https://image.tmdb.org/t/p/original/vDw6JCPcMbGYaeMWz1AEcwdlGaA.jpg",
-    "imdb": 6.9
+  "/dizi/changing-ends/": {
+    "group": "Changing Ends",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/original/mpIqXlSOukifmLocpzw0PAl2rJE.jpg",
+    "imdb": 6.3
   },
-  "/dizi/waffles-ve-mochi/": {
-    "group": "Waffles ve Mochi",
-    "year": "2021",
-    "poster": "https://image.tmdb.org/t/p/original/oPpA8DMcMThacHlAo5az83WxwBr.jpg",
-    "imdb": 6.9
+  "/dizi/den-som-draeber/": {
+    "group": "Den som dræber",
+    "year": "2011",
+    "poster": "https://image.tmdb.org/t/p/original/8jkHD9au4mR6OEJ6tBIgfpptlWg.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/the-celts-blood-iron-and-sacrifice/": {
+    "group": "The Celts: Blood, Iron and Sacrifice",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/original/iRsIvqIIGNjFWbU1IXVH29vPRCk.jpg",
+    "imdb": 7.3
+  },
+  "/dizi/how-to-get-your-dream-job/": {
+    "group": "How to Get Your Dream Job",
+    "year": "0",
+    "poster": "",
+    "imdb": 0.0
+  },
+  "/dizi/gto/": {
+    "group": "GTO (2026)",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/rH24CrEztHtJ2MnQ3m3QTGUYg3s.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/harry-artik-evlenmeli/": {
+    "group": "Harry Artık Evlenmeli",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/fPSY7T3z7lmQu166LcjV7VWVc6V.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/the-missing-husband/": {
+    "group": "The Missing Husband",
+    "year": "2023",
+    "poster": "https://image.tmdb.org/t/p/original/sOQnW9bXwDQXaIabli0LP1Bglm5.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/korku-burnu/": {
+    "group": "Korku Burnu",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/pkhR1xBgHPgxYMlSBZE903XbmE4.jpg",
+    "imdb": 7.2
+  },
+  "/dizi/son-proje/": {
+    "group": "Son Proje",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/oTUmgFg0i2dupCCckTp433sYlRC.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/how-to-pray-for-your-sons-and-daughters-and-loved-ones/": {
+    "group": "How to Pray for your Sons and Daughters and Loved Ones",
+    "year": "2022",
+    "poster": "https://image.tmdb.org/t/p/original/c4W6ylimNfvv9MeTiNFzqsYC4nv.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/love-is-blind-arjantin/": {
+    "group": "Love is Blind: Arjantin",
+    "year": "2024",
+    "poster": "https://image.tmdb.org/t/p/original/oR9fhZWaP3p0RbkTGwLUhgPhryR.jpg",
+    "imdb": 0.0
   }
 }
