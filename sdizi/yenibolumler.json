@@ -1,4 +1,10 @@
 {
+  "/diziler/seal-team.html": {
+    "group": "SEAL TEAM",
+    "year": "2017",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg"
+  },
   "/diziler/president-curtis.html": {
     "group": "PRESIDENT CURTIS",
     "year": "2026",
@@ -76,11 +82,5 @@
     "year": "2026",
     "imdb": "5.8",
     "poster": "https://image.tmdb.org/t/p/w500/rh7k9oa18I3ibdLdWOWKHqrHQM1.jpg"
-  },
-  "/diziler/its-always-sunny-in-philadelphia.html": {
-    "group": "IT'S ALWAYS SUNNY IN PHILADELPHIA",
-    "year": "2005",
-    "imdb": "8.8",
-    "poster": "https://image.tmdb.org/t/p/w500/o0tMMK33JqmtpcWw0H41cEr9xQB.jpg"
   }
 }
