@@ -1,9 +1,27 @@
 {
+  "/diziler/star-trek-strange-new-worlds.html": {
+    "group": "STAR TREK: STRANGE NEW WORLDS",
+    "year": "2022",
+    "imdb": "8.3",
+    "poster": "https://image.tmdb.org/t/p/w500/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg"
+  },
+  "/diziler/grand-blue.html": {
+    "group": "GRAND BLUE",
+    "year": "2018",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/ii1yrluzWisy1rygSKz8lJkAkil.jpg"
+  },
   "/diziler/seal-team.html": {
     "group": "SEAL TEAM",
     "year": "2017",
     "imdb": "7.7",
     "poster": "https://image.tmdb.org/t/p/w500/6iSnec83UEMgLOXAtGYwaVNHLjR.jpg"
+  },
+  "/diziler/futurama.html": {
+    "group": "FUTURAMA",
+    "year": "1999",
+    "imdb": "8.5",
+    "poster": "https://image.tmdb.org/t/p/w500/6ZS8SOno6kTmWz4eQ8lX8EBXOMv.jpg"
   },
   "/diziler/president-curtis.html": {
     "group": "PRESIDENT CURTIS",
@@ -70,17 +88,5 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg"
-  },
-  "/diziler/outer-banks.html": {
-    "group": "OUTER BANKS",
-    "year": "2020",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/ovDgO2LPfwdVRfvScAqo9aMiIW.jpg"
-  },
-  "/diziler/the-shards.html": {
-    "group": "THE SHARDS",
-    "year": "2026",
-    "imdb": "5.8",
-    "poster": "https://image.tmdb.org/t/p/w500/rh7k9oa18I3ibdLdWOWKHqrHQM1.jpg"
   }
 }
