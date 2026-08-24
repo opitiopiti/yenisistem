@@ -4724,8 +4724,8 @@
   "1788": {
     "name": "ONE PIECE (1999) İNGİLİZCE",
     "last_season": 23,
-    "last_episode": 1174,
-    "last_modified": 1787205845
+    "last_episode": 1175,
+    "last_modified": 1787551749
   },
   "1789": {
     "name": "DEMON SLAYER: KIMETSU NO YAIBA (2019)",
@@ -5899,9 +5899,9 @@
   },
   "1987": {
     "name": "SEAL TEAM (2017)",
-    "last_season": 5,
-    "last_episode": 14,
-    "last_modified": 1783174642
+    "last_season": 7,
+    "last_episode": 10,
+    "last_modified": 1787551749
   },
   "1988": {
     "name": "THE O.C. (2003)",
@@ -70244,8 +70244,8 @@
   "14303": {
     "name": "SPOOKY IN LOVE (2026)",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1787413404
+    "last_episode": 12,
+    "last_modified": 1787551749
   },
   "14348": {
     "name": "ARZULARIN HARITASI (2026)",
@@ -72388,5 +72388,17 @@
     "last_season": 1,
     "last_episode": 6,
     "last_modified": 1787518277
+  },
+  "15202": {
+    "name": "WALKING ON THIN ICE (2025)",
+    "last_season": 1,
+    "last_episode": 12,
+    "last_modified": 1787551749
+  },
+  "15207": {
+    "name": "BLODSOFFER (2026)",
+    "last_season": 1,
+    "last_episode": 5,
+    "last_modified": 1787551749
   }
 }
