@@ -1,4 +1,10 @@
 {
+  "/diziler/spooky-in-love.html": {
+    "group": "SPOOKY IN LOVE",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
   "/diziler/star-trek-strange-new-worlds.html": {
     "group": "STAR TREK: STRANGE NEW WORLDS",
     "year": "2022",
@@ -82,11 +88,5 @@
     "year": "2023",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/2QOuYPE6ZCqgVfhClNotQR06uVj.jpg"
-  },
-  "/diziler/stuart-fails-to-save-the-universe.html": {
-    "group": "STUART FAILS TO SAVE THE UNIVERSE",
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg"
   }
 }
