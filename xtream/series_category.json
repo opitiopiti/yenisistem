@@ -6730,7 +6730,11 @@
     {"name": "SEN ÇAL KAPIMI", "year": "2020"},
     {"name": "SAVAŞÇI", "year": "2017"},
     {"name": "DENIZ INSIDE MY HEART", "year": "2016"},
-    {"name": "POSSESSION", "year": "2026"}
+    {"name": "POSSESSION", "year": "2026"},
+    {"name": "RÜZGARIN KALBI", "year": "2016"},
+    {"name": "ÖĞRETMEN", "year": "2020"},
+    {"name": "MUHTEŞEM YÜZYIL: KÖSEM", "year": "2015"},
+    {"name": "RUHSAR", "year": "2018"}
   ],
   "FAMILY CHANNEL DİZİLERİ": [
     {"name": "I WOKE UP A VAMPIRE", "year": "2023"},
@@ -8751,7 +8755,8 @@
     {"name": "46: YOK OLAN", "year": "2016"},
     {"name": "GECENIN UCUNDA", "year": "2022"},
     {"name": "SÖZ", "year": "2017"},
-    {"name": "SEFIRIN KIZI", "year": "2019"}
+    {"name": "SEFIRIN KIZI", "year": "2019"},
+    {"name": "MUHTEŞEM YÜZYIL", "year": "2011"}
   ],
   "KANAL D DİZİLERİ": [
     {"name": "ARKADAŞIM HOŞGELDIN", "year": "2013"},
@@ -8766,7 +8771,9 @@
     {"name": "VATANIM SENSIN", "year": "2016"},
     {"name": "SIYAH BEYAZ AŞK", "year": "2017"},
     {"name": "SEVERSIN", "year": "2022"},
-    {"name": "AFILI AŞK", "year": "2019"}
+    {"name": "AFILI AŞK", "year": "2019"},
+    {"name": "ÖYLE BIR GEÇER ZAMAN KI", "year": "2010"},
+    {"name": "MUHTEŞEM İKILI", "year": "2018"}
   ],
   "GAIN DİZİLERİ": [
     {"name": "FER", "year": "2025"},
@@ -8843,7 +8850,8 @@
     {"name": "BEN BU CIHANA SIĞMAZAM", "year": "2022"},
     {"name": "YAHŞI CAZIBE", "year": "2010"},
     {"name": "SEVMEK ZAMANI", "year": "2022"},
-    {"name": "YALNIZ KURT", "year": "2022"}
+    {"name": "YALNIZ KURT", "year": "2022"},
+    {"name": "KALP YARASI", "year": "2021"}
   ],
   "BEIN CONNECT DİZİLERİ": [
     {"name": "AILE ŞIRKETI", "year": "2020"},
