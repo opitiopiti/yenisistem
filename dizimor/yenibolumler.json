@@ -1,1 +1,56 @@
-{}
+{
+  "/dizi/oyle-bir-gecer-zaman-ki/": {
+    "group": "Öyle Bir Geçer Zaman Ki",
+    "year": "2010",
+    "poster": "https://image.tmdb.org/t/p/original/9EdummL201K7rYtcZ5z08yX8NKm.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/ruzgarin-kalbi/": {
+    "group": "Rüzgarın Kalbi",
+    "year": "2016",
+    "poster": "https://image.tmdb.org/t/p/original/vhEO02SBrHxXkXeONmBRiQLee9P.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/ogretmen/": {
+    "group": "Öğretmen",
+    "year": "2020",
+    "poster": "https://image.tmdb.org/t/p/original/6xv1ne0LwgG1j6cVh4pNMNe0791.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/muhtesem-ikili/": {
+    "group": "Muhteşem İkili",
+    "year": "2018",
+    "poster": "https://image.tmdb.org/t/p/original/fMnSwwMrllfbUjkT1fAjTID6G6B.jpg",
+    "imdb": 7.0
+  },
+  "/dizi/muhtesem-yuzyil-kosem/": {
+    "group": "Muhteşem Yüzyıl: Kösem",
+    "year": "2015",
+    "poster": "https://image.tmdb.org/t/p/original/5ocFDZmhKI0ypSUjUVWON1jupQV.jpg",
+    "imdb": 7.7
+  },
+  "/dizi/ruhsar/": {
+    "group": "Ruhsar",
+    "year": "1998",
+    "poster": "https://image.tmdb.org/t/p/original/8CZee94C79kl6uVjCXqHHfs2tlD.jpg",
+    "imdb": 6.3
+  },
+  "/dizi/olacak-o-kadar/": {
+    "group": "Olacak O Kadar",
+    "year": "1988",
+    "poster": "https://image.tmdb.org/t/p/original/uAb5tktS2mfzae44gpmxSfCkasP.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/muhtesem-yuzyil/": {
+    "group": "Muhteşem Yüzyıl",
+    "year": "2011",
+    "poster": "https://image.tmdb.org/t/p/original/kryRPZTkCxtIc1bGMjIQgblnPe0.jpg",
+    "imdb": 8.1
+  },
+  "/dizi/kalp-yarasi/": {
+    "group": "Kalp Yarası",
+    "year": "2021",
+    "poster": "https://image.tmdb.org/t/p/original/ycnQMLfvJ7grq296fM1ckrjPECY.jpg",
+    "imdb": 8.3
+  }
+}
