@@ -1,4 +1,16 @@
 {
+  "/diziler/ted-lasso.html": {
+    "group": "TED LASSO",
+    "year": "2020",
+    "imdb": "8.8",
+    "poster": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
+  },
+  "/diziler/trying.html": {
+    "group": "TRYING",
+    "year": "2020",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/eHTDuZp8UtbSK1XehE59UJrgOXg.jpg"
+  },
   "/diziler/its-always-sunny-in-philadelphia.html": {
     "group": "IT'S ALWAYS SUNNY IN PHILADELPHIA",
     "year": "2005",
@@ -76,17 +88,5 @@
     "year": "2022",
     "imdb": "9.0",
     "poster": "https://image.tmdb.org/t/p/w500/cR4P0EJrLX2bdWij1VYLf8VB78M.jpg"
-  },
-  "/diziler/a-thousand-blows.html": {
-    "group": "A THOUSAND BLOWS",
-    "year": "2024",
-    "imdb": "7.4",
-    "poster": null
-  },
-  "/diziler/blood-sacrifice.html": {
-    "group": "BLOOD SACRIFICE",
-    "year": "2026",
-    "imdb": "6.4",
-    "poster": "https://image.tmdb.org/t/p/w500/8iFUWLKBAWDrJ9rOunscgIDrGQ1.jpg"
   }
 }
