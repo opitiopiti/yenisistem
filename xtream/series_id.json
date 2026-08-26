@@ -92,8 +92,8 @@
   "1016": {
     "name": "AŞKIN GÜCÜ (2022) TR",
     "last_season": 2,
-    "last_episode": 57,
-    "last_modified": 1786465884
+    "last_episode": 66,
+    "last_modified": 1787708336
   },
   "1017": {
     "name": "BIZ KIMDEN KAÇIYORDUK ANNE? (2023) TR",
@@ -72400,5 +72400,11 @@
     "last_season": 1,
     "last_episode": 5,
     "last_modified": 1787551749
+  },
+  "15213": {
+    "name": "DEEP REVENGE (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1787708336
   }
 }
