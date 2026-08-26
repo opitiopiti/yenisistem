@@ -9020,8 +9020,8 @@
   "2513": {
     "name": "SKYMED (2022)",
     "last_season": 4,
-    "last_episode": 1,
-    "last_modified": 1787691509
+    "last_episode": 2,
+    "last_modified": 1787786413
   },
   "2514": {
     "name": "친애하는 X (2025)",
@@ -63596,8 +63596,8 @@
   "11674": {
     "name": "WOMEN IN BLUE (2024)",
     "last_season": 2,
-    "last_episode": 2,
-    "last_modified": 1787155697
+    "last_episode": 3,
+    "last_modified": 1787786413
   },
   "11675": {
     "name": "WOMEN OF THE NIGHT (2019)",
@@ -66152,14 +66152,14 @@
   "12684": {
     "name": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN (2025)",
     "last_season": 2,
-    "last_episode": 7,
-    "last_modified": 1787173108
+    "last_episode": 8,
+    "last_modified": 1787786413
   },
   "12686": {
     "name": "TOMB RAIDER KING (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1787173108
+    "last_episode": 8,
+    "last_modified": 1787786413
   },
   "12729": {
     "name": "I'M NOT AFRAID (2026)",
@@ -72430,5 +72430,11 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1787762753
+  },
+  "15227": {
+    "name": "PASTÖR'ÜN EŞININ ÖLÜMÜ (2026)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1787786413
   }
 }
