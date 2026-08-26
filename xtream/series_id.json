@@ -6914,8 +6914,8 @@
   "2160": {
     "name": "TED LASSO (2020)",
     "last_season": 4,
-    "last_episode": 3,
-    "last_modified": 1787155697
+    "last_episode": 4,
+    "last_modified": 1787724323
   },
   "2161": {
     "name": "RECALÉ (2026)",
@@ -45817,9 +45817,9 @@
   },
   "8680": {
     "name": "LUDWIG (2024)",
-    "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1784590568
+    "last_season": 2,
+    "last_episode": 3,
+    "last_modified": 1787724323
   },
   "8681": {
     "name": "MALDITOS (2025)",
@@ -71768,8 +71768,8 @@
   "14992": {
     "name": "FIGHTLAND (2026)",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1786859376
+    "last_episode": 4,
+    "last_modified": 1787724323
   },
   "14993": {
     "name": "EŞREF RÜYA (2025) TR",
@@ -72194,8 +72194,8 @@
   "15115": {
     "name": "THE FIVE STAR WEEKEND (2026)",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1787119256
+    "last_episode": 4,
+    "last_modified": 1787724323
   },
   "15117": {
     "name": "CONVERSATIONS WITH A KILLER: THE CHARLES MANSON TAPES (2026)",
@@ -72406,5 +72406,11 @@
     "last_season": 1,
     "last_episode": 8,
     "last_modified": 1787708336
+  },
+  "15214": {
+    "name": "SOY LUNA VOLVER A RODAR SOY LUNA LETS ROLL AGAIN (2026)",
+    "last_season": 1,
+    "last_episode": 12,
+    "last_modified": 1787724323
   }
 }
