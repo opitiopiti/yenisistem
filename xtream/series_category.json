@@ -2357,7 +2357,8 @@
     {"name": "MORIA", "year": "2026"},
     {"name": "CONVERSATIONS WITH A KILLER: THE CHARLES MANSON TAPES", "year": "2026"},
     {"name": "CALL MY AGENT BOLLYWOOD", "year": "2021"},
-    {"name": "ASI YILLAR", "year": "2022"}
+    {"name": "ASI YILLAR", "year": "2022"},
+    {"name": "MOM KNOWS BEST?", "year": "2026"}
   ],
   "HBO DİZİLERİ": [
     {"name": "THE PITT", "year": "2025"},
@@ -7203,7 +7204,8 @@
     {"name": "MY GIRL", "year": "2020"},
     {"name": "TAI WAN FAN ZUI GU SHI", "year": "2025"},
     {"name": "JI DAO QIAN JIN", "year": "2024"},
-    {"name": "ASHES TO CROWN", "year": "2026"}
+    {"name": "ASHES TO CROWN", "year": "2026"},
+    {"name": "THE EARLY SPRING", "year": "2026"}
   ],
   "LA 1 DİZİLERİ": [
     {"name": "THE PATIENTS OF DR. GARCÍA", "year": "2023"},
