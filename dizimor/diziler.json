@@ -34702,5 +34702,23 @@
     "year": "2025",
     "poster": "https://image.tmdb.org/t/p/original/brkuOroetZakRM2HAHGvdBOlxVL.jpg",
     "imdb": 7.8
+  },
+  "/dizi/the-early-spring/": {
+    "group": "The Early Spring",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/o4I2aVl0KsXKZt5djqUE0Z5YWhH.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/death-of-the-pastors-wife/": {
+    "group": "Pastör'ün Eşinin Ölümü",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/xiWvfNFokJraUDDdF9HzWCJakp.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/mom-knows-best/": {
+    "group": "Mom Knows Best?",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/ohJueiAc8cpxwYAY3njS5NCiMu5.jpg",
+    "imdb": 0.0
   }
 }

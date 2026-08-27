@@ -17194,5 +17194,17 @@
     "year": "2026",
     "imdb": "7.5",
     "poster": "https://image.tmdb.org/t/p/w500/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg"
+  },
+  "/diziler/dmv.html": {
+    "group": "DMV",
+    "year": "2025",
+    "imdb": "6.0",
+    "poster": "https://image.tmdb.org/t/p/w500/nLCpxH7BhFwP50lF0VFpxeeFjmM.jpg"
+  },
+  "/diziler/archie-the-man-who-became-cary-grant.html": {
+    "group": "ARCHIE",
+    "year": "2023",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/omaHUkjfGf8W5HtnnmXpxplukTF.jpg"
   }
 }
