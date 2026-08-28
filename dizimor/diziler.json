@@ -34726,5 +34726,17 @@
     "year": "1995",
     "poster": "https://image.tmdb.org/t/p/original/42kSiyNgrhGp1yEvQYAB44mwISS.jpg",
     "imdb": 8.3
+  },
+  "/dizi/a-takimi/": {
+    "group": "A Takımı",
+    "year": "1983",
+    "poster": "https://image.tmdb.org/t/p/original/p2qWJJ7Wyaq2xvgIHuBw4zVNBij.jpg",
+    "imdb": 7.5
+  },
+  "/dizi/dallas/": {
+    "group": "Dallas",
+    "year": "1978",
+    "poster": "https://image.tmdb.org/t/p/original/jmqo8bgHrhKYPc0RK5F71GHa8rm.jpg",
+    "imdb": 6.9
   }
 }

@@ -1,4 +1,16 @@
 {
+  "/diziler/leanne.html": {
+    "group": "LEANNE",
+    "year": "2025",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/sILKrYhFK6bedXgDggQD3GmGUUV.jpg"
+  },
+  "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
+    "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
+    "year": "2018",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg"
+  },
   "/diziler/stuart-fails-to-save-the-universe.html": {
     "group": "STUART FAILS TO SAVE THE UNIVERSE",
     "year": "2026",
@@ -70,17 +82,5 @@
     "year": "2024",
     "imdb": "7.3",
     "poster": "https://image.tmdb.org/t/p/w500/cNHTFUV39qyEsm7edSaJdSqJYtJ.jpg"
-  },
-  "/diziler/spooky-in-love.html": {
-    "group": "SPOOKY IN LOVE",
-    "year": "2026",
-    "imdb": "7.5",
-    "poster": "https://image.tmdb.org/t/p/w500/acVOH8Pr5LEZ7WKZCbzwNuHVr9x.jpg"
-  },
-  "/diziler/star-trek-strange-new-worlds.html": {
-    "group": "STAR TREK: STRANGE NEW WORLDS",
-    "year": "2022",
-    "imdb": "8.3",
-    "poster": "https://image.tmdb.org/t/p/w500/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg"
   }
 }
