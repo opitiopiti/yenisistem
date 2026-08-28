@@ -1,4 +1,10 @@
 {
+  "/diziler/all-the-truth-in-my-lies.html": {
+    "group": "ALL THE TRUTH IN MY LIES",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
   "/diziler/leanne.html": {
     "group": "LEANNE",
     "year": "2025",
@@ -76,11 +82,5 @@
     "year": "2005",
     "imdb": "8.8",
     "poster": "https://image.tmdb.org/t/p/w500/o0tMMK33JqmtpcWw0H41cEr9xQB.jpg"
-  },
-  "/diziler/tires.html": {
-    "group": "TIRES",
-    "year": "2024",
-    "imdb": "7.3",
-    "poster": "https://image.tmdb.org/t/p/w500/cNHTFUV39qyEsm7edSaJdSqJYtJ.jpg"
   }
 }
