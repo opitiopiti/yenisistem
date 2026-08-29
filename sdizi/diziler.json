@@ -17210,7 +17210,13 @@
   "/diziler/all-the-truth-in-my-lies.html": {
     "group": "ALL THE TRUTH IN MY LIES",
     "year": "2025",
-    "imdb": "0.0",
+    "imdb": "4.8",
     "poster": null
+  },
+  "/diziler/mousetrap.html": {
+    "group": "MOUSETRAP",
+    "year": "2026",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg"
   }
 }

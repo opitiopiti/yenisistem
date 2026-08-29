@@ -34738,5 +34738,17 @@
     "year": "1978",
     "poster": "https://image.tmdb.org/t/p/original/jmqo8bgHrhKYPc0RK5F71GHa8rm.jpg",
     "imdb": 6.9
+  },
+  "/dizi/mousetrap/": {
+    "group": "Mousetrap",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/z1xv9CKt7HmXgS6azNB563mU2FB.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/all-the-truth-in-my-lies/": {
+    "group": "Yalanlarımın Ardındaki Gerçekler",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/nsEaxFTVzKe4qUDgbgkLg3dymOu.jpg",
+    "imdb": 0.0
   }
 }

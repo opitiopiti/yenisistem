@@ -1,8 +1,14 @@
 {
+  "/diziler/mousetrap.html": {
+    "group": "MOUSETRAP",
+    "year": "2026",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/2mwgHfOyrFrmvozjFoEXHRdfGhv.jpg"
+  },
   "/diziler/all-the-truth-in-my-lies.html": {
     "group": "ALL THE TRUTH IN MY LIES",
     "year": "2025",
-    "imdb": "0.0",
+    "imdb": "4.8",
     "poster": null
   },
   "/diziler/leanne.html": {
@@ -76,11 +82,5 @@
     "year": "2020",
     "imdb": "8.0",
     "poster": "https://image.tmdb.org/t/p/w500/eHTDuZp8UtbSK1XehE59UJrgOXg.jpg"
-  },
-  "/diziler/its-always-sunny-in-philadelphia.html": {
-    "group": "IT'S ALWAYS SUNNY IN PHILADELPHIA",
-    "year": "2005",
-    "imdb": "8.8",
-    "poster": "https://image.tmdb.org/t/p/w500/o0tMMK33JqmtpcWw0H41cEr9xQB.jpg"
   }
 }
