@@ -1,4 +1,10 @@
 {
+  "/diziler/bleach-thousand-year-blood-war.html": {
+    "group": "BLEACH: THOUSAND-YEAR BLOOD WAR",
+    "year": "2022",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/cR4P0EJrLX2bdWij1VYLf8VB78M.jpg"
+  },
   "/diziler/mousetrap.html": {
     "group": "MOUSETRAP",
     "year": "2026",
@@ -76,11 +82,5 @@
     "year": "2020",
     "imdb": "8.8",
     "poster": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
-  },
-  "/diziler/trying.html": {
-    "group": "TRYING",
-    "year": "2020",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/eHTDuZp8UtbSK1XehE59UJrgOXg.jpg"
   }
 }
