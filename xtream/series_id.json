@@ -39188,8 +39188,8 @@
   "7574": {
     "name": "DETECTIVE CONAN (1996) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1210,
-    "last_modified": 1787413404
+    "last_episode": 1211,
+    "last_modified": 1788011969
   },
   "7575": {
     "name": "DIGIMON BEATBREAK (2025) İNGİLİZCE",
@@ -39668,8 +39668,8 @@
   "7654": {
     "name": "POKEMON HORIZONS: THE SERIES (2023) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 146,
-    "last_modified": 1787413404
+    "last_episode": 147,
+    "last_modified": 1788011969
   },
   "7655": {
     "name": "REBORN AS A VENDING MACHINE, I NOW WANDER THE DUNGEON 3RD SEASON (2026) İNGİLİZCE",
@@ -39812,8 +39812,8 @@
   "7678": {
     "name": "THE CAT AND THE DRAGON (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1787413404
+    "last_episode": 10,
+    "last_modified": 1788011969
   },
   "7679": {
     "name": "THE CLASSROOM OF A BLACK CAT AND A WITCH (2026) İNGİLİZCE",
@@ -39962,8 +39962,8 @@
   "7703": {
     "name": "WELCOME TO DEMON SCHOOL, IRUMA-KUN 4 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 19,
-    "last_modified": 1786817042
+    "last_episode": 20,
+    "last_modified": 1788011969
   },
   "7704": {
     "name": "WHEN THEY CRY: HIGURASHI (2006) İNGİLİZCE",
@@ -65846,8 +65846,8 @@
   "12092": {
     "name": "BLACK TORCH (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1787413404
+    "last_episode": 9,
+    "last_modified": 1788011969
   },
   "12093": {
     "name": "GROW UP SHOW: SUNFLOWER CIRCUS (2026) İNGİLİZCE",
@@ -72164,8 +72164,8 @@
   "15092": {
     "name": "UNTIL THE T-SHIRT DRIES (2026)",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1787377299
+    "last_episode": 7,
+    "last_modified": 1788011969
   },
   "15097": {
     "name": "GLADIATORS: WARRIORS OF THE ANCIENT WORLD (2025)",
@@ -72362,8 +72362,8 @@
   "15188": {
     "name": "HOLD ON, HARUTORA-KUN (2026)",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1787377299
+    "last_episode": 3,
+    "last_modified": 1788011969
   },
   "15193": {
     "name": "SPECIAL OPS: LIONESS (2023)",
@@ -72428,8 +72428,8 @@
   "15221": {
     "name": "THE EARLY SPRING (2026)",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1787939011
+    "last_episode": 10,
+    "last_modified": 1788011969
   },
   "15227": {
     "name": "PASTÖR'ÜN EŞININ ÖLÜMÜ (2026)",
@@ -72472,5 +72472,11 @@
     "last_season": 1,
     "last_episode": 5,
     "last_modified": 1787939011
+  },
+  "15252": {
+    "name": "DEULJWI (2026)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1788011969
   }
 }
