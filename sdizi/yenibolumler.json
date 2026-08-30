@@ -1,4 +1,10 @@
 {
+  "/diziler/mushoku-tensei-jobless-reincarnation.html": {
+    "group": "MUSHOKU TENSEI: JOBLESS REINCARNATION",
+    "year": "2021",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg"
+  },
   "/diziler/bleach-thousand-year-blood-war.html": {
     "group": "BLEACH: THOUSAND-YEAR BLOOD WAR",
     "year": "2022",
@@ -76,11 +82,5 @@
     "year": "2016",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/aRwmcX36r1ZpR5Xq5mmFcpUDQ8J.jpg"
-  },
-  "/diziler/ted-lasso.html": {
-    "group": "TED LASSO",
-    "year": "2020",
-    "imdb": "8.8",
-    "poster": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
   }
 }
