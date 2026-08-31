@@ -1,4 +1,16 @@
 {
+  "/diziler/grand-blue.html": {
+    "group": "GRAND BLUE",
+    "year": "2018",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/ii1yrluzWisy1rygSKz8lJkAkil.jpg"
+  },
+  "/diziler/futurama.html": {
+    "group": "FUTURAMA",
+    "year": "1999",
+    "imdb": "8.5",
+    "poster": "https://image.tmdb.org/t/p/w500/6ZS8SOno6kTmWz4eQ8lX8EBXOMv.jpg"
+  },
   "/diziler/furious.html": {
     "group": "FURIOUS",
     "year": "2026",
@@ -76,17 +88,5 @@
     "year": "2024",
     "imdb": "7.7",
     "poster": "https://image.tmdb.org/t/p/w500/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg"
-  },
-  "/diziler/dmv.html": {
-    "group": "DMV",
-    "year": "2025",
-    "imdb": "6.0",
-    "poster": "https://image.tmdb.org/t/p/w500/nLCpxH7BhFwP50lF0VFpxeeFjmM.jpg"
-  },
-  "/diziler/archie-the-man-who-became-cary-grant.html": {
-    "group": "ARCHIE",
-    "year": "2023",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/omaHUkjfGf8W5HtnnmXpxplukTF.jpg"
   }
 }
