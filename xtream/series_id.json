@@ -4724,8 +4724,8 @@
   "1788": {
     "name": "ONE PIECE (1999) İNGİLİZCE",
     "last_season": 23,
-    "last_episode": 1175,
-    "last_modified": 1787551749
+    "last_episode": 1176,
+    "last_modified": 1788173516
   },
   "1789": {
     "name": "DEMON SLAYER: KIMETSU NO YAIBA (2019)",
@@ -35780,8 +35780,8 @@
   "7003": {
     "name": "FLEX X COP (2024)",
     "last_season": 2,
-    "last_episode": 5,
-    "last_modified": 1787377299
+    "last_episode": 8,
+    "last_modified": 1788173516
   },
   "7004": {
     "name": "MY GIRL (2020)",
@@ -71684,14 +71684,14 @@
   "14940": {
     "name": "PRESIDENT CURTIS (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1787569105
+    "last_episode": 6,
+    "last_modified": 1788173516
   },
   "14942": {
     "name": "FURIOUS (2026)",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1787569105
+    "last_episode": 8,
+    "last_modified": 1788173516
   },
   "14948": {
     "name": "DEMON SLAYER: KIMETSU NO YAIBA MOVIE - INFINITY CASTLE (2025) İNGİLİZCE",
@@ -72284,8 +72284,8 @@
   "15157": {
     "name": "LANTERNS (2026)",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1787569105
+    "last_episode": 3,
+    "last_modified": 1788173516
   },
   "15163": {
     "name": "IN PLAIN SIGHT (2008)",
@@ -72502,5 +72502,11 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1788130042
+  },
+  "15267": {
+    "name": "MR. FANBOY (2026)",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1788173516
   }
 }
