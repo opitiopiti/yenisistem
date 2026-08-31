@@ -3,7 +3,7 @@
     "priority": 1, "enabled": true },
   "sinewix": { 
     "priority": 2, "enabled": true },
-  "vavoo_hemtokenhemtokensiz": { 
+  "vavooapp": { 
     "priority": 3, "enabled": true },
   "m3utoken": { 
     "priority": 4, "enabled": true },
