@@ -1,4 +1,22 @@
 {
+  "/diziler/furious.html": {
+    "group": "FURIOUS",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/qcTNUGkxpaFycXkItD3Jpn0Mcox.jpg"
+  },
+  "/diziler/lanterns.html": {
+    "group": "LANTERNS",
+    "year": "2026",
+    "imdb": "8.6",
+    "poster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg"
+  },
+  "/diziler/president-curtis.html": {
+    "group": "PRESIDENT CURTIS",
+    "year": "2026",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg"
+  },
   "/diziler/one-piece-izle.html": {
     "group": "ONE PIECE",
     "year": "1999",
@@ -70,17 +88,5 @@
     "year": "2023",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/omaHUkjfGf8W5HtnnmXpxplukTF.jpg"
-  },
-  "/diziler/the-shards.html": {
-    "group": "THE SHARDS",
-    "year": "2026",
-    "imdb": "5.8",
-    "poster": "https://image.tmdb.org/t/p/w500/rh7k9oa18I3ibdLdWOWKHqrHQM1.jpg"
-  },
-  "/diziler/from-old-country-bumpkin-to-master-swordsman.html": {
-    "group": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN",
-    "year": "2025",
-    "imdb": "6.7",
-    "poster": "https://image.tmdb.org/t/p/w500/ujQp5egkJOkDHx4TehlgHePFcRv.jpg"
   }
 }
