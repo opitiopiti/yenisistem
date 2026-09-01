@@ -12715,9 +12715,9 @@
   },
   "3137": {
     "name": "MOST DANGEROUS GAME (2020)",
-    "last_season": 1,
-    "last_episode": 15,
-    "last_modified": 1783174642
+    "last_season": 2,
+    "last_episode": 12,
+    "last_modified": 1788282901
   },
   "3138": {
     "name": "DEKALOG (1989)",
@@ -39878,8 +39878,8 @@
   "7689": {
     "name": "THE OBLIVIOUS SAINT CAN'T CONTAIN HER POWER (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1787674364
+    "last_episode": 10,
+    "last_modified": 1788282901
   },
   "7690": {
     "name": "THE STORY BETWEEN A DUMB PREFECT AND A HIGH SCHOOL GIRL WITH AN INAPPROPRIATE SKIRT LENGTH PONSUKA (2026) İNGİLİZCE",
@@ -66062,20 +66062,20 @@
   "12455": {
     "name": "YOUNG LADIES DON'T PLAY FIGHTING GAMES (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1787674364
+    "last_episode": 9,
+    "last_modified": 1788282901
   },
   "12499": {
     "name": "I WANT TO LOVE YOU TILL YOUR DYING DAY (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1787674364
+    "last_episode": 9,
+    "last_modified": 1788282901
   },
   "12500": {
     "name": "VICTORIA OF MANY FACES (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1787674364
+    "last_episode": 9,
+    "last_modified": 1788282901
   },
   "12544": {
     "name": "FLAMING DODGEBALL GIRL DANKO (2026) İNGİLİZCE",
@@ -66092,14 +66092,14 @@
   "12546": {
     "name": "THE GHOST IN THE SHELL (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1787691509
+    "last_episode": 9,
+    "last_modified": 1788282901
   },
   "12547": {
     "name": "YOROI-SHINDEN SAMURAI TROOPERS - PART II (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1787674364
+    "last_episode": 9,
+    "last_modified": 1788282901
   },
   "12590": {
     "name": "I’M NOT AFRAID (2026)",
@@ -72296,8 +72296,8 @@
   "15167": {
     "name": "POPULAR SERIZAWA ACTS WEIRD AROUND ME (0000)",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1787762753
+    "last_episode": 4,
+    "last_modified": 1788282901
   },
   "15169": {
     "name": "TAKE A HIKE! (2026)",
@@ -72508,5 +72508,17 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1788173516
+  },
+  "15268": {
+    "name": "BAŞ BAŞA (2026) TR",
+    "last_season": 1,
+    "last_episode": 13,
+    "last_modified": 1788282901
+  },
+  "15270": {
+    "name": "BLOSSOM THROUGH THE CLOUD (2026)",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1788282901
   }
 }
