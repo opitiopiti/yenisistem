@@ -1,4 +1,10 @@
 {
+  "/diziler/its-always-sunny-in-philadelphia.html": {
+    "group": "IT'S ALWAYS SUNNY IN PHILADELPHIA",
+    "year": "2005",
+    "imdb": "8.8",
+    "poster": "https://image.tmdb.org/t/p/w500/o0tMMK33JqmtpcWw0H41cEr9xQB.jpg"
+  },
   "/diziler/star-trek-strange-new-worlds.html": {
     "group": "STAR TREK: STRANGE NEW WORLDS",
     "year": "2022",
@@ -82,11 +88,5 @@
     "year": "2018",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg"
-  },
-  "/diziler/stuart-fails-to-save-the-universe.html": {
-    "group": "STUART FAILS TO SAVE THE UNIVERSE",
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg"
   }
 }
