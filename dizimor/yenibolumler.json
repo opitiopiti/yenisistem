@@ -1,1 +1,20 @@
-{}
+{
+  "/dizi/juana-iris/": {
+    "group": "Juana Iris",
+    "year": "1985",
+    "poster": "https://image.tmdb.org/t/p/original/vWorB2Hx1fCA9VWXAhU1egxINhY.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/guldur-guldur-show/": {
+    "group": "Güldür Güldür Show",
+    "year": "2013",
+    "poster": "https://image.tmdb.org/t/p/original/A4PuQEG2XSJxQVks4l3Ox83Dnde.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/cok-guzel-hareketler/": {
+    "group": "Çok Güzel Hareketler 2",
+    "year": "2019",
+    "poster": "https://image.tmdb.org/t/p/original/5AsAnZWVQ6clW8IM4cL9XgnoFY6.jpg",
+    "imdb": 5.2
+  }
+}

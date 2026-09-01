@@ -1,4 +1,10 @@
 {
+  "/diziler/most-dangerous-game.html": {
+    "group": "MOST DANGEROUS GAME",
+    "year": "2020",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/begeAFRPkHzrW05ZQXHrB9pqugt.jpg"
+  },
   "/diziler/its-always-sunny-in-philadelphia.html": {
     "group": "IT'S ALWAYS SUNNY IN PHILADELPHIA",
     "year": "2005",
@@ -82,11 +88,5 @@
     "year": "2025",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/sILKrYhFK6bedXgDggQD3GmGUUV.jpg"
-  },
-  "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
-    "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
-    "year": "2018",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg"
   }
 }
