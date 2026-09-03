@@ -1,4 +1,16 @@
 {
+  "/diziler/chad-powers.html": {
+    "group": "CHAD POWERS",
+    "year": "2025",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/wgMS8irQKfMrR6mJhKtK6vbxDTC.jpg"
+  },
+  "/diziler/the-shards.html": {
+    "group": "THE SHARDS",
+    "year": "2026",
+    "imdb": "5.8",
+    "poster": "https://image.tmdb.org/t/p/w500/rh7k9oa18I3ibdLdWOWKHqrHQM1.jpg"
+  },
   "/diziler/from-old-country-bumpkin-to-master-swordsman.html": {
     "group": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN",
     "year": "2025",
@@ -76,17 +88,5 @@
     "year": "2026",
     "imdb": "7.3",
     "poster": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg"
-  },
-  "/diziler/one-piece-izle.html": {
-    "group": "ONE PIECE",
-    "year": "1999",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
-  },
-  "/diziler/mushoku-tensei-jobless-reincarnation.html": {
-    "group": "MUSHOKU TENSEI: JOBLESS REINCARNATION",
-    "year": "2021",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg"
   }
 }
