@@ -1,4 +1,10 @@
 {
+  "/diziler/kung-fu.html": {
+    "group": "KUNG FU",
+    "year": "1972",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/vUqmS40PRyAe3COHh7wHpDFnspC.jpg"
+  },
   "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
     "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
     "year": "2018",
@@ -82,11 +88,5 @@
     "year": "2005",
     "imdb": "8.8",
     "poster": "https://image.tmdb.org/t/p/w500/o0tMMK33JqmtpcWw0H41cEr9xQB.jpg"
-  },
-  "/diziler/star-trek-strange-new-worlds.html": {
-    "group": "STAR TREK: STRANGE NEW WORLDS",
-    "year": "2022",
-    "imdb": "8.3",
-    "poster": "https://image.tmdb.org/t/p/w500/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg"
   }
 }
