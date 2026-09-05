@@ -39038,8 +39038,8 @@
   "7549": {
     "name": "ASCENDANCE OF A BOOKWORM SEASON 4 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 19,
-    "last_modified": 1787395751
+    "last_episode": 20,
+    "last_modified": 1788610299
   },
   "7550": {
     "name": "A HUNDRED SCENES OF AWAJIMA (2026) İNGİLİZCE",
@@ -39188,8 +39188,8 @@
   "7574": {
     "name": "DETECTIVE CONAN (1996) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1211,
-    "last_modified": 1788011969
+    "last_episode": 1212,
+    "last_modified": 1788610299
   },
   "7575": {
     "name": "DIGIMON BEATBREAK (2025) İNGİLİZCE",
@@ -39668,8 +39668,8 @@
   "7654": {
     "name": "POKEMON HORIZONS: THE SERIES (2023) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 147,
-    "last_modified": 1788011969
+    "last_episode": 148,
+    "last_modified": 1788610299
   },
   "7655": {
     "name": "REBORN AS A VENDING MACHINE, I NOW WANDER THE DUNGEON 3RD SEASON (2026) İNGİLİZCE",
@@ -72538,5 +72538,11 @@
     "last_season": 1,
     "last_episode": 8,
     "last_modified": 1788537929
+  },
+  "15285": {
+    "name": "KUNG FU (1972)",
+    "last_season": 3,
+    "last_episode": 24,
+    "last_modified": 1788610299
   }
 }
