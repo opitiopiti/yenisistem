@@ -1,4 +1,10 @@
 {
+  "/diziler/ninjago-dragons-rising.html": {
+    "group": "NINJAGO: DRAGONS RISING",
+    "year": "2023",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/lGqwplPoQWiUkBvsZRQc0DPbgT0.jpg"
+  },
   "/diziler/kung-fu.html": {
     "group": "KUNG FU",
     "year": "1972",
@@ -82,11 +88,5 @@
     "year": "2020",
     "imdb": "7.2",
     "poster": "https://image.tmdb.org/t/p/w500/begeAFRPkHzrW05ZQXHrB9pqugt.jpg"
-  },
-  "/diziler/its-always-sunny-in-philadelphia.html": {
-    "group": "IT'S ALWAYS SUNNY IN PHILADELPHIA",
-    "year": "2005",
-    "imdb": "8.8",
-    "poster": "https://image.tmdb.org/t/p/w500/o0tMMK33JqmtpcWw0H41cEr9xQB.jpg"
   }
 }
