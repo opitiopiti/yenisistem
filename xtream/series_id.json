@@ -92,8 +92,8 @@
   "1016": {
     "name": "AŞKIN GÜCÜ (2022) TR",
     "last_season": 2,
-    "last_episode": 66,
-    "last_modified": 1787708336
+    "last_episode": 84,
+    "last_modified": 1788707588
   },
   "1017": {
     "name": "BIZ KIMDEN KAÇIYORDUK ANNE? (2023) TR",
@@ -65936,20 +65936,20 @@
   "12191": {
     "name": "SPARKS OF TOMORROW (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1788106831
+    "last_episode": 10,
+    "last_modified": 1788707588
   },
   "12192": {
     "name": "THE 100 GIRLFRIENDS WHO REALLY, REALLY, REALLY, REALLY, REALLY LOVE YOU SEASON 3 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1788106831
+    "last_episode": 10,
+    "last_modified": 1788707588
   },
   "12193": {
     "name": "THE WORLD'S STRONGEST REARGUARD: LABYRINTH COUNTRY'S NOVICE SEEKER (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1788106831
+    "last_episode": 10,
+    "last_modified": 1788707588
   },
   "12195": {
     "name": "RU (2024)",
@@ -72164,8 +72164,8 @@
   "15092": {
     "name": "UNTIL THE T-SHIRT DRIES (2026)",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1788011969
+    "last_episode": 8,
+    "last_modified": 1788707588
   },
   "15097": {
     "name": "GLADIATORS: WARRIORS OF THE ANCIENT WORLD (2025)",
@@ -72518,8 +72518,8 @@
   "15270": {
     "name": "BLOSSOM THROUGH THE CLOUD (2026)",
     "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1788537929
+    "last_episode": 11,
+    "last_modified": 1788707588
   },
   "15272": {
     "name": "LOVESICK (2026) (2026)",
@@ -72544,5 +72544,11 @@
     "last_season": 3,
     "last_episode": 24,
     "last_modified": 1788610299
+  },
+  "15291": {
+    "name": "A SILENT VOICE (2016) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1788707588
   }
 }
