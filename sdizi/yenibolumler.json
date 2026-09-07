@@ -1,4 +1,22 @@
 {
+  "/diziler/grand-blue.html": {
+    "group": "GRAND BLUE",
+    "year": "2018",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/ii1yrluzWisy1rygSKz8lJkAkil.jpg"
+  },
+  "/diziler/quantum-leap.html": {
+    "group": "QUANTUM LEAP",
+    "year": "1989",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/ujIGP3e3V6kDQHRhjNYtUE3fHJi.jpg"
+  },
+  "/diziler/futurama.html": {
+    "group": "FUTURAMA",
+    "year": "1999",
+    "imdb": "8.5",
+    "poster": "https://image.tmdb.org/t/p/w500/6ZS8SOno6kTmWz4eQ8lX8EBXOMv.jpg"
+  },
   "/diziler/lanterns.html": {
     "group": "LANTERNS",
     "year": "2026",
@@ -70,23 +88,5 @@
     "year": "2023",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/2QOuYPE6ZCqgVfhClNotQR06uVj.jpg"
-  },
-  "/diziler/stuart-fails-to-save-the-universe.html": {
-    "group": "STUART FAILS TO SAVE THE UNIVERSE",
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg"
-  },
-  "/diziler/the-gentlemen.html": {
-    "group": "THE GENTLEMEN",
-    "year": "2024",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/tw3tzfXaSpmUZIB8ZNqNEGzMBCy.jpg"
-  },
-  "/diziler/chad-powers.html": {
-    "group": "CHAD POWERS",
-    "year": "2025",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/wgMS8irQKfMrR6mJhKtK6vbxDTC.jpg"
   }
 }
