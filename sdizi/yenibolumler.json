@@ -1,4 +1,22 @@
 {
+  "/diziler/regular-show-the-lost-tapes.html": {
+    "group": "REGULAR SHOW: THE LOST TAPES",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/jqY3dj70ffSqKpM8XVUEToOEeLG.jpg"
+  },
+  "/diziler/the-goldbergs.html": {
+    "group": "THE GOLDBERGS",
+    "year": "2013",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/3aQipkhSCHUmaHjImqEqT80k6GP.jpg"
+  },
+  "/diziler/its-always-sunny-in-philadelphia.html": {
+    "group": "IT'S ALWAYS SUNNY IN PHILADELPHIA",
+    "year": "2005",
+    "imdb": "8.8",
+    "poster": "https://image.tmdb.org/t/p/w500/o0tMMK33JqmtpcWw0H41cEr9xQB.jpg"
+  },
   "/diziler/grand-blue.html": {
     "group": "GRAND BLUE",
     "year": "2018",
@@ -64,29 +82,5 @@
     "year": "1972",
     "imdb": "7.7",
     "poster": "https://image.tmdb.org/t/p/w500/vUqmS40PRyAe3COHh7wHpDFnspC.jpg"
-  },
-  "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
-    "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
-    "year": "2018",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg"
-  },
-  "/diziler/dark-winds.html": {
-    "group": "DARK WINDS",
-    "year": "2022",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/kDlrMN0P9ByrEH2GoRbBFeZHbcf.jpg"
-  },
-  "/diziler/dark-matter.html": {
-    "group": "DARK MATTER",
-    "year": "2024",
-    "imdb": "7.7",
-    "poster": "https://image.tmdb.org/t/p/w500/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg"
-  },
-  "/diziler/silo.html": {
-    "group": "SILO",
-    "year": "2023",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/2QOuYPE6ZCqgVfhClNotQR06uVj.jpg"
   }
 }
