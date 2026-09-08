@@ -5365,9 +5365,9 @@
   },
   "1898": {
     "name": "ACHTSAM MORDEN (2024)",
-    "last_season": 1,
+    "last_season": 2,
     "last_episode": 8,
-    "last_modified": 1788427891
+    "last_modified": 1788859634
   },
   "1899": {
     "name": "AMERICAN HORROR STORY (2011)",
@@ -6218,8 +6218,8 @@
   "2040": {
     "name": "THE WHEEL OF TIME (2021)",
     "last_season": 3,
-    "last_episode": 4,
-    "last_modified": 1788427891
+    "last_episode": 8,
+    "last_modified": 1788859634
   },
   "2041": {
     "name": "LAST MAN STANDING (2011)",
@@ -7220,8 +7220,8 @@
   "2211": {
     "name": "SHŌGUN (2024)",
     "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1788427891
+    "last_episode": 10,
+    "last_modified": 1788859634
   },
   "2212": {
     "name": "RIZZOLI & ISLES (2010)",
@@ -38594,8 +38594,8 @@
   "7475": {
     "name": "THE WAR BETWEEN THE LAND AND THE SEA (2025)",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1788427891
+    "last_episode": 5,
+    "last_modified": 1788859634
   },
   "7476": {
     "name": "PEUROBONO (2025)",
@@ -39164,8 +39164,8 @@
   "7570": {
     "name": "CROWNED IN A HUNDRED DAYS (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 22,
-    "last_modified": 1788513161
+    "last_episode": 23,
+    "last_modified": 1788859634
   },
   "7571": {
     "name": "DARA-SAN OF REIWA (2026) İNGİLİZCE",
@@ -40514,8 +40514,8 @@
   "7796": {
     "name": "KEVIN (2026)",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1788427891
+    "last_episode": 8,
+    "last_modified": 1788859634
   },
   "7797": {
     "name": "KILLING EVE (2018)",
@@ -43196,8 +43196,8 @@
   "8243": {
     "name": "TWENTY TWENTY SIX (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1788427891
+    "last_episode": 6,
+    "last_modified": 1788859634
   },
   "8244": {
     "name": "TWOGETHER (2020)",
@@ -44072,8 +44072,8 @@
   "8389": {
     "name": "NUMBER ONE FAN (2026)",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1788427891
+    "last_episode": 4,
+    "last_modified": 1788859634
   },
   "8390": {
     "name": "ONCE AGAIN (2020)",
@@ -48308,8 +48308,8 @@
   "9095": {
     "name": "DEAR LIFE (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1788427891
+    "last_episode": 6,
+    "last_modified": 1788859634
   },
   "9096": {
     "name": "DEAR MY FRIENDS (2016)",
@@ -48782,8 +48782,8 @@
   "9174": {
     "name": "SUMMERWATER (2025)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1788427891
+    "last_episode": 6,
+    "last_modified": 1788859634
   },
   "9175": {
     "name": "SUPERSEX (2024)",
@@ -72562,5 +72562,11 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1788837722
+  },
+  "15304": {
+    "name": "YAHARI ORE NO SEISHUN LOVE COMEDY WA MACHIGATTEIRU. (2013)",
+    "last_season": 3,
+    "last_episode": 12,
+    "last_modified": 1788859634
   }
 }
