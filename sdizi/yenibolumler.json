@@ -1,4 +1,10 @@
 {
+  "/diziler/ted-lasso.html": {
+    "group": "TED LASSO",
+    "year": "2020",
+    "imdb": "8.8",
+    "poster": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
+  },
   "/diziler/regular-show-the-lost-tapes.html": {
     "group": "REGULAR SHOW: THE LOST TAPES",
     "year": "2026",
@@ -76,11 +82,5 @@
     "year": "2023",
     "imdb": "7.6",
     "poster": "https://image.tmdb.org/t/p/w500/lGqwplPoQWiUkBvsZRQc0DPbgT0.jpg"
-  },
-  "/diziler/kung-fu.html": {
-    "group": "KUNG FU",
-    "year": "1972",
-    "imdb": "7.7",
-    "poster": "https://image.tmdb.org/t/p/w500/vUqmS40PRyAe3COHh7wHpDFnspC.jpg"
   }
 }
