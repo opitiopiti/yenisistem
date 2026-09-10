@@ -1,4 +1,10 @@
 {
+  "/diziler/crew-girl.html": {
+    "group": "CREW GIRL",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/jkPZW1iHNvlI6077NxSxwITa1tj.jpg"
+  },
   "/diziler/the-shards.html": {
     "group": "THE SHARDS",
     "year": "2026",
@@ -76,11 +82,5 @@
     "year": "1999",
     "imdb": "9.0",
     "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
-  },
-  "/diziler/mushoku-tensei-jobless-reincarnation.html": {
-    "group": "MUSHOKU TENSEI: JOBLESS REINCARNATION",
-    "year": "2021",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg"
   }
 }
