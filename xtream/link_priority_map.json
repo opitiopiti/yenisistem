@@ -31,7 +31,8 @@
     "priority": 18, "enabled": true },
   "dosyaload": { 
     "priority": 19, "enabled": true },
-
+  "diziyou": { 
+    "priority": 20, "enabled": true },
 
   "dizibol": { 
     "priority": 11, "enabled": false },  
