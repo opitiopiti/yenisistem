@@ -1,4 +1,10 @@
 {
+  "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
+    "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
+    "year": "2018",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg"
+  },
   "/diziler/star-trek-strange-new-worlds.html": {
     "group": "STAR TREK: STRANGE NEW WORLDS",
     "year": "2022",
@@ -76,11 +82,5 @@
     "year": "1989",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/ujIGP3e3V6kDQHRhjNYtUE3fHJi.jpg"
-  },
-  "/diziler/futurama.html": {
-    "group": "FUTURAMA",
-    "year": "1999",
-    "imdb": "8.5",
-    "poster": "https://image.tmdb.org/t/p/w500/6ZS8SOno6kTmWz4eQ8lX8EBXOMv.jpg"
   }
 }
