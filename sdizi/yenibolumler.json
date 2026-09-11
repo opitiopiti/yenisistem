@@ -1,4 +1,22 @@
 {
+  "/diziler/star-trek-strange-new-worlds.html": {
+    "group": "STAR TREK: STRANGE NEW WORLDS",
+    "year": "2022",
+    "imdb": "8.3",
+    "poster": "https://image.tmdb.org/t/p/w500/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg"
+  },
+  "/diziler/dark-matter.html": {
+    "group": "DARK MATTER",
+    "year": "2024",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg"
+  },
+  "/diziler/stuart-fails-to-save-the-universe.html": {
+    "group": "STUART FAILS TO SAVE THE UNIVERSE",
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg"
+  },
   "/diziler/crew-girl.html": {
     "group": "CREW GIRL",
     "year": "2026",
@@ -64,23 +82,5 @@
     "year": "1999",
     "imdb": "8.5",
     "poster": "https://image.tmdb.org/t/p/w500/6ZS8SOno6kTmWz4eQ8lX8EBXOMv.jpg"
-  },
-  "/diziler/lanterns.html": {
-    "group": "LANTERNS",
-    "year": "2026",
-    "imdb": "8.6",
-    "poster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg"
-  },
-  "/diziler/president-curtis.html": {
-    "group": "PRESIDENT CURTIS",
-    "year": "2026",
-    "imdb": "7.3",
-    "poster": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg"
-  },
-  "/diziler/one-piece-izle.html": {
-    "group": "ONE PIECE",
-    "year": "1999",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
   }
 }

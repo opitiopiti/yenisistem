@@ -34900,5 +34900,17 @@
     "year": "2026",
     "poster": "https://image.tmdb.org/t/p/original/vozJZjHv0Yyv4PjoOxF5tVMUGFI.jpg",
     "imdb": 0.0
+  },
+  "/dizi/the-perfect-lie/": {
+    "group": "The Perfect Lie",
+    "year": "2026",
+    "poster": "",
+    "imdb": 0.0
+  },
+  "/dizi/crew-girl/": {
+    "group": "Crew Girl",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/tzf21i1ETZEu7i787ED3WThROH.jpg",
+    "imdb": 0.0
   }
 }
