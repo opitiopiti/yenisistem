@@ -1,1 +1,14 @@
-{}
+{
+  "/dizi/the-revolutionaries/": {
+    "group": "The Revolutionaries",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/5fLyYAxXWP4BxZCBN79NV1eiT4d.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/a-killer-story/": {
+    "group": "A Killer Story",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/aq9m0ZiiNVquFFrTMeL9dCDstkJ.jpg",
+    "imdb": 0.0
+  }
+}
