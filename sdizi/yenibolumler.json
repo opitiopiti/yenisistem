@@ -1,4 +1,10 @@
 {
+  "/diziler/one-piece-izle.html": {
+    "group": "ONE PIECE",
+    "year": "1999",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
+  },
   "/diziler/mushoku-tensei-jobless-reincarnation.html": {
     "group": "MUSHOKU TENSEI: JOBLESS REINCARNATION",
     "year": "2021",
@@ -76,11 +82,5 @@
     "year": "2013",
     "imdb": "8.0",
     "poster": "https://image.tmdb.org/t/p/w500/3aQipkhSCHUmaHjImqEqT80k6GP.jpg"
-  },
-  "/diziler/its-always-sunny-in-philadelphia.html": {
-    "group": "IT'S ALWAYS SUNNY IN PHILADELPHIA",
-    "year": "2005",
-    "imdb": "8.8",
-    "poster": "https://image.tmdb.org/t/p/w500/o0tMMK33JqmtpcWw0H41cEr9xQB.jpg"
   }
 }
