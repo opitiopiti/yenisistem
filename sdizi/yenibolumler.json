@@ -1,4 +1,10 @@
 {
+  "/diziler/the-new-adventures-of-old-christine.html": {
+    "group": "THE NEW ADVENTURES OF OLD CHRISTINE",
+    "year": "2006",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/j1u9EGyEQEVFjl5VxK7NbRCxdZ1.jpg"
+  },
   "/diziler/one-piece-izle.html": {
     "group": "ONE PIECE",
     "year": "1999",
@@ -76,11 +82,5 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/jqY3dj70ffSqKpM8XVUEToOEeLG.jpg"
-  },
-  "/diziler/the-goldbergs.html": {
-    "group": "THE GOLDBERGS",
-    "year": "2013",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/3aQipkhSCHUmaHjImqEqT80k6GP.jpg"
   }
 }
