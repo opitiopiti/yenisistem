@@ -4724,8 +4724,8 @@
   "1788": {
     "name": "ONE PIECE (1999) İNGİLİZCE",
     "last_season": 23,
-    "last_episode": 1177,
-    "last_modified": 1788773144
+    "last_episode": 1178,
+    "last_modified": 1789465543
   },
   "1789": {
     "name": "DEMON SLAYER: KIMETSU NO YAIBA (2019)",
@@ -35780,8 +35780,8 @@
   "7003": {
     "name": "FLEX X COP (2024)",
     "last_season": 2,
-    "last_episode": 10,
-    "last_modified": 1788687630
+    "last_episode": 12,
+    "last_modified": 1789465543
   },
   "7004": {
     "name": "MY GIRL (2020)",
@@ -39164,8 +39164,8 @@
   "7570": {
     "name": "CROWNED IN A HUNDRED DAYS (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 24,
-    "last_modified": 1789117796
+    "last_episode": 25,
+    "last_modified": 1789465543
   },
   "7571": {
     "name": "DARA-SAN OF REIWA (2026) İNGİLİZCE",
@@ -72670,5 +72670,11 @@
     "last_season": 1,
     "last_episode": 2,
     "last_modified": 1789408999
+  },
+  "15377": {
+    "name": "ALIKARA (2026) TR",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1789465543
   }
 }
