@@ -17236,5 +17236,17 @@
     "year": "2006",
     "imdb": "7.2",
     "poster": "https://image.tmdb.org/t/p/w500/j1u9EGyEQEVFjl5VxK7NbRCxdZ1.jpg"
+  },
+  "/diziler/neagley.html": {
+    "group": "NEAGLEY",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/1m6CxPAuGv2oHc1ahERrcVWnk2J.jpg"
+  },
+  "/diziler/miami-vice.html": {
+    "group": "MIAMI VICE",
+    "year": "1984",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/b5kLqC6eDiA17nq3jr1Vi340Kns.jpg"
   }
 }
