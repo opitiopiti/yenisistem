@@ -1,4 +1,10 @@
 {
+  "/diziler/from-old-country-bumpkin-to-master-swordsman.html": {
+    "group": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN",
+    "year": "2025",
+    "imdb": "6.7",
+    "poster": "https://image.tmdb.org/t/p/w500/ujQp5egkJOkDHx4TehlgHePFcRv.jpg"
+  },
   "/diziler/neagley.html": {
     "group": "NEAGLEY",
     "year": "2026",
@@ -82,11 +88,5 @@
     "year": "2006",
     "imdb": "7.2",
     "poster": "https://image.tmdb.org/t/p/w500/j1u9EGyEQEVFjl5VxK7NbRCxdZ1.jpg"
-  },
-  "/diziler/one-piece-izle.html": {
-    "group": "ONE PIECE",
-    "year": "1999",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
   }
 }
