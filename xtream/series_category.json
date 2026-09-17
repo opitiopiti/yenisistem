@@ -3930,7 +3930,9 @@
     {"name": "THE EMPEROR'S NEW SCHOOL", "year": "2006"},
     {"name": "ELITE FORCE", "year": "2016"},
     {"name": "STAR WARS: VISIONS PRESENTS - THE NINTH JEDI", "year": "2026"},
-    {"name": "TRAVIS JAPAN SUMMER VACATION!! IN THE USA", "year": "2026"}
+    {"name": "TRAVIS JAPAN SUMMER VACATION!! IN THE USA", "year": "2026"},
+    {"name": "MINIMUM SECURITY", "year": "2026"},
+    {"name": "CITY OF BLOOD", "year": "2026"}
   ],
   "HUNAN TV DİZİLERİ": [
     {"name": "MIDSUMMER NIGHT", "year": "2013"},
@@ -4462,7 +4464,8 @@
     {"name": "THE TURKISH DETECTIVE", "year": "2023"},
     {"name": "TWO YEARS LATER", "year": "2026"},
     {"name": "MADE FOR MARCH", "year": "2026"},
-    {"name": "WASTELAND", "year": "2022"}
+    {"name": "WASTELAND", "year": "2022"},
+    {"name": "THE DOLL", "year": "2023"}
   ],
   "TBS DİZİLERİ": [
     {"name": "BLUE BOX", "year": "2024"},
