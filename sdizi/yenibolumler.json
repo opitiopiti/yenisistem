@@ -1,4 +1,10 @@
 {
+  "/diziler/monster-the-lizzie-borden-story.html": {
+    "group": "MONSTER: THE LIZZIE BORDEN STORY",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg"
+  },
   "/diziler/stranger-things-tales-from-85.html": {
     "group": "STRANGER THINGS: TALES FROM '85",
     "year": "2026",
@@ -82,11 +88,5 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/jqY3dj70ffSqKpM8XVUEToOEeLG.jpg"
-  },
-  "/diziler/futurama.html": {
-    "group": "FUTURAMA",
-    "year": "1999",
-    "imdb": "8.5",
-    "poster": "https://image.tmdb.org/t/p/w500/6ZS8SOno6kTmWz4eQ8lX8EBXOMv.jpg"
   }
 }
