@@ -4027,9 +4027,9 @@
   },
   "1672": {
     "name": "SOUTH PARK (1997)",
-    "last_season": 23,
-    "last_episode": 10,
-    "last_modified": 1783174642
+    "last_season": 29,
+    "last_episode": 1,
+    "last_modified": 1789663089
   },
   "1673": {
     "name": "BLUE LOCK (2022)",
@@ -4993,9 +4993,9 @@
   },
   "1834": {
     "name": "STRANGER THINGS: TALES FROM '85 (2026)",
-    "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1783174642
+    "last_season": 2,
+    "last_episode": 8,
+    "last_modified": 1789663089
   },
   "1835": {
     "name": "기리고 (2026)",
@@ -5725,9 +5725,9 @@
   },
   "1958": {
     "name": "MOBLAND (2025)",
-    "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1783174642
+    "last_season": 2,
+    "last_episode": 1,
+    "last_modified": 1789663089
   },
   "1959": {
     "name": "MAD MEN (2007)",
@@ -39128,8 +39128,8 @@
   "7564": {
     "name": "BUNGO STRAY DOGS WAN! 2 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1789057579
+    "last_episode": 12,
+    "last_modified": 1789663089
   },
   "7565": {
     "name": "CAT PLANET CUTIES (2010) İNGİLİZCE",
@@ -39170,8 +39170,8 @@
   "7571": {
     "name": "DARA-SAN OF REIWA (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1789057579
+    "last_episode": 12,
+    "last_modified": 1789663089
   },
   "7572": {
     "name": "DARK MOON: THE BLOOD ALTAR (2026) İNGİLİZCE",
@@ -39752,8 +39752,8 @@
   "7668": {
     "name": "SMOKING BEHIND THE SUPERMARKET WITH YOU (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1789068432
+    "last_episode": 11,
+    "last_modified": 1789663089
   },
   "7669": {
     "name": "SNOWBALL EARTH (2026) İNGİLİZCE",
@@ -60451,9 +60451,9 @@
   },
   "11146": {
     "name": "STRANGER THINGS: TALES FROM ’85 (2026)",
-    "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1783174642
+    "last_season": 2,
+    "last_episode": 8,
+    "last_modified": 1789663089
   },
   "11147": {
     "name": "STREET FOOD ASIA (2019)",
@@ -65263,9 +65263,9 @@
   },
   "11952": {
     "name": "STRANGER THINGS: SENE 1985 (2026)",
-    "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1783174642
+    "last_season": 2,
+    "last_episode": 8,
+    "last_modified": 1789663089
   },
   "11953": {
     "name": "SUCCESSION (2018)",
@@ -70070,8 +70070,8 @@
   "13583": {
     "name": "MEBIUS DUST (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1789057579
+    "last_episode": 11,
+    "last_modified": 1789663089
   },
   "13626": {
     "name": "LIFE, LARRY AND THE PURSUIT OF UNHAPPINESS: AN ALMOST HISTORY OF AMERICA (2026)",
@@ -72718,5 +72718,59 @@
     "last_season": 1,
     "last_episode": 6,
     "last_modified": 1789638338
+  },
+  "15400": {
+    "name": "MONSTER: THE LIZZIE BORDEN STORY (0000)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789663089
+  },
+  "15403": {
+    "name": "PLASTIC BEAUTY (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789663089
+  },
+  "15405": {
+    "name": "THE FIXERS (2026)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1789663089
+  },
+  "15406": {
+    "name": "TEMIZLIKÇILER (2026)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1789663089
+  },
+  "15408": {
+    "name": "THE DOLL (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1789663089
+  },
+  "15409": {
+    "name": "CANAVAR: LIZZIE BORDEN'IN HIKÂYESI (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789663089
+  },
+  "15410": {
+    "name": "SENI TANIYORUM (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789663089
+  },
+  "15411": {
+    "name": "THE DROP: A SNOWFALL SAGA (2026)",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1789663089
+  },
+  "15412": {
+    "name": "THE SEX SLAVE (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1789663089
   }
 }
