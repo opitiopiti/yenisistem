@@ -39140,8 +39140,8 @@
   "7566": {
     "name": "CHAINSMOKER CAT (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1789068432
+    "last_episode": 11,
+    "last_modified": 1789686175
   },
   "7567": {
     "name": "CHITOSE IS IN THE RAMUNE BOTTLE (2025) İNGİLİZCE",
@@ -39434,8 +39434,8 @@
   "7615": {
     "name": "KAIJU GIRL CARAMELISE (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1789068432
+    "last_episode": 12,
+    "last_modified": 1789686175
   },
   "7616": {
     "name": "KAKEGURUI TWIN (2022) İNGİLİZCE",
@@ -39842,8 +39842,8 @@
   "7683": {
     "name": "THE EXILED HEAVY KNIGHT KNOWS HOW TO GAME THE SYSTEM (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1789068432
+    "last_episode": 12,
+    "last_modified": 1789686175
   },
   "7684": {
     "name": "THE FOOD DIARY OF MISS MAID (2026) İNGİLİZCE",
@@ -72772,5 +72772,11 @@
     "last_season": 1,
     "last_episode": 2,
     "last_modified": 1789663089
+  },
+  "15418": {
+    "name": "MONSTER: THE LIZZIE BORDEN STORY (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789686175
   }
 }
