@@ -1,4 +1,22 @@
 {
+  "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
+    "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
+    "year": "2018",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/pzujcdPAoH361NObVrtbA7zACE7.jpg"
+  },
+  "/diziler/dark-matter.html": {
+    "group": "DARK MATTER",
+    "year": "2024",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg"
+  },
+  "/diziler/stuart-fails-to-save-the-universe.html": {
+    "group": "STUART FAILS TO SAVE THE UNIVERSE",
+    "year": "2026",
+    "imdb": "7.0",
+    "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg"
+  },
   "/diziler/monster-the-lizzie-borden-story.html": {
     "group": "MONSTER: THE LIZZIE BORDEN STORY",
     "year": "2026",
@@ -70,23 +88,5 @@
     "year": "2024",
     "imdb": "8.5",
     "poster": "https://image.tmdb.org/t/p/w500/oX8CAf3eyCknNPXX1IxdmAuv6jH.jpg"
-  },
-  "/diziler/grand-blue.html": {
-    "group": "GRAND BLUE",
-    "year": "2018",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/ii1yrluzWisy1rygSKz8lJkAkil.jpg"
-  },
-  "/diziler/camp-snoopy.html": {
-    "group": "CAMP SNOOPY",
-    "year": "2024",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/faRUuhkOVlh47z46DNgZ7EaYu0f.jpg"
-  },
-  "/diziler/regular-show-the-lost-tapes.html": {
-    "group": "REGULAR SHOW: THE LOST TAPES",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/jqY3dj70ffSqKpM8XVUEToOEeLG.jpg"
   }
 }
