@@ -1,4 +1,10 @@
 {
+  "/diziler/mobland.html": {
+    "group": "MOBLAND",
+    "year": "2025",
+    "imdb": "8.5",
+    "poster": "https://image.tmdb.org/t/p/w500/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg"
+  },
   "/diziler/star-trek-strange-new-worlds.html": {
     "group": "STAR TREK: STRANGE NEW WORLDS",
     "year": "2022",
@@ -82,11 +88,5 @@
     "year": "2022",
     "imdb": "8.2",
     "poster": "https://image.tmdb.org/t/p/w500/dnpatlJrEPiDSn5fzgzvxtiSnMo.jpg"
-  },
-  "/diziler/ted-lasso.html": {
-    "group": "TED LASSO",
-    "year": "2020",
-    "imdb": "8.8",
-    "poster": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
   }
 }
