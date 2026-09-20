@@ -49118,8 +49118,8 @@
   "9230": {
     "name": "KÖSTEBEKGILLER: GÜNEŞ GÜNLÜĞÜ (2026)",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1783612539
+    "last_episode": 10,
+    "last_modified": 1789905906
   },
   "9231": {
     "name": "SENE 1936 (2026)",
@@ -70208,7 +70208,7 @@
   "14128": {
     "name": "ASIRLIK GECE (2026) TR",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 3,
     "last_modified": 1787762753
   },
   "14169": {
@@ -72796,5 +72796,1013 @@
     "last_season": 1,
     "last_episode": 50,
     "last_modified": 1789897372
+  },
+  "15435": {
+    "name": "BIZ KIMDEN KAÇIYORDUK ANNE? (2023)",
+    "last_season": 1,
+    "last_episode": 7,
+    "last_modified": 1789905906
+  },
+  "15436": {
+    "name": "YAKAMOZ S-245 (2022)",
+    "last_season": 1,
+    "last_episode": 7,
+    "last_modified": 1789905906
+  },
+  "15437": {
+    "name": "UYSALLAR (2022)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15438": {
+    "name": "KULÜP (2021)",
+    "last_season": 2,
+    "last_episode": 10,
+    "last_modified": 1789905906
+  },
+  "15443": {
+    "name": "BIZE BI'ŞEY OLMAZ (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15445": {
+    "name": "46: YOK OLAN (2016)",
+    "last_season": 1,
+    "last_episode": 13,
+    "last_modified": 1789905906
+  },
+  "15446": {
+    "name": "AILE ŞIRKETI (2020)",
+    "last_season": 3,
+    "last_episode": 13,
+    "last_modified": 1789905906
+  },
+  "15447": {
+    "name": "AKIL OYUNLARI (2021)",
+    "last_season": 1,
+    "last_episode": 9,
+    "last_modified": 1789905906
+  },
+  "15448": {
+    "name": "ANDROPOZ (2022)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1789905906
+  },
+  "15449": {
+    "name": "ANKARA HAVASI (2020)",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1789905906
+  },
+  "15450": {
+    "name": "ARABESKIN AŞIK KADINLARI (2021)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15451": {
+    "name": "ASLINDA ÖZGÜRSÜN (2022)",
+    "last_season": 1,
+    "last_episode": 9,
+    "last_modified": 1789905906
+  },
+  "15452": {
+    "name": "BARTU BEN (2018)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1789905906
+  },
+  "15453": {
+    "name": "BEN BU BOŞLUĞU NASIL? (2023)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1789905906
+  },
+  "15454": {
+    "name": "BIZI AYIRAN ÇIZGI (2021)",
+    "last_season": 1,
+    "last_episode": 5,
+    "last_modified": 1789905906
+  },
+  "15455": {
+    "name": "BOOM BY İBRAHIM SELIM (2020)",
+    "last_season": 2,
+    "last_episode": 12,
+    "last_modified": 1789905906
+  },
+  "15456": {
+    "name": "BURALARIN YABANCISIYIZ (2021)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1789905906
+  },
+  "15457": {
+    "name": "CEZAILER (2022)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1789905906
+  },
+  "15458": {
+    "name": "DUDULLU POSTASI (2018)",
+    "last_season": 1,
+    "last_episode": 13,
+    "last_modified": 1789905906
+  },
+  "15459": {
+    "name": "FATMA (2021)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1789905906
+  },
+  "15460": {
+    "name": "GARAJ (2021)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15461": {
+    "name": "JÜLIDE ATEŞ ILE 40 (2021)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1789905906
+  },
+  "15462": {
+    "name": "KATARSIS (2021)",
+    "last_season": 1,
+    "last_episode": 22,
+    "last_modified": 1789905906
+  },
+  "15463": {
+    "name": "KAÇIŞ (2021)",
+    "last_season": 2,
+    "last_episode": 4,
+    "last_modified": 1789905906
+  },
+  "15464": {
+    "name": "KUVVETLI BIR ALKIŞ (2024)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1789905906
+  },
+  "15465": {
+    "name": "MASAL ŞATOSU: PERI HIRSIZI (2021)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15466": {
+    "name": "METOT (2021)",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1789905906
+  },
+  "15467": {
+    "name": "OLAĞAN ŞÜPHELILER (2021)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1789905906
+  },
+  "15468": {
+    "name": "PALU AILESI: KARANLIK SARMAL (2026)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1789905906
+  },
+  "15469": {
+    "name": "PARAYI VURANLAR (2018)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1789905906
+  },
+  "15470": {
+    "name": "PLATONIK (2025)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15471": {
+    "name": "SIZI DINLIYORUM (2022)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1789905906
+  },
+  "15472": {
+    "name": "STALK SHOW (2021)",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1789905906
+  },
+  "15473": {
+    "name": "STAND-UP EVRENI (2021)",
+    "last_season": 1,
+    "last_episode": 13,
+    "last_modified": 1789905906
+  },
+  "15474": {
+    "name": "SURVIVOR EXXEN CUP (2021)",
+    "last_season": 1,
+    "last_episode": 7,
+    "last_modified": 1789905906
+  },
+  "15475": {
+    "name": "TERAPIST (2021)",
+    "last_season": 1,
+    "last_episode": 7,
+    "last_modified": 1789905906
+  },
+  "15476": {
+    "name": "TERIM (2022)",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1789905906
+  },
+  "15477": {
+    "name": "YARATILAN (2023)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15478": {
+    "name": "ÖZCAN SHOW (2017)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1789905906
+  },
+  "15479": {
+    "name": "ÖĞRENCI EVI (2021)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1789905906
+  },
+  "15480": {
+    "name": "İŞTE BU BENIM MASALIM (2021)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15481": {
+    "name": "ŞEREF BEY (2021)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1789905906
+  },
+  "15482": {
+    "name": "ŞOKOPOP: YEŞILÇAM 101 (2021)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1789905906
+  },
+  "15483": {
+    "name": "2008 MILLI TAKIM HIKAYESI (2021)",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1789905906
+  },
+  "15484": {
+    "name": "ESNAF (2022)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1789905906
+  },
+  "15485": {
+    "name": "FANDOM (2021)",
+    "last_season": 2,
+    "last_episode": 13,
+    "last_modified": 1789905906
+  },
+  "15486": {
+    "name": "GRJ DANS (2021)",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1789905906
+  },
+  "15487": {
+    "name": "KESIN YAŞANMIŞTIR (2021)",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1789905906
+  },
+  "15488": {
+    "name": "SENKRON (2021)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1789905906
+  },
+  "15489": {
+    "name": "SIKIŞMIŞLIK (2019)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1789905906
+  },
+  "15490": {
+    "name": "STILLER KONUŞSUN (2021)",
+    "last_season": 1,
+    "last_episode": 21,
+    "last_modified": 1789905906
+  },
+  "15491": {
+    "name": "ADIM BAŞI KAFE (2021)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1789905906
+  },
+  "15492": {
+    "name": "ARJEN: AZAP YOLU (2024)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1789905906
+  },
+  "15493": {
+    "name": "ASTROLOJIK ŞIFRELER (2021)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1789905906
+  },
+  "15494": {
+    "name": "AYAK TENIS (2021)",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1789905906
+  },
+  "15495": {
+    "name": "BENIM İÇIN YAP (2021)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1789905906
+  },
+  "15496": {
+    "name": "FIGHT CLUB (2021)",
+    "last_season": 1,
+    "last_episode": 18,
+    "last_modified": 1789905906
+  },
+  "15497": {
+    "name": "FI (2017)",
+    "last_season": 2,
+    "last_episode": 10,
+    "last_modified": 1789905906
+  },
+  "15498": {
+    "name": "KAFALARINA GÖRE (2020)",
+    "last_season": 1,
+    "last_episode": 5,
+    "last_modified": 1789905906
+  },
+  "15499": {
+    "name": "NASIL FENOMEN OLDUM (2022)",
+    "last_season": 1,
+    "last_episode": 12,
+    "last_modified": 1789905906
+  },
+  "15500": {
+    "name": "ÇIMEN TALKSHOW (2023)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15501": {
+    "name": "DENGI DENGINE (2019)",
+    "last_season": 1,
+    "last_episode": 5,
+    "last_modified": 1789905906
+  },
+  "15502": {
+    "name": "NO LIMIT (2021)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1789905906
+  },
+  "15503": {
+    "name": "SESLI GÜLDÜM (2021)",
+    "last_season": 1,
+    "last_episode": 20,
+    "last_modified": 1789905906
+  },
+  "15504": {
+    "name": "SURVIVOR SEÇMELER (2020)",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1789905906
+  },
+  "15505": {
+    "name": "İŞTE KADINLAR (2021)",
+    "last_season": 1,
+    "last_episode": 5,
+    "last_modified": 1789905906
+  },
+  "15506": {
+    "name": "BÜYÜK DEĞIŞIM (2021)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1789905906
+  },
+  "15507": {
+    "name": "DIJITAL FLÖRTLEŞME (2020)",
+    "last_season": 1,
+    "last_episode": 5,
+    "last_modified": 1789905906
+  },
+  "15508": {
+    "name": "DIP (2018)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15509": {
+    "name": "ELECTRO MONOLOG (2021)",
+    "last_season": 2,
+    "last_episode": 5,
+    "last_modified": 1789905906
+  },
+  "15510": {
+    "name": "FER (2025)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15511": {
+    "name": "GANYAN (2020)",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1789905906
+  },
+  "15512": {
+    "name": "KIRLI ÇAMAŞIRLAR (2021)",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1789905906
+  },
+  "15513": {
+    "name": "O ADAM OLDUN MU? (2021)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1789905906
+  },
+  "15514": {
+    "name": "OĞUZHAN UĞUR'LA DÜN DÜNDÜR (2021)",
+    "last_season": 1,
+    "last_episode": 12,
+    "last_modified": 1789905906
+  },
+  "15515": {
+    "name": "RENKLI RÜYALAR OTELI (2021)",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1789905906
+  },
+  "15516": {
+    "name": "SAĞLIKLI KAÇAMAK (2021)",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1789905906
+  },
+  "15517": {
+    "name": "TUGAY İNANOĞLU VE DOSTLARI (2020)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15518": {
+    "name": "VAHŞI ŞEYLER (2021)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15519": {
+    "name": "CADDE CADDE İSTANBUL (2021)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1789905906
+  },
+  "15520": {
+    "name": "EFSANE T (2020)",
+    "last_season": 1,
+    "last_episode": 5,
+    "last_modified": 1789905906
+  },
+  "15521": {
+    "name": "GÜRKAN ŞEF ILE ATEŞ OYUNLARI (2021)",
+    "last_season": 1,
+    "last_episode": 13,
+    "last_modified": 1789905906
+  },
+  "15522": {
+    "name": "NASIL ZAYIFLARIM? (2021)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1789905906
+  },
+  "15523": {
+    "name": "TASARIM EVLER (2021)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1789905906
+  },
+  "15524": {
+    "name": "YAZGI (2022)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1789905906
+  },
+  "15525": {
+    "name": "ZEYNEP BASTIK VE KONUKLARI (2020)",
+    "last_season": 1,
+    "last_episode": 9,
+    "last_modified": 1789905906
+  },
+  "15526": {
+    "name": "ŞANSLI MI ŞANSSIZ MI? (2021)",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1789905906
+  },
+  "15527": {
+    "name": "#ETKILEYICI (2021)",
+    "last_season": 2,
+    "last_episode": 10,
+    "last_modified": 1789905906
+  },
+  "15528": {
+    "name": "10 BIN ADIM (2020)",
+    "last_season": 3,
+    "last_episode": 10,
+    "last_modified": 1789905906
+  },
+  "15529": {
+    "name": "20 DAKIKA (2013)",
+    "last_season": 1,
+    "last_episode": 59,
+    "last_modified": 1789905906
+  },
+  "15530": {
+    "name": "7YÜZ (2017)",
+    "last_season": 1,
+    "last_episode": 7,
+    "last_modified": 1789905906
+  },
+  "15531": {
+    "name": "@ENISARIKAN (2021)",
+    "last_season": 1,
+    "last_episode": 26,
+    "last_modified": 1789905906
+  },
+  "15532": {
+    "name": "ADSIZ AŞIKLAR (2025)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15533": {
+    "name": "ATIYE (2019)",
+    "last_season": 3,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15534": {
+    "name": "AŞK ADASI (2024)",
+    "last_season": 1,
+    "last_episode": 95,
+    "last_modified": 1789905906
+  },
+  "15535": {
+    "name": "AŞK KUMARDIR (2022)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15536": {
+    "name": "BEN DE ÖZLEDIM (2013)",
+    "last_season": 1,
+    "last_episode": 13,
+    "last_modified": 1789905906
+  },
+  "15537": {
+    "name": "BEN GRI (2022)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15538": {
+    "name": "BIR BAŞKADIR (2020)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15539": {
+    "name": "BIR YERALTI SIT-COM'U (2021)",
+    "last_season": 1,
+    "last_episode": 9,
+    "last_modified": 1789905906
+  },
+  "15540": {
+    "name": "BIZE GEZMEK OLSUN (2017)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1789905906
+  },
+  "15541": {
+    "name": "BÖRÜ 2039 (2021)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1789905906
+  },
+  "15542": {
+    "name": "BÖRÜ (2018)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1789905906
+  },
+  "15543": {
+    "name": "DURAN (2022)",
+    "last_season": 1,
+    "last_episode": 9,
+    "last_modified": 1789905906
+  },
+  "15544": {
+    "name": "DÜNYA BU (2023)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15545": {
+    "name": "DÜNYAYLA BENIM ARAMDA (2022)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15546": {
+    "name": "EKO EKO EKO (2023)",
+    "last_season": 2,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15547": {
+    "name": "EL TURCO (2025)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1789905906
+  },
+  "15548": {
+    "name": "ENFES BIR AKŞAM (2025)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15549": {
+    "name": "ESAS OĞLAN (2024)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15550": {
+    "name": "EX AŞKIM (2021)",
+    "last_season": 1,
+    "last_episode": 24,
+    "last_modified": 1789905906
+  },
+  "15551": {
+    "name": "EZEL (2009)",
+    "last_season": 2,
+    "last_episode": 38,
+    "last_modified": 1789905906
+  },
+  "15552": {
+    "name": "GIBI (2021)",
+    "last_season": 6,
+    "last_episode": 13,
+    "last_modified": 1789905906
+  },
+  "15553": {
+    "name": "HAKAN: MUHAFIZ (2018)",
+    "last_season": 4,
+    "last_episode": 7,
+    "last_modified": 1789905906
+  },
+  "15554": {
+    "name": "HAMLET (2021)",
+    "last_season": 1,
+    "last_episode": 7,
+    "last_modified": 1789905906
+  },
+  "15555": {
+    "name": "HAYALLER BIZIM İKI GÖZÜM (2020)",
+    "last_season": 1,
+    "last_episode": 5,
+    "last_modified": 1789905906
+  },
+  "15556": {
+    "name": "HÜKÜMSÜZ (2021)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1789905906
+  },
+  "15557": {
+    "name": "KAOSUN ANATOMISI (2025)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15558": {
+    "name": "KARDEŞ PAYI (2014)",
+    "last_season": 2,
+    "last_episode": 13,
+    "last_modified": 1789905906
+  },
+  "15559": {
+    "name": "KAÇIŞ (2022)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15560": {
+    "name": "KUZEY GÜNEY (2011)",
+    "last_season": 2,
+    "last_episode": 40,
+    "last_modified": 1789905906
+  },
+  "15561": {
+    "name": "KÜBRA (2024)",
+    "last_season": 2,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15563": {
+    "name": "MEVZULAR: AÇIK MIKROFON (2022)",
+    "last_season": 2,
+    "last_episode": 14,
+    "last_modified": 1789905906
+  },
+  "15564": {
+    "name": "MEZARLIK (2022)",
+    "last_season": 3,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15565": {
+    "name": "O SES TÜRKIYE RAP (2021)",
+    "last_season": 2,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15566": {
+    "name": "OYUNLAR HOLDING (2021)",
+    "last_season": 2,
+    "last_episode": 10,
+    "last_modified": 1789905906
+  },
+  "15567": {
+    "name": "PERA PALAS’TA GECE YARISI (2022)",
+    "last_season": 2,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15568": {
+    "name": "SADECE ARKADAŞIZ (2022)",
+    "last_season": 1,
+    "last_episode": 20,
+    "last_modified": 1789905906
+  },
+  "15569": {
+    "name": "SAHIPLI (2017)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1789905906
+  },
+  "15570": {
+    "name": "SICAK KAFA (2022)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15571": {
+    "name": "SIHIRLI ANNEM (2021)",
+    "last_season": 2,
+    "last_episode": 15,
+    "last_modified": 1789905906
+  },
+  "15572": {
+    "name": "SUSKUNLAR (2012)",
+    "last_season": 1,
+    "last_episode": 56,
+    "last_modified": 1789905906
+  },
+  "15573": {
+    "name": "SÜPER 1 TAKIM (2021)",
+    "last_season": 1,
+    "last_episode": 25,
+    "last_modified": 1789905906
+  },
+  "15574": {
+    "name": "TERTEMIZ (2024)",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1789905906
+  },
+  "15575": {
+    "name": "TERZI (2023)",
+    "last_season": 3,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15576": {
+    "name": "TOLGSHOW ÇILGIN SEZON (2023)",
+    "last_season": 1,
+    "last_episode": 20,
+    "last_modified": 1789905906
+  },
+  "15577": {
+    "name": "TÜRKIYE'DEKI SERI KATILLER (2021)",
+    "last_season": 1,
+    "last_episode": 5,
+    "last_modified": 1789905906
+  },
+  "15578": {
+    "name": "YAŞAMAYANLAR (2018)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15579": {
+    "name": "YETIŞ ZEYNEP (2021)",
+    "last_season": 1,
+    "last_episode": 20,
+    "last_modified": 1789905906
+  },
+  "15580": {
+    "name": "ÇALIKUŞU (2013)",
+    "last_season": 1,
+    "last_episode": 72,
+    "last_modified": 1789905906
+  },
+  "15581": {
+    "name": "ÖLÜM ZAMANI (2021)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15582": {
+    "name": "İLGINÇ BAZI OLAYLAR (2021)",
+    "last_season": 2,
+    "last_episode": 10,
+    "last_modified": 1789905906
+  },
+  "15583": {
+    "name": "İSTANBUL HESABI (2020)",
+    "last_season": 3,
+    "last_episode": 10,
+    "last_modified": 1789905906
+  },
+  "15584": {
+    "name": "ŞAHMARAN (2023)",
+    "last_season": 2,
+    "last_episode": 6,
+    "last_modified": 1789905906
+  },
+  "15585": {
+    "name": "AŞKIN GÜCÜ (2022)",
+    "last_season": 2,
+    "last_episode": 90,
+    "last_modified": 1789905906
+  },
+  "15586": {
+    "name": "GÖKKUŞAĞI FAŞIZMI (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1789905906
+  },
+  "15612": {
+    "name": "500T (2021)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1789905906
+  },
+  "15613": {
+    "name": "50M² (2021)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15614": {
+    "name": "ADIL YILDIRIM ILE KUTU (2024)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15615": {
+    "name": "ANONIM (2024)",
+    "last_season": 1,
+    "last_episode": 5,
+    "last_modified": 1789905906
+  },
+  "15616": {
+    "name": "BEYAZ YAKA (2021)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1789905906
+  },
+  "15617": {
+    "name": "BÜYÜK TIKINMA (2021)",
+    "last_season": 2,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15618": {
+    "name": "ELE GÜNE KARŞI (2020)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1789905906
+  },
+  "15619": {
+    "name": "KARA KENAN (2025)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15620": {
+    "name": "KOMEDI KULÜBÜ (2024)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15621": {
+    "name": "MAZHAR ALANSON İLE MISAFIR (2024)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15622": {
+    "name": "META AŞK (2022)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15623": {
+    "name": "ORTA! KAFA! AŞK! (2021)",
+    "last_season": 2,
+    "last_episode": 6,
+    "last_modified": 1789905906
+  },
+  "15624": {
+    "name": "OYUN (2022)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1789905906
+  },
+  "15625": {
+    "name": "PASCAL (2021)",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1789905906
+  },
+  "15626": {
+    "name": "PAVYON (2019)",
+    "last_season": 3,
+    "last_episode": 3,
+    "last_modified": 1789905906
+  },
+  "15627": {
+    "name": "SURVIVOR TV'DE YOK (2021)",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1789905906
+  },
+  "15628": {
+    "name": "SÜPRIZIMIZ VAR (2021)",
+    "last_season": 1,
+    "last_episode": 7,
+    "last_modified": 1789905906
+  },
+  "15629": {
+    "name": "THE ANSWER (2022)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1789905906
+  },
+  "15630": {
+    "name": "TOLGSHOW FILTRESIZ (2021)",
+    "last_season": 1,
+    "last_episode": 20,
+    "last_modified": 1789905906
+  },
+  "15631": {
+    "name": "UÇAN DEDEKTIF (2021)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15632": {
+    "name": "VICDANSIZ (2025)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789905906
+  },
+  "15633": {
+    "name": "YARIN YOKMUŞ GIBI (2024)",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1789905906
   }
 }
