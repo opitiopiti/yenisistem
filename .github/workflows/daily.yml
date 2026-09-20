@@ -1,4 +1,4 @@
-name: DAILY SİNEWİX - DİZİBOL - DİZİFİLM
+name: Sadece Günde Bir Defa Güncelleme Alan M3U Dosyaları
 
 on:
   workflow_dispatch:
