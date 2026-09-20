@@ -169,11 +169,50 @@ jobs:
           git config user.email "actions@github.com"
           git add .
           git commit -m "Auto DiziFilm update" || exit 0
+          git push origin main         
+        
+  part5:
+    if: false
+    name: dizibol generator
+    runs-on: ubuntu-latest
+    needs: part2
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+      
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone scripts repo
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp aiofiles python-dotenv httpx
+
+      - name: Run dizibol script
+        run: python private_py/dizibol/tumdiziler.py || true
+
+      - name: Sync dizibol output
+        run: |
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/daily_m3u.git out_repo
+
+          cp dizibol.m3u out_repo/dizibol.m3u || true
+
+          cd out_repo
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Auto dizibol update" || exit 0
           git push origin main
           
   part6:
-    name: hdizipal generator
     if: false
+    name: hdizipal generator
     runs-on: ubuntu-latest
     needs: part4
     env:
@@ -211,8 +250,8 @@ jobs:
           git commit -m "Auto HDizipal update" || exit 0
           git push origin main
           
-  part5:
-    name: dizibol generator
+  part7:
+    name: rectv generator
     runs-on: ubuntu-latest
     needs: part2
     env:
@@ -233,18 +272,18 @@ jobs:
           pip install --upgrade pip
           pip install requests beautifulsoup4 lxml aiohttp aiofiles python-dotenv httpx
 
-      - name: Run dizibol script
-        run: python private_py/dizibol/tumdiziler.py || true
+      - name: Run rectv_diziler script
+        run: python private_py/rectv/diziler.py || true
 
-      - name: Sync dizibol output
+      - name: Sync rectv_diziler output
         run: |
           git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/daily_m3u.git out_repo
 
-          cp dizibol.m3u out_repo/dizibol.m3u || true
+          cp rectv_diziler.m3u out_repo/rectv_diziler.m3u || true
 
           cd out_repo
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
           git add .
-          git commit -m "Auto dizibol update" || exit 0
+          git commit -m "Auto RECTV update" || exit 0
           git push origin main
