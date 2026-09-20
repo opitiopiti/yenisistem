@@ -1,4 +1,16 @@
 {
+  "/diziler/one-piece-izle.html": {
+    "group": "ONE PIECE",
+    "year": "1999",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
+  },
+  "/diziler/mushoku-tensei-jobless-reincarnation.html": {
+    "group": "MUSHOKU TENSEI: JOBLESS REINCARNATION",
+    "year": "2021",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg"
+  },
   "/diziler/mobland.html": {
     "group": "MOBLAND",
     "year": "2025",
@@ -76,17 +88,5 @@
     "year": "2016",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/aRwmcX36r1ZpR5Xq5mmFcpUDQ8J.jpg"
-  },
-  "/diziler/miami-vice.html": {
-    "group": "MIAMI VICE",
-    "year": "1984",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/b5kLqC6eDiA17nq3jr1Vi340Kns.jpg"
-  },
-  "/diziler/slow-horses.html": {
-    "group": "SLOW HORSES",
-    "year": "2022",
-    "imdb": "8.2",
-    "poster": "https://image.tmdb.org/t/p/w500/dnpatlJrEPiDSn5fzgzvxtiSnMo.jpg"
   }
 }
