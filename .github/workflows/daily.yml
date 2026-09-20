@@ -253,7 +253,6 @@ jobs:
   part7:
     name: rectv generator
     runs-on: ubuntu-latest
-    needs: part2
     env:
       M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
       
@@ -270,7 +269,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml aiohttp aiofiles python-dotenv httpx
+          pip install requests beautifulsoup4 lxml aiohttp aiofiles python-dotenv httpx pycryptodome
 
       - name: Run rectv_diziler script
         run: python private_py/rectv/diziler.py || true
