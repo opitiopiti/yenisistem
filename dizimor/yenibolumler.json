@@ -1,1 +1,20 @@
-{}
+{
+  "/dizi/canavar-lizzie-borden-in-hikayesi/": {
+    "group": "Canavar: Lizzie Borden'ın Hikâyesi",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+    "imdb": 7.9
+  },
+  "/dizi/koma/": {
+    "group": "Koma",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/faILRvzJEGdJgb1cYsrGWpsXvqe.jpg",
+    "imdb": 0.0
+  },
+  "/dizi/senden-baska-bir-ask/": {
+    "group": "Senden Başka Bir Aşk",
+    "year": "2026",
+    "poster": "https://image.tmdb.org/t/p/original/mryeyCsFApnwYDpDcy3I6fYx2Dd.jpg",
+    "imdb": 0.0
+  }
+}
