@@ -267,6 +267,7 @@ jobs:
           git push origin main
           
   part6:
+    if: false
     name: dizigom
     runs-on: ubuntu-latest
     needs: part3
@@ -478,6 +479,7 @@ jobs:
           git push origin main
                              
   part11:
+    if: false
     name: dizify
     runs-on: ubuntu-latest
     needs: part3
@@ -520,6 +522,7 @@ jobs:
           git push origin main
           
   part12:
+    if: false
     name: setfilmizledizi
     runs-on: ubuntu-latest
     needs: part3
@@ -604,6 +607,7 @@ jobs:
           git push origin main
 
   part14:
+    if: false
     name: dizimor
     runs-on: ubuntu-latest
     needs: part3
@@ -690,7 +694,7 @@ jobs:
   part20:
     name: xtreamsistemigecis
     runs-on: ubuntu-latest
-    needs: [part1, part2, part3, part4 , part6, part7, part9, part10, part11, part12, part13, part14, part15]
+    needs: [part1, part2, part3, part4 , part7, part9, part10, part13, part15]
     steps:
       - name: Wait and Transition to Python Code
         run: |
