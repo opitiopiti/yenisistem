@@ -1,53 +1,103 @@
 {
-  "helgaiptv": { 
-    "priority": 1, "enabled": true },
-  "sinewix": { 
-    "priority": 2, "enabled": true },
-  "vavooapp": { 
-    "priority": 3, "enabled": true },
   "m3utoken": { 
-    "priority": 4, "enabled": true },
-  "dizipod": { 
-    "priority": 7, "enabled": true },
-  "setfilmizle": { 
-    "priority": 8, "enabled": true },
-  "hdplayersystem": { 
-    "priority": 9, "enabled": true },
-  "dizimor": { 
-    "priority": 10, "enabled": true },
-  "cortinaeaccoladed": { 
-    "priority": 12, "enabled": true },
-  "sibnet": {
-    "priority": 13, "enabled": true },
+    "priority": 1, 
+    "enabled": true },
+
+  "vavooapp": { 
+    "priority": 2, 
+    "enabled": true },
+
+  "helgaiptv": { 
+    "priority": 3, 
+    "enabled": true },
+
   "animeheaven": { 
-    "priority": 14, "enabled": true },
-  "okru": { 
-    "priority": 15, "enabled": true },
-  "imagestoo": { 
-    "priority": 16, "enabled": true },
-  "videopark": { 
-    "priority": 17, "enabled": true },
-  "vidmixi": { 
-    "priority": 18, "enabled": true },
-  "dosyaload": { 
-    "priority": 19, "enabled": true },
-  "diziyou": { 
-    "priority": 20, "enabled": true },
+    "priority": 25, 
+    "enabled": true },
+
+  "sinewix": { 
+    "priority": 3, 
+    "enabled": true },
+
+  "dizipod": { 
+    "priority": 4, 
+    "enabled": true },
+
+  "cortinaeaccoladed": { 
+    "priority": 5, 
+    "enabled": true },
+
+  "hdplayersystem": { 
+    "priority": 6, 
+    "enabled": true },
+
   "hlszone": { 
-    "priority": 21, "enabled": true },  
-  
+    "priority": 7, 
+    "enabled": true }, 
+
+  "imagestoo": { 
+    "priority": 8, 
+    "enabled": true },
+
+  "vidmixi": { 
+    "priority": 9, 
+    "enabled": true },
+
+  "sibnet": {
+    "priority": 10, 
+    "enabled": true },
+
+  "okru": { 
+    "priority": 11, 
+    "enabled": true },
+
+  "dosyaload": { 
+    "priority": 12, 
+    "enabled": true },
+
+  "videopark": { 
+    "priority": 13, 
+    "enabled": true },
+
+  "diziyou": { 
+    "priority": 14, 
+    "enabled": true },
+
+  "setfilmizle": { 
+    "priority": 15, 
+    "enabled": true },
+
+
+
+  "dizimor": { 
+    "priority": 16, 
+    "enabled": false },
+
   "dizibol": { 
-    "priority": 11, "enabled": false },  
+    "priority": 17, 
+    "enabled": false },  
+
   "diziyo": { 
-    "priority": 4, "enabled": false },
+    "priority": 18, 
+    "enabled": false },
+
   "dizigom": { 
-    "priority": 5, "enabled": false },
+    "priority": 19, 
+    "enabled": false },
+
   "mediafire": { 
-    "priority": 96, "enabled": false },
+    "priority": 20, 
+    "enabled": false },
+
   "vidlop": { 
-    "priority": 97, "enabled": false },
+    "priority": 21, 
+    "enabled": false },
+
   "vidmoly": { 
-    "priority": 98, "enabled": false },
+    "priority": 22,     
+    "enabled": false },
+
   "deneme": { 
-    "priority": 99, "enabled": true }
+    "priority": 99, 
+    "enabled": true }
 }
