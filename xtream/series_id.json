@@ -58418,8 +58418,8 @@
   "10803": {
     "name": "MUSHOKU TENSEI: JOBLESS REINCARNATION (2021)",
     "last_season": 3,
-    "last_episode": 12,
-    "last_modified": 1789314819
+    "last_episode": 13,
+    "last_modified": 1789930377
   },
   "10804": {
     "name": "MUTED (2023)",
@@ -65930,8 +65930,8 @@
   "12190": {
     "name": "GOODBYE, LARA (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1789326268
+    "last_episode": 12,
+    "last_modified": 1789930377
   },
   "12191": {
     "name": "SPARKS OF TOMORROW (2026) İNGİLİZCE",
@@ -65990,8 +65990,8 @@
   "12274": {
     "name": "AZUR LANE: SLOW AHEAD! 2ND SEASON (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1789326268
+    "last_episode": 12,
+    "last_modified": 1789930377
   },
   "12275": {
     "name": "ONE PIECE HEROINES (2026) İNGİLİZCE",
@@ -70136,8 +70136,8 @@
   "13774": {
     "name": "THOUGH I AM AN INEPT VILLAINESS: TALE OF THE BUTTERFLY-RAT BODY SWAP IN THE MAIDEN COURT (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1789326268
+    "last_episode": 11,
+    "last_modified": 1789930377
   },
   "13817": {
     "name": "KIM-BU-JANG (2026)",
@@ -72494,8 +72494,8 @@
   "15260": {
     "name": "FOUR HANDS, TWO SONATAS (2026)",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1789843529
+    "last_episode": 8,
+    "last_modified": 1789930377
   },
   "15266": {
     "name": "MOBILE SUIT GUNDAM: HATHAWAY'S FLASH - THE SORCERY OF NYMPH CIRCE (2026) İNGİLİZCE",
@@ -72662,8 +72662,8 @@
   "15366": {
     "name": "A LOVE OTHER THAN YOURS (2026)",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1789843529
+    "last_episode": 4,
+    "last_modified": 1789930377
   },
   "15372": {
     "name": "SENDEN BAŞKA BIR AŞK (2026)",
@@ -73804,5 +73804,11 @@
     "last_season": 1,
     "last_episode": 4,
     "last_modified": 1789905906
+  },
+  "15635": {
+    "name": "MONSTER: THE LIZZIE BORDEN STORY (2022)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789930377
   }
 }
