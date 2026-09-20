@@ -33,7 +33,9 @@
     "priority": 19, "enabled": true },
   "diziyou": { 
     "priority": 20, "enabled": true },
-
+  "hlszone": { 
+    "priority": 21, "enabled": false },  
+  
   "dizibol": { 
     "priority": 11, "enabled": false },  
   "diziyo": { 
