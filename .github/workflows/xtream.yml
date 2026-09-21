@@ -8,7 +8,7 @@ on:
 concurrency:
   group: xtream-system
   cancel-in-progress: false
-  
+
 jobs:
   part1:
     name: Json Olusturma
