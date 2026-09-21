@@ -35780,8 +35780,8 @@
   "7003": {
     "name": "FLEX X COP (2024)",
     "last_season": 2,
-    "last_episode": 12,
-    "last_modified": 1789465543
+    "last_episode": 14,
+    "last_modified": 1789985215
   },
   "7004": {
     "name": "MY GIRL (2020)",
@@ -71684,8 +71684,8 @@
   "14940": {
     "name": "PRESIDENT CURTIS (2026)",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1789408999
+    "last_episode": 9,
+    "last_modified": 1789985215
   },
   "14942": {
     "name": "FURIOUS (2026)",
@@ -72284,8 +72284,8 @@
   "15157": {
     "name": "LANTERNS (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1789408999
+    "last_episode": 6,
+    "last_modified": 1789985215
   },
   "15163": {
     "name": "IN PLAIN SIGHT (2008)",
@@ -73810,5 +73810,11 @@
     "last_season": 1,
     "last_episode": 8,
     "last_modified": 1789930377
+  },
+  "15640": {
+    "name": "SENI TANIYORUM (2026) TR",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1789985215
   }
 }
