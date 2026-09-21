@@ -8,7 +8,7 @@ on:
 concurrency:
   group: xtream-system
   cancel-in-progress: false
-
+  
 jobs:
   part1:
     name: Json Olusturma
@@ -37,12 +37,27 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml aiohttp cloudscraper
 
+      - name: Run Dizigom JSON Script
+        run: python private_py/dizigom/dizigomjson.py || true
+
+      - name: Run Diziyoso JSON Script
+        run: python private_py/diziyoso/diziyosojson.py || true
+
       - name: Run Sezonlukdizi JSON Script
         run: python private_py/sezonlukdizi/sezonlukdizijson.py || true
 
+      - name: Run YabanciDiziler JSON Script
+        run: python private_py/yabancidiziler/yabancidizilerjson.py || true
+
       - name: Run Setfilmizle JSON Script
         run: python private_py/setfilmizle/dizilerjson.py || true
+        
+      - name: Run Dizify JSON Script
+        run: python private_py/dizify/dizilerjson.py || true        
 
+      - name: Run Dizimor JSON Script
+        run: python private_py/dizimor/dizilerjson.py || true        
+        
       - name: Commit and Push All JSONs to public repo
         run: |
           git config user.name "GitHub Actions"
@@ -83,11 +98,20 @@ jobs:
       - name: Run vavooapp.py Script
         run: python private_py/vavoosistemleri/vavooapp.py || true
         
+      - name: Run dizigomfilmler.py Script
+        run: python private_py/dizigom/dizigomfilmler.py || true
+
       - name: Run dizibolyerli.py Script
         run: python private_py/dizibol/yenibolumler.py || true
 
+  #    - name: Run setfilmizlefilmleri.py Script
+  #      run: python private_py/setfilmizle/filmler.py || true
+
       - name: Run dizifilm.py Script
         run: python private_py/dizifilm/filmler.py  
+
+  #    - name: Run dizibolfilmler.py Script
+  #      run: python private_py/dizibol/dizibolfilmler.py || true 
         
       - name: Sync M3U outputs to private repo
         run: |
@@ -95,7 +119,9 @@ jobs:
 
           cp v/vavoo.m3u privaate_m3u8file/vavoo.m3u || echo "v/vavoo.m3u bulunamadı"
           cp v/vavooapp.m3u privaate_m3u8file/vavooapp.m3u || echo "v/vavooapp.m3u bulunamadi"
+          cp dizigomfilmler.m3u privaate_m3u8file/dizigomfilmler.m3u || echo "dizigomfilmler bulunamadı"
           cp dizibolyerli.m3u privaate_m3u8file/dizibolyerli.m3u || echo "dizibolyerl bulunamadi"
+          cp setfilmizlefilmler.m3u privaate_m3u8file/setfilmizlefilmler.m3u || echo "setfilmizlefilmler bulunamadi"
           cp dizibolfilmler.m3u privaate_m3u8file/dizibolfilmler.m3u || echo "dizibolfilmler.m3u bulunamadi"
           cp hdfilmsite.m3u privaate_m3u8file/hdfilmsite.m3u || echo "hdfilmsite.m3u bulunamadi"
           
@@ -177,6 +203,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv httpx
 
+   #   - name: Run yabancidizileryenibolumler.py Script
+   #     run: python private_py/yabancidiziler/yabancidizileryenibolumler.py || true
+
       - name: Run epg.py Script
         run: python private_py/genelkodlar/gunlukepg.py || true
 
@@ -184,8 +213,19 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-          git add xtream/tum_kanallar.xml xtream/tum_kanallar.gz || echo "No files"
-          git commit -m "Günlük EPG güncellendi [auto]" || echo "No changes"
+          git add xtream/tum_kanallar.xml xtream/tum_kanallar.gz yabancidiziler/*.json || echo "No files"
+          git commit -m "Günlük EPG ve Json güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+      - name: Sync Outputs to Private Repos
+        run: |
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/yabancidiziler.git private_yabancidiziler
+          rsync -a yabancidiziler/ private_yabancidiziler/
+          cd private_yabancidiziler
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "Yabancidiziler çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
           
   part5:
@@ -227,6 +267,49 @@ jobs:
           git push origin main
           
   part6:
+    if: false
+    name: dizigom
+    runs-on: ubuntu-latest
+    needs: part3
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+      
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv httpx
+          
+      - name: Run dizigomyenibolumler.py Script
+        run: python private_py/dizigom/dizigomyenibolumler.py || true
+
+      - name: Sync Outputs to Private Repos
+        run: |
+          # Dizigom
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/dizigom.git private_dizigom
+          rsync -a dizigom/ private_dizigom/
+          cd private_dizigom
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "Dizigom çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+  part7:
     name: dizipod
     runs-on: ubuntu-latest
     needs: part3
@@ -268,7 +351,50 @@ jobs:
           git commit -m "Dizipod çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
                     
-   part7:
+  part8:
+    if: false
+    name: diziyoso
+    runs-on: ubuntu-latest
+    needs: part3
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+      
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv httpx
+          
+      - name: Run diziyosoyenibolumler.py Script
+        run: python private_py/diziyoso/diziyosoyenibolumler.py || true
+
+      - name: Sync Outputs to Private Repos
+        run: |
+          # Diziyoso
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/diziyoso.git private_diziyoso
+          rsync -a diziyoso/ private_diziyoso/
+          cd private_diziyoso
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "Diziyoso çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+  part9:
     name: sezonlukdizi
     runs-on: ubuntu-latest
     needs: part3
@@ -310,7 +436,7 @@ jobs:
           git commit -m "Sezonlukdizi çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
           
-  part8:
+  part10:
     name: animeheaven
     runs-on: ubuntu-latest
     needs: part3
@@ -351,8 +477,51 @@ jobs:
           git add . || echo "No files"
           git commit -m "AnimeHeaven çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
-                                     
-  part9:
+                             
+  part11:
+    if: false
+    name: dizify
+    runs-on: ubuntu-latest
+    needs: part3
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+      
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv httpx
+          
+      - name: Run dizifyyenibolumler.py Script
+        run: python private_py/dizify/yenibolumler.py || true
+
+      - name: Sync Outputs to Private Repos
+        run: |
+          # Dizify
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/dizify.git private_dizify
+          rsync -a dizify/ private_dizify/
+          cd private_dizify
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "Dizify çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+          
+  part12:
     if: false
     name: setfilmizledizi
     runs-on: ubuntu-latest
@@ -395,7 +564,7 @@ jobs:
           git commit -m "Setfilmizle Dizi çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
 
-  part10:
+  part13:
     name: dizimomdizi
     runs-on: ubuntu-latest
     needs: part3
@@ -437,7 +606,50 @@ jobs:
           git commit -m "Dizimom Dizi çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
 
-  part11:
+  part14:
+    if: false
+    name: dizimor
+    runs-on: ubuntu-latest
+    needs: part3
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+      
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv httpx cloudscraper
+          
+      - name: Run dizimordizi.py Script
+        run: python private_py/dizimor/yenibolumler.py || true
+
+      - name: Sync Outputs to Private Repos
+        run: |
+          # Dizimor Dizi
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/dizimor.git private_dizimor
+          rsync -a dizimor/ private_dizimor/
+          cd private_dizimor
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "Dizimor Dizi çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main
+
+  part15:
     name: dizipal
     runs-on: ubuntu-latest
     needs: part3
@@ -482,7 +694,7 @@ jobs:
   part20:
     name: xtreamsistemigecis
     runs-on: ubuntu-latest
-    needs: [part1, part2, part3, part4 , part5, part6, part7, part8, part9, part10, part11]
+    needs: [part1, part2, part3, part4 , part7, part9, part10, part13, part15]
     steps:
       - name: Wait and Transition to Python Code
         run: |
