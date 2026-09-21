@@ -1,10 +1,14 @@
 [
   {
     "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/dizibolyerli.m3u",
-    "enabled": true
+    "enabled": false
   },
   {
     "url": "https://raw.githubusercontent.com/opitiopiti/daily_m3u/main/sinewix_animeler.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/daily_m3u/main/rectv_diziler.m3u",
     "enabled": true
   },
   {
