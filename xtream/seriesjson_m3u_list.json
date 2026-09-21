@@ -20,24 +20,12 @@
     "enabled": true
   },
   {
-    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/dizigom.m3u",
-    "enabled": false
-  },
-  {
     "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/dizipoddiziler.m3u",
     "enabled": true
   },
   {
-    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/diziyoso.m3u",
-    "enabled": false
-  },
-  {
     "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/dizimomyabancidiziler.m3u",
     "enabled": true
-  },
-  {
-    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/dizimordiziler.m3u",
-    "enabled": false
   },
   {
     "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/dizifilmdiziler.m3u",
@@ -50,10 +38,6 @@
   {
     "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/animeheaven.m3u",
     "enabled": true
-  },
-  {
-    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/yabancidiziler.m3u",
-    "enabled": false
   },
   {
     "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/dizifydiziler.m3u",
@@ -69,10 +53,6 @@
   },
   {
     "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/dizipaldiziler.m3u",
-    "enabled": true
-  },
-  {
-    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/hdizipal.m3u",
     "enabled": true
   },
   {
