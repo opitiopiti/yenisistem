@@ -4,10 +4,6 @@
     "enabled": true
   },
   {
-    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/dizigomfilmler.m3u",
-    "enabled": true
-  },
-  {
     "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/dizibolfilmler.m3u",
     "enabled": false
   },
