@@ -1,4 +1,10 @@
 {
+  "/diziler/futurama.html": {
+    "group": "FUTURAMA",
+    "year": "1999",
+    "imdb": "8.5",
+    "poster": "https://image.tmdb.org/t/p/w500/6ZS8SOno6kTmWz4eQ8lX8EBXOMv.jpg"
+  },
   "/diziler/president-curtis.html": {
     "group": "PRESIDENT CURTIS",
     "year": "2026",
@@ -82,11 +88,5 @@
     "year": "1997",
     "imdb": "8.7",
     "poster": "https://image.tmdb.org/t/p/w500/1CGwZCFX2qerXaXQJJUB3qUvxq7.jpg"
-  },
-  "/diziler/from-old-country-bumpkin-to-master-swordsman.html": {
-    "group": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN",
-    "year": "2025",
-    "imdb": "6.7",
-    "poster": "https://image.tmdb.org/t/p/w500/ujQp5egkJOkDHx4TehlgHePFcRv.jpg"
   }
 }
