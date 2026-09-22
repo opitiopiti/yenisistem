@@ -17266,5 +17266,17 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/pJsIzlTjmx07ilwEkl0cglrMVa1.jpg"
+  },
+  "/diziler/zoey-101.html": {
+    "group": "ZOEY 101",
+    "year": "2005",
+    "imdb": "6.2",
+    "poster": "https://image.tmdb.org/t/p/w500/3eOM57RTccTSvqcYFhWwm9DAba8.jpg"
+  },
+  "/diziler/youth.html": {
+    "group": "YOUTH",
+    "year": "2026",
+    "imdb": "6.8",
+    "poster": "https://image.tmdb.org/t/p/w500/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg"
   }
 }
