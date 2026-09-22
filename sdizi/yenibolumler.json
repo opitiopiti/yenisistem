@@ -1,4 +1,22 @@
 {
+  "/diziler/its-always-sunny-in-philadelphia.html": {
+    "group": "IT'S ALWAYS SUNNY IN PHILADELPHIA",
+    "year": "2005",
+    "imdb": "8.8",
+    "poster": "https://image.tmdb.org/t/p/w500/o0tMMK33JqmtpcWw0H41cEr9xQB.jpg"
+  },
+  "/diziler/fire-country.html": {
+    "group": "FIRE COUNTRY",
+    "year": "2022",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg"
+  },
+  "/diziler/youth.html": {
+    "group": "YOUTH",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
   "/diziler/grand-blue.html": {
     "group": "GRAND BLUE",
     "year": "2018",
@@ -64,29 +82,5 @@
     "year": "2024",
     "imdb": "7.7",
     "poster": "https://image.tmdb.org/t/p/w500/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg"
-  },
-  "/diziler/stuart-fails-to-save-the-universe.html": {
-    "group": "STUART FAILS TO SAVE THE UNIVERSE",
-    "year": "2026",
-    "imdb": "7.0",
-    "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg"
-  },
-  "/diziler/monster-the-lizzie-borden-story.html": {
-    "group": "MONSTER: THE LIZZIE BORDEN STORY",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg"
-  },
-  "/diziler/stranger-things-tales-from-85.html": {
-    "group": "STRANGER THINGS: TALES FROM '85",
-    "year": "2026",
-    "imdb": "4.3",
-    "poster": "https://image.tmdb.org/t/p/w500/2orq3F4a1prP3RnJjYSWzSjHYZQ.jpg"
-  },
-  "/diziler/the-doll.html": {
-    "group": "THE DOLL",
-    "year": "2026",
-    "imdb": "5.8",
-    "poster": "https://image.tmdb.org/t/p/w500/zJSceCJMF7C6AtdRycZjNjavCT.jpg"
   }
 }
