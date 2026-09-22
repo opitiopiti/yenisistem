@@ -2902,7 +2902,13 @@
     {"name": "THE HOUSEBOAT", "year": "2021"},
     {"name": "NEVENKA, BREAKING THE SILENCE", "year": "2021"},
     {"name": "THE CIRCLE FRANCE", "year": "2020"},
-    {"name": "LEGEND QUEST", "year": "2017"}
+    {"name": "LEGEND QUEST", "year": "2017"},
+    {"name": "LOVE IS BLIND: POLAND", "year": "2026"},
+    {"name": "LOVE IS BLIND: MEXICO", "year": "2024"},
+    {"name": "THE LIFE YOU WANTED", "year": "2024"},
+    {"name": "DEVOTION, A STORY OF LOVE AND DESIRE", "year": "2022"},
+    {"name": "THE BIG SHOT GAME SHOW", "year": "2022"},
+    {"name": "SUMMER HEAT", "year": "2022"}
   ],
   "HBO DİZİLERİ": [
     {"name": "THE PITT", "year": "2025"},
@@ -3236,7 +3242,8 @@
     {"name": "X-RATED QUEEN", "year": "2024"},
     {"name": "THE CONFIDANTE", "year": "2024"},
     {"name": "HEADLESS CHICKENS", "year": "2023"},
-    {"name": "GARCÍA!", "year": "2022"}
+    {"name": "GARCÍA!", "year": "2022"},
+    {"name": "TAHT OYUNLARI", "year": "2011"}
   ],
   "AMAZON PRIME DİZİLERİ": [
     {"name": "BAIT", "year": "2026"},
@@ -3763,7 +3770,9 @@
     {"name": "THE LIBERATION", "year": "2025"},
     {"name": "THE ONE THAT GOT AWAY", "year": "2024"},
     {"name": "THE BILLIS", "year": "2023"},
-    {"name": "WE CHILDREN FROM BAHNHOF ZOO", "year": "2021"}
+    {"name": "WE CHILDREN FROM BAHNHOF ZOO", "year": "2021"},
+    {"name": "NAUGHTY BUSINESS", "year": "2026"},
+    {"name": "NO ONE WILL MISS US", "year": "2024"}
   ],
   "APPLE TV+ DİZİLERİ": [
     {"name": "THE LAST THING HE TOLD ME", "year": "2023"},
@@ -4996,7 +5005,8 @@
     {"name": "THE LOW TONE CLUB", "year": "2023"},
     {"name": "THE INVISIBLE GIRL", "year": "2023"},
     {"name": "DAMNED SAINT", "year": "2023"},
-    {"name": "TIERRA INCOGNITA", "year": "2022"}
+    {"name": "TIERRA INCOGNITA", "year": "2022"},
+    {"name": "LUCRECIA: A MURDER IN MADRID", "year": "2024"}
   ],
   "HUNAN TV DİZİLERİ": [
     {"name": "MIDSUMMER NIGHT", "year": "2013"},
@@ -7025,7 +7035,8 @@
     {"name": "72 DANGEROUS PLACES TO LIVE", "year": "2016"},
     {"name": "SUMMER LOVE", "year": "2022"},
     {"name": "THE CATCH", "year": "2023"},
-    {"name": "CONFLICT", "year": "2024"}
+    {"name": "CONFLICT", "year": "2024"},
+    {"name": "THE GLASS HOUSE", "year": "2026"}
   ],
   "FX DİZİLERİ": [
     {"name": "THE OLD MAN", "year": "2022"},
@@ -8396,7 +8407,8 @@
     {"name": "THE PROMISED NEVERLAND", "year": "2019"},
     {"name": "AFRO SAMURAI", "year": "2007"},
     {"name": "ワンピース", "year": "1999"},
-    {"name": "SCHOOL", "year": "2012"}
+    {"name": "SCHOOL", "year": "2012"},
+    {"name": "FIRST CLASS", "year": "2022"}
   ],
   "WONDER PROJECT DİZİLERİ": [
     {"name": "HOUSE OF DAVID", "year": "2025"}
@@ -8690,7 +8702,8 @@
     {"name": "MAHKUM", "year": "2021"},
     {"name": "KANUNSUZ TOPRAKLAR", "year": "2021"},
     {"name": "ROMANTIC GETAWAY", "year": "2023"},
-    {"name": "BARIŞÇI", "year": "2022"}
+    {"name": "BARIŞÇI", "year": "2022"},
+    {"name": "MR BIGSTUFF", "year": "2024"}
   ],
   "FAMILY CHANNEL DİZİLERİ": [
     {"name": "I WOKE UP A VAMPIRE", "year": "2023"},
@@ -9115,7 +9128,8 @@
     {"name": "HALIFAX: RETRIBUTION", "year": "2020"},
     {"name": "BITE CLUB", "year": "2018"},
     {"name": "MATT WRIGHT'S WILD TERRITORY", "year": "2022"},
-    {"name": "HUMAN ERROR", "year": "2024"}
+    {"name": "HUMAN ERROR", "year": "2024"},
+    {"name": "FROM TOMORROW", "year": "2024"}
   ],
   "TF1 DİZİLERİ": [
     {"name": "MIRACULOUS: TALES OF LADYBUG & CAT NOIR", "year": "2015"},
@@ -9829,7 +9843,8 @@
     {"name": "LIMBO", "year": "2022"},
     {"name": "CELL 8", "year": "2022"},
     {"name": "JANA - MARKED FOR LIFE", "year": "2024"},
-    {"name": "A CLASS APART", "year": "2021"}
+    {"name": "A CLASS APART", "year": "2021"},
+    {"name": "IDA TAKES CHARGE", "year": "2022"}
   ],
   "KBS1 DİZİLERİ": [
     {"name": "THE KING OF TEARS, LEE BANG WON", "year": "2021"},
@@ -10312,7 +10327,8 @@
   "MAGENTATV DİZİLERİ": [
     {"name": "SPY CITY", "year": "2020"},
     {"name": "OH HELL", "year": "2022"},
-    {"name": "WILD REPUBLIC", "year": "2021"}
+    {"name": "WILD REPUBLIC", "year": "2021"},
+    {"name": "OH HELL!", "year": "2022"}
   ],
   "KUAISHOU DİZİLERİ": [
     {"name": "MY HANDSOME ROOMMATE", "year": "2021"}
@@ -11640,7 +11656,8 @@
     {"name": "NEUMATT", "year": "2021"}
   ],
   "KANAL 5 DİZİLERİ": [
-    {"name": "MÖRKT HJÄRTA", "year": "2022"}
+    {"name": "MÖRKT HJÄRTA", "year": "2022"},
+    {"name": "THE DARK HEART", "year": "2022"}
   ],
   "GTV DİZİLERİ": [
     {"name": "MARS", "year": "2004"}
@@ -12984,7 +13001,8 @@
     {"name": "RE: ZERO - STARTING LIFE IN ANOTHER WORLD", "year": "2016"},
     {"name": "SUPA STRIKAS: ROOKIE SEASON", "year": "2021"},
     {"name": "THE DOLL", "year": "2026"},
-    {"name": "THE LADY", "year": "2025"}
+    {"name": "THE LADY", "year": "2025"},
+    {"name": "ZOEY 101", "year": "2005"}
   ],
   "İNGİLİZCE ALTYAZI ANİMELER": [
     {"name": "ACE OF THE DIAMOND: ACT II 2ND SEASON", "year": "2026"},
