@@ -33506,8 +33506,8 @@
   "6624": {
     "name": "MADE IN KOREA (2025)",
     "last_season": 2,
-    "last_episode": 2,
-    "last_modified": 1788971287
+    "last_episode": 4,
+    "last_modified": 1790156954
   },
   "6625": {
     "name": "A-I-DOL A-I AIDOL AI IDOL I (2025)",
@@ -38582,8 +38582,8 @@
   "7473": {
     "name": "LIONESS (2023)",
     "last_season": 3,
-    "last_episode": 7,
-    "last_modified": 1790070485
+    "last_episode": 8,
+    "last_modified": 1790156954
   },
   "7474": {
     "name": "CITY OF SHADOWS (2025)",
@@ -72194,8 +72194,8 @@
   "15115": {
     "name": "THE FIVE STAR WEEKEND (2026)",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1789408999
+    "last_episode": 8,
+    "last_modified": 1790156954
   },
   "15117": {
     "name": "CONVERSATIONS WITH A KILLER: THE CHARLES MANSON TAPES (2026)",
@@ -74026,5 +74026,11 @@
     "last_season": 1,
     "last_episode": 7,
     "last_modified": 1790124865
+  },
+  "15696": {
+    "name": "MINERVA AKADEMISI (2026)",
+    "last_season": 1,
+    "last_episode": 7,
+    "last_modified": 1790156954
   }
 }
