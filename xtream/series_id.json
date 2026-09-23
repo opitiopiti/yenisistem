@@ -56923,9 +56923,9 @@
   },
   "10549": {
     "name": "IT’S ALWAYS SUNNY IN PHILADELPHIA (2005)",
-    "last_season": 17,
-    "last_episode": 1,
-    "last_modified": 1788971287
+    "last_season": 18,
+    "last_episode": 6,
+    "last_modified": 1790124865
   },
   "10550": {
     "name": "IT’S BRUNO! (2019)",
@@ -66086,8 +66086,8 @@
   "12545": {
     "name": "RED RIVER (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1789514189
+    "last_episode": 12,
+    "last_modified": 1790124865
   },
   "12546": {
     "name": "THE GHOST IN THE SHELL (2026) İNGİLİZCE",
@@ -72314,8 +72314,8 @@
   "15171": {
     "name": "YOUR LOVE SO INVINCIBLE (0000)",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1788971287
+    "last_episode": 10,
+    "last_modified": 1790124865
   },
   "15172": {
     "name": "CASTLE WALLS (2026) TR",
@@ -74014,5 +74014,17 @@
     "last_season": 1,
     "last_episode": 14,
     "last_modified": 1790070485
+  },
+  "15694": {
+    "name": "MINERVA ACADEMY (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1790124865
+  },
+  "15695": {
+    "name": "POPULAR SERIZAWA ACTS WEIRD AROUND ME (2026)",
+    "last_season": 1,
+    "last_episode": 7,
+    "last_modified": 1790124865
   }
 }
