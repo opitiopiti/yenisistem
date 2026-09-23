@@ -5858,8 +5858,8 @@
   "1980": {
     "name": "SLOW HORSES (2022)",
     "last_season": 6,
-    "last_episode": 1,
-    "last_modified": 1789551558
+    "last_episode": 2,
+    "last_modified": 1790205746
   },
   "1981": {
     "name": "GILMORE GIRLS (2000)",
@@ -6914,8 +6914,8 @@
   "2160": {
     "name": "TED LASSO (2020)",
     "last_season": 4,
-    "last_episode": 7,
-    "last_modified": 1789551558
+    "last_episode": 8,
+    "last_modified": 1790205746
   },
   "2161": {
     "name": "RECALÉ (2026)",
@@ -9943,9 +9943,9 @@
   },
   "2670": {
     "name": "OUTLANDER: BLOOD OF MY BLOOD (2025)",
-    "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1783174642
+    "last_season": 2,
+    "last_episode": 1,
+    "last_modified": 1790205746
   },
   "2671": {
     "name": "ALL RISE (2019)",
@@ -33506,8 +33506,8 @@
   "6624": {
     "name": "MADE IN KOREA (2025)",
     "last_season": 2,
-    "last_episode": 4,
-    "last_modified": 1790156954
+    "last_episode": 6,
+    "last_modified": 1790205746
   },
   "6625": {
     "name": "A-I-DOL A-I AIDOL AI IDOL I (2025)",
@@ -56924,8 +56924,8 @@
   "10549": {
     "name": "IT’S ALWAYS SUNNY IN PHILADELPHIA (2005)",
     "last_season": 18,
-    "last_episode": 6,
-    "last_modified": 1790124865
+    "last_episode": 7,
+    "last_modified": 1790205746
   },
   "10550": {
     "name": "IT’S BRUNO! (2019)",
@@ -57229,9 +57229,9 @@
   },
   "10601": {
     "name": "KIAN’S BIZARRE B&B (2025)",
-    "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1783174642
+    "last_season": 2,
+    "last_episode": 4,
+    "last_modified": 1790205746
   },
   "10602": {
     "name": "KILLER RATINGS (2019)",
@@ -63596,8 +63596,8 @@
   "11674": {
     "name": "WOMEN IN BLUE (2024)",
     "last_season": 2,
-    "last_episode": 6,
-    "last_modified": 1789588462
+    "last_episode": 7,
+    "last_modified": 1790205746
   },
   "11675": {
     "name": "WOMEN OF THE NIGHT (2019)",
@@ -66152,8 +66152,8 @@
   "12684": {
     "name": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN (2025)",
     "last_season": 2,
-    "last_episode": 11,
-    "last_modified": 1789588462
+    "last_episode": 12,
+    "last_modified": 1790205746
   },
   "12686": {
     "name": "TOMB RAIDER KING (2026) İNGİLİZCE",
@@ -72578,8 +72578,8 @@
   "15308": {
     "name": "LAST SEEN (2026)",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1789588462
+    "last_episode": 4,
+    "last_modified": 1790205746
   },
   "15309": {
     "name": "X MEN 97 X MAN 97 (2024)",
@@ -74032,5 +74032,29 @@
     "last_season": 1,
     "last_episode": 7,
     "last_modified": 1790156954
+  },
+  "15697": {
+    "name": "GTO (2026) (2026)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1790205746
+  },
+  "15698": {
+    "name": "BROTHERS (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1790205746
+  },
+  "15699": {
+    "name": "HABEAS CORPUS (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1790205746
+  },
+  "15700": {
+    "name": "SAMAN: THE HIDDEN TRUTH (2026)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1790205746
   }
 }
