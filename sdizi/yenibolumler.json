@@ -1,4 +1,16 @@
 {
+  "/diziler/brothers.html": {
+    "group": "BROTHERS",
+    "year": "2026",
+    "imdb": "6.9",
+    "poster": "https://image.tmdb.org/t/p/w500/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg"
+  },
+  "/diziler/pokemon-horizons.html": {
+    "group": "POKEMON HORIZONS",
+    "year": "2023",
+    "imdb": "7.5",
+    "poster": "https://image.tmdb.org/t/p/w500/amemXW39lMbNBJFRMJ5W7q9mLP2.jpg"
+  },
   "/diziler/from-old-country-bumpkin-to-master-swordsman.html": {
     "group": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN",
     "year": "2025",
@@ -64,23 +76,5 @@
     "year": "2026",
     "imdb": "7.3",
     "poster": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg"
-  },
-  "/diziler/lanterns.html": {
-    "group": "LANTERNS",
-    "year": "2026",
-    "imdb": "8.6",
-    "poster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg"
-  },
-  "/diziler/one-piece-izle.html": {
-    "group": "ONE PIECE",
-    "year": "1999",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/uiIB9ctqZFbfRXXimtpmZb5dusi.jpg"
-  },
-  "/diziler/mushoku-tensei-jobless-reincarnation.html": {
-    "group": "MUSHOKU TENSEI: JOBLESS REINCARNATION",
-    "year": "2021",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/gLKOYIMyKlUHW0SVdskhgf9C0yy.jpg"
   }
 }
