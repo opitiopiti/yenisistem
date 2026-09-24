@@ -2910,7 +2910,9 @@
     {"name": "THE BIG SHOT GAME SHOW", "year": "2022"},
     {"name": "SUMMER HEAT", "year": "2022"},
     {"name": "MINERVA ACADEMY", "year": "2026"},
-    {"name": "HABEAS CORPUS", "year": "2026"}
+    {"name": "HABEAS CORPUS", "year": "2026"},
+    {"name": "A DIFFERENT WORLD", "year": "2026"},
+    {"name": "DELUSION", "year": "2026"}
   ],
   "HBO DİZİLERİ": [
     {"name": "THE PITT", "year": "2025"},
@@ -11886,7 +11888,8 @@
   ],
   "UP TV DİZİLERİ": [
     {"name": "SUGARCREEK AMISH MYSTERIES", "year": "2025"},
-    {"name": "SUGARCREEK AMISH MYSTERIES", "year": "2026"}
+    {"name": "SUGARCREEK AMISH MYSTERIES", "year": "2026"},
+    {"name": "MY SAD DEAD", "year": "2026"}
   ],
   "ILLICO+ DİZİLERİ": [
     {"name": "MR BIG", "year": "2025"}
