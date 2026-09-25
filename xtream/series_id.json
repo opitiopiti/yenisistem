@@ -8240,7 +8240,7 @@
   "2383": {
     "name": "FIRE COUNTRY (2022)",
     "last_season": 4,
-    "last_episode": 20,
+    "last_episode": 18,
     "last_modified": 1790070485
   },
   "2384": {
@@ -38924,8 +38924,8 @@
   "7530": {
     "name": "POKEMON HORIZONS (2023)",
     "last_season": 3,
-    "last_episode": 37,
-    "last_modified": 1790292658
+    "last_episode": 40,
+    "last_modified": 1790310398
   },
   "7531": {
     "name": "REGULAR SHOW: THE LOST TAPES (2026)",
@@ -49681,9 +49681,9 @@
   },
   "9327": {
     "name": "AV PARTISI (2025)",
-    "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1784652747
+    "last_season": 2,
+    "last_episode": 13,
+    "last_modified": 1790310398
   },
   "9328": {
     "name": "ASYLUM (1996)",
@@ -66152,8 +66152,8 @@
   "12684": {
     "name": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN (2025)",
     "last_season": 2,
-    "last_episode": 10,
-    "last_modified": 1790205746
+    "last_episode": 12,
+    "last_modified": 1790310398
   },
   "12686": {
     "name": "TOMB RAIDER KING (2026) İNGİLİZCE",
@@ -72236,8 +72236,8 @@
   "15135": {
     "name": "LINK CLICK 3RD SEASON (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1789722486
+    "last_episode": 8,
+    "last_modified": 1790310398
   },
   "15136": {
     "name": "BODIES IN THE WATER (2024)",
@@ -73664,8 +73664,8 @@
   "15585": {
     "name": "AŞKIN GÜCÜ (2022)",
     "last_season": 2,
-    "last_episode": 17,
-    "last_modified": 1789905906
+    "last_episode": 90,
+    "last_modified": 1790310398
   },
   "15586": {
     "name": "GÖKKUŞAĞI FAŞIZMI (2026)",
@@ -74092,5 +74092,11 @@
     "last_season": 1,
     "last_episode": 7,
     "last_modified": 1790270861
+  },
+  "15707": {
+    "name": "SULLIVAN&#039;S CROSSING (2023)",
+    "last_season": 4,
+    "last_episode": 10,
+    "last_modified": 1790310398
   }
 }
