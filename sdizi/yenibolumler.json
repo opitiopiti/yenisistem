@@ -1,4 +1,22 @@
 {
+  "/diziler/mobland.html": {
+    "group": "MOBLAND",
+    "year": "2025",
+    "imdb": "8.5",
+    "poster": "https://image.tmdb.org/t/p/w500/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg"
+  },
+  "/diziler/jojos-bizarre-adventure.html": {
+    "group": "JOJO'S BIZARRE ADVENTURE",
+    "year": "2012",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg"
+  },
+  "/diziler/star-trek-strange-new-worlds.html": {
+    "group": "STAR TREK: STRANGE NEW WORLDS",
+    "year": "2022",
+    "imdb": "8.3",
+    "poster": "https://image.tmdb.org/t/p/w500/w6KapI2JvrCkOPmQhkwYPJNjqeo.jpg"
+  },
   "/diziler/that-time-i-got-reincarnated-as-a-slime.html": {
     "group": "THAT TIME I GOT REINCARNATED AS A SLIME",
     "year": "2018",
@@ -64,23 +82,5 @@
     "year": "2005",
     "imdb": "6.2",
     "poster": "https://image.tmdb.org/t/p/w500/3eOM57RTccTSvqcYFhWwm9DAba8.jpg"
-  },
-  "/diziler/its-always-sunny-in-philadelphia.html": {
-    "group": "IT'S ALWAYS SUNNY IN PHILADELPHIA",
-    "year": "2005",
-    "imdb": "8.8",
-    "poster": "https://image.tmdb.org/t/p/w500/o0tMMK33JqmtpcWw0H41cEr9xQB.jpg"
-  },
-  "/diziler/fire-country.html": {
-    "group": "FIRE COUNTRY",
-    "year": "2022",
-    "imdb": "7.2",
-    "poster": "https://image.tmdb.org/t/p/w500/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg"
-  },
-  "/diziler/youth.html": {
-    "group": "YOUTH",
-    "year": "2026",
-    "imdb": "6.8",
-    "poster": "https://image.tmdb.org/t/p/w500/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg"
   }
 }
