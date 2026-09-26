@@ -471,7 +471,7 @@ jobs:
       - name: Install Shared Dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv httpx
+          pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv httpx pycryptodome
           
       - name: Run dizipaldizi.py Script
         run: python private_py/dizipal/yenibolumler.py || true
