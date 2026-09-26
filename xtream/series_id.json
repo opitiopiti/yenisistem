@@ -38924,8 +38924,8 @@
   "7530": {
     "name": "POKEMON HORIZONS (2023)",
     "last_season": 3,
-    "last_episode": 35,
-    "last_modified": 1790367742
+    "last_episode": 44,
+    "last_modified": 1790451140
   },
   "7531": {
     "name": "REGULAR SHOW: THE LOST TAPES (2026)",
@@ -39524,8 +39524,8 @@
   "7630": {
     "name": "MAO (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 25,
-    "last_modified": 1789843529
+    "last_episode": 26,
+    "last_modified": 1790451140
   },
   "7631": {
     "name": "MARIKA'S LOVE METER MALFUNCTION (2026) İNGİLİZCE",
@@ -65852,8 +65852,8 @@
   "12093": {
     "name": "GROW UP SHOW: SUNFLOWER CIRCUS (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 12,
-    "last_modified": 1789843529
+    "last_episode": 13,
+    "last_modified": 1790451140
   },
   "12094": {
     "name": "JAADUGAR: A WITCH IN MONGOLIA (2026) İNGİLİZCE",
@@ -65870,8 +65870,8 @@
   "12096": {
     "name": "MAGILUMIERE CO. LTD. 2ND SEASON (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1789843529
+    "last_episode": 12,
+    "last_modified": 1790451140
   },
   "12097": {
     "name": "RECOMMENDATIONS FROM IWAMOTO-SENPAI (2026) İNGİLİZCE",
@@ -70088,8 +70088,8 @@
   "13671": {
     "name": "HANAORI-SAN STILL WANTS TO FIGHT IN THE NEXT LIFE (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1789843529
+    "last_episode": 12,
+    "last_modified": 1790451140
   },
   "13673": {
     "name": "KÜÇÜK EV (2026)",
@@ -72494,8 +72494,8 @@
   "15260": {
     "name": "FOUR HANDS, TWO SONATAS (2026)",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1790024638
+    "last_episode": 9,
+    "last_modified": 1790451140
   },
   "15266": {
     "name": "MOBILE SUIT GUNDAM: HATHAWAY'S FLASH - THE SORCERY OF NYMPH CIRCE (2026) İNGİLİZCE",
@@ -74152,5 +74152,17 @@
     "last_season": 1,
     "last_episode": 16,
     "last_modified": 1790428316
+  },
+  "15718": {
+    "name": "A WILD LAST BOSS APPEARED! 2 (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1790451140
+  },
+  "15719": {
+    "name": "DIVE INTO YOU (2026)",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1790451140
   }
 }
