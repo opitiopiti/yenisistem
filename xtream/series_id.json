@@ -7202,7 +7202,7 @@
   "2208": {
     "name": "STAR TREK: STRANGE NEW WORLDS (2022)",
     "last_season": 4,
-    "last_episode": 9,
+    "last_episode": 8,
     "last_modified": 1789771129
   },
   "2209": {
@@ -65575,9 +65575,9 @@
   },
   "12005": {
     "name": "YÜZYILLIK YALNIZLIK (2024)",
-    "last_season": 1,
+    "last_season": 2,
     "last_episode": 8,
-    "last_modified": 1788802848
+    "last_modified": 1790455375
   },
   "12006": {
     "name": "YÜZÜKLERIN EFENDISI: GÜÇ YÜZÜKLERI (2022)",
@@ -66152,7 +66152,7 @@
   "12684": {
     "name": "FROM OLD COUNTRY BUMPKIN TO MASTER SWORDSMAN (2025)",
     "last_season": 2,
-    "last_episode": 12,
+    "last_episode": 10,
     "last_modified": 1790397210
   },
   "12686": {
@@ -74164,5 +74164,11 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1790451140
+  },
+  "15720": {
+    "name": "KOMA (2026)",
+    "last_season": 1,
+    "last_episode": 31,
+    "last_modified": 1790455375
   }
 }
