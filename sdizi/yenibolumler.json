@@ -1,4 +1,16 @@
 {
+  "/diziler/solar-system.html": {
+    "group": "SOLAR SYSTEM",
+    "year": "2024",
+    "imdb": "8.8",
+    "poster": "https://image.tmdb.org/t/p/w500/5Za9Z06sOb9MKLwu7sMKZWmRL5j.jpg"
+  },
+  "/diziler/madoff-the-monster-of-wall-street.html": {
+    "group": "MADOFF: THE MONSTER OF WALL STREET",
+    "year": "2023",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/cp1kTIj3rEZsinWbYMGBfjgVHv7.jpg"
+  },
   "/diziler/mobland.html": {
     "group": "MOBLAND",
     "year": "2025",
@@ -70,17 +82,5 @@
     "year": "2022",
     "imdb": "8.2",
     "poster": "https://image.tmdb.org/t/p/w500/dnpatlJrEPiDSn5fzgzvxtiSnMo.jpg"
-  },
-  "/diziler/ted-lasso.html": {
-    "group": "TED LASSO",
-    "year": "2020",
-    "imdb": "8.8",
-    "poster": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
-  },
-  "/diziler/zoey-101.html": {
-    "group": "ZOEY 101",
-    "year": "2005",
-    "imdb": "6.2",
-    "poster": "https://image.tmdb.org/t/p/w500/3eOM57RTccTSvqcYFhWwm9DAba8.jpg"
   }
 }

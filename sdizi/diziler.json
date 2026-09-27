@@ -17284,5 +17284,17 @@
     "year": "2026",
     "imdb": "6.9",
     "poster": "https://image.tmdb.org/t/p/w500/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg"
+  },
+  "/diziler/solar-system.html": {
+    "group": "SOLAR SYSTEM",
+    "year": "2024",
+    "imdb": "8.8",
+    "poster": "https://image.tmdb.org/t/p/w500/5Za9Z06sOb9MKLwu7sMKZWmRL5j.jpg"
+  },
+  "/diziler/madoff-the-monster-of-wall-street.html": {
+    "group": "MADOFF: THE MONSTER OF WALL STREET",
+    "year": "2023",
+    "imdb": "7.3",
+    "poster": "https://image.tmdb.org/t/p/w500/cp1kTIj3rEZsinWbYMGBfjgVHv7.jpg"
   }
 }
