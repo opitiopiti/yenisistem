@@ -67,34 +67,37 @@
     "priority": 15, 
     "enabled": true },
 
+  "filmekseni": { 
+    "priority": 16, 
+    "enabled": true },
 
 
   "dizimor": { 
-    "priority": 16, 
+    "priority": 92, 
     "enabled": false },
 
   "dizibol": { 
-    "priority": 17, 
+    "priority": 93, 
     "enabled": false },  
 
   "diziyo": { 
-    "priority": 18, 
+    "priority": 94, 
     "enabled": false },
 
   "dizigom": { 
-    "priority": 19, 
+    "priority": 95, 
     "enabled": false },
 
   "mediafire": { 
-    "priority": 20, 
+    "priority": 96, 
     "enabled": false },
 
   "vidlop": { 
-    "priority": 21, 
+    "priority": 97, 
     "enabled": false },
 
   "vidmoly": { 
-    "priority": 22,     
+    "priority": 98,     
     "enabled": false },
 
   "deneme": { 
