@@ -13,7 +13,7 @@
   },  
   {
     "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/filmeksenidiziler.m3u",
-    "enabled": true
+    "enabled": false
   },  
   {
     "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/dizifilmdiziler.m3u",
