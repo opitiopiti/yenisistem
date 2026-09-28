@@ -1,4 +1,10 @@
 {
+  "/diziler/spongebob-squarepants.html": {
+    "group": "SPONGEBOB SQUAREPANTS",
+    "year": "1999",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg"
+  },
   "/diziler/futurama.html": {
     "group": "FUTURAMA",
     "year": "1999",
@@ -82,11 +88,5 @@
     "year": "2011",
     "imdb": "7.9",
     "poster": "https://image.tmdb.org/t/p/w500/x2c3AvZeTyNehRZXabTojAxfDuR.jpg"
-  },
-  "/diziler/dark-matter.html": {
-    "group": "DARK MATTER",
-    "year": "2024",
-    "imdb": "7.7",
-    "poster": "https://image.tmdb.org/t/p/w500/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg"
   }
 }
