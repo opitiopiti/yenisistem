@@ -578,16 +578,12 @@ jobs:
         run: |
           git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/m3ufile.git privaate_m3ufilee
           
-          cp dizigom.m3u privaate_m3ufilee/dizigom.m3u || echo "dizigom.m3u bulunamadı"
-          cp diziyoso.m3u privaate_m3ufilee/diziyoso.m3u || echo "diziyoso.m3u bulunamadı"
+          cp filmeksenidiziler.m3u privaate_m3ufilee/filmeksenidiziler.m3u || echo "dizigom.m3u bulunamadı"
           cp sezonlukdizi.m3u privaate_m3ufilee/sezonlukdizi.m3u || echo "sezonlukdizi.m3u bulunamadı"
           cp animeheaven.m3u privaate_m3ufilee/animeheaven.m3u || echo "animeheaven.m3u bulunamadi"
-          cp yabancidiziler.m3u privaate_m3ufilee/yabancidiziler.m3u || echo "yabancidiziler.m3u bulunamadi"
-          cp dizifydiziler.m3u privaate_m3ufilee/dizifydiziler.m3u || echo "dizifydiziler.m3u bulunamadi" 
           cp setfilmizlediziler.m3u privaate_m3ufilee/setfilmizlediziler.m3u || echo "setfilmizlediziler.m3u bulunamadi" 
           cp dizipoddiziler.m3u privaate_m3ufilee/dizipoddiziler.m3u || echo "dizipoddiziler.m3u bulunamadi"
           cp dizimomyabancidiziler.m3u privaate_m3ufilee/dizimomyabancidiziler.m3u || echo "dizimomyabancidiziler.m3u bulunamadi"
-          cp dizimordiziler.m3u privaate_m3ufilee/dizimordiziler.m3u || echo "dizimordiziler.m3u bulunamadi"
           cp dizipaldiziler.m3u privaate_m3ufilee/dizipaldiziler.m3u || echo "dizipaldiziler.m3u bulunamadi"
           
           cd privaate_m3ufilee
