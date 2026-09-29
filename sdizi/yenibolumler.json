@@ -1,4 +1,10 @@
 {
+  "/diziler/its-always-sunny-in-philadelphia.html": {
+    "group": "IT'S ALWAYS SUNNY IN PHILADELPHIA",
+    "year": "2005",
+    "imdb": "8.8",
+    "poster": "https://image.tmdb.org/t/p/w500/o0tMMK33JqmtpcWw0H41cEr9xQB.jpg"
+  },
   "/diziler/spongebob-squarepants.html": {
     "group": "SPONGEBOB SQUAREPANTS",
     "year": "1999",
@@ -82,11 +88,5 @@
     "year": "2026",
     "imdb": "7.0",
     "poster": "https://image.tmdb.org/t/p/w500/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg"
-  },
-  "/diziler/american-horror-story.html": {
-    "group": "AMERICAN HORROR STORY",
-    "year": "2011",
-    "imdb": "7.9",
-    "poster": "https://image.tmdb.org/t/p/w500/x2c3AvZeTyNehRZXabTojAxfDuR.jpg"
   }
 }
