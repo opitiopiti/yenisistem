@@ -2916,7 +2916,8 @@
     {"name": "WONKA’S THE GOLDEN TICKET", "year": "2026"},
     {"name": "THE FINAL PROBLEM", "year": "2026"},
     {"name": "MIS MUERTOS TRISTES", "year": "2026"},
-    {"name": "EL PROBLEMA FINAL", "year": "2026"}
+    {"name": "EL PROBLEMA FINAL", "year": "2026"},
+    {"name": "THE GENTLEMEN", "year": "2026"}
   ],
   "HBO DİZİLERİ": [
     {"name": "THE PITT", "year": "2025"},
@@ -3783,7 +3784,8 @@
     {"name": "THE BILLIS", "year": "2023"},
     {"name": "WE CHILDREN FROM BAHNHOF ZOO", "year": "2021"},
     {"name": "NAUGHTY BUSINESS", "year": "2026"},
-    {"name": "NO ONE WILL MISS US", "year": "2024"}
+    {"name": "NO ONE WILL MISS US", "year": "2024"},
+    {"name": "REACHER", "year": "2026"}
   ],
   "APPLE TV+ DİZİLERİ": [
     {"name": "THE LAST THING HE TOLD ME", "year": "2023"},
@@ -4004,7 +4006,8 @@
     {"name": "GUTSY", "year": "2022"},
     {"name": "PUPPY PLACE", "year": "2021"},
     {"name": "ME-I-DEU IN KO-RI-A", "year": "2025"},
-    {"name": "BROTHERS", "year": "2026"}
+    {"name": "BROTHERS", "year": "2026"},
+    {"name": "SILO", "year": "2026"}
   ],
   "TV TOKYO DİZİLERİ": [
     {"name": "THE DARWIN INCIDENT", "year": "2026"},
@@ -5733,7 +5736,9 @@
     {"name": "THE COMEY RULE", "year": "2020"},
     {"name": "SPECIAL OPS: LIONESS", "year": "2023"},
     {"name": "CRIMINAL MINDS", "year": "2017"},
-    {"name": "ONE NIGHT", "year": "2023"}
+    {"name": "ONE NIGHT", "year": "2023"},
+    {"name": "MOBLAND", "year": "2026"},
+    {"name": "STAR TREK: STRANGE NEW WORLDS", "year": "2026"}
   ],
   "TBS DİZİLERİ": [
     {"name": "BLUE BOX", "year": "2024"},
