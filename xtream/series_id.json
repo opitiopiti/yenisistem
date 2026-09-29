@@ -9944,8 +9944,8 @@
   "2670": {
     "name": "OUTLANDER: BLOOD OF MY BLOOD (2025)",
     "last_season": 2,
-    "last_episode": 1,
-    "last_modified": 1790205746
+    "last_episode": 2,
+    "last_modified": 1790705426
   },
   "2671": {
     "name": "ALL RISE (2019)",
@@ -57230,8 +57230,8 @@
   "10601": {
     "name": "KIAN’S BIZARRE B&B (2025)",
     "last_season": 2,
-    "last_episode": 4,
-    "last_modified": 1790205746
+    "last_episode": 8,
+    "last_modified": 1790705426
   },
   "10602": {
     "name": "KILLER RATINGS (2019)",
@@ -58418,7 +58418,7 @@
   "10803": {
     "name": "MUSHOKU TENSEI: JOBLESS REINCARNATION (2021)",
     "last_season": 3,
-    "last_episode": 13,
+    "last_episode": 10,
     "last_modified": 1790615353
   },
   "10804": {
@@ -66068,8 +66068,8 @@
   "12499": {
     "name": "I WANT TO LOVE YOU TILL YOUR DYING DAY (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 12,
-    "last_modified": 1790097090
+    "last_episode": 13,
+    "last_modified": 1790705426
   },
   "12500": {
     "name": "VICTORIA OF MANY FACES (2026) İNGİLİZCE",
@@ -72602,8 +72602,8 @@
   "15317": {
     "name": "A KILLER STORY (2026)",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1789143451
+    "last_episode": 3,
+    "last_modified": 1790705426
   },
   "15322": {
     "name": "THE REVOLUTIONARIES (2026)",
@@ -73814,8 +73814,8 @@
   "15635": {
     "name": "YOUTH (2026)",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1790024638
+    "last_episode": 3,
+    "last_modified": 1790705426
   },
   "15636": {
     "name": "MONSTER: THE LIZZIE BORDEN STORY (2022)",
@@ -74024,8 +74024,8 @@
   "15695": {
     "name": "POPULAR SERIZAWA ACTS WEIRD AROUND ME (2026)",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1790124865
+    "last_episode": 8,
+    "last_modified": 1790705426
   },
   "15696": {
     "name": "MINERVA AKADEMISI (2026)",
@@ -74224,5 +74224,23 @@
     "last_season": 1,
     "last_episode": 7,
     "last_modified": 1790679896
+  },
+  "15835": {
+    "name": "IRREPLACEABLE (2026)",
+    "last_season": 1,
+    "last_episode": 5,
+    "last_modified": 1790705426
+  },
+  "15836": {
+    "name": "LEGO ONE PIECE (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1790705426
+  },
+  "15837": {
+    "name": "OUTSIDE (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1790705426
   }
 }
