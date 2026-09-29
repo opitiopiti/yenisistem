@@ -9,7 +9,7 @@
   },
   {
     "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/vavoo.m3u",
-    "enabled": true
+    "enabled": false
   },
   {
     "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/vavooapp.m3u",
