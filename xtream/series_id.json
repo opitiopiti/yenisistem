@@ -3794,8 +3794,8 @@
   "1633": {
     "name": "FUTURAMA (1999)",
     "last_season": 14,
-    "last_episode": 3,
-    "last_modified": 1790679896
+    "last_episode": 7,
+    "last_modified": 1790726905
   },
   "1634": {
     "name": "HORIMIYA PIECE (2023)",
@@ -58418,7 +58418,7 @@
   "10803": {
     "name": "MUSHOKU TENSEI: JOBLESS REINCARNATION (2021)",
     "last_season": 3,
-    "last_episode": 13,
+    "last_episode": 7,
     "last_modified": 1790707655
   },
   "10804": {
@@ -74242,5 +74242,11 @@
     "last_season": 1,
     "last_episode": 2,
     "last_modified": 1790705426
+  },
+  "15864": {
+    "name": "ASOBI ASOBASE (2018) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 15,
+    "last_modified": 1790726905
   }
 }
