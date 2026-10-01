@@ -16,6 +16,10 @@
     "enabled": true
   },  
   {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/canlidiziler.m3u",
+    "enabled": true
+  },  
+  {
     "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/dizifilmdiziler.m3u",
     "enabled": true
   },
