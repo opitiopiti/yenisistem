@@ -35,6 +35,10 @@
     "priority": 9, 
     "enabled": true },
 
+  "canlidizi": { 
+    "priority": 10, 
+    "enabled": true }, 
+  
   "hlszone": { 
     "priority": 10, 
     "enabled": true }, 
