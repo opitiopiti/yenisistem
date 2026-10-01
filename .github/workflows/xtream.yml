@@ -515,7 +515,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv httpx pycryptodome
           
-      - name: Run dizipaldizi.py Script
+      - name: Run filmekseni.py Script
         run: python private_py/filmekseni/diziler.py || true
 
       - name: Sync Outputs to Private Repos
@@ -529,11 +529,53 @@ jobs:
           git add . || echo "No files"
           git commit -m "Film Ekseni Dizi çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
-                              
+          
+  part13:
+    name: CanliDiziler
+    runs-on: ubuntu-latest
+    needs: part3
+    env:
+      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
+      
+    steps:
+      - name: Checkout public repo (main)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Clone Private Py Repo
+        run: git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
+
+      - name: Install Shared Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv httpx pycryptodome
+          
+      - name: Run canlidiziler.py Script
+        run: python private_py/canlidizi/yenibolumler.py || true
+
+      - name: Sync Outputs to Private Repos
+        run: |
+          # CanliDiziler
+          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/canlidizi.git private_canlidizi
+          rsync -a canlidizi/ private_canlidizi/
+          cd private_canlidizi
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add . || echo "No files"
+          git commit -m "Canli Dizi Dizi çıktı güncellendi [auto]" || echo "No changes"
+          git push origin main       
+          
   part20:
     name: xtreamsistemigecis
     runs-on: ubuntu-latest
-    needs: [part1, part2, part3, part4 , part5, part6, part7, part8, part10, part11, part12]
+    needs: [part1, part2, part3, part4 , part5, part6, part7, part8, part10, part11, part12, part13]
     steps:
       - name: Wait and Transition to Python Code
         run: |
@@ -585,6 +627,7 @@ jobs:
           cp dizipoddiziler.m3u privaate_m3ufilee/dizipoddiziler.m3u || echo "dizipoddiziler.m3u bulunamadi"
           cp dizimomyabancidiziler.m3u privaate_m3ufilee/dizimomyabancidiziler.m3u || echo "dizimomyabancidiziler.m3u bulunamadi"
           cp dizipaldiziler.m3u privaate_m3ufilee/dizipaldiziler.m3u || echo "dizipaldiziler.m3u bulunamadi"
+          cp canlidiziler.m3u privaate_m3ufilee/canlidiziler.m3u || echo "canlidiziler.m3u bulunamadi"
           
           cd privaate_m3ufilee
           git config user.name "GitHub Actions"
