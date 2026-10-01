@@ -7,68 +7,72 @@
     "priority": 2, 
     "enabled": true },
 
+  "vavoo_live": { 
+    "priority": 3, 
+    "enabled": true },
+
   "helgaiptv": { 
-    "priority": 3, 
-    "enabled": true },
-
-  "animeheaven": { 
-    "priority": 25, 
-    "enabled": true },
-
-  "sinewix": { 
-    "priority": 3, 
-    "enabled": true },
-
-  "dizipod": { 
     "priority": 4, 
     "enabled": true },
 
-  "cortinaeaccoladed": { 
+  "animeheaven": { 
     "priority": 5, 
     "enabled": true },
 
-  "hdplayersystem": { 
+  "sinewix": { 
     "priority": 6, 
     "enabled": true },
 
-  "hlszone": { 
+  "dizipod": { 
     "priority": 7, 
-    "enabled": true }, 
+    "enabled": true },
 
-  "imagestoo": { 
+  "cortinaeaccoladed": { 
     "priority": 8, 
     "enabled": true },
 
-  "vidmixi": { 
+  "hdplayersystem": { 
     "priority": 9, 
     "enabled": true },
 
-  "sibnet": {
+  "hlszone": { 
     "priority": 10, 
-    "enabled": true },
+    "enabled": true }, 
 
-  "okru": { 
+  "imagestoo": { 
     "priority": 11, 
     "enabled": true },
 
-  "dosyaload": { 
+  "vidmixi": { 
     "priority": 12, 
     "enabled": true },
 
-  "videopark": { 
+  "sibnet": {
     "priority": 13, 
     "enabled": true },
 
-  "diziyou": { 
+  "okru": { 
     "priority": 14, 
     "enabled": true },
 
-  "setfilmizle": { 
+  "dosyaload": { 
     "priority": 15, 
     "enabled": true },
 
-  "filmekseni": { 
+  "videopark": { 
     "priority": 16, 
+    "enabled": true },
+
+  "diziyou": { 
+    "priority": 17, 
+    "enabled": true },
+
+  "setfilmizle": { 
+    "priority": 18, 
+    "enabled": true },
+
+  "filmekseni": { 
+    "priority": 19, 
     "enabled": true },
 
 
