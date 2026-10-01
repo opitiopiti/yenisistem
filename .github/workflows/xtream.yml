@@ -79,7 +79,7 @@ jobs:
           pip install requests beautifulsoup4 lxml aiohttp aiofiles dotenv httpx
           
       - name: Run vavoosite.py Script
-        run: python private_py/vavoosistemleri/vavoo.py || true
+        run: python private_py/vavoosistemleri/vavoosite.py || true
 
       - name: Run vavooapp.py Script
         run: python private_py/vavoosistemleri/vavooapp.py || true
