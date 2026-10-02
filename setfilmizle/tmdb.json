@@ -22798,5 +22798,21 @@
     "imdb_id": "tt0232500",
     "poster": "https://image.tmdb.org/t/p/original/zA9pwvMF3oebsypZkDVHBmlzxwf.jpg",
     "genre": "Aksiyon"
+  },
+  "tuzak evi|2025": {
+    "title": "Tuzak Evi",
+    "year": "2025",
+    "tmdb_id": 628847,
+    "imdb_id": "tt10799690",
+    "poster": "https://image.tmdb.org/t/p/original/rkBJAApfLSy9vxsR2PS7FpHEIy1.jpg",
+    "genre": "Aksiyon"
+  },
+  "onur savaşı|2012": {
+    "title": "Onur Savaşı",
+    "year": "2012",
+    "tmdb_id": 103663,
+    "imdb_id": "tt2106476",
+    "poster": "https://image.tmdb.org/t/p/original/lJH1vMl21YFHnB98FiIXO7SIwEb.jpg",
+    "genre": "Dram"
   }
 }
