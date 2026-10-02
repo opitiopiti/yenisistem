@@ -18,5 +18,9 @@
   {
     "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/hdfilmsite.m3u",
     "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/setfilmizlefilmler.m3u",
+    "enabled": true
   }
 ]
