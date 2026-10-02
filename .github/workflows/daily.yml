@@ -317,9 +317,13 @@ jobs:
         run: |
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
-
+      
           git add setfilmizle/tmdb.json || true
           git commit -m "SetFilmİzle Tmdb Json Update [auto]" || exit 0
+      
+          git fetch origin main
+          git rebase origin/main
+      
           git push origin main
 
       - name: Sync outputs
