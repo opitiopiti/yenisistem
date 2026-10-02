@@ -7868,8 +7868,8 @@
   "2320": {
     "name": "DARK MATTER (2024)",
     "last_season": 2,
-    "last_episode": 5,
-    "last_modified": 1790428316
+    "last_episode": 6,
+    "last_modified": 1790918606
   },
   "2321": {
     "name": "ANNE WITH AN E (2017)",
@@ -9944,8 +9944,8 @@
   "2670": {
     "name": "OUTLANDER: BLOOD OF MY BLOOD (2025)",
     "last_season": 2,
-    "last_episode": 2,
-    "last_modified": 1790705426
+    "last_episode": 3,
+    "last_modified": 1790918606
   },
   "2671": {
     "name": "ALL RISE (2019)",
@@ -58418,7 +58418,7 @@
   "10803": {
     "name": "MUSHOKU TENSEI: JOBLESS REINCARNATION (2021)",
     "last_season": 3,
-    "last_episode": 10,
+    "last_episode": 9,
     "last_modified": 1790870116
   },
   "10804": {
@@ -59521,9 +59521,9 @@
   },
   "10990": {
     "name": "RED QUEEN (2024)",
-    "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1783174642
+    "last_season": 2,
+    "last_episode": 6,
+    "last_modified": 1790918606
   },
   "10991": {
     "name": "RELLIK (2017)",
@@ -62203,9 +62203,9 @@
   },
   "11439": {
     "name": "THE SISTERS GRIMM (2025)",
-    "last_season": 1,
+    "last_season": 2,
     "last_episode": 6,
-    "last_modified": 1783174642
+    "last_modified": 1790918606
   },
   "11440": {
     "name": "THE SLAVE HUNTERS (2010)",
@@ -72236,8 +72236,8 @@
   "15135": {
     "name": "LINK CLICK 3RD SEASON (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1790310398
+    "last_episode": 9,
+    "last_modified": 1790918606
   },
   "15136": {
     "name": "BODIES IN THE WATER (2024)",
@@ -74120,8 +74120,8 @@
   "15711": {
     "name": "4 BLOCKS ZERO (2026)",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1790344037
+    "last_episode": 2,
+    "last_modified": 1790918606
   },
   "15712": {
     "name": "PAOLO (2026)",
@@ -74318,8 +74318,8 @@
   "15954": {
     "name": "QUWET EL HOB (2026)",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1790836052
+    "last_episode": 5,
+    "last_modified": 1790918606
   },
   "15955": {
     "name": "RJ DECKER (2026)",
@@ -74384,7 +74384,25 @@
   "16043": {
     "name": "DEADLY TAG (0000)",
     "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1790918606
+  },
+  "16070": {
+    "name": "KILL JACKIE (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1790918606
+  },
+  "16071": {
+    "name": "THE TORMENT (2026)",
+    "last_season": 1,
     "last_episode": 1,
-    "last_modified": 1790891317
+    "last_modified": 1790918606
+  },
+  "16072": {
+    "name": "WAR (2026)",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1790918606
   }
 }
