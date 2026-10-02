@@ -1,4 +1,10 @@
 {
+  "/diziler/east-of-eden.html": {
+    "group": "EAST OF EDEN",
+    "year": "2026",
+    "imdb": "7.5",
+    "poster": "https://image.tmdb.org/t/p/w500/VMyZWR0GBHGY9WIwcaj232ALAl.jpg"
+  },
   "/diziler/american-horror-story.html": {
     "group": "AMERICAN HORROR STORY",
     "year": "2011",
@@ -82,11 +88,5 @@
     "year": "2026",
     "imdb": "8.6",
     "poster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg"
-  },
-  "/diziler/president-curtis.html": {
-    "group": "PRESIDENT CURTIS",
-    "year": "2026",
-    "imdb": "7.3",
-    "poster": "https://image.tmdb.org/t/p/w500/lc9riW73Oee2pBxi1UrDPgyQjEr.jpg"
   }
 }
