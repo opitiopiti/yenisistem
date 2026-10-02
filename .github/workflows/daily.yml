@@ -313,6 +313,15 @@ jobs:
         run: |
           python private_py/setfilmizle/filmler.py || true
 
+      - name: Commit tmdb.json result
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+
+          git add setfilmizle/tmdb.json || true
+          git commit -m "SetFilmİzle Tmdb Json Update [auto]" || exit 0
+          git push origin main
+
       - name: Sync outputs
         run: |
           git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/daily_m3u.git oout_repo
