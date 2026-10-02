@@ -40,47 +40,47 @@
     "enabled": true },
 
   "canlidizi": { 
-    "priority": 10, 
+    "priority": 11, 
     "enabled": true }, 
   
   "hlszone": { 
-    "priority": 10, 
+    "priority": 12, 
     "enabled": true }, 
 
   "imagestoo": { 
-    "priority": 11, 
-    "enabled": true },
-
-  "vidmixi": { 
-    "priority": 12, 
-    "enabled": true },
-
-  "sibnet": {
     "priority": 13, 
     "enabled": true },
 
-  "okru": { 
+  "vidmixi": { 
     "priority": 14, 
     "enabled": true },
 
-  "dosyaload": { 
+  "sibnet": {
     "priority": 15, 
-    "enabled": true },
+    "enabled": false },
 
-  "videopark": { 
+  "okru": { 
     "priority": 16, 
     "enabled": true },
 
-  "diziyou": { 
+  "dosyaload": { 
     "priority": 17, 
     "enabled": true },
 
-  "setfilmizle": { 
+  "videopark": { 
     "priority": 18, 
     "enabled": true },
 
-  "filmekseni": { 
+  "diziyou": { 
     "priority": 19, 
+    "enabled": true },
+
+  "setfilmizle": { 
+    "priority": 20, 
+    "enabled": true },
+
+  "filmekseni": { 
+    "priority": 21, 
     "enabled": true },
 
 
