@@ -3258,7 +3258,9 @@
     {"name": "TAHT OYUNLARI", "year": "2011"},
     {"name": "4 BLOCKS ZERO", "year": "2026"},
     {"name": "PAOLO", "year": "2026"},
-    {"name": "THE GOOD SPIRIT: BEHIND THE DOORS OF THE OPUS DEI", "year": "2026"}
+    {"name": "THE GOOD SPIRIT: BEHIND THE DOORS OF THE OPUS DEI", "year": "2026"},
+    {"name": "The Torment", "year": "2026"},
+    {"name": "War", "year": "2026"}
   ],
   "AMAZON PRIME DİZİLERİ": [
     {"name": "BAIT", "year": "2026"},
@@ -3788,7 +3790,8 @@
     {"name": "WE CHILDREN FROM BAHNHOF ZOO", "year": "2021"},
     {"name": "NAUGHTY BUSINESS", "year": "2026"},
     {"name": "NO ONE WILL MISS US", "year": "2024"},
-    {"name": "REACHER", "year": "2026"}
+    {"name": "REACHER", "year": "2026"},
+    {"name": "Kill Jackie", "year": "2026"}
   ],
   "APPLE TV+ DİZİLERİ": [
     {"name": "THE LAST THING HE TOLD ME", "year": "2023"},
