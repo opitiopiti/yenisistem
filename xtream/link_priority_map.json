@@ -23,6 +23,10 @@
     "priority": 6, 
     "enabled": true },
 
+  "rectv": { 
+    "priority": 7, 
+    "enabled": true },
+
   "dizipod": { 
     "priority": 7, 
     "enabled": true },
