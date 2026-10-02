@@ -28,15 +28,15 @@
     "enabled": true },
 
   "dizipod": { 
-    "priority": 7, 
-    "enabled": true },
-
-  "cortinaeaccoladed": { 
     "priority": 8, 
     "enabled": true },
 
-  "hdplayersystem": { 
+  "cortinaeaccoladed": { 
     "priority": 9, 
+    "enabled": true },
+
+  "hdplayersystem": { 
+    "priority": 10, 
     "enabled": true },
 
   "canlidizi": { 
