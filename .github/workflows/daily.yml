@@ -3,7 +3,7 @@ name: Sadece Günde Bir Defa Güncelleme Alan M3U Dosyaları
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 1 * * *'
+    - cron: '18 1 * * *'
 
 concurrency:
   group: xtream-system
