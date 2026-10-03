@@ -1,4 +1,10 @@
 {
+  "/diziler/adventure-time-side-quests.html": {
+    "group": "ADVENTURE TIME: SIDE QUESTS",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/4XpWm5EqZQtCIgleaNbpUAMRODx.jpg"
+  },
   "/diziler/east-of-eden.html": {
     "group": "EAST OF EDEN",
     "year": "2026",
@@ -82,11 +88,5 @@
     "year": "2026",
     "imdb": "6.8",
     "poster": "https://image.tmdb.org/t/p/w500/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg"
-  },
-  "/diziler/lanterns.html": {
-    "group": "LANTERNS",
-    "year": "2026",
-    "imdb": "8.6",
-    "poster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg"
   }
 }
