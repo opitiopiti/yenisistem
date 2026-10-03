@@ -1,4 +1,22 @@
 {
+  "/diziler/tokyo-revengers.html": {
+    "group": "TOKYO REVENGERS",
+    "year": "2021",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg"
+  },
+  "/diziler/the-apothecary-diaries.html": {
+    "group": "THE APOTHECARY DIARIES",
+    "year": "2023",
+    "imdb": "8.6",
+    "poster": "https://image.tmdb.org/t/p/w500/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg"
+  },
+  "/diziler/kill-jackie.html": {
+    "group": "KILL JACKIE",
+    "year": "2026",
+    "imdb": "6.3",
+    "poster": "https://image.tmdb.org/t/p/w500/xECrN4jpKMhTOxUbnCdiKo7QWdL.jpg"
+  },
   "/diziler/adventure-time-side-quests.html": {
     "group": "ADVENTURE TIME: SIDE QUESTS",
     "year": "2026",
@@ -70,23 +88,5 @@
     "year": "2005",
     "imdb": "8.8",
     "poster": "https://image.tmdb.org/t/p/w500/o0tMMK33JqmtpcWw0H41cEr9xQB.jpg"
-  },
-  "/diziler/spongebob-squarepants.html": {
-    "group": "SPONGEBOB SQUAREPANTS",
-    "year": "1999",
-    "imdb": "8.2",
-    "poster": "https://image.tmdb.org/t/p/w500/5h0EU2lqBb03dp5vtRuUHJwqzem.jpg"
-  },
-  "/diziler/futurama.html": {
-    "group": "FUTURAMA",
-    "year": "1999",
-    "imdb": "8.5",
-    "poster": "https://image.tmdb.org/t/p/w500/6ZS8SOno6kTmWz4eQ8lX8EBXOMv.jpg"
-  },
-  "/diziler/youth.html": {
-    "group": "YOUTH",
-    "year": "2026",
-    "imdb": "6.8",
-    "poster": "https://image.tmdb.org/t/p/w500/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg"
   }
 }
