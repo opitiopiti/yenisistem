@@ -2920,7 +2920,8 @@
     {"name": "THE GENTLEMEN", "year": "2026"},
     {"name": "LEGO ONE PIECE", "year": "2026"},
     {"name": "OUTSIDE", "year": "2026"},
-    {"name": "East of Eden", "year": "2026"}
+    {"name": "East of Eden", "year": "2026"},
+    {"name": "GÖKLERIN AJANI - AGENT FROM ABOVE", "year": "2026"}
   ],
   "HBO DİZİLERİ": [
     {"name": "THE PITT", "year": "2025"},
@@ -4062,7 +4063,8 @@
     {"name": "BLEACH: THOUSAND-YEAR BLOOD WAR", "year": "2004"},
     {"name": "100万円の女たち", "year": "2017"},
     {"name": "恋のツキ", "year": "2018"},
-    {"name": "ANGELIQUE - DAS UNBEZÄHMBARE HERZ", "year": "2004"}
+    {"name": "ANGELIQUE - DAS UNBEZÄHMBARE HERZ", "year": "2004"},
+    {"name": "KAYA-CHAN ISN'T SCARY", "year": "2026"}
   ],
   "JTBC DİZİLERİ": [
     {"name": "STILL SHINING", "year": "2026"},
@@ -5579,7 +5581,8 @@
     {"name": "ABSOLUTE VALUE OF ROMANCE", "year": "2026"},
     {"name": "ABSOLUTE VALUE OF ROMANCE - 로맨스의 절댓값", "year": "2026"},
     {"name": "뉴토피아", "year": "2025"},
-    {"name": "미끼", "year": "2023"}
+    {"name": "미끼", "year": "2023"},
+    {"name": "ROMANTIZMIN MUTLAK DEĞERI - ABSOLUTE VALUE OF ROMANCE", "year": "2026"}
   ],
   "PARAMOUNT+ DİZİLERİ": [
     {"name": "EVIL", "year": "2019"},
@@ -6452,7 +6455,8 @@
     {"name": "페르소나", "year": "2019"},
     {"name": "モブサイコ100", "year": "2018"},
     {"name": "신의", "year": "2012"},
-    {"name": "UNWANTED", "year": "2023"}
+    {"name": "UNWANTED", "year": "2023"},
+    {"name": "MUSHI-SHI", "year": "2005"}
   ],
   "AMC+ DİZİLERİ": [
     {"name": "DARK WINDS", "year": "2022"},
@@ -9098,7 +9102,8 @@
     {"name": "EXTREME RESCUES", "year": "2020"},
     {"name": "THE LION RANGER", "year": "2010"},
     {"name": "RIDING BRITAIN'S RAILWAYS", "year": "2010"},
-    {"name": "CHILEAN MINE RESCUE: RACE AGAINST TIME", "year": "2026"}
+    {"name": "CHILEAN MINE RESCUE: RACE AGAINST TIME", "year": "2026"},
+    {"name": "ASLAN KRALIN DOĞUŞU - LION", "year": "2026"}
   ],
   "RTL5 DİZİLERİ": [
     {"name": "4 EVER", "year": "2026"}
@@ -9538,7 +9543,8 @@
     {"name": "SENTENCED TO BE A HERO - 勇者刑に処す 懲罰勇者9004隊刑務記録", "year": "2026"},
     {"name": "MISSION: YOZAKURA FAMILY - 夜桜さんちの大作戦", "year": "2024"},
     {"name": "JIGOKURAKU - 地獄楽", "year": "2023"},
-    {"name": "喧嘩独学", "year": "2026"}
+    {"name": "喧嘩独学", "year": "2026"},
+    {"name": "JIGOKURAKU - HELL'S PARADISE", "year": "2023"}
   ],
   "BBC TWO DİZİLERİ": [
     {"name": "INSIDE NO. 9", "year": "2014"},
@@ -9744,7 +9750,8 @@
     {"name": "ANCIENT POWERS", "year": "2023"},
     {"name": "SHIGUANG DAILIREN - 时光代理人", "year": "2021"},
     {"name": "THE ALL-DEVOURING WHALE: HOMECOMING", "year": "2025"},
-    {"name": "珍馐记", "year": "2022"}
+    {"name": "珍馐记", "year": "2022"},
+    {"name": "SHIGUANG DAILIREN - LINK CLICK", "year": "2021"}
   ],
   "PBS PASSPORT DİZİLERİ": [
     {"name": "SANDITON", "year": "2019"},
@@ -10510,7 +10517,8 @@
   "UNIVISION DİZİLERİ": [
     {"name": "EL DRAGÓN", "year": "2019"},
     {"name": "EL CHAPO", "year": "2017"},
-    {"name": "EL DRAGÓN: EL REGRESO DE UN GUERRERO", "year": "2019"}
+    {"name": "EL DRAGÓN: EL REGRESO DE UN GUERRERO", "year": "2019"},
+    {"name": "EL DRAGON: RETURN OF A WARRIOR", "year": "2019"}
   ],
   "EROS NOW DİZİLERİ": [
     {"name": "THE INVESTIGATION", "year": "2019"},
@@ -12566,7 +12574,8 @@
     {"name": "TENGOKU DAIMAKYO", "year": "2023"}
   ],
   "KIDS STATION DİZİLERİ": [
-    {"name": "GAG MANGA BIYORI - 増田こうすけ劇場 ギャグマンガ日和", "year": "2005"}
+    {"name": "GAG MANGA BIYORI - 増田こうすけ劇場 ギャグマンガ日和", "year": "2005"},
+    {"name": "GAG MANGA BIYORI", "year": "2005"}
   ],
   "TVA DİZİLERİ": [
     {"name": "INDOMPTABLES", "year": "2026"}
