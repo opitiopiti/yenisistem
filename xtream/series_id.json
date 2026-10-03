@@ -4801,9 +4801,9 @@
   },
   "1801": {
     "name": "SPIDER-NOIR (2026)",
-    "last_season": 1,
+    "last_season": 2,
     "last_episode": 8,
-    "last_modified": 1783174642
+    "last_modified": 1791039044
   },
   "1802": {
     "name": "ONE PIECE (2023)",
@@ -39038,8 +39038,8 @@
   "7549": {
     "name": "ASCENDANCE OF A BOOKWORM SEASON 4 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 23,
-    "last_modified": 1790428316
+    "last_episode": 24,
+    "last_modified": 1791039044
   },
   "7550": {
     "name": "A HUNDRED SCENES OF AWAJIMA (2026) İNGİLİZCE",
@@ -39188,8 +39188,8 @@
   "7574": {
     "name": "DETECTIVE CONAN (1996) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1214,
-    "last_modified": 1790428316
+    "last_episode": 1215,
+    "last_modified": 1791039044
   },
   "7575": {
     "name": "DIGIMON BEATBREAK (2025) İNGİLİZCE",
@@ -72494,8 +72494,8 @@
   "15260": {
     "name": "FOUR HANDS, TWO SONATAS (2026)",
     "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1790540014
+    "last_episode": 11,
+    "last_modified": 1791039044
   },
   "15266": {
     "name": "MOBILE SUIT GUNDAM: HATHAWAY'S FLASH - THE SORCERY OF NYMPH CIRCE (2026) İNGİLİZCE",
@@ -74156,8 +74156,8 @@
   "15718": {
     "name": "A WILD LAST BOSS APPEARED! 2 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1790451140
+    "last_episode": 2,
+    "last_modified": 1791039044
   },
   "15719": {
     "name": "DIVE INTO YOU (2026)",
@@ -75475,9 +75475,9 @@
   },
   "16329": {
     "name": "THE APOTHECARY DIARIES (2023)",
-    "last_season": 1,
-    "last_episode": 24,
-    "last_modified": 1790989296
+    "last_season": 2,
+    "last_episode": 10,
+    "last_modified": 1791039044
   },
   "16330": {
     "name": "FRIEREN: BEYOND JOURNEY'S END (2023)",
@@ -76468,5 +76468,17 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1791020785
+  },
+  "16543": {
+    "name": "A TALE OF THE SECRET SAINT (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1791039044
+  },
+  "16544": {
+    "name": "ROMELIA WAR CHRONICLE (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1791039044
   }
 }
