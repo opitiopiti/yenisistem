@@ -38846,8 +38846,8 @@
   "7517": {
     "name": "ADVENTURE TIME: SIDE QUESTS (2026)",
     "last_season": 2,
-    "last_episode": 1,
-    "last_modified": 1790989296
+    "last_episode": 10,
+    "last_modified": 1791020785
   },
   "7518": {
     "name": "AMONG US (2026)",
@@ -76462,5 +76462,11 @@
     "last_season": 4,
     "last_episode": 7,
     "last_modified": 1790989296
+  },
+  "16519": {
+    "name": "SGT. FROG (2026) (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1791020785
   }
 }
