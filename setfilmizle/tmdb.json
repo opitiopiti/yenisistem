@@ -22814,5 +22814,85 @@
     "imdb_id": "tt2106476",
     "poster": "https://image.tmdb.org/t/p/original/lJH1vMl21YFHnB98FiIXO7SIwEb.jpg",
     "genre": "Dram"
+  },
+  "renfield|2023": {
+    "title": "Renfield",
+    "year": "2023",
+    "tmdb_id": 649609,
+    "imdb_id": "tt11358390",
+    "poster": "https://image.tmdb.org/t/p/original/ij79cG3mAPWwudUTnSvcrEpBd2L.jpg",
+    "genre": "Komedi"
+  },
+  "vahşi gece|2022": {
+    "title": "Vahşi Gece",
+    "year": "2022",
+    "tmdb_id": 899112,
+    "imdb_id": "tt12003946",
+    "poster": "https://image.tmdb.org/t/p/original/7ouQ7JOxzBnvXbRuG1Ae6cGu3cs.jpg",
+    "genre": "Aksiyon"
+  },
+  "vahşi gece 2|2026": {
+    "title": "Vahşi Gece 2",
+    "year": "2026",
+    "tmdb_id": null,
+    "imdb_id": "",
+    "poster": null,
+    "genre": ""
+  },
+  "uncharted|2022": {
+    "title": "Uncharted",
+    "year": "2022",
+    "tmdb_id": 335787,
+    "imdb_id": "tt1464335",
+    "poster": "https://image.tmdb.org/t/p/original/KQHC5rCzFkvqhu9bYiSJYFcz3j.jpg",
+    "genre": "Aksiyon"
+  },
+  "pearl|2022": {
+    "title": "Pearl",
+    "year": "2022",
+    "tmdb_id": 949423,
+    "imdb_id": "tt18925334",
+    "poster": "https://image.tmdb.org/t/p/original/ulBLIBqvdnf4H6JBt0OpMCU1ECn.jpg",
+    "genre": "Korku"
+  },
+  "aşk ve canavarlar|2020": {
+    "title": "Aşk ve Canavarlar",
+    "year": "2020",
+    "tmdb_id": 590223,
+    "imdb_id": "tt2222042",
+    "poster": "https://image.tmdb.org/t/p/original/9FRpsO4Y0QuXvf1RI5oS3c1WYD.jpg",
+    "genre": "Macera"
+  },
+  "ma|2019": {
+    "title": "Ma",
+    "year": "2019",
+    "tmdb_id": 502416,
+    "imdb_id": "tt7958736",
+    "poster": "https://image.tmdb.org/t/p/original/6n7ASmQ1wY2cxTubFFGlcvPpyk7.jpg",
+    "genre": "Korku"
+  },
+  "cloverfield paradoksu|2018": {
+    "title": "Cloverfield Paradoksu",
+    "year": "2018",
+    "tmdb_id": 384521,
+    "imdb_id": "tt2548396",
+    "poster": "https://image.tmdb.org/t/p/original/lCeVXHccP1Z8NufF5mL21w4WYEk.jpg",
+    "genre": "Korku"
+  },
+  "cloverfield|2008": {
+    "title": "Cloverfield",
+    "year": "2008",
+    "tmdb_id": 7191,
+    "imdb_id": "tt1060277",
+    "poster": "https://image.tmdb.org/t/p/original/maNm9gkWYLuEJMWiTXfww7bKtmB.jpg",
+    "genre": "Aksiyon"
+  },
+  "turbo|2013": {
+    "title": "Turbo",
+    "year": "2013",
+    "tmdb_id": 77950,
+    "imdb_id": "tt1860353",
+    "poster": "https://image.tmdb.org/t/p/original/lVI1I6rjajk1DCLoGByR4dU9wJG.jpg",
+    "genre": "Animasyon"
   }
 }
