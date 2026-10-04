@@ -75476,7 +75476,7 @@
   "16329": {
     "name": "THE APOTHECARY DIARIES (2023)",
     "last_season": 2,
-    "last_episode": 14,
+    "last_episode": 10,
     "last_modified": 1791054536
   },
   "16330": {
@@ -76534,5 +76534,11 @@
     "last_season": 1,
     "last_episode": 21,
     "last_modified": 1791054536
+  },
+  "16600": {
+    "name": "PHYSICAL 100: ITALY (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1791072912
   }
 }
