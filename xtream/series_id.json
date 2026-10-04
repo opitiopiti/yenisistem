@@ -38930,7 +38930,7 @@
   "7531": {
     "name": "REGULAR SHOW: THE LOST TAPES (2026)",
     "last_season": 1,
-    "last_episode": 10,
+    "last_episode": 8,
     "last_modified": 1790973340
   },
   "7532": {
@@ -75476,8 +75476,8 @@
   "16329": {
     "name": "THE APOTHECARY DIARIES (2023)",
     "last_season": 2,
-    "last_episode": 10,
-    "last_modified": 1791054536
+    "last_episode": 24,
+    "last_modified": 1791095199
   },
   "16330": {
     "name": "FRIEREN: BEYOND JOURNEY'S END (2023)",
@@ -76540,5 +76540,11 @@
     "last_season": 1,
     "last_episode": 8,
     "last_modified": 1791072912
+  },
+  "16624": {
+    "name": "EVEN THE STUDENT COUNCIL HAS ITS HOLES! (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1791095199
   }
 }
