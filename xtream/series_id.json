@@ -74318,8 +74318,8 @@
   "15954": {
     "name": "QUWET EL HOB (2026)",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1791159974
+    "last_episode": 8,
+    "last_modified": 1791239519
   },
   "15955": {
     "name": "RJ DECKER (2026)",
@@ -75476,7 +75476,7 @@
   "16329": {
     "name": "THE APOTHECARY DIARIES (2023)",
     "last_season": 2,
-    "last_episode": 10,
+    "last_episode": 9,
     "last_modified": 1791159974
   },
   "16330": {
@@ -76672,5 +76672,17 @@
     "last_season": 1,
     "last_episode": 8,
     "last_modified": 1791213192
+  },
+  "16765": {
+    "name": "MAGICAL GIRL RAISING PROJECT: RESTART (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1791239519
+  },
+  "16766": {
+    "name": "AMERICAN HOSTAGE (2026)",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1791239519
   }
 }
