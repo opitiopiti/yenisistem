@@ -38930,8 +38930,8 @@
   "7531": {
     "name": "REGULAR SHOW: THE LOST TAPES (2026)",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1791118585
+    "last_episode": 10,
+    "last_modified": 1791159974
   },
   "7532": {
     "name": "RE: ZERO - STARTING LIFE IN ANOTHER WORLD (2016)",
@@ -74318,8 +74318,8 @@
   "15954": {
     "name": "QUWET EL HOB (2026)",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1790989296
+    "last_episode": 7,
+    "last_modified": 1791159974
   },
   "15955": {
     "name": "RJ DECKER (2026)",
@@ -75476,8 +75476,8 @@
   "16329": {
     "name": "THE APOTHECARY DIARIES (2023)",
     "last_season": 2,
-    "last_episode": 10,
-    "last_modified": 1791095199
+    "last_episode": 24,
+    "last_modified": 1791159974
   },
   "16330": {
     "name": "FRIEREN: BEYOND JOURNEY'S END (2023)",
@@ -76630,5 +76630,11 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1791140911
+  },
+  "16710": {
+    "name": "GET JIRO (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1791159974
   }
 }
