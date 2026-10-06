@@ -22902,5 +22902,77 @@
     "imdb_id": "tt0120791",
     "poster": "https://image.tmdb.org/t/p/original/qbdY0TWr9PNd6azZQ7BujSjyd6.jpg",
     "genre": "Romantik"
+  },
+  "örümcek-adam: yepyeni bir gün|2026": {
+    "title": "Örümcek-Adam: Yepyeni Bir Gün",
+    "year": "2026",
+    "tmdb_id": 969681,
+    "imdb_id": "tt22084616",
+    "poster": "https://image.tmdb.org/t/p/original/kYySrq73W9qzldhIebOGQImd4.jpg",
+    "genre": "Bilim-Kurgu"
+  },
+  "küçük kadınlar|2019": {
+    "title": "Küçük Kadınlar",
+    "year": "2019",
+    "tmdb_id": 331482,
+    "imdb_id": "tt3281548",
+    "poster": "https://image.tmdb.org/t/p/original/wsbWKfQKUOAzFNpsQTE9BOQJTUl.jpg",
+    "genre": "Dram"
+  },
+  "elvis|2022": {
+    "title": "Elvis",
+    "year": "2022",
+    "tmdb_id": 614934,
+    "imdb_id": "tt3704428",
+    "poster": "https://image.tmdb.org/t/p/original/qBOKWqAFbveZ4ryjJJwbie6tXkQ.jpg",
+    "genre": "Müzik"
+  },
+  "ayin|2018": {
+    "title": "Ayin",
+    "year": "2018",
+    "tmdb_id": 493922,
+    "imdb_id": "tt7784604",
+    "poster": "https://image.tmdb.org/t/p/original/tMIKsS1nbaJSVRfVqt4JN9A3eEI.jpg",
+    "genre": "Korku"
+  },
+  "tam gaz|2017": {
+    "title": "Tam Gaz",
+    "year": "2017",
+    "tmdb_id": 339403,
+    "imdb_id": "tt3890160",
+    "poster": "https://image.tmdb.org/t/p/original/8JQrW26Ft0jbGlKrpcGTR1mfT3f.jpg",
+    "genre": "Aksiyon"
+  },
+  "oyun|2017": {
+    "title": "Oyun",
+    "year": "2017",
+    "tmdb_id": 265208,
+    "imdb_id": "tt2231253",
+    "poster": "https://image.tmdb.org/t/p/original/zN80Tlly8oMpKbVJv2TfRIj8dHG.jpg",
+    "genre": "Gerilim"
+  },
+  "300: bir i̇mparatorluğun yükselişi|2014": {
+    "title": "300: Bir İmparatorluğun Yükselişi",
+    "year": "2014",
+    "tmdb_id": 53182,
+    "imdb_id": "tt1253863",
+    "poster": "https://image.tmdb.org/t/p/original/pEpjVyJ6TY60QoYbtDFumYA1Kf9.jpg",
+    "genre": "Aksiyon"
+  },
+  "scott pilgrim dünyaya karşı|2010": {
+    "title": "Scott Pilgrim Dünyaya Karşı",
+    "year": "2010",
+    "tmdb_id": 22538,
+    "imdb_id": "tt0446029",
+    "poster": "https://image.tmdb.org/t/p/original/tflwSsiawkKP7IDzjI5J05AIFMQ.jpg",
+    "genre": "Aksiyon"
+  },
+  "bir erkek 10 günde nasıl kaybedilir|2003": {
+    "title": "Bir Erkek 10 Günde Nasıl Kaybedilir",
+    "year": "2003",
+    "tmdb_id": 9919,
+    "imdb_id": "tt0251127",
+    "poster": "https://image.tmdb.org/t/p/original/jFBPDc5sZAQ6GUEvN8ZATmsINaU.jpg",
+    "genre": "Komedi"
   }
 }
