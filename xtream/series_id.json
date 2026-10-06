@@ -66086,8 +66086,8 @@
   "12545": {
     "name": "RED RIVER (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 13,
-    "last_modified": 1790707655
+    "last_episode": 14,
+    "last_modified": 1791328867
   },
   "12546": {
     "name": "THE GHOST IN THE SHELL (2026) İNGİLİZCE",
@@ -74318,8 +74318,8 @@
   "15954": {
     "name": "QUWET EL HOB (2026)",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1791239519
+    "last_episode": 9,
+    "last_modified": 1791328867
   },
   "15955": {
     "name": "RJ DECKER (2026)",
@@ -75476,8 +75476,8 @@
   "16329": {
     "name": "THE APOTHECARY DIARIES (2023)",
     "last_season": 2,
-    "last_episode": 10,
-    "last_modified": 1791299363
+    "last_episode": 18,
+    "last_modified": 1791328867
   },
   "16330": {
     "name": "FRIEREN: BEYOND JOURNEY'S END (2023)",
@@ -76732,5 +76732,23 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1791304612
+  },
+  "16846": {
+    "name": "A RETURNER'S MAGIC SHOULD BE SPECIAL (2023) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 12,
+    "last_modified": 1791328867
+  },
+  "16847": {
+    "name": "MAGIC KNIGHT RAYEARTH (2026) (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1791328867
+  },
+  "16848": {
+    "name": "BAŞKALARININ HAYATI (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1791328867
   }
 }
