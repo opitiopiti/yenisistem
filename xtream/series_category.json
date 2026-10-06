@@ -2922,7 +2922,8 @@
     {"name": "OUTSIDE", "year": "2026"},
     {"name": "East of Eden", "year": "2026"},
     {"name": "GÖKLERIN AJANI - AGENT FROM ABOVE", "year": "2026"},
-    {"name": "PHYSICAL 100: ITALY", "year": "2026"}
+    {"name": "PHYSICAL 100: ITALY", "year": "2026"},
+    {"name": "YALANLAR KULÜBÜ - DE EETCLUB", "year": "2026"}
   ],
   "HBO DİZİLERİ": [
     {"name": "THE PITT", "year": "2025"},
@@ -7643,7 +7644,8 @@
     {"name": "얼어죽을 연애따위", "year": "2022"},
     {"name": "마당이 있는 집", "year": "2023"},
     {"name": "남이 될 수 있을까", "year": "2023"},
-    {"name": "굿잡", "year": "2022"}
+    {"name": "굿잡", "year": "2022"},
+    {"name": "BETWEEN STEPS", "year": "2026"}
   ],
   "INVESTIGATION DISCOVERY DİZİLERİ": [
     {"name": "SUSPICIOUS MINDS", "year": "2020"},
@@ -13343,7 +13345,9 @@
     {"name": "MAGICAL SISTERS LULUTTO LILLY: PART II", "year": "2026"},
     {"name": "PSYREN", "year": "2026"},
     {"name": "SO WHAT'S WRONG WITH GETTING REBORN AS A GOBLIN?", "year": "2026"},
-    {"name": "MAGICAL GIRL RAISING PROJECT: RESTART", "year": "2026"}
+    {"name": "MAGICAL GIRL RAISING PROJECT: RESTART", "year": "2026"},
+    {"name": "NIA LISTON: THE MERCILESS MAIDEN", "year": "2026"},
+    {"name": "THE COLD SATO-SAN IS ONLY SWEET TO ME", "year": "2026"}
   ],
   "EXTRA DİZİLER": [
     {"name": "A TASTE FOR MURDER", "year": "2025"},
