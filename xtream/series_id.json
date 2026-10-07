@@ -6092,7 +6092,7 @@
   "2019": {
     "name": "IT'S ALWAYS SUNNY IN PHILADELPHIA (2005)",
     "last_season": 18,
-    "last_episode": 8,
+    "last_episode": 7,
     "last_modified": 1791304612
   },
   "2020": {
@@ -72674,8 +72674,8 @@
   "15377": {
     "name": "ALIKARA (2026) TR",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1790836052
+    "last_episode": 10,
+    "last_modified": 1791406975
   },
   "15383": {
     "name": "NEAGLEY (2026)",
@@ -74228,8 +74228,8 @@
   "15835": {
     "name": "IRREPLACEABLE (2026)",
     "last_season": 1,
-    "last_episode": 13,
-    "last_modified": 1791299363
+    "last_episode": 14,
+    "last_modified": 1791406975
   },
   "15836": {
     "name": "LEGO ONE PIECE (2026)",
@@ -74252,14 +74252,14 @@
   "15891": {
     "name": "REINCARNATED AS A SWORD 2ND SEASON (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1790802906
+    "last_episode": 2,
+    "last_modified": 1791406975
   },
   "15892": {
     "name": "THE PRINCE OF TENNIS II U-17 WORLD CUP FINAL MEMBER SELECTION MATCH (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1790802906
+    "last_episode": 2,
+    "last_modified": 1791406975
   },
   "15893": {
     "name": "VAZGEÇILMEZ (2026)",
@@ -74288,8 +74288,8 @@
   "15923": {
     "name": "THE ARENA (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1790830244
+    "last_episode": 8,
+    "last_modified": 1791406975
   },
   "15950": {
     "name": "KALP SANCISI (2026)",
@@ -74318,8 +74318,8 @@
   "15954": {
     "name": "QUWET EL HOB (2026)",
     "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1791328867
+    "last_episode": 10,
+    "last_modified": 1791406975
   },
   "15955": {
     "name": "RJ DECKER (2026)",
@@ -74426,8 +74426,8 @@
   "16102": {
     "name": "DEADLY TAG (2026)",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1790950338
+    "last_episode": 6,
+    "last_modified": 1791406975
   },
   "16103": {
     "name": "I WOULD RATHER DIE (2026)",
@@ -75476,8 +75476,8 @@
   "16329": {
     "name": "THE APOTHECARY DIARIES (2023)",
     "last_season": 2,
-    "last_episode": 10,
-    "last_modified": 1791328867
+    "last_episode": 23,
+    "last_modified": 1791406975
   },
   "16330": {
     "name": "FRIEREN: BEYOND JOURNEY'S END (2023)",
@@ -76706,8 +76706,8 @@
   "16793": {
     "name": "BETWEEN STEPS (2026)",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1791299363
+    "last_episode": 2,
+    "last_modified": 1791406975
   },
   "16796": {
     "name": "YALANLAR KULÜBÜ - DE EETCLUB (2026)",
@@ -76834,5 +76834,35 @@
     "last_season": 1,
     "last_episode": 14,
     "last_modified": 1791381152
+  },
+  "16937": {
+    "name": "A RETURNER'S MAGIC SHOULD BE SPECIAL SEASON 2 (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1791406975
+  },
+  "16938": {
+    "name": "DANDIVINE (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1791406975
+  },
+  "16939": {
+    "name": "THE WORLD’S STRONGEST WITCH (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1791406975
+  },
+  "16940": {
+    "name": "GERÇEK ERKEKLER (2025)",
+    "last_season": 2,
+    "last_episode": 8,
+    "last_modified": 1791406975
+  },
+  "16941": {
+    "name": "TUZLU KAHVE (2026) TR",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1791406975
   }
 }
