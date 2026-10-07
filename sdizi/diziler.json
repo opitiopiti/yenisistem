@@ -17308,5 +17308,17 @@
     "year": "2026",
     "imdb": "6.3",
     "poster": "https://image.tmdb.org/t/p/w500/xECrN4jpKMhTOxUbnCdiKo7QWdL.jpg"
+  },
+  "/diziler/carrie.html": {
+    "group": "CARRIE",
+    "year": "2026",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg"
+  },
+  "/diziler/not-a-stranger.html": {
+    "group": "SENI TANIYORUM",
+    "year": "2026",
+    "imdb": "6.7",
+    "poster": "https://image.tmdb.org/t/p/w500/pxXO2VE0vMnzXhUw9GQRAUFFPN6.jpg"
   }
 }

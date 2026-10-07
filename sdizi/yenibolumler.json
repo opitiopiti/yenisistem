@@ -1,4 +1,10 @@
 {
+  "/diziler/carrie.html": {
+    "group": "CARRIE",
+    "year": "2026",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg"
+  },
   "/diziler/ted-lasso.html": {
     "group": "TED LASSO",
     "year": "2020",
@@ -82,11 +88,5 @@
     "year": "2026",
     "imdb": "7.5",
     "poster": "https://image.tmdb.org/t/p/w500/VMyZWR0GBHGY9WIwcaj232ALAl.jpg"
-  },
-  "/diziler/american-horror-story.html": {
-    "group": "AMERICAN HORROR STORY",
-    "year": "2011",
-    "imdb": "7.9",
-    "poster": "https://image.tmdb.org/t/p/w500/x2c3AvZeTyNehRZXabTojAxfDuR.jpg"
   }
 }
