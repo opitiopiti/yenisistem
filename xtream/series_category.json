@@ -2923,7 +2923,8 @@
     {"name": "East of Eden", "year": "2026"},
     {"name": "GÖKLERIN AJANI - AGENT FROM ABOVE", "year": "2026"},
     {"name": "PHYSICAL 100: ITALY", "year": "2026"},
-    {"name": "YALANLAR KULÜBÜ - DE EETCLUB", "year": "2026"}
+    {"name": "YALANLAR KULÜBÜ - DE EETCLUB", "year": "2026"},
+    {"name": "INSIDE THE CIRCLE", "year": "2026"}
   ],
   "HBO DİZİLERİ": [
     {"name": "THE PITT", "year": "2025"},
@@ -3796,7 +3797,8 @@
     {"name": "REACHER", "year": "2026"},
     {"name": "Kill Jackie", "year": "2026"},
     {"name": "I WOULD RATHER DIE", "year": "2026"},
-    {"name": "Carrie", "year": "2026"}
+    {"name": "Carrie", "year": "2026"},
+    {"name": "PREFIERO LA MUERTE", "year": "2026"}
   ],
   "APPLE TV+ DİZİLERİ": [
     {"name": "THE LAST THING HE TOLD ME", "year": "2023"},
@@ -5537,7 +5539,8 @@
     {"name": "ENDLESS NIGHT", "year": "2022"},
     {"name": "HERE WE GO", "year": "2022"},
     {"name": "THE GALLOWS POLE", "year": "2023"},
-    {"name": "DREAMING WHILST BLACK", "year": "2021"}
+    {"name": "DREAMING WHILST BLACK", "year": "2021"},
+    {"name": "Small Prophets", "year": "2025"}
   ],
   "STARZ DİZİLERİ": [
     {"name": "POWER BOOK III: RAISING KANAN", "year": "2021"},
@@ -8751,7 +8754,8 @@
     {"name": "BARIŞÇI", "year": "2022"},
     {"name": "MR BIGSTUFF", "year": "2024"},
     {"name": "ADALET", "year": "2026"},
-    {"name": "HALEF: KÖKLERIN ÇAĞRISI", "year": "2025"}
+    {"name": "HALEF: KÖKLERIN ÇAĞRISI", "year": "2025"},
+    {"name": "ANNE YARISI", "year": "2026"}
   ],
   "FAMILY CHANNEL DİZİLERİ": [
     {"name": "I WOKE UP A VAMPIRE", "year": "2023"},
@@ -9114,7 +9118,8 @@
     {"name": "THE LION RANGER", "year": "2010"},
     {"name": "RIDING BRITAIN'S RAILWAYS", "year": "2010"},
     {"name": "CHILEAN MINE RESCUE: RACE AGAINST TIME", "year": "2026"},
-    {"name": "ASLAN KRALIN DOĞUŞU - LION", "year": "2026"}
+    {"name": "ASLAN KRALIN DOĞUŞU - LION", "year": "2026"},
+    {"name": "AFRICA EARTH'S WILD HOME", "year": "2026"}
   ],
   "RTL5 DİZİLERİ": [
     {"name": "4 EVER", "year": "2026"}
@@ -11323,7 +11328,8 @@
     {"name": "ÇARPINTI", "year": "2025"},
     {"name": "MENAJERIMI ARA", "year": "2020"},
     {"name": "BABIL", "year": "2019"},
-    {"name": "BAŞKALARININ HAYATI", "year": "2026"}
+    {"name": "BAŞKALARININ HAYATI", "year": "2026"},
+    {"name": "TUZLU KAHVE", "year": "2026"}
   ],
   "KANAL D DİZİLERİ": [
     {"name": "ARKADAŞIM HOŞGELDIN", "year": "2013"},
@@ -13058,7 +13064,9 @@
     {"name": "W – DU GAEUI SEGYE", "year": "2016"},
     {"name": "THE JUDGE RETURNS", "year": "2026"},
     {"name": "DOKTOR JOHN", "year": "2019"},
-    {"name": "LOVE AND DEATH", "year": "2023"}
+    {"name": "LOVE AND DEATH", "year": "2023"},
+    {"name": "GIRLS RULES", "year": "2026"},
+    {"name": "A BONA FIDE KILLER", "year": "2026"}
   ],
   "PLATFROM DİZİLERİ": [
     {"name": "ARCHIE", "year": "2023"},
@@ -13354,7 +13362,9 @@
     {"name": "SUPER PSYCHIC POLICEMAN CHOJO", "year": "2026"},
     {"name": "THE LAID-OFF CHEAT-GRANTING MAGE ENJOYS A SECOND LEASE ON LIFE", "year": "2026"},
     {"name": "A RETURNER'S MAGIC SHOULD BE SPECIAL", "year": "2023"},
-    {"name": "MAGIC KNIGHT RAYEARTH", "year": "2026"}
+    {"name": "MAGIC KNIGHT RAYEARTH", "year": "2026"},
+    {"name": "SASAKI AND PEEPS SEASON 2", "year": "2026"},
+    {"name": "THE DETECTIVE IS ALREADY DEAD. SEASON 2", "year": "2026"}
   ],
   "EXTRA DİZİLER": [
     {"name": "A TASTE FOR MURDER", "year": "2025"},
