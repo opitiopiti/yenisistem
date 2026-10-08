@@ -6021,7 +6021,8 @@
     {"name": "CAROL'S SECOND ACT", "year": "2019"},
     {"name": "COMANCHE MOON", "year": "2008"},
     {"name": "BROKE", "year": "2020"},
-    {"name": "ALLIE & ANDI", "year": "2026"}
+    {"name": "ALLIE & ANDI", "year": "2026"},
+    {"name": "HOSTAGES", "year": "2022"}
   ],
   "STAN DİZİLERİ": [
     {"name": "CAUGHT", "year": "2023"},
@@ -11357,7 +11358,8 @@
     {"name": "O KIZ", "year": "2022"},
     {"name": "YARGI", "year": "2021"},
     {"name": "GALIP DERVIŞ", "year": "2013"},
-    {"name": "SURLAR", "year": "2026"}
+    {"name": "SURLAR", "year": "2026"},
+    {"name": "HAYSIYET", "year": "2026"}
   ],
   "GAIN DİZİLERİ": [
     {"name": "FER", "year": "2025"},
@@ -13364,7 +13366,10 @@
     {"name": "A RETURNER'S MAGIC SHOULD BE SPECIAL", "year": "2023"},
     {"name": "MAGIC KNIGHT RAYEARTH", "year": "2026"},
     {"name": "SASAKI AND PEEPS SEASON 2", "year": "2026"},
-    {"name": "THE DETECTIVE IS ALREADY DEAD. SEASON 2", "year": "2026"}
+    {"name": "THE DETECTIVE IS ALREADY DEAD. SEASON 2", "year": "2026"},
+    {"name": "A RETURNER'S MAGIC SHOULD BE SPECIAL SEASON 2", "year": "2026"},
+    {"name": "DANDIVINE", "year": "2026"},
+    {"name": "THE WORLD’S STRONGEST WITCH", "year": "2026"}
   ],
   "EXTRA DİZİLER": [
     {"name": "A TASTE FOR MURDER", "year": "2025"},
