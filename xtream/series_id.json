@@ -6092,7 +6092,7 @@
   "2019": {
     "name": "IT'S ALWAYS SUNNY IN PHILADELPHIA (2005)",
     "last_season": 18,
-    "last_episode": 7,
+    "last_episode": 2,
     "last_modified": 1791304612
   },
   "2020": {
@@ -74270,8 +74270,8 @@
   "15894": {
     "name": "KARDEŞTEN ÖTE (2026)",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1790802906
+    "last_episode": 4,
+    "last_modified": 1791422591
   },
   "15895": {
     "name": "L&#039;ARÈNE (2026)",
@@ -75476,7 +75476,7 @@
   "16329": {
     "name": "THE APOTHECARY DIARIES (2023)",
     "last_season": 2,
-    "last_episode": 23,
+    "last_episode": 17,
     "last_modified": 1791406975
   },
   "16330": {
@@ -76864,5 +76864,29 @@
     "last_season": 1,
     "last_episode": 6,
     "last_modified": 1791406975
+  },
+  "16965": {
+    "name": "ONE OUTS (2008) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 11,
+    "last_modified": 1791422591
+  },
+  "16966": {
+    "name": "ÇEMBERIN İÇINDEKILER (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1791422591
+  },
+  "16967": {
+    "name": "HAYSIYET (2026) TR",
+    "last_season": 1,
+    "last_episode": 5,
+    "last_modified": 1791422591
+  },
+  "16968": {
+    "name": "KÜÇÜK MUCIZELER (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1791422591
   }
 }
