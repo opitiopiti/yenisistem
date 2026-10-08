@@ -6092,7 +6092,7 @@
   "2019": {
     "name": "IT'S ALWAYS SUNNY IN PHILADELPHIA (2005)",
     "last_season": 18,
-    "last_episode": 7,
+    "last_episode": 4,
     "last_modified": 1791457206
   },
   "2020": {
@@ -38192,8 +38192,8 @@
   "7408": {
     "name": "SCRUBS (2026) (2026)",
     "last_season": 2,
-    "last_episode": 2,
-    "last_modified": 1790891317
+    "last_episode": 3,
+    "last_modified": 1791486886
   },
   "7409": {
     "name": "SUMMER ’36 (2026)",
@@ -39842,8 +39842,8 @@
   "7683": {
     "name": "THE EXILED HEAVY KNIGHT KNOWS HOW TO GAME THE SYSTEM (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 14,
-    "last_modified": 1790891317
+    "last_episode": 15,
+    "last_modified": 1791486886
   },
   "7684": {
     "name": "THE FOOD DIARY OF MISS MAID (2026) İNGİLİZCE",
@@ -49580,8 +49580,8 @@
   "9308": {
     "name": "YERALTI (2026)",
     "last_season": 1,
-    "last_episode": 16,
-    "last_modified": 1790989296
+    "last_episode": 17,
+    "last_modified": 1791486886
   },
   "9309": {
     "name": "HEPSI ONUN SUÇU (2025)",
@@ -74228,8 +74228,8 @@
   "15835": {
     "name": "IRREPLACEABLE (2026)",
     "last_season": 1,
-    "last_episode": 14,
-    "last_modified": 1791406975
+    "last_episode": 15,
+    "last_modified": 1791486886
   },
   "15836": {
     "name": "LEGO ONE PIECE (2026)",
@@ -74336,8 +74336,8 @@
   "16009": {
     "name": "FX FIGHTER KURUMI-CHAN (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1790870116
+    "last_episode": 2,
+    "last_modified": 1791486886
   },
   "16010": {
     "name": "GHOST MEETS GAL! (2026) İNGİLİZCE",
@@ -74354,8 +74354,8 @@
   "16038": {
     "name": "THE RAMPARTS OF ICE SEASON 2 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1790891317
+    "last_episode": 2,
+    "last_modified": 1791486886
   },
   "16039": {
     "name": "UMAYURU (2022) İNGİLİZCE",
@@ -76888,5 +76888,29 @@
     "last_season": 1,
     "last_episode": 2,
     "last_modified": 1791422591
+  },
+  "16992": {
+    "name": "TETSURYO! MEET WITH TETSUDOU MUSUME (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1791486886
+  },
+  "16993": {
+    "name": "THE ICEBLADE SORCERER SHALL RULE THE WORLD II (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1791486886
+  },
+  "16994": {
+    "name": "BELOW (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1791486886
+  },
+  "16995": {
+    "name": "NCIS: NEW YORK (2026)",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1791486886
   }
 }
