@@ -39764,8 +39764,8 @@
   "7670": {
     "name": "SORRY ABOUT MY LITTLE BROTHERS (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 13,
-    "last_modified": 1790973340
+    "last_episode": 14,
+    "last_modified": 1791571680
   },
   "7671": {
     "name": "THAT TIME I GOT REINCARNATED AS A SLIME MOVIE 2: TEARS OF THE AZURE SEA (2026) İNGİLİZCE",
@@ -54680,8 +54680,8 @@
   "10166": {
     "name": "DARK MATTER (2024) (2024)",
     "last_season": 2,
-    "last_episode": 6,
-    "last_modified": 1790950338
+    "last_episode": 7,
+    "last_modified": 1791571680
   },
   "10167": {
     "name": "DARK MATTER (2015)",
@@ -74126,8 +74126,8 @@
   "15712": {
     "name": "PAOLO (2026)",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1790950338
+    "last_episode": 3,
+    "last_modified": 1791571680
   },
   "15713": {
     "name": "THE FINAL PROBLEM (2026)",
@@ -74348,8 +74348,8 @@
   "16011": {
     "name": "TOUGEN ANKI: NIKKO KEGON FALLS ARC (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1790891317
+    "last_episode": 2,
+    "last_modified": 1791571680
   },
   "16038": {
     "name": "THE RAMPARTS OF ICE SEASON 2 (2026) İNGİLİZCE",
@@ -74504,8 +74504,8 @@
   "16141": {
     "name": "THE APOTHECARY DIARIES 3RD SEASON (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1790973340
+    "last_episode": 2,
+    "last_modified": 1791571680
   },
   "16142": {
     "name": "TERÖR (2018) TR",
@@ -76928,7 +76928,7 @@
   "17021": {
     "name": "TAKE CHARGE OF MY HEART (2026)",
     "last_season": 1,
-    "last_episode": 12,
+    "last_episode": 10,
     "last_modified": 1791510441
   },
   "17022": {
@@ -76942,5 +76942,29 @@
     "last_season": 1,
     "last_episode": 10,
     "last_modified": 1791510441
+  },
+  "17048": {
+    "name": "A CERTAIN DARK SIDE'S ITEM (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1791571680
+  },
+  "17049": {
+    "name": "FIREFLY WEDDING (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1791571680
+  },
+  "17050": {
+    "name": "WELSH & SHEDAR (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1791571680
+  },
+  "17052": {
+    "name": "TAKE CHARGE OF MY HEART (0000)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1791571680
   }
 }
