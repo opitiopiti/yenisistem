@@ -7868,8 +7868,8 @@
   "2320": {
     "name": "DARK MATTER (2024)",
     "last_season": 2,
-    "last_episode": 6,
-    "last_modified": 1790918606
+    "last_episode": 7,
+    "last_modified": 1791510441
   },
   "2321": {
     "name": "ANNE WITH AN E (2017)",
@@ -9944,8 +9944,8 @@
   "2670": {
     "name": "OUTLANDER: BLOOD OF MY BLOOD (2025)",
     "last_season": 2,
-    "last_episode": 3,
-    "last_modified": 1790989296
+    "last_episode": 4,
+    "last_modified": 1791510441
   },
   "2671": {
     "name": "ALL RISE (2019)",
@@ -24403,9 +24403,9 @@
   },
   "5096": {
     "name": "UNICORN ACADEMY: SECRETS REVEALED (2026)",
-    "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1783174642
+    "last_season": 2,
+    "last_episode": 4,
+    "last_modified": 1791510441
   },
   "5097": {
     "name": "CRUTCH (2025)",
@@ -41491,9 +41491,9 @@
   },
   "7959": {
     "name": "HAUNTED HOTEL (2025)",
-    "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1783174642
+    "last_season": 2,
+    "last_episode": 8,
+    "last_modified": 1791510441
   },
   "7960": {
     "name": "HEAVENLY EVER AFTER (2025)",
@@ -74318,8 +74318,8 @@
   "15954": {
     "name": "QUWET EL HOB (2026)",
     "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1791406975
+    "last_episode": 11,
+    "last_modified": 1791510441
   },
   "15955": {
     "name": "RJ DECKER (2026)",
@@ -74396,14 +74396,14 @@
   "16071": {
     "name": "THE TORMENT (2026)",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1790918606
+    "last_episode": 2,
+    "last_modified": 1791510441
   },
   "16072": {
     "name": "WAR (2026)",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1790918606
+    "last_episode": 2,
+    "last_modified": 1791510441
   },
   "16099": {
     "name": "THE APOTHECARY DIARIES 2ND SEASON (2025) İNGİLİZCE",
@@ -76912,5 +76912,35 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1791486886
+  },
+  "17019": {
+    "name": "DOCTOR X: MAFIA IN WHITE (2026)",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1791510441
+  },
+  "17020": {
+    "name": "KARMA EXXEN (2025)",
+    "last_season": 2,
+    "last_episode": 1,
+    "last_modified": 1791510441
+  },
+  "17021": {
+    "name": "TAKE CHARGE OF MY HEART (2026)",
+    "last_season": 1,
+    "last_episode": 12,
+    "last_modified": 1791510441
+  },
+  "17022": {
+    "name": "VAAD: SIYONIZMIN ANATOMISI (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1791510441
+  },
+  "17024": {
+    "name": "THE ORDINARY JACKPOT (2026)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1791510441
   }
 }
