@@ -1,4 +1,16 @@
 {
+  "/diziler/tokyo-revengers.html": {
+    "group": "TOKYO REVENGERS",
+    "year": "2021",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg"
+  },
+  "/diziler/the-apothecary-diaries.html": {
+    "group": "THE APOTHECARY DIARIES",
+    "year": "2023",
+    "imdb": "8.6",
+    "poster": "https://image.tmdb.org/t/p/w500/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg"
+  },
   "/diziler/american-horror-story.html": {
     "group": "AMERICAN HORROR STORY",
     "year": "2011",
@@ -76,17 +88,5 @@
     "year": "2026",
     "imdb": "8.6",
     "poster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg"
-  },
-  "/diziler/blue-box.html": {
-    "group": "BLUE BOX",
-    "year": "2024",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/mVAWCCNBxPX3EUf9XhcFff4wW5V.jpg"
-  },
-  "/diziler/black-clover.html": {
-    "group": "BLACK CLOVER",
-    "year": "2017",
-    "imdb": "8.3",
-    "poster": "https://image.tmdb.org/t/p/w500/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg"
   }
 }
