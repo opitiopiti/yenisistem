@@ -22974,5 +22974,13 @@
     "imdb_id": "tt0251127",
     "poster": "https://image.tmdb.org/t/p/original/jFBPDc5sZAQ6GUEvN8ZATmsINaU.jpg",
     "genre": "Komedi"
+  },
+  "bright|2017": {
+    "title": "Bright",
+    "year": "2017",
+    "tmdb_id": 400106,
+    "imdb_id": "tt5519340",
+    "poster": "https://image.tmdb.org/t/p/original/whkT53Sv2vKAUiknQ13pqcWaPXB.jpg",
+    "genre": "Fantastik"
   }
 }
