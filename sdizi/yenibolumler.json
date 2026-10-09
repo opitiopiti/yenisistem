@@ -1,4 +1,34 @@
 {
+  "/diziler/american-horror-story.html": {
+    "group": "AMERICAN HORROR STORY",
+    "year": "2011",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/x2c3AvZeTyNehRZXabTojAxfDuR.jpg"
+  },
+  "/diziler/jojos-bizarre-adventure.html": {
+    "group": "JOJO'S BIZARRE ADVENTURE",
+    "year": "2012",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg"
+  },
+  "/diziler/dark-matter.html": {
+    "group": "DARK MATTER",
+    "year": "2024",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg"
+  },
+  "/diziler/below.html": {
+    "group": "BELOW",
+    "year": "2026",
+    "imdb": "6.6",
+    "poster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg"
+  },
+  "/diziler/small-prophets.html": {
+    "group": "SMALL PROPHETS",
+    "year": "2026",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/39pC4gr8GTD7dDcuoGLbbyZSyTk.jpg"
+  },
   "/diziler/the-final-problem.html": {
     "group": "THE FINAL PROBLEM",
     "year": "2026",
@@ -58,35 +88,5 @@
     "year": "2017",
     "imdb": "8.3",
     "poster": "https://image.tmdb.org/t/p/w500/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg"
-  },
-  "/diziler/mobland.html": {
-    "group": "MOBLAND",
-    "year": "2025",
-    "imdb": "8.5",
-    "poster": "https://image.tmdb.org/t/p/w500/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg"
-  },
-  "/diziler/tokyo-revengers.html": {
-    "group": "TOKYO REVENGERS",
-    "year": "2021",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg"
-  },
-  "/diziler/the-apothecary-diaries.html": {
-    "group": "THE APOTHECARY DIARIES",
-    "year": "2023",
-    "imdb": "8.6",
-    "poster": "https://image.tmdb.org/t/p/w500/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg"
-  },
-  "/diziler/kill-jackie.html": {
-    "group": "KILL JACKIE",
-    "year": "2026",
-    "imdb": "6.3",
-    "poster": "https://image.tmdb.org/t/p/w500/xECrN4jpKMhTOxUbnCdiKo7QWdL.jpg"
-  },
-  "/diziler/adventure-time-side-quests.html": {
-    "group": "ADVENTURE TIME: SIDE QUESTS",
-    "year": "2026",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/4XpWm5EqZQtCIgleaNbpUAMRODx.jpg"
   }
 }
