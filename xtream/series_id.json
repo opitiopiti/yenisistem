@@ -72668,8 +72668,8 @@
   "15372": {
     "name": "SENDEN BAŞKA BIR AŞK (2026)",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1789408999
+    "last_episode": 6,
+    "last_modified": 1791595000
   },
   "15377": {
     "name": "ALIKARA (2026) TR",
@@ -74120,8 +74120,8 @@
   "15711": {
     "name": "4 BLOCKS ZERO (2026)",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1790918606
+    "last_episode": 3,
+    "last_modified": 1791595000
   },
   "15712": {
     "name": "PAOLO (2026)",
@@ -74318,8 +74318,8 @@
   "15954": {
     "name": "QUWET EL HOB (2026)",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1791510441
+    "last_episode": 12,
+    "last_modified": 1791595000
   },
   "15955": {
     "name": "RJ DECKER (2026)",
@@ -76966,5 +76966,11 @@
     "last_season": 1,
     "last_episode": 10,
     "last_modified": 1791571680
+  },
+  "17076": {
+    "name": "FUSHIGI NO KUNI DE ALICE TO: DIVE IN WONDERLAND (2025) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1791595000
   }
 }
