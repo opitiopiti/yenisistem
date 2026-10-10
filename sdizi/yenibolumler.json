@@ -1,4 +1,10 @@
 {
+  "/diziler/avatar-seven-havens.html": {
+    "group": "AVATAR: SEVEN HAVENS",
+    "year": "2026",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg"
+  },
   "/diziler/mobland.html": {
     "group": "MOBLAND",
     "year": "2025",
@@ -82,11 +88,5 @@
     "year": "2020",
     "imdb": "8.8",
     "poster": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
-  },
-  "/diziler/brothers.html": {
-    "group": "BROTHERS",
-    "year": "2026",
-    "imdb": "6.9",
-    "poster": "https://image.tmdb.org/t/p/w500/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg"
   }
 }
