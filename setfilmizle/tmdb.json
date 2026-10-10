@@ -22982,5 +22982,21 @@
     "imdb_id": "tt5519340",
     "poster": "https://image.tmdb.org/t/p/original/whkT53Sv2vKAUiknQ13pqcWaPXB.jpg",
     "genre": "Fantastik"
+  },
+  "hayvanlar|2026": {
+    "title": "Hayvanlar",
+    "year": "2026",
+    "tmdb_id": 269149,
+    "imdb_id": "tt2948356",
+    "poster": "https://image.tmdb.org/t/p/original/cL6gPwwhcYIGdrpj6vzIaKlb5zQ.jpg",
+    "genre": "Animasyon"
+  },
+  "matchbox the movie|2026": {
+    "title": "Matchbox the Movie",
+    "year": "2026",
+    "tmdb_id": 1148365,
+    "imdb_id": "tt28498219",
+    "poster": "https://image.tmdb.org/t/p/original/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
+    "genre": "Aksiyon"
   }
 }
