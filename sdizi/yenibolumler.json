@@ -1,4 +1,10 @@
 {
+  "/diziler/haunted-hotel.html": {
+    "group": "HAUNTED HOTEL",
+    "year": "2025",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/4arTlVw8oceZDOhGv9GFrgGztUq.jpg"
+  },
   "/diziler/tokyo-revengers.html": {
     "group": "TOKYO REVENGERS",
     "year": "2021",
@@ -82,11 +88,5 @@
     "year": "2026",
     "imdb": "6.8",
     "poster": "https://image.tmdb.org/t/p/w500/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg"
-  },
-  "/diziler/lanterns.html": {
-    "group": "LANTERNS",
-    "year": "2026",
-    "imdb": "8.6",
-    "poster": "https://image.tmdb.org/t/p/w500/rb94rKVIzLyfWufIN7WqLvadBDH.jpg"
   }
 }
