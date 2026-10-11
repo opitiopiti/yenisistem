@@ -1,4 +1,16 @@
 {
+  "/diziler/the-doll-factory.html": {
+    "group": "THE DOLL FACTORY",
+    "year": "2023",
+    "imdb": "5.8",
+    "poster": "https://image.tmdb.org/t/p/w500/vQAEVcAWRvcn2qyA1G9TkUNM95P.jpg"
+  },
+  "/diziler/blue-box.html": {
+    "group": "BLUE BOX",
+    "year": "2024",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/mVAWCCNBxPX3EUf9XhcFff4wW5V.jpg"
+  },
   "/diziler/avatar-seven-havens.html": {
     "group": "AVATAR: SEVEN HAVENS",
     "year": "2026",
@@ -76,17 +88,5 @@
     "year": "2026",
     "imdb": "6.2",
     "poster": "https://image.tmdb.org/t/p/w500/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg"
-  },
-  "/diziler/carrie.html": {
-    "group": "CARRIE",
-    "year": "2026",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/eXjk4W4robXs7l1YXwaXMv4f2qb.jpg"
-  },
-  "/diziler/ted-lasso.html": {
-    "group": "TED LASSO",
-    "year": "2020",
-    "imdb": "8.8",
-    "poster": "https://image.tmdb.org/t/p/w500/5fhZdwP1DVJ0FyVH6vrFdHwpXIn.jpg"
   }
 }
