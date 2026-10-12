@@ -5780,8 +5780,8 @@
   "1967": {
     "name": "TRACKER (2024)",
     "last_season": 4,
-    "last_episode": 1,
-    "last_modified": 1791180678
+    "last_episode": 2,
+    "last_modified": 1791822786
   },
   "1968": {
     "name": "PEACEMAKER (2022)",
@@ -37976,8 +37976,8 @@
   "7370": {
     "name": "MARSHALS (2026)",
     "last_season": 2,
-    "last_episode": 1,
-    "last_modified": 1791213192
+    "last_episode": 2,
+    "last_modified": 1791822786
   },
   "7371": {
     "name": "MAXIMUM PLEASURE GUARANTEED (2026)",
@@ -47719,9 +47719,9 @@
   },
   "8997": {
     "name": "RANMA1/2 (2024)",
-    "last_season": 2,
-    "last_episode": 12,
-    "last_modified": 1783174642
+    "last_season": 3,
+    "last_episode": 2,
+    "last_modified": 1791822786
   },
   "8998": {
     "name": "REBUS (2024)",
@@ -73814,8 +73814,8 @@
   "15635": {
     "name": "YOUTH (2026)",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1791180678
+    "last_episode": 5,
+    "last_modified": 1791822786
   },
   "15636": {
     "name": "MONSTER: THE LIZZIE BORDEN STORY (2022)",
@@ -74684,8 +74684,8 @@
   "16196": {
     "name": "MISSION: YOZAKURA FAMILY (2024)",
     "last_season": 2,
-    "last_episode": 1,
-    "last_modified": 1790989296
+    "last_episode": 13,
+    "last_modified": 1791822786
   },
   "16197": {
     "name": "JIGOKURAKU - HELL'S PARADISE (2023)",
@@ -75758,8 +75758,8 @@
   "16376": {
     "name": "GÖNÜL DAĞI (2020)",
     "last_season": 7,
-    "last_episode": 5,
-    "last_modified": 1791213192
+    "last_episode": 6,
+    "last_modified": 1791822786
   },
   "16377": {
     "name": "O KIZ (2022) TR",
@@ -76640,26 +76640,26 @@
   "16734": {
     "name": "HI, I'M A WITCH, AND MY CRUSH WANTS ME TO MAKE A LOVE POTION (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1791213192
+    "last_episode": 2,
+    "last_modified": 1791822786
   },
   "16735": {
     "name": "MAGICAL SISTERS LULUTTO LILLY: PART II (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1791213192
+    "last_episode": 2,
+    "last_modified": 1791822786
   },
   "16736": {
     "name": "PSYREN (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1791213192
+    "last_episode": 2,
+    "last_modified": 1791822786
   },
   "16737": {
     "name": "SO WHAT'S WRONG WITH GETTING REBORN AS A GOBLIN? (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1791213192
+    "last_episode": 3,
+    "last_modified": 1791822786
   },
   "16738": {
     "name": "İNANILMAZ ÖYKÜLER (2020)",
@@ -77032,5 +77032,17 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1791748542
+  },
+  "17202": {
+    "name": "S&AMP;X (2026)",
+    "last_season": 1,
+    "last_episode": 7,
+    "last_modified": 1791822786
+  },
+  "17203": {
+    "name": "S.W.A.T. EXILES (2026)",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1791822786
   }
 }
