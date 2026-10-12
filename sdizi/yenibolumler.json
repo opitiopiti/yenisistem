@@ -1,4 +1,16 @@
 {
+  "/diziler/youth.html": {
+    "group": "YOUTH",
+    "year": "2026",
+    "imdb": "6.8",
+    "poster": "https://image.tmdb.org/t/p/w500/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg"
+  },
+  "/diziler/american-dad.html": {
+    "group": "AMERICAN DAD!",
+    "year": "2005",
+    "imdb": "7.4",
+    "poster": "https://image.tmdb.org/t/p/w500/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg"
+  },
   "/diziler/the-doll-factory.html": {
     "group": "THE DOLL FACTORY",
     "year": "2023",
@@ -76,17 +88,5 @@
     "year": "2026",
     "imdb": "6.6",
     "poster": "https://image.tmdb.org/t/p/w500/vgLqqhMUbljp585qPp1EFCyJtcz.jpg"
-  },
-  "/diziler/small-prophets.html": {
-    "group": "SMALL PROPHETS",
-    "year": "2026",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/39pC4gr8GTD7dDcuoGLbbyZSyTk.jpg"
-  },
-  "/diziler/the-final-problem.html": {
-    "group": "THE FINAL PROBLEM",
-    "year": "2026",
-    "imdb": "6.2",
-    "poster": "https://image.tmdb.org/t/p/w500/v7LQJ8GUvvvKhGRNp8F4hiRzwiI.jpg"
   }
 }
