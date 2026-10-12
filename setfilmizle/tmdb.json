@@ -23142,5 +23142,45 @@
     "imdb_id": "tt0094721",
     "poster": "https://image.tmdb.org/t/p/original/lndPyC0CcqrVnuYse8baeXGg0NE.jpg",
     "genre": "Fantastik"
+  },
+  "dert etme sevgilim|2022": {
+    "title": "Dert Etme Sevgilim",
+    "year": "2022",
+    "tmdb_id": 619730,
+    "imdb_id": "tt10731256",
+    "poster": "https://image.tmdb.org/t/p/original/2zL5fHqCcHxVKZhHGkKMsGf40yJ.jpg",
+    "genre": "Bilim-Kurgu"
+  },
+  "babil|2022": {
+    "title": "Babil",
+    "year": "2022",
+    "tmdb_id": 615777,
+    "imdb_id": "tt10640346",
+    "poster": "https://image.tmdb.org/t/p/original/aVuMUqlDn8dV404OSNQkoXKbiTe.jpg",
+    "genre": "Dram"
+  },
+  "himaye|2021": {
+    "title": "Himaye",
+    "year": "2021",
+    "tmdb_id": null,
+    "imdb_id": "",
+    "poster": null,
+    "genre": ""
+  },
+  "canavar avcısı|2020": {
+    "title": "Canavar Avcısı",
+    "year": "2020",
+    "tmdb_id": 458576,
+    "imdb_id": "tt6475714",
+    "poster": "https://image.tmdb.org/t/p/original/qypa99avfcYt114jMS8e8PUZLU2.jpg",
+    "genre": "Aksiyon"
+  },
+  "doktor uyku|2019": {
+    "title": "Doktor Uyku",
+    "year": "2019",
+    "tmdb_id": 501170,
+    "imdb_id": "tt5606664",
+    "poster": "https://image.tmdb.org/t/p/original/uux9KFV5PnTN3zE3xXKGgF24HVJ.jpg",
+    "genre": "Korku"
   }
 }
