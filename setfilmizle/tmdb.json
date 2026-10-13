@@ -23182,5 +23182,21 @@
     "imdb_id": "tt5606664",
     "poster": "https://image.tmdb.org/t/p/original/uux9KFV5PnTN3zE3xXKGgF24HVJ.jpg",
     "genre": "Korku"
+  },
+  "the flash|2023": {
+    "title": "The Flash",
+    "year": "2023",
+    "tmdb_id": 298618,
+    "imdb_id": "tt0439572",
+    "poster": "https://image.tmdb.org/t/p/original/xSPhbjuwSUsUbUBMK1eCztRlYIZ.jpg",
+    "genre": "Aksiyon"
+  },
+  "i̇yi ki aldatılmışım!|2023": {
+    "title": "İyi ki Aldatılmışım!",
+    "year": "2023",
+    "tmdb_id": 1173558,
+    "imdb_id": "tt26787296",
+    "poster": "https://image.tmdb.org/t/p/original/5etzejX2Bq9LXCvdGioFeRsxBrT.jpg",
+    "genre": "Dram"
   }
 }
