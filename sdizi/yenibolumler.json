@@ -1,4 +1,10 @@
 {
+  "/diziler/small-prophets.html": {
+    "group": "SMALL PROPHETS",
+    "year": "2026",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/39pC4gr8GTD7dDcuoGLbbyZSyTk.jpg"
+  },
   "/diziler/brothers.html": {
     "group": "BROTHERS",
     "year": "2026",
@@ -76,11 +82,5 @@
     "year": "2025",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/4arTlVw8oceZDOhGv9GFrgGztUq.jpg"
-  },
-  "/diziler/tokyo-revengers.html": {
-    "group": "TOKYO REVENGERS",
-    "year": "2021",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg"
   }
 }
