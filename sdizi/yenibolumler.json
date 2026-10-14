@@ -1,4 +1,22 @@
 {
+  "/diziler/brothers.html": {
+    "group": "BROTHERS",
+    "year": "2026",
+    "imdb": "6.9",
+    "poster": "https://image.tmdb.org/t/p/w500/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg"
+  },
+  "/diziler/slow-horses.html": {
+    "group": "SLOW HORSES",
+    "year": "2022",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/dnpatlJrEPiDSn5fzgzvxtiSnMo.jpg"
+  },
+  "/diziler/visionquest.html": {
+    "group": "VISIONQUEST",
+    "year": "2026",
+    "imdb": "8.8",
+    "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg"
+  },
   "/diziler/its-always-sunny-in-philadelphia.html": {
     "group": "IT'S ALWAYS SUNNY IN PHILADELPHIA",
     "year": "2005",
@@ -64,29 +82,5 @@
     "year": "2021",
     "imdb": "8.0",
     "poster": "https://image.tmdb.org/t/p/w500/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg"
-  },
-  "/diziler/the-apothecary-diaries.html": {
-    "group": "THE APOTHECARY DIARIES",
-    "year": "2023",
-    "imdb": "8.6",
-    "poster": "https://image.tmdb.org/t/p/w500/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg"
-  },
-  "/diziler/american-horror-story.html": {
-    "group": "AMERICAN HORROR STORY",
-    "year": "2011",
-    "imdb": "7.9",
-    "poster": "https://image.tmdb.org/t/p/w500/x2c3AvZeTyNehRZXabTojAxfDuR.jpg"
-  },
-  "/diziler/jojos-bizarre-adventure.html": {
-    "group": "JOJO'S BIZARRE ADVENTURE",
-    "year": "2012",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg"
-  },
-  "/diziler/dark-matter.html": {
-    "group": "DARK MATTER",
-    "year": "2024",
-    "imdb": "7.7",
-    "poster": "https://image.tmdb.org/t/p/w500/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg"
   }
 }
