@@ -1,4 +1,16 @@
 {
+  "/diziler/south-park.html": {
+    "group": "SOUTH PARK",
+    "year": "1997",
+    "imdb": "8.7",
+    "poster": "https://image.tmdb.org/t/p/w500/1CGwZCFX2qerXaXQJJUB3qUvxq7.jpg"
+  },
+  "/diziler/mission-impossible.html": {
+    "group": "MISSION: IMPOSSIBLE",
+    "year": "1966",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/1PnUBKbDR1F2w5qicblLg1QGTif.jpg"
+  },
   "/diziler/small-prophets.html": {
     "group": "SMALL PROPHETS",
     "year": "2026",
@@ -70,17 +82,5 @@
     "year": "2017",
     "imdb": "8.3",
     "poster": "https://image.tmdb.org/t/p/w500/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg"
-  },
-  "/diziler/take-charge-of-my-heart.html": {
-    "group": "TAKE CHARGE OF MY HEART",
-    "year": "2026",
-    "imdb": "8.3",
-    "poster": "https://image.tmdb.org/t/p/w500/ecRrKGXfflZmDZBD4irdkybClT.jpg"
-  },
-  "/diziler/haunted-hotel.html": {
-    "group": "HAUNTED HOTEL",
-    "year": "2025",
-    "imdb": "0.0",
-    "poster": "https://image.tmdb.org/t/p/w500/4arTlVw8oceZDOhGv9GFrgGztUq.jpg"
   }
 }
