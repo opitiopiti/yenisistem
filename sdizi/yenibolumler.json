@@ -1,4 +1,34 @@
 {
+  "/diziler/the-diplomat.html": {
+    "group": "THE DIPLOMAT",
+    "year": "2023",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/cOKXV0FalCYixNmZYCfHXgyQ0VX.jpg"
+  },
+  "/diziler/tokyo-revengers.html": {
+    "group": "TOKYO REVENGERS",
+    "year": "2021",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg"
+  },
+  "/diziler/american-horror-story.html": {
+    "group": "AMERICAN HORROR STORY",
+    "year": "2011",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/x2c3AvZeTyNehRZXabTojAxfDuR.jpg"
+  },
+  "/diziler/jojos-bizarre-adventure.html": {
+    "group": "JOJO'S BIZARRE ADVENTURE",
+    "year": "2012",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg"
+  },
+  "/diziler/dark-matter.html": {
+    "group": "DARK MATTER",
+    "year": "2024",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg"
+  },
   "/diziler/helluva-boss.html": {
     "group": "HELLUVA BOSS",
     "year": "2020",
@@ -52,35 +82,5 @@
     "year": "2005",
     "imdb": "8.8",
     "poster": "https://image.tmdb.org/t/p/w500/o0tMMK33JqmtpcWw0H41cEr9xQB.jpg"
-  },
-  "/diziler/youth.html": {
-    "group": "YOUTH",
-    "year": "2026",
-    "imdb": "6.8",
-    "poster": "https://image.tmdb.org/t/p/w500/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg"
-  },
-  "/diziler/american-dad.html": {
-    "group": "AMERICAN DAD!",
-    "year": "2005",
-    "imdb": "7.4",
-    "poster": "https://image.tmdb.org/t/p/w500/eb9sH2am9IUSQ8GhXTNAVoujk8W.jpg"
-  },
-  "/diziler/the-doll-factory.html": {
-    "group": "THE DOLL FACTORY",
-    "year": "2023",
-    "imdb": "5.8",
-    "poster": "https://image.tmdb.org/t/p/w500/vQAEVcAWRvcn2qyA1G9TkUNM95P.jpg"
-  },
-  "/diziler/blue-box.html": {
-    "group": "BLUE BOX",
-    "year": "2024",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/mVAWCCNBxPX3EUf9XhcFff4wW5V.jpg"
-  },
-  "/diziler/avatar-seven-havens.html": {
-    "group": "AVATAR: SEVEN HAVENS",
-    "year": "2026",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg"
   }
 }
