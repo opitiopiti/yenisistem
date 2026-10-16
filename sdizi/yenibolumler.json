@@ -1,4 +1,16 @@
 {
+  "/diziler/the-apothecary-diaries.html": {
+    "group": "THE APOTHECARY DIARIES",
+    "year": "2023",
+    "imdb": "8.6",
+    "poster": "https://image.tmdb.org/t/p/w500/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg"
+  },
+  "/diziler/avatar-seven-havens.html": {
+    "group": "AVATAR: SEVEN HAVENS",
+    "year": "2026",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg"
+  },
   "/diziler/the-diplomat.html": {
     "group": "THE DIPLOMAT",
     "year": "2023",
@@ -76,11 +88,5 @@
     "year": "2026",
     "imdb": "8.8",
     "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg"
-  },
-  "/diziler/its-always-sunny-in-philadelphia.html": {
-    "group": "IT'S ALWAYS SUNNY IN PHILADELPHIA",
-    "year": "2005",
-    "imdb": "8.8",
-    "poster": "https://image.tmdb.org/t/p/w500/o0tMMK33JqmtpcWw0H41cEr9xQB.jpg"
   }
 }
