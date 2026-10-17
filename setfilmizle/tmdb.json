@@ -23366,5 +23366,117 @@
     "imdb_id": "tt42006709",
     "poster": "https://image.tmdb.org/t/p/original/A1dxZt7rY11CAWIa3iELNq6CdqU.jpg",
     "genre": "Korku"
+  },
+  "hayatımın maçı|2005": {
+    "title": "Hayatımın Maçı",
+    "year": "2005",
+    "tmdb_id": 15487,
+    "imdb_id": "tt0388980",
+    "poster": "https://image.tmdb.org/t/p/original/1MePubustb2GRk9qDHuqQaimgUD.jpg",
+    "genre": "Dram"
+  },
+  "buz prensesi|2005": {
+    "title": "Buz Prensesi",
+    "year": "2005",
+    "tmdb_id": 13374,
+    "imdb_id": "tt0396652",
+    "poster": "https://image.tmdb.org/t/p/original/zTS8ySexlBzhdtqbDGGcgxz0LMA.jpg",
+    "genre": "Aile"
+  },
+  "saklambaç|2005": {
+    "title": "Saklambaç",
+    "year": "2005",
+    "tmdb_id": 11096,
+    "imdb_id": "tt0382077",
+    "poster": "https://image.tmdb.org/t/p/original/orY4PX3TNFdCbdVwhKY32UKMvoA.jpg",
+    "genre": "Korku"
+  },
+  "anka’nın uyanışı|2004": {
+    "title": "Anka’nın Uyanışı",
+    "year": "2004",
+    "tmdb_id": 11866,
+    "imdb_id": "tt0377062",
+    "poster": "https://image.tmdb.org/t/p/original/pcj6unMsKCw0ogWFlUXmbc9gKap.jpg",
+    "genre": "Aksiyon"
+  },
+  "muhteşem kahramanlar|2003": {
+    "title": "Muhteşem Kahramanlar",
+    "year": "2003",
+    "tmdb_id": 8698,
+    "imdb_id": "tt0311429",
+    "poster": "https://image.tmdb.org/t/p/original/kdAuVFP63XXxnb983ry2pLCKd9S.jpg",
+    "genre": "Fantastik"
+  },
+  "i̇syan|2002": {
+    "title": "İsyan",
+    "year": "2002",
+    "tmdb_id": 8963,
+    "imdb_id": "tt0112740",
+    "poster": "https://image.tmdb.org/t/p/original/21nqRJ6ofEgVvEl68J4O9V26Xzy.jpg",
+    "genre": "Gerilim"
+  },
+  "beni unutma|2002": {
+    "title": "Beni Unutma",
+    "year": "2002",
+    "tmdb_id": 11529,
+    "imdb_id": "tt0256415",
+    "poster": "https://image.tmdb.org/t/p/original/kRCiYSx692dlTbLSjMjCzKdafpi.jpg",
+    "genre": "Komedi"
+  },
+  "kırmızı değirmen|2001": {
+    "title": "Kırmızı Değirmen",
+    "year": "2001",
+    "tmdb_id": 824,
+    "imdb_id": "tt0203009",
+    "poster": "https://image.tmdb.org/t/p/original/buCJwLboLxpg88zapgLQWGYHhgR.jpg",
+    "genre": "Dram"
+  },
+  "büyülü çift|2001": {
+    "title": "Büyülü Çift",
+    "year": "2001",
+    "tmdb_id": 11232,
+    "imdb_id": "tt0035423",
+    "poster": "https://image.tmdb.org/t/p/original/9m3KBlOIOHBMFSuOUBQ23OMjU5e.jpg",
+    "genre": "Romantik"
+  },
+  "evrim|2001": {
+    "title": "Evrim",
+    "year": "2001",
+    "tmdb_id": 9397,
+    "imdb_id": "tt0251075",
+    "poster": "https://image.tmdb.org/t/p/original/dwIrP544LxJtXToLpzkEa08pIMm.jpg",
+    "genre": "Komedi"
+  },
+  "düşman hattı|2001": {
+    "title": "Düşman Hattı",
+    "year": "2001",
+    "tmdb_id": 8007,
+    "imdb_id": "tt0159273",
+    "poster": "https://image.tmdb.org/t/p/original/3geZIPzxClk1wCvz77dmHg6n118.jpg",
+    "genre": "Aksiyon"
+  },
+  "i̇çimdeki çocuk|2000": {
+    "title": "İçimdeki Çocuk",
+    "year": "2000",
+    "tmdb_id": 4244,
+    "imdb_id": "tt0219854",
+    "poster": "https://image.tmdb.org/t/p/original/uOtcIYZLn2jhLhfSIRrm5tnuaGh.jpg",
+    "genre": "Fantastik"
+  },
+  "60 saniye|2000": {
+    "title": "60 Saniye",
+    "year": "2000",
+    "tmdb_id": 9679,
+    "imdb_id": "tt0187078",
+    "poster": "https://image.tmdb.org/t/p/original/eRH1tk22YgHTxPYLRmdZ9kFFYt4.jpg",
+    "genre": "Aksiyon"
+  },
+  "erkekler ağlamaz|1999": {
+    "title": "Erkekler Ağlamaz",
+    "year": "1999",
+    "tmdb_id": 226,
+    "imdb_id": "tt0171804",
+    "poster": "https://image.tmdb.org/t/p/original/eB505ycEhFVfMwGglIzXNUyKAIs.jpg",
+    "genre": "Suç"
   }
 }
