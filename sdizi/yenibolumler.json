@@ -1,4 +1,10 @@
 {
+  "/diziler/mobland.html": {
+    "group": "MOBLAND",
+    "year": "2025",
+    "imdb": "8.5",
+    "poster": "https://image.tmdb.org/t/p/w500/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg"
+  },
   "/diziler/the-apothecary-diaries.html": {
     "group": "THE APOTHECARY DIARIES",
     "year": "2023",
@@ -82,11 +88,5 @@
     "year": "2022",
     "imdb": "8.2",
     "poster": "https://image.tmdb.org/t/p/w500/dnpatlJrEPiDSn5fzgzvxtiSnMo.jpg"
-  },
-  "/diziler/visionquest.html": {
-    "group": "VISIONQUEST",
-    "year": "2026",
-    "imdb": "8.8",
-    "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg"
   }
 }
