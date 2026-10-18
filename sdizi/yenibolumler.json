@@ -1,4 +1,10 @@
 {
+  "/diziler/knight-rider-2008.html": {
+    "group": "KNIGHT RIDER",
+    "year": "2008",
+    "imdb": "5.6",
+    "poster": "https://image.tmdb.org/t/p/w500/e93H0P6GYoDUhHR5uCdmfLDAvKt.jpg"
+  },
   "/diziler/blue-box.html": {
     "group": "BLUE BOX",
     "year": "2024",
@@ -82,11 +88,5 @@
     "year": "1966",
     "imdb": "7.9",
     "poster": "https://image.tmdb.org/t/p/w500/1PnUBKbDR1F2w5qicblLg1QGTif.jpg"
-  },
-  "/diziler/small-prophets.html": {
-    "group": "SMALL PROPHETS",
-    "year": "2026",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/39pC4gr8GTD7dDcuoGLbbyZSyTk.jpg"
   }
 }
