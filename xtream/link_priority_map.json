@@ -11,6 +11,10 @@
     "priority": 3, 
     "enabled": true },
 
+  "atomtv": { 
+    "priority": 4, 
+    "enabled": true },
+
   "giniko": { 
     "priority": 4, 
     "enabled": true },
