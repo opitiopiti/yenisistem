@@ -1,4 +1,16 @@
 {
+  "/diziler/crystal-lake.html": {
+    "group": "CRYSTAL LAKE",
+    "year": "2026",
+    "imdb": "8.409",
+    "poster": "https://image.tmdb.org/t/p/w500/3ENhExiD2fcjk5FX0AcAXcvLu9N.jpg"
+  },
+  "/diziler/bleach-thousand-year-blood-war.html": {
+    "group": "BLEACH: THOUSAND-YEAR BLOOD WAR",
+    "year": "2022",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/cR4P0EJrLX2bdWij1VYLf8VB78M.jpg"
+  },
   "/diziler/youth.html": {
     "group": "YOUTH",
     "year": "2026",
@@ -76,17 +88,5 @@
     "year": "2020",
     "imdb": "7.5",
     "poster": "https://image.tmdb.org/t/p/w500/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg"
-  },
-  "/diziler/zoey-101.html": {
-    "group": "ZOEY 101",
-    "year": "2005",
-    "imdb": "6.2",
-    "poster": "https://image.tmdb.org/t/p/w500/3eOM57RTccTSvqcYFhWwm9DAba8.jpg"
-  },
-  "/diziler/south-park.html": {
-    "group": "SOUTH PARK",
-    "year": "1997",
-    "imdb": "8.7",
-    "poster": "https://image.tmdb.org/t/p/w500/1CGwZCFX2qerXaXQJJUB3qUvxq7.jpg"
   }
 }
