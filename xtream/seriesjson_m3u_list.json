@@ -64,6 +64,10 @@
     "enabled": false
   },
   {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/dizisol_diziler.m3u",
+    "enabled": true
+  },
+  {
     "url": "https://raw.githubusercontent.com/opitiopiti/daily_m3u/main/sinewix_diziler.m3u",
     "enabled": true
   }
