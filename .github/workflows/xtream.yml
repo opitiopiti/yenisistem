@@ -84,8 +84,8 @@ jobs:
       - name: Run vavooapp.py Script
         run: python private_py/vavoosistemleri/vavooapp.py || true
       
-      - name: Run dizibolyerli.py Script
-        run: python private_py/dizibol/yenibolumler.py || true
+      - name: Run dizisol_diziler.py Script
+        run: python private_py/dizisol/diziler.py || true
 
   #    - name: Run setfilmizlefilmleri.py Script
   #      run: python private_py/setfilmizle/filmler.py || true
@@ -102,7 +102,7 @@ jobs:
 
           cp v/vavoolive.m3u privaate_m3u8file/vavoolive.m3u || echo "v/vavoolive.m3u bulunamadı"
           cp v/vavooapp.m3u privaate_m3u8file/vavooapp.m3u || echo "v/vavooapp.m3u bulunamadi"
-          cp dizibolyerli.m3u privaate_m3u8file/dizibolyerli.m3u || echo "dizibolyerl bulunamadi"
+          cp dizisol_diziler.m3u privaate_m3u8file/dizisol_diziler.m3u || echo "dizisol_diziler.m3u bulunamadi"
           cp setfilmizlefilmler.m3u privaate_m3u8file/setfilmizlefilmler.m3u || echo "setfilmizlefilmler bulunamadi"
           cp dizibolfilmler.m3u privaate_m3u8file/dizibolfilmler.m3u || echo "dizibolfilmler.m3u bulunamadi"
           cp hdfilmsite.m3u privaate_m3u8file/hdfilmsite.m3u || echo "hdfilmsite.m3u bulunamadi"
