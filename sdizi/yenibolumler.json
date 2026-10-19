@@ -1,4 +1,10 @@
 {
+  "/diziler/youth.html": {
+    "group": "YOUTH",
+    "year": "2026",
+    "imdb": "6.8",
+    "poster": "https://image.tmdb.org/t/p/w500/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg"
+  },
   "/diziler/knight-rider-2008.html": {
     "group": "KNIGHT RIDER",
     "year": "2008",
@@ -82,11 +88,5 @@
     "year": "1997",
     "imdb": "8.7",
     "poster": "https://image.tmdb.org/t/p/w500/1CGwZCFX2qerXaXQJJUB3qUvxq7.jpg"
-  },
-  "/diziler/mission-impossible.html": {
-    "group": "MISSION: IMPOSSIBLE",
-    "year": "1966",
-    "imdb": "7.9",
-    "poster": "https://image.tmdb.org/t/p/w500/1PnUBKbDR1F2w5qicblLg1QGTif.jpg"
   }
 }
