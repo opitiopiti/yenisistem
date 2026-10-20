@@ -76688,14 +76688,14 @@
   "16790": {
     "name": "NIA LISTON: THE MERCILESS MAIDEN (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1791999107
+    "last_episode": 3,
+    "last_modified": 1792507222
   },
   "16791": {
     "name": "THE COLD SATO-SAN IS ONLY SWEET TO ME (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1791999107
+    "last_episode": 3,
+    "last_modified": 1792507222
   },
   "16792": {
     "name": "KARA KUŞ (2022) TR",
@@ -77704,5 +77704,11 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1792489677
+  },
+  "17669": {
+    "name": "PHONY (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1792507222
   }
 }
