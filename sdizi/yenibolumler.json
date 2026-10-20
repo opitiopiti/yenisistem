@@ -1,4 +1,10 @@
 {
+  "/diziler/cyberpunk-edgerunners.html": {
+    "group": "CYBERPUNK: EDGERUNNERS",
+    "year": "2022",
+    "imdb": "8.7",
+    "poster": "https://image.tmdb.org/t/p/w500/lqcDVZ8pyk08AVftMBildDR3QUK.jpg"
+  },
   "/diziler/hollywood-arts.html": {
     "group": "HOLLYWOOD ARTS",
     "year": "2026",
@@ -82,11 +88,5 @@
     "year": "2012",
     "imdb": "8.4",
     "poster": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg"
-  },
-  "/diziler/dark-matter.html": {
-    "group": "DARK MATTER",
-    "year": "2024",
-    "imdb": "7.7",
-    "poster": "https://image.tmdb.org/t/p/w500/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg"
   }
 }
