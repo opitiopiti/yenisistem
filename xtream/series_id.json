@@ -9151,9 +9151,9 @@
   },
   "2536": {
     "name": "THE TERMINAL LIST (2022)",
-    "last_season": 1,
+    "last_season": 2,
     "last_episode": 8,
-    "last_modified": 1783174642
+    "last_modified": 1792620161
   },
   "2537": {
     "name": "WIZARDS BEYOND WAVERLY PLACE (2024)",
@@ -15206,8 +15206,8 @@
   "3555": {
     "name": "REASONABLE DOUBT (2022)",
     "last_season": 4,
-    "last_episode": 4,
-    "last_modified": 1791999107
+    "last_episode": 5,
+    "last_modified": 1792620161
   },
   "3556": {
     "name": "SINGLE PARENTS (2018)",
@@ -63439,9 +63439,9 @@
   },
   "11647": {
     "name": "WHERE’S WANDA? (2024)",
-    "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1783174642
+    "last_season": 2,
+    "last_episode": 1,
+    "last_modified": 1792620161
   },
   "11648": {
     "name": "WHITE CHRISTMAS (2011)",
@@ -74024,8 +74024,8 @@
   "15695": {
     "name": "POPULAR SERIZAWA ACTS WEIRD AROUND ME (2026)",
     "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1791999107
+    "last_episode": 11,
+    "last_modified": 1792620161
   },
   "15696": {
     "name": "MINERVA AKADEMISI (2026)",
@@ -74270,8 +74270,8 @@
   "15894": {
     "name": "KARDEŞTEN ÖTE (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1792126993
+    "last_episode": 6,
+    "last_modified": 1792620161
   },
   "15895": {
     "name": "L&#039;ARÈNE (2026)",
@@ -74282,8 +74282,8 @@
   "15922": {
     "name": "BEST SEX EVER (0000)",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1790830244
+    "last_episode": 6,
+    "last_modified": 1792620161
   },
   "15923": {
     "name": "THE ARENA (2026)",
@@ -74318,8 +74318,8 @@
   "15954": {
     "name": "QUWET EL HOB (2026)",
     "last_season": 1,
-    "last_episode": 21,
-    "last_modified": 1792541647
+    "last_episode": 22,
+    "last_modified": 1792620161
   },
   "15955": {
     "name": "RJ DECKER (2026)",
@@ -74426,8 +74426,8 @@
   "16102": {
     "name": "DEADLY TAG (2026)",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1791999107
+    "last_episode": 10,
+    "last_modified": 1792620161
   },
   "16103": {
     "name": "I WOULD RATHER DIE (2026)",
@@ -76706,8 +76706,8 @@
   "16793": {
     "name": "BETWEEN STEPS (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1792443213
+    "last_episode": 6,
+    "last_modified": 1792620161
   },
   "16796": {
     "name": "YALANLAR KULÜBÜ - DE EETCLUB (2026)",
@@ -77090,8 +77090,8 @@
   "17235": {
     "name": "THE LAMENT OF AUTUMN (2026)",
     "last_season": 1,
-    "last_episode": 16,
-    "last_modified": 1792525958
+    "last_episode": 18,
+    "last_modified": 1792620161
   },
   "17237": {
     "name": "ADALET - HABEAS CORPUS (2026)",
@@ -77180,8 +77180,8 @@
   "17416": {
     "name": "WHERE THE MASK ENDS (2026)",
     "last_season": 1,
-    "last_episode": 12,
-    "last_modified": 1792525958
+    "last_episode": 14,
+    "last_modified": 1792620161
   },
   "17440": {
     "name": "ORGANIZE İŞLER: KARUN HAZINESI (2026) TR",
@@ -77722,5 +77722,11 @@
     "last_season": 2,
     "last_episode": 8,
     "last_modified": 1792603904
+  },
+  "17745": {
+    "name": "THE NEW STANFORD PRISON EXPERIMENT (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1792620161
   }
 }
