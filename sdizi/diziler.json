@@ -17380,5 +17380,17 @@
     "year": "2026",
     "imdb": "6.2",
     "poster": "https://image.tmdb.org/t/p/w500/xsL1ig6Tyi0j9AZPt23yZprslGS.jpg"
+  },
+  "/diziler/guilt.html": {
+    "group": "GUILT",
+    "year": "2016",
+    "imdb": "5.9",
+    "poster": "https://image.tmdb.org/t/p/w500/gRm3WojWDTXhmviAfWx8b6y8YVv.jpg"
+  },
+  "/diziler/the-terminal-list-izle.html": {
+    "group": "THE TERMINAL LIST",
+    "year": "2022",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg"
   }
 }

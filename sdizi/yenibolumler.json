@@ -1,4 +1,16 @@
 {
+  "/diziler/guilt.html": {
+    "group": "GUILT",
+    "year": "2016",
+    "imdb": "5.9",
+    "poster": "https://image.tmdb.org/t/p/w500/gRm3WojWDTXhmviAfWx8b6y8YVv.jpg"
+  },
+  "/diziler/helluva-boss.html": {
+    "group": "HELLUVA BOSS",
+    "year": "2020",
+    "imdb": "7.5",
+    "poster": "https://image.tmdb.org/t/p/w500/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg"
+  },
   "/diziler/small-prophets.html": {
     "group": "SMALL PROPHETS",
     "year": "2026",
@@ -70,17 +82,5 @@
     "year": "2017",
     "imdb": "8.3",
     "poster": "https://image.tmdb.org/t/p/w500/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg"
-  },
-  "/diziler/mobland.html": {
-    "group": "MOBLAND",
-    "year": "2025",
-    "imdb": "8.5",
-    "poster": "https://image.tmdb.org/t/p/w500/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg"
-  },
-  "/diziler/the-apothecary-diaries.html": {
-    "group": "THE APOTHECARY DIARIES",
-    "year": "2023",
-    "imdb": "8.6",
-    "poster": "https://image.tmdb.org/t/p/w500/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg"
   }
 }
