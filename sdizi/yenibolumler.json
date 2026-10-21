@@ -1,4 +1,28 @@
 {
+  "/diziler/small-prophets.html": {
+    "group": "SMALL PROPHETS",
+    "year": "2026",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/39pC4gr8GTD7dDcuoGLbbyZSyTk.jpg"
+  },
+  "/diziler/brothers.html": {
+    "group": "BROTHERS",
+    "year": "2026",
+    "imdb": "6.9",
+    "poster": "https://image.tmdb.org/t/p/w500/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg"
+  },
+  "/diziler/slow-horses.html": {
+    "group": "SLOW HORSES",
+    "year": "2022",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/dnpatlJrEPiDSn5fzgzvxtiSnMo.jpg"
+  },
+  "/diziler/visionquest.html": {
+    "group": "VISIONQUEST",
+    "year": "2026",
+    "imdb": "8.8",
+    "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg"
+  },
   "/diziler/cyberpunk-edgerunners.html": {
     "group": "CYBERPUNK: EDGERUNNERS",
     "year": "2022",
@@ -58,35 +82,5 @@
     "year": "2023",
     "imdb": "8.6",
     "poster": "https://image.tmdb.org/t/p/w500/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg"
-  },
-  "/diziler/avatar-seven-havens.html": {
-    "group": "AVATAR: SEVEN HAVENS",
-    "year": "2026",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg"
-  },
-  "/diziler/the-diplomat.html": {
-    "group": "THE DIPLOMAT",
-    "year": "2023",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/cOKXV0FalCYixNmZYCfHXgyQ0VX.jpg"
-  },
-  "/diziler/tokyo-revengers.html": {
-    "group": "TOKYO REVENGERS",
-    "year": "2021",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg"
-  },
-  "/diziler/american-horror-story.html": {
-    "group": "AMERICAN HORROR STORY",
-    "year": "2011",
-    "imdb": "7.9",
-    "poster": "https://image.tmdb.org/t/p/w500/x2c3AvZeTyNehRZXabTojAxfDuR.jpg"
-  },
-  "/diziler/jojos-bizarre-adventure.html": {
-    "group": "JOJO'S BIZARRE ADVENTURE",
-    "year": "2012",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg"
   }
 }
