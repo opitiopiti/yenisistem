@@ -1,4 +1,10 @@
 {
+  "/diziler/nobody-wants-this.html": {
+    "group": "NOBODY WANTS THIS",
+    "year": "2024",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/cUpIceeJJoRqUHSCzh6jRSmlpkA.jpg"
+  },
   "/diziler/the-terminal-list-izle.html": {
     "group": "THE TERMINAL LIST",
     "year": "2022",
@@ -76,11 +82,5 @@
     "year": "2008",
     "imdb": "5.6",
     "poster": "https://image.tmdb.org/t/p/w500/e93H0P6GYoDUhHR5uCdmfLDAvKt.jpg"
-  },
-  "/diziler/blue-box.html": {
-    "group": "BLUE BOX",
-    "year": "2024",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/mVAWCCNBxPX3EUf9XhcFff4wW5V.jpg"
   }
 }
