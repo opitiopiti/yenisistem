@@ -3236,8 +3236,8 @@
   "1540": {
     "name": "HELLUVA BOSS (2020)",
     "last_season": 3,
-    "last_episode": 3,
-    "last_modified": 1791999107
+    "last_episode": 5,
+    "last_modified": 1792706139
   },
   "1541": {
     "name": "HYOUKA (2012)",
@@ -38192,8 +38192,8 @@
   "7408": {
     "name": "SCRUBS (2026) (2026)",
     "last_season": 2,
-    "last_episode": 4,
-    "last_modified": 1792101157
+    "last_episode": 5,
+    "last_modified": 1792706139
   },
   "7409": {
     "name": "SUMMER ’36 (2026)",
@@ -77090,8 +77090,8 @@
   "17235": {
     "name": "THE LAMENT OF AUTUMN (2026)",
     "last_season": 1,
-    "last_episode": 18,
-    "last_modified": 1792620161
+    "last_episode": 20,
+    "last_modified": 1792706139
   },
   "17237": {
     "name": "ADALET - HABEAS CORPUS (2026)",
@@ -77180,8 +77180,8 @@
   "17416": {
     "name": "WHERE THE MASK ENDS (2026)",
     "last_season": 1,
-    "last_episode": 14,
-    "last_modified": 1792620161
+    "last_episode": 15,
+    "last_modified": 1792706139
   },
   "17440": {
     "name": "ORGANIZE İŞLER: KARUN HAZINESI (2026) TR",
@@ -77734,5 +77734,11 @@
     "last_season": 1,
     "last_episode": 7,
     "last_modified": 1792661846
+  },
+  "17799": {
+    "name": "DID SOMEONE HAPPEN TO MENTION ME? (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1792706139
   }
 }
