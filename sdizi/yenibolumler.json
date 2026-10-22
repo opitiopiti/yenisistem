@@ -1,4 +1,10 @@
 {
+  "/diziler/the-terminal-list-izle.html": {
+    "group": "THE TERMINAL LIST",
+    "year": "2022",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg"
+  },
   "/diziler/guilt.html": {
     "group": "GUILT",
     "year": "2016",
@@ -76,11 +82,5 @@
     "year": "2024",
     "imdb": "7.8",
     "poster": "https://image.tmdb.org/t/p/w500/mVAWCCNBxPX3EUf9XhcFff4wW5V.jpg"
-  },
-  "/diziler/black-clover.html": {
-    "group": "BLACK CLOVER",
-    "year": "2017",
-    "imdb": "8.3",
-    "poster": "https://image.tmdb.org/t/p/w500/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg"
   }
 }
