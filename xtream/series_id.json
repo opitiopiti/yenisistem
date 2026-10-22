@@ -75464,8 +75464,8 @@
   "16327": {
     "name": "MEHMED: FETIHLER SULTANI (2024)",
     "last_season": 4,
-    "last_episode": 5,
-    "last_modified": 1791999107
+    "last_episode": 6,
+    "last_modified": 1792661846
   },
   "16328": {
     "name": "X-MEN 97 (2024)",
@@ -77102,8 +77102,8 @@
   "17238": {
     "name": "KARDEŞTEN ÖTE - BROTHERS (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1792066622
+    "last_episode": 6,
+    "last_modified": 1792661846
   },
   "17239": {
     "name": "MINERVA - MINERVA AKADEMISI (2026)",
@@ -77728,5 +77728,11 @@
     "last_season": 1,
     "last_episode": 6,
     "last_modified": 1792620161
+  },
+  "17774": {
+    "name": "EAST OF EDEN - CENNETIN DOĞUSU (2026)",
+    "last_season": 1,
+    "last_episode": 7,
+    "last_modified": 1792661846
   }
 }
