@@ -23982,5 +23982,101 @@
     "imdb_id": "tt1606389",
     "poster": "https://image.tmdb.org/t/p/original/9cj11mekwtXrVge7R7oMizalZw3.jpg",
     "genre": "Dram"
+  },
+  "victor frankenstein|2015": {
+    "title": "Victor Frankenstein",
+    "year": "2015",
+    "tmdb_id": 228066,
+    "imdb_id": "tt1976009",
+    "poster": "https://image.tmdb.org/t/p/original/bYUmSLPtWylFKbEBHOXT1kt9l5b.jpg",
+    "genre": "Dram"
+  },
+  "yarının dünyası|2015": {
+    "title": "Yarının Dünyası",
+    "year": "2015",
+    "tmdb_id": 158852,
+    "imdb_id": "tt1964418",
+    "poster": "https://image.tmdb.org/t/p/original/h1e3e72iGkAD0wGLwTYCftrP7rs.jpg",
+    "genre": "Macera"
+  },
+  "seninle bir ömür|2015": {
+    "title": "Seninle Bir Ömür",
+    "year": "2015",
+    "tmdb_id": 228205,
+    "imdb_id": "tt2726560",
+    "poster": "https://image.tmdb.org/t/p/original/31D3NJztQoXjBGkyk7VLAjw72R.jpg",
+    "genre": "Dram"
+  },
+  "hazine avcıları|2014": {
+    "title": "Hazine Avcıları",
+    "year": "2014",
+    "tmdb_id": 152760,
+    "imdb_id": "tt2177771",
+    "poster": "https://image.tmdb.org/t/p/original/4LKUlIzPrG9COorsT6c58mVwrEs.jpg",
+    "genre": "Savaş"
+  },
+  "göç: tanrılar ve krallar|2014": {
+    "title": "Göç: Tanrılar ve Krallar",
+    "year": "2014",
+    "tmdb_id": 147441,
+    "imdb_id": "tt1528100",
+    "poster": "https://image.tmdb.org/t/p/original/wmC86l14tPLFZhKyQ1JGHdi57wM.jpg",
+    "genre": "Macera"
+  },
+  "sihirli orman|2014": {
+    "title": "Sihirli Orman",
+    "year": "2014",
+    "tmdb_id": 224141,
+    "imdb_id": "tt2180411",
+    "poster": "https://image.tmdb.org/t/p/original/573iw3gMzQ9r6yrkHwtb5V9T4l3.jpg",
+    "genre": "Fantastik"
+  },
+  "moana|2026": {
+    "title": "Moana",
+    "year": "2026",
+    "tmdb_id": 1108427,
+    "imdb_id": "tt27419466",
+    "poster": "https://image.tmdb.org/t/p/original/AddecwRjKUqiRaztmZwxgCz6eHr.jpg",
+    "genre": "Aile"
+  },
+  "arınma gecesi: sonsuza dek|2021": {
+    "title": "Arınma Gecesi: Sonsuza Dek",
+    "year": "2021",
+    "tmdb_id": 602223,
+    "imdb_id": "tt10327252",
+    "poster": "https://image.tmdb.org/t/p/original/qTtottyxqER840Z8VDuVkTXahju.jpg",
+    "genre": "Aksiyon"
+  },
+  "i̇lk arınma gecesi|2018": {
+    "title": "İlk Arınma Gecesi",
+    "year": "2018",
+    "tmdb_id": 442249,
+    "imdb_id": "tt6133466",
+    "poster": "https://image.tmdb.org/t/p/original/nMX7bbbw94rxGKjO8nNV8q1wbSq.jpg",
+    "genre": "Aksiyon"
+  },
+  "arınma gecesi 3: seçim yılı|2016": {
+    "title": "Arınma Gecesi 3: Seçim Yılı",
+    "year": "2016",
+    "tmdb_id": 316727,
+    "imdb_id": "tt4094724",
+    "poster": "https://image.tmdb.org/t/p/original/jlRmmWumPBOTLqwiuBz7xzN40kx.jpg",
+    "genre": "Aksiyon"
+  },
+  "arınma gecesi 2: anarşi|2014": {
+    "title": "Arınma Gecesi 2: Anarşi",
+    "year": "2014",
+    "tmdb_id": 238636,
+    "imdb_id": "tt2975578",
+    "poster": "https://image.tmdb.org/t/p/original/xGstZ3kPOjxG1iRGTOC2laq6X5O.jpg",
+    "genre": "Korku"
+  },
+  "arınma gecesi|2013": {
+    "title": "Arınma Gecesi",
+    "year": "2013",
+    "tmdb_id": 158015,
+    "imdb_id": "tt2184339",
+    "poster": "https://image.tmdb.org/t/p/original/rV5SR1mdxY2wY0aBEdPIevKVfJg.jpg",
+    "genre": "Bilim-Kurgu"
   }
 }
