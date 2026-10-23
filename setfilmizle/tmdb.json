@@ -24078,5 +24078,45 @@
     "imdb_id": "tt2184339",
     "poster": "https://image.tmdb.org/t/p/original/rV5SR1mdxY2wY0aBEdPIevKVfJg.jpg",
     "genre": "Bilim-Kurgu"
+  },
+  "kabuktaki hayalet|2017": {
+    "title": "Kabuktaki Hayalet",
+    "year": "2017",
+    "tmdb_id": 315837,
+    "imdb_id": "tt1219827",
+    "poster": "https://image.tmdb.org/t/p/original/jWDL5BH1aVUzwEEjuwlxB3NZenJ.jpg",
+    "genre": "Bilim-Kurgu"
+  },
+  "muhteşem yedili|2016": {
+    "title": "Muhteşem Yedili",
+    "year": "2016",
+    "tmdb_id": 333484,
+    "imdb_id": "tt2404435",
+    "poster": "https://image.tmdb.org/t/p/original/8Mvue0WIqWABfVvO1GcRN7hgvtO.jpg",
+    "genre": "Macera"
+  },
+  "uzay yolcuları|2016": {
+    "title": "Uzay Yolcuları",
+    "year": "2016",
+    "tmdb_id": 274870,
+    "imdb_id": "tt1355644",
+    "poster": "https://image.tmdb.org/t/p/original/ldFgXGdioAwmQgfxTc4pecbbnqC.jpg",
+    "genre": "Dram"
+  },
+  "senden önce ben|2016": {
+    "title": "Senden Önce Ben",
+    "year": "2016",
+    "tmdb_id": 296096,
+    "imdb_id": "tt2674426",
+    "poster": "https://image.tmdb.org/t/p/original/iQhtbMyfdiXIePGC5zGBWrzz9ce.jpg",
+    "genre": "Dram"
+  },
+  "bu da nereden çıktı?|2016": {
+    "title": "Bu da Nereden Çıktı?",
+    "year": "2016",
+    "tmdb_id": 356305,
+    "imdb_id": "tt4501244",
+    "poster": "https://image.tmdb.org/t/p/original/hpo9FIL8iK6ATzrlje8bL2MwBPg.jpg",
+    "genre": "Komedi"
   }
 }
