@@ -5372,8 +5372,8 @@
   "1899": {
     "name": "AMERICAN HORROR STORY (2011)",
     "last_season": 13,
-    "last_episode": 8,
-    "last_modified": 1791541719
+    "last_episode": 12,
+    "last_modified": 1792775824
   },
   "1900": {
     "name": "YOU (2018)",
@@ -39764,8 +39764,8 @@
   "7670": {
     "name": "SORRY ABOUT MY LITTLE BROTHERS (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 15,
-    "last_modified": 1792170505
+    "last_episode": 16,
+    "last_modified": 1792775824
   },
   "7671": {
     "name": "THAT TIME I GOT REINCARNATED AS A SLIME MOVIE 2: TEARS OF THE AZURE SEA (2026) İNGİLİZCE",
@@ -74102,8 +74102,8 @@
   "15708": {
     "name": "JOJO'S BIZARRE ADVENTURE: STEEL BALL RUN (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1792170505
+    "last_episode": 6,
+    "last_modified": 1792775824
   },
   "15709": {
     "name": "KAN MIRASI (2024)",
@@ -74126,8 +74126,8 @@
   "15712": {
     "name": "PAOLO (2026)",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1791571680
+    "last_episode": 5,
+    "last_modified": 1792775824
   },
   "15713": {
     "name": "THE FINAL PROBLEM (2026)",
@@ -74348,8 +74348,8 @@
   "16011": {
     "name": "TOUGEN ANKI: NIKKO KEGON FALLS ARC (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1792170505
+    "last_episode": 4,
+    "last_modified": 1792775824
   },
   "16038": {
     "name": "THE RAMPARTS OF ICE SEASON 2 (2026) İNGİLİZCE",
@@ -74504,8 +74504,8 @@
   "16141": {
     "name": "THE APOTHECARY DIARIES 3RD SEASON (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1792170505
+    "last_episode": 4,
+    "last_modified": 1792775824
   },
   "16142": {
     "name": "TERÖR (2018) TR",
@@ -76946,14 +76946,14 @@
   "17048": {
     "name": "A CERTAIN DARK SIDE'S ITEM (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1792170505
+    "last_episode": 3,
+    "last_modified": 1792775824
   },
   "17049": {
     "name": "FIREFLY WEDDING (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1792170505
+    "last_episode": 3,
+    "last_modified": 1792775824
   },
   "17050": {
     "name": "WELSH & SHEDAR (2026) İNGİLİZCE",
@@ -77090,8 +77090,8 @@
   "17235": {
     "name": "THE LAMENT OF AUTUMN (2026)",
     "last_season": 1,
-    "last_episode": 20,
-    "last_modified": 1792706139
+    "last_episode": 21,
+    "last_modified": 1792775824
   },
   "17237": {
     "name": "ADALET - HABEAS CORPUS (2026)",
@@ -77180,8 +77180,8 @@
   "17416": {
     "name": "WHERE THE MASK ENDS (2026)",
     "last_season": 1,
-    "last_episode": 15,
-    "last_modified": 1792706139
+    "last_episode": 16,
+    "last_modified": 1792775824
   },
   "17440": {
     "name": "ORGANIZE İŞLER: KARUN HAZINESI (2026) TR",
@@ -77746,5 +77746,17 @@
     "last_season": 1,
     "last_episode": 6,
     "last_modified": 1792732197
+  },
+  "17852": {
+    "name": "TIGERS SNIFF THE ROSE (2026)",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1792775824
+  },
+  "17853": {
+    "name": "YAGA (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1792775824
   }
 }
