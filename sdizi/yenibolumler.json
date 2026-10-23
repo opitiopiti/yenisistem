@@ -1,1 +1,86 @@
-{}
+{
+  "/diziler/avatar-seven-havens.html": {
+    "group": "AVATAR: SEVEN HAVENS",
+    "year": "2026",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg"
+  },
+  "/diziler/jojos-bizarre-adventure.html": {
+    "group": "JOJO'S BIZARRE ADVENTURE",
+    "year": "2012",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg"
+  },
+  "/diziler/american-horror-story.html": {
+    "group": "AMERICAN HORROR STORY",
+    "year": "2011",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/x2c3AvZeTyNehRZXabTojAxfDuR.jpg"
+  },
+  "/diziler/dark-matter.html": {
+    "group": "DARK MATTER",
+    "year": "2024",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg"
+  },
+  "/diziler/nobody-wants-this.html": {
+    "group": "NOBODY WANTS THIS",
+    "year": "2024",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/cUpIceeJJoRqUHSCzh6jRSmlpkA.jpg"
+  },
+  "/diziler/the-terminal-list-izle.html": {
+    "group": "THE TERMINAL LIST",
+    "year": "2022",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/xyFAzP7RKK8cARCSalIZ9A9T0jV.jpg"
+  },
+  "/diziler/guilt.html": {
+    "group": "GUILT",
+    "year": "2016",
+    "imdb": "5.9",
+    "poster": "https://image.tmdb.org/t/p/w500/gRm3WojWDTXhmviAfWx8b6y8YVv.jpg"
+  },
+  "/diziler/helluva-boss.html": {
+    "group": "HELLUVA BOSS",
+    "year": "2020",
+    "imdb": "7.5",
+    "poster": "https://image.tmdb.org/t/p/w500/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg"
+  },
+  "/diziler/small-prophets.html": {
+    "group": "SMALL PROPHETS",
+    "year": "2026",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/39pC4gr8GTD7dDcuoGLbbyZSyTk.jpg"
+  },
+  "/diziler/brothers.html": {
+    "group": "BROTHERS",
+    "year": "2026",
+    "imdb": "6.9",
+    "poster": "https://image.tmdb.org/t/p/w500/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg"
+  },
+  "/diziler/slow-horses.html": {
+    "group": "SLOW HORSES",
+    "year": "2022",
+    "imdb": "8.2",
+    "poster": "https://image.tmdb.org/t/p/w500/dnpatlJrEPiDSn5fzgzvxtiSnMo.jpg"
+  },
+  "/diziler/visionquest.html": {
+    "group": "VISIONQUEST",
+    "year": "2026",
+    "imdb": "8.8",
+    "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg"
+  },
+  "/diziler/cyberpunk-edgerunners.html": {
+    "group": "CYBERPUNK: EDGERUNNERS",
+    "year": "2022",
+    "imdb": "8.7",
+    "poster": "https://image.tmdb.org/t/p/w500/lqcDVZ8pyk08AVftMBildDR3QUK.jpg"
+  },
+  "/diziler/hollywood-arts.html": {
+    "group": "HOLLYWOOD ARTS",
+    "year": "2026",
+    "imdb": "6.2",
+    "poster": "https://image.tmdb.org/t/p/w500/xsL1ig6Tyi0j9AZPt23yZprslGS.jpg"
+  }
+}
