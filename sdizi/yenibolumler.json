@@ -1,4 +1,16 @@
 {
+  "/diziler/the-apothecary-diaries.html": {
+    "group": "THE APOTHECARY DIARIES",
+    "year": "2023",
+    "imdb": "8.6",
+    "poster": "https://image.tmdb.org/t/p/w500/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg"
+  },
+  "/diziler/lupin.html": {
+    "group": "LUPIN",
+    "year": "2021",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg"
+  },
   "/diziler/avatar-seven-havens.html": {
     "group": "AVATAR: SEVEN HAVENS",
     "year": "2026",
@@ -70,17 +82,5 @@
     "year": "2026",
     "imdb": "8.8",
     "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg"
-  },
-  "/diziler/cyberpunk-edgerunners.html": {
-    "group": "CYBERPUNK: EDGERUNNERS",
-    "year": "2022",
-    "imdb": "8.7",
-    "poster": "https://image.tmdb.org/t/p/w500/lqcDVZ8pyk08AVftMBildDR3QUK.jpg"
-  },
-  "/diziler/hollywood-arts.html": {
-    "group": "HOLLYWOOD ARTS",
-    "year": "2026",
-    "imdb": "6.2",
-    "poster": "https://image.tmdb.org/t/p/w500/xsL1ig6Tyi0j9AZPt23yZprslGS.jpg"
   }
 }
