@@ -1,4 +1,16 @@
 {
+  "/diziler/black-clover.html": {
+    "group": "BLACK CLOVER",
+    "year": "2017",
+    "imdb": "8.3",
+    "poster": "https://image.tmdb.org/t/p/w500/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg"
+  },
+  "/diziler/mobland.html": {
+    "group": "MOBLAND",
+    "year": "2025",
+    "imdb": "8.5",
+    "poster": "https://image.tmdb.org/t/p/w500/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg"
+  },
   "/diziler/tokyo-revengers.html": {
     "group": "TOKYO REVENGERS",
     "year": "2021",
@@ -76,17 +88,5 @@
     "year": "2026",
     "imdb": "6.9",
     "poster": "https://image.tmdb.org/t/p/w500/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg"
-  },
-  "/diziler/slow-horses.html": {
-    "group": "SLOW HORSES",
-    "year": "2022",
-    "imdb": "8.2",
-    "poster": "https://image.tmdb.org/t/p/w500/dnpatlJrEPiDSn5fzgzvxtiSnMo.jpg"
-  },
-  "/diziler/visionquest.html": {
-    "group": "VISIONQUEST",
-    "year": "2026",
-    "imdb": "8.8",
-    "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg"
   }
 }
