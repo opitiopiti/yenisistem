@@ -24118,5 +24118,61 @@
     "imdb_id": "tt4501244",
     "poster": "https://image.tmdb.org/t/p/original/hpo9FIL8iK6ATzrlje8bL2MwBPg.jpg",
     "genre": "Komedi"
+  },
+  "köpek adası|2018": {
+    "title": "Köpek Adası",
+    "year": "2018",
+    "tmdb_id": 399174,
+    "imdb_id": "tt5104604",
+    "poster": "https://image.tmdb.org/t/p/original/zaa6sIF3lsTwTR8HX5WEtuVysJ0.jpg",
+    "genre": "Macera"
+  },
+  "oyun gecesi|2018": {
+    "title": "Oyun Gecesi",
+    "year": "2018",
+    "tmdb_id": 445571,
+    "imdb_id": "tt2704998",
+    "poster": "https://image.tmdb.org/t/p/original/xE9VOyMHPXQSkSIJ8BY34lKpjjY.jpg",
+    "genre": "Gizem"
+  },
+  "suyun sesi|2017": {
+    "title": "Suyun Sesi",
+    "year": "2017",
+    "tmdb_id": 399055,
+    "imdb_id": "tt5580390",
+    "poster": "https://image.tmdb.org/t/p/original/o0cnudVI3BL9UUbk4zHMYyaIs8V.jpg",
+    "genre": "Dram"
+  },
+  "aramızdaki sözler|2017": {
+    "title": "Aramızdaki Sözler",
+    "year": "2017",
+    "tmdb_id": 290512,
+    "imdb_id": "tt2226597",
+    "poster": "https://image.tmdb.org/t/p/original/sT63yRl55wwI9VkUhstnxGhxjj7.jpg",
+    "genre": "Dram"
+  },
+  "muhteşem showman|2017": {
+    "title": "Muhteşem Showman",
+    "year": "2017",
+    "tmdb_id": 316029,
+    "imdb_id": "tt1485796",
+    "poster": "https://image.tmdb.org/t/p/original/g6OqSghMeHSETHG9lphKaPCsQEs.jpg",
+    "genre": "Dram"
+  },
+  "küçülen hayatlar|2017": {
+    "title": "Küçülen Hayatlar",
+    "year": "2017",
+    "tmdb_id": 301337,
+    "imdb_id": "tt1389072",
+    "poster": "https://image.tmdb.org/t/p/original/A16HFH6uNVExWawbgw6mGVj2DDX.jpg",
+    "genre": "Dram"
+  },
+  "transformers 7: canavarların yükselişi|2023": {
+    "title": "Transformers 7: Canavarların Yükselişi",
+    "year": "2023",
+    "tmdb_id": 667538,
+    "imdb_id": "tt5090568",
+    "poster": "https://image.tmdb.org/t/p/original/dliDBovX7XM42YnK5bZXLu44Rrr.jpg",
+    "genre": "Bilim-Kurgu"
   }
 }
