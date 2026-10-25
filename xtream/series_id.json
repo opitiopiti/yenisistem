@@ -72350,8 +72350,8 @@
   "15184": {
     "name": "25 YEARS OF YOU (2026)",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1787327903
+    "last_episode": 10,
+    "last_modified": 1792971539
   },
   "15186": {
     "name": "MONSTERS OF GOD (2026)",
@@ -74264,8 +74264,8 @@
   "15893": {
     "name": "VAZGEÇILMEZ (2026)",
     "last_season": 1,
-    "last_episode": 17,
-    "last_modified": 1791670105
+    "last_episode": 20,
+    "last_modified": 1792971539
   },
   "15894": {
     "name": "KARDEŞTEN ÖTE (2026)",
@@ -77792,7 +77792,25 @@
   "17978": {
     "name": "FINAL TABLE (2026)",
     "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1792971539
+  },
+  "18003": {
+    "name": "EXTRAORDINARY ATTORNEY MINAMI (2026)",
+    "last_season": 1,
     "last_episode": 1,
-    "last_modified": 1792962925
+    "last_modified": 1792971539
+  },
+  "18004": {
+    "name": "MASKE DÜŞTÜĞÜNDE (2026)",
+    "last_season": 1,
+    "last_episode": 17,
+    "last_modified": 1792971539
+  },
+  "18007": {
+    "name": "OH! MY GUARD (0000)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1792971539
   }
 }
