@@ -24174,5 +24174,141 @@
     "imdb_id": "tt5090568",
     "poster": "https://image.tmdb.org/t/p/original/dliDBovX7XM42YnK5bZXLu44Rrr.jpg",
     "genre": "Bilim-Kurgu"
+  },
+  "rogue one: bir star wars hikayesi|2016": {
+    "title": "Rogue One: Bir Star Wars Hikayesi",
+    "year": "2016",
+    "tmdb_id": 330459,
+    "imdb_id": "tt3748528",
+    "poster": "https://image.tmdb.org/t/p/original/6HVSgUw3QkJH1WpwANqHWdzQ0yG.jpg",
+    "genre": "Aksiyon"
+  },
+  "boynuzlar|2021": {
+    "title": "Boynuzlar",
+    "year": "2021",
+    "tmdb_id": 516329,
+    "imdb_id": "tt7740510",
+    "poster": "https://image.tmdb.org/t/p/original/6ayoEOyQXxWxgpEyucfRSUJxALU.jpg",
+    "genre": "Dram"
+  },
+  "gece evi|2020": {
+    "title": "Gece Evi",
+    "year": "2020",
+    "tmdb_id": 727179,
+    "imdb_id": "tt0885492",
+    "poster": "https://image.tmdb.org/t/p/original/ZKQmgkWaLZFeMPLd2pTnTtY0lp.jpg",
+    "genre": "Korku"
+  },
+  "vahşetin çağrısı|2020": {
+    "title": "Vahşetin Çağrısı",
+    "year": "2020",
+    "tmdb_id": 481848,
+    "imdb_id": "tt7504726",
+    "poster": "https://image.tmdb.org/t/p/original/lvWCJvI8xVM7hbpaXtXXG4clKFm.jpg",
+    "genre": "Macera"
+  },
+  "tolkien|2019": {
+    "title": "Tolkien",
+    "year": "2019",
+    "tmdb_id": 468224,
+    "imdb_id": "tt3361792",
+    "poster": "https://image.tmdb.org/t/p/original/A7eYO3t7oZQdfJj5KlJBI7GhT9H.jpg",
+    "genre": "Savaş"
+  },
+  "biz|2019": {
+    "title": "Biz",
+    "year": "2019",
+    "tmdb_id": 458723,
+    "imdb_id": "tt6857112",
+    "poster": "https://image.tmdb.org/t/p/original/4QKjyxiQsjqOhzK0rxmKXgN1dUh.jpg",
+    "genre": "Gerilim"
+  },
+  "hayvan mezarlığı|2019": {
+    "title": "Hayvan Mezarlığı",
+    "year": "2019",
+    "tmdb_id": 157433,
+    "imdb_id": "tt0837563",
+    "poster": "https://image.tmdb.org/t/p/original/syHOfH1jPFU2L70t7sgQZXL1chC.jpg",
+    "genre": "Korku"
+  },
+  "yıldız savaşları: bölüm 9 – skywalker’ın yükselişi|2019": {
+    "title": "Yıldız Savaşları: Bölüm 9 – Skywalker’ın Yükselişi",
+    "year": "2019",
+    "tmdb_id": null,
+    "imdb_id": "",
+    "poster": null,
+    "genre": ""
+  },
+  "yıldız savaşları: bölüm 8 – son jedi|2017": {
+    "title": "Yıldız Savaşları: Bölüm 8 – Son Jedi",
+    "year": "2017",
+    "tmdb_id": null,
+    "imdb_id": "",
+    "poster": null,
+    "genre": ""
+  },
+  "yıldız savaşları: bölüm 7 – güç uyanıyor|2015": {
+    "title": "Yıldız Savaşları: Bölüm 7 – Güç Uyanıyor",
+    "year": "2015",
+    "tmdb_id": null,
+    "imdb_id": "",
+    "poster": null,
+    "genre": ""
+  },
+  "yıldız savaşları: klon savaşları|2008": {
+    "title": "Yıldız Savaşları: Klon Savaşları",
+    "year": "2008",
+    "tmdb_id": null,
+    "imdb_id": "",
+    "poster": null,
+    "genre": ""
+  },
+  "yıldız savaşları: bölüm 3 – sith’in i̇ntikamı|2005": {
+    "title": "Yıldız Savaşları: Bölüm 3 – Sith’in İntikamı",
+    "year": "2005",
+    "tmdb_id": 1895,
+    "imdb_id": "tt0121766",
+    "poster": "https://image.tmdb.org/t/p/original/xTkVxnku6YzjPoME5OvxnXeJTZr.jpg",
+    "genre": "Macera"
+  },
+  "yıldız savaşları: bölüm 2 – klonlar’ın saldırısı|2002": {
+    "title": "Yıldız Savaşları: Bölüm 2 – Klonlar’ın Saldırısı",
+    "year": "2002",
+    "tmdb_id": 1894,
+    "imdb_id": "tt0121765",
+    "poster": "https://image.tmdb.org/t/p/original/eT87Nx4Jw3ShjvROxGq8KC3bWTx.jpg",
+    "genre": "Macera"
+  },
+  "yıldız savaşları: bölüm 1 – gizli tehlike|1999": {
+    "title": "Yıldız Savaşları: Bölüm 1 – Gizli Tehlike",
+    "year": "1999",
+    "tmdb_id": 1893,
+    "imdb_id": "tt0120915",
+    "poster": "https://image.tmdb.org/t/p/original/oHVjAucv1yMPIxwBX6WvEMNJvTj.jpg",
+    "genre": "Macera"
+  },
+  "yıldız savaşları: bölüm 6 – jedi’nin dönüşü|1983": {
+    "title": "Yıldız Savaşları: Bölüm 6 – Jedi’nin Dönüşü",
+    "year": "1983",
+    "tmdb_id": null,
+    "imdb_id": "",
+    "poster": null,
+    "genre": ""
+  },
+  "yıldız savaşları: bölüm 5 – i̇mparator|1980": {
+    "title": "Yıldız Savaşları: Bölüm 5 – İmparator",
+    "year": "1980",
+    "tmdb_id": 1891,
+    "imdb_id": "tt0080684",
+    "poster": "https://image.tmdb.org/t/p/original/r9w1NH3495IW27qEjUCJ8r7Wt4Y.jpg",
+    "genre": "Macera"
+  },
+  "yıldız savaşları: bölüm 4 – yeni bir umut|1977": {
+    "title": "Yıldız Savaşları: Bölüm 4 – Yeni Bir Umut",
+    "year": "1977",
+    "tmdb_id": 11,
+    "imdb_id": "tt0076759",
+    "poster": "https://image.tmdb.org/t/p/original/fT9pEpt2pd0m7ZC0shQo08E77xI.jpg",
+    "genre": "Macera"
   }
 }
