@@ -1,4 +1,10 @@
 {
+  "/diziler/bleach-thousand-year-blood-war.html": {
+    "group": "BLEACH: THOUSAND-YEAR BLOOD WAR",
+    "year": "2022",
+    "imdb": "9.0",
+    "poster": "https://image.tmdb.org/t/p/w500/cR4P0EJrLX2bdWij1VYLf8VB78M.jpg"
+  },
   "/diziler/youth.html": {
     "group": "YOUTH",
     "year": "2026",
@@ -82,11 +88,5 @@
     "year": "2016",
     "imdb": "5.9",
     "poster": "https://image.tmdb.org/t/p/w500/gRm3WojWDTXhmviAfWx8b6y8YVv.jpg"
-  },
-  "/diziler/helluva-boss.html": {
-    "group": "HELLUVA BOSS",
-    "year": "2020",
-    "imdb": "7.5",
-    "poster": "https://image.tmdb.org/t/p/w500/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg"
   }
 }
