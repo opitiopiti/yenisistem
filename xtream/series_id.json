@@ -76646,8 +76646,8 @@
   "16735": {
     "name": "MAGICAL SISTERS LULUTTO LILLY: PART II (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1792443213
+    "last_episode": 4,
+    "last_modified": 1793062345
   },
   "16736": {
     "name": "PSYREN (2026) İNGİLİZCE",
@@ -76676,8 +76676,8 @@
   "16765": {
     "name": "MAGICAL GIRL RAISING PROJECT: RESTART (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1792443213
+    "last_episode": 4,
+    "last_modified": 1793062345
   },
   "16766": {
     "name": "AMERICAN HOSTAGE (2026)",
@@ -77090,8 +77090,8 @@
   "17235": {
     "name": "THE LAMENT OF AUTUMN (2026)",
     "last_season": 1,
-    "last_episode": 23,
-    "last_modified": 1792962925
+    "last_episode": 25,
+    "last_modified": 1793062345
   },
   "17237": {
     "name": "ADALET - HABEAS CORPUS (2026)",
@@ -77180,8 +77180,8 @@
   "17416": {
     "name": "WHERE THE MASK ENDS (2026)",
     "last_season": 1,
-    "last_episode": 18,
-    "last_modified": 1792962925
+    "last_episode": 19,
+    "last_modified": 1793062345
   },
   "17440": {
     "name": "ORGANIZE İŞLER: KARUN HAZINESI (2026) TR",
@@ -77750,8 +77750,8 @@
   "17852": {
     "name": "TIGERS SNIFF THE ROSE (2026)",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1792946700
+    "last_episode": 9,
+    "last_modified": 1793062345
   },
   "17853": {
     "name": "YAGA (2026)",
@@ -77798,8 +77798,8 @@
   "18003": {
     "name": "EXTRAORDINARY ATTORNEY MINAMI (2026)",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1792971539
+    "last_episode": 2,
+    "last_modified": 1793062345
   },
   "18004": {
     "name": "MASKE DÜŞTÜĞÜNDE (2026)",
@@ -81268,5 +81268,125 @@
     "last_season": 1,
     "last_episode": 3,
     "last_modified": 1793047866
+  },
+  "18651": {
+    "name": "MINIMUM WAGE (2026)",
+    "last_season": 1,
+    "last_episode": 14,
+    "last_modified": 1793062345
+  },
+  "18653": {
+    "name": "THE MOB (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1793062345
+  },
+  "18658": {
+    "name": "SEVDİĞİM SENSİN (2026) TR",
+    "last_season": 1,
+    "last_episode": 21,
+    "last_modified": 1793062345
+  },
+  "18659": {
+    "name": "AŞK VE TAHT (2026) TR",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1793062345
+  },
+  "18660": {
+    "name": "ÇİRKİN (2026) TR",
+    "last_season": 1,
+    "last_episode": 9,
+    "last_modified": 1793062345
+  },
+  "18661": {
+    "name": "P.A.Y. (2026) TR",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1793062345
+  },
+  "18662": {
+    "name": "ALTI ÜSTÜ İSTANBUL (2026) TR",
+    "last_season": 1,
+    "last_episode": 17,
+    "last_modified": 1793062345
+  },
+  "18663": {
+    "name": "DAHA 17 (2026) TR",
+    "last_season": 1,
+    "last_episode": 20,
+    "last_modified": 1793062345
+  },
+  "18664": {
+    "name": "MUHTEMEL AŞK (2026) TR",
+    "last_season": 1,
+    "last_episode": 18,
+    "last_modified": 1793062345
+  },
+  "18665": {
+    "name": "İDAM EMRİ - YILAN (2025) TR",
+    "last_season": 1,
+    "last_episode": 7,
+    "last_modified": 1793062345
+  },
+  "18667": {
+    "name": "HAKIM (2022) TR",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1793062345
+  },
+  "18671": {
+    "name": "İYİ GÜNDE KÖTÜ GÜNDE (2020) TR",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1793062345
+  },
+  "18675": {
+    "name": "KOCA KOCA YALANLAR (2018) TR",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1793062345
+  },
+  "18676": {
+    "name": "FAZİLET HANIM VE KIZLARI (2017) TR",
+    "last_season": 1,
+    "last_episode": 49,
+    "last_modified": 1793062345
+  },
+  "18677": {
+    "name": "KARA KIŞ (2015) TR",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1793062345
+  },
+  "18679": {
+    "name": "TERÖR (2011) TR",
+    "last_season": 3,
+    "last_episode": 6,
+    "last_modified": 1793062345
+  },
+  "18680": {
+    "name": "UNUTULMAZ (2009) TR",
+    "last_season": 1,
+    "last_episode": 90,
+    "last_modified": 1793062345
+  },
+  "18681": {
+    "name": "SIHIRLI ANNEM (2003) TR",
+    "last_season": 2,
+    "last_episode": 15,
+    "last_modified": 1793062345
+  },
+  "18682": {
+    "name": "GÜNEŞİN DOĞDUĞU YER (2026) TR",
+    "last_season": 1,
+    "last_episode": 5,
+    "last_modified": 1793062345
+  },
+  "18683": {
+    "name": "MERCAN KÖŞK (2026) TR",
+    "last_season": 1,
+    "last_episode": 7,
+    "last_modified": 1793062345
   }
 }
