@@ -24310,5 +24310,109 @@
     "imdb_id": "tt0076759",
     "poster": "https://image.tmdb.org/t/p/original/fT9pEpt2pd0m7ZC0shQo08E77xI.jpg",
     "genre": "Macera"
+  },
+  "muhteşem gatsby|2013": {
+    "title": "Muhteşem Gatsby",
+    "year": "2013",
+    "tmdb_id": 64682,
+    "imdb_id": "tt1343092",
+    "poster": "https://image.tmdb.org/t/p/original/z9XEeov9BK6OfWeRgVGkFKYWmA4.jpg",
+    "genre": "Dram"
+  },
+  "carrie: günah tohumu|2013": {
+    "title": "Carrie: Günah Tohumu",
+    "year": "2013",
+    "tmdb_id": 7340,
+    "imdb_id": "tt0074285",
+    "poster": "https://image.tmdb.org/t/p/original/aufGOcxIJkWLYPzPR6QRZu3Hm1L.jpg",
+    "genre": "Korku"
+  },
+  "yalanlar üstüne|2008": {
+    "title": "Yalanlar Üstüne",
+    "year": "2008",
+    "tmdb_id": 12113,
+    "imdb_id": "tt0758774",
+    "poster": "https://image.tmdb.org/t/p/original/pCAInesJzDmXL7RJhX3FkTp626K.jpg",
+    "genre": "Aksiyon"
+  },
+  "kumsal|2000": {
+    "title": "Kumsal",
+    "year": "2000",
+    "tmdb_id": 1907,
+    "imdb_id": "tt0163978",
+    "poster": "https://image.tmdb.org/t/p/original/4y7LxD8TSi6AtsM2xSYqUm1gu7u.jpg",
+    "genre": "Dram"
+  },
+  "son mohikan|1992": {
+    "title": "Son Mohikan",
+    "year": "1992",
+    "tmdb_id": 9361,
+    "imdb_id": "tt0104691",
+    "poster": "https://image.tmdb.org/t/p/original/kp3Qbwd8BwT9QE8QVMatBZo1Qop.jpg",
+    "genre": "Tarih"
+  },
+  "günah tohumu|1976": {
+    "title": "Günah Tohumu",
+    "year": "1976",
+    "tmdb_id": 7340,
+    "imdb_id": "tt0074285",
+    "poster": "https://image.tmdb.org/t/p/original/aufGOcxIJkWLYPzPR6QRZu3Hm1L.jpg",
+    "genre": "Korku"
+  },
+  "belalılar|1973": {
+    "title": "Belalılar",
+    "year": "1973",
+    "tmdb_id": 9277,
+    "imdb_id": "tt0070735",
+    "poster": "https://image.tmdb.org/t/p/original/ica8luwgdZvgbXugGc45C581SUI.jpg",
+    "genre": "Komedi"
+  },
+  "neşeli günler|1965": {
+    "title": "Neşeli Günler",
+    "year": "1965",
+    "tmdb_id": 15121,
+    "imdb_id": "tt0059742",
+    "poster": "https://image.tmdb.org/t/p/original/fAIkPvmlIsOAChA3lQIw6dg6Oz1.jpg",
+    "genre": "Dram"
+  },
+  "yağmur altında|1952": {
+    "title": "Yağmur Altında",
+    "year": "1952",
+    "tmdb_id": 872,
+    "imdb_id": "tt0045152",
+    "poster": "https://image.tmdb.org/t/p/original/m6bAKTBHhsyL2BznDDC2zl3Jt79.jpg",
+    "genre": "Komedi"
+  },
+  "gran turismo|2023": {
+    "title": "Gran Turismo",
+    "year": "2023",
+    "tmdb_id": 980489,
+    "imdb_id": "tt4495098",
+    "poster": "https://image.tmdb.org/t/p/original/Avelu83lbHuYLXpCSug8WJeolmB.jpg",
+    "genre": "Macera"
+  },
+  "werewolf by night|2022": {
+    "title": "Werewolf By Night",
+    "year": "2022",
+    "tmdb_id": 894205,
+    "imdb_id": "tt15318872",
+    "poster": "https://image.tmdb.org/t/p/original/mvIvNKRIJPPS7WSFarFhOAGIVnU.jpg",
+    "genre": "Aksiyon"
+  },
+  "çıkış yok|2022": {
+    "title": "Çıkış Yok",
+    "year": "2022",
+    "tmdb_id": 833425,
+    "imdb_id": "tt7550014",
+    "poster": "https://image.tmdb.org/t/p/original/bb9Eps43NSX0araSyXr8Jp0ZyVD.jpg",
+    "genre": "Gerilim"
+  },
+  "kayıp şehir|2022": {
+    "title": "Kayıp Şehir",
+    "year": "2022",
+    "tmdb_id": 752623,
+    "imdb_id": "tt13320622",
+    "poster": "https://image.tmdb.org/t/p/original/zURdauwKl5x06pZw5GeIYljta80.jpg",
+    "genre": "Aksiyon"
   }
 }
