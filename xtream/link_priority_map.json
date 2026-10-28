@@ -41,7 +41,8 @@
 
   "hdplayersystem": { 
     "priority": 10, 
-    "enabled": true },
+    "enabled": false,
+    "not" "dizimom kapandi herhalde, kod saglam" },
 
   "canlidizi": { 
     "priority": 11, 
