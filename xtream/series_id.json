@@ -5054,8 +5054,8 @@
   "1844": {
     "name": "SCRUBS (2026)",
     "last_season": 2,
-    "last_episode": 5,
-    "last_modified": 1792645771
+    "last_episode": 6,
+    "last_modified": 1793263671
   },
   "1845": {
     "name": "FRIENDS (1994)",
@@ -5726,8 +5726,8 @@
   "1958": {
     "name": "MOBLAND (2025)",
     "last_season": 2,
-    "last_episode": 6,
-    "last_modified": 1792645771
+    "last_episode": 7,
+    "last_modified": 1793263671
   },
   "1959": {
     "name": "MAD MEN (2007)",
@@ -8024,8 +8024,8 @@
   "2347": {
     "name": "ABBOTT ELEMENTARY (2021)",
     "last_season": 6,
-    "last_episode": 3,
-    "last_modified": 1792645771
+    "last_episode": 4,
+    "last_modified": 1793263671
   },
   "2348": {
     "name": "뉴토피아 (2025)",
@@ -8102,8 +8102,8 @@
   "2360": {
     "name": "THE LOWDOWN (2025)",
     "last_season": 2,
-    "last_episode": 3,
-    "last_modified": 1792645771
+    "last_episode": 4,
+    "last_modified": 1793263671
   },
   "2361": {
     "name": "SNEAKY PETE (2015)",
@@ -8372,8 +8372,8 @@
   "2405": {
     "name": "THE KARDASHIANS (2022)",
     "last_season": 8,
-    "last_episode": 3,
-    "last_modified": 1792645771
+    "last_episode": 4,
+    "last_modified": 1793263671
   },
   "2406": {
     "name": "HACKS (2021)",
@@ -44102,8 +44102,8 @@
   "8394": {
     "name": "PARIS HAS FALLEN (2024)",
     "last_season": 2,
-    "last_episode": 7,
-    "last_modified": 1792489677
+    "last_episode": 8,
+    "last_modified": 1793263671
   },
   "8395": {
     "name": "PASTA (2010)",
@@ -73922,8 +73922,8 @@
   "15653": {
     "name": "THE RAMPARTS OF ICE (2026)",
     "last_season": 2,
-    "last_episode": 4,
-    "last_modified": 1792645771
+    "last_episode": 5,
+    "last_modified": 1793263671
   },
   "15654": {
     "name": "İSTANBUL ANSIKLOPEDISI (2025)",
@@ -75464,8 +75464,8 @@
   "16327": {
     "name": "MEHMED: FETIHLER SULTANI (2024)",
     "last_season": 4,
-    "last_episode": 6,
-    "last_modified": 1792661846
+    "last_episode": 7,
+    "last_modified": 1793263671
   },
   "16328": {
     "name": "X-MEN 97 (2024)",
@@ -77090,8 +77090,8 @@
   "17235": {
     "name": "THE LAMENT OF AUTUMN (2026)",
     "last_season": 1,
-    "last_episode": 28,
-    "last_modified": 1793193555
+    "last_episode": 29,
+    "last_modified": 1793263671
   },
   "17237": {
     "name": "ADALET - HABEAS CORPUS (2026)",
@@ -77102,8 +77102,8 @@
   "17238": {
     "name": "KARDEŞTEN ÖTE - BROTHERS (2026)",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1792661846
+    "last_episode": 7,
+    "last_modified": 1793263671
   },
   "17239": {
     "name": "MINERVA - MINERVA AKADEMISI (2026)",
@@ -81406,5 +81406,11 @@
     "last_season": 1,
     "last_episode": 3,
     "last_modified": 1793219949
+  },
+  "18769": {
+    "name": "ALIKARA - ALIKARA (2026)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1793263671
   }
 }
