@@ -3236,8 +3236,8 @@
   "1540": {
     "name": "HELLUVA BOSS (2020)",
     "last_season": 3,
-    "last_episode": 5,
-    "last_modified": 1792706139
+    "last_episode": 7,
+    "last_modified": 1793300075
   },
   "1541": {
     "name": "HYOUKA (2012)",
@@ -38192,8 +38192,8 @@
   "7408": {
     "name": "SCRUBS (2026) (2026)",
     "last_season": 2,
-    "last_episode": 5,
-    "last_modified": 1792706139
+    "last_episode": 6,
+    "last_modified": 1793300075
   },
   "7409": {
     "name": "SUMMER ’36 (2026)",
@@ -39842,8 +39842,8 @@
   "7683": {
     "name": "THE EXILED HEAVY KNIGHT KNOWS HOW TO GAME THE SYSTEM (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 17,
-    "last_modified": 1792690178
+    "last_episode": 18,
+    "last_modified": 1793300075
   },
   "7684": {
     "name": "THE FOOD DIARY OF MISS MAID (2026) İNGİLİZCE",
@@ -63440,8 +63440,8 @@
   "11647": {
     "name": "WHERE’S WANDA? (2024)",
     "last_season": 2,
-    "last_episode": 1,
-    "last_modified": 1792620161
+    "last_episode": 2,
+    "last_modified": 1793300075
   },
   "11648": {
     "name": "WHITE CHRISTMAS (2011)",
@@ -74336,8 +74336,8 @@
   "16009": {
     "name": "FX FIGHTER KURUMI-CHAN (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1792690178
+    "last_episode": 5,
+    "last_modified": 1793300075
   },
   "16010": {
     "name": "GHOST MEETS GAL! (2026) İNGİLİZCE",
@@ -74354,8 +74354,8 @@
   "16038": {
     "name": "THE RAMPARTS OF ICE SEASON 2 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1792690178
+    "last_episode": 5,
+    "last_modified": 1793300075
   },
   "16039": {
     "name": "UMAYURU (2022) İNGİLİZCE",
@@ -76892,14 +76892,14 @@
   "16992": {
     "name": "TETSURYO! MEET WITH TETSUDOU MUSUME (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1792690178
+    "last_episode": 4,
+    "last_modified": 1793300075
   },
   "16993": {
     "name": "THE ICEBLADE SORCERER SHALL RULE THE WORLD II (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1792690178
+    "last_episode": 4,
+    "last_modified": 1793300075
   },
   "16994": {
     "name": "BELOW (2026)",
@@ -77090,8 +77090,8 @@
   "17235": {
     "name": "THE LAMENT OF AUTUMN (2026)",
     "last_season": 1,
-    "last_episode": 29,
-    "last_modified": 1793263671
+    "last_episode": 31,
+    "last_modified": 1793300075
   },
   "17237": {
     "name": "ADALET - HABEAS CORPUS (2026)",
@@ -77180,8 +77180,8 @@
   "17416": {
     "name": "WHERE THE MASK ENDS (2026)",
     "last_season": 1,
-    "last_episode": 21,
-    "last_modified": 1793219949
+    "last_episode": 22,
+    "last_modified": 1793300075
   },
   "17440": {
     "name": "ORGANIZE İŞLER: KARUN HAZINESI (2026) TR",
@@ -77750,8 +77750,8 @@
   "17852": {
     "name": "TIGERS SNIFF THE ROSE (2026)",
     "last_season": 1,
-    "last_episode": 13,
-    "last_modified": 1793193555
+    "last_episode": 15,
+    "last_modified": 1793300075
   },
   "17853": {
     "name": "YAGA (2026)",
@@ -81418,5 +81418,11 @@
     "last_season": 1,
     "last_episode": 10,
     "last_modified": 1793269408
+  },
+  "18822": {
+    "name": "BALARAW: BLOOD ISLAND (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1793300075
   }
 }
