@@ -1,4 +1,10 @@
 {
+  "/diziler/south-park.html": {
+    "group": "SOUTH PARK",
+    "year": "1997",
+    "imdb": "8.7",
+    "poster": "https://image.tmdb.org/t/p/w500/1CGwZCFX2qerXaXQJJUB3qUvxq7.jpg"
+  },
   "/diziler/small-prophets.html": {
     "group": "SMALL PROPHETS",
     "year": "2026",
@@ -70,11 +76,5 @@
     "year": "2023",
     "imdb": "8.6",
     "poster": "https://image.tmdb.org/t/p/w500/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg"
-  },
-  "/diziler/lupin.html": {
-    "group": "LUPIN",
-    "year": "2021",
-    "imdb": "7.6",
-    "poster": "https://image.tmdb.org/t/p/w500/h6Z2oogE4mJk2uffdtIlLhb0EHx.jpg"
   }
 }
