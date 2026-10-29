@@ -24430,5 +24430,21 @@
     "imdb_id": "tt32261958",
     "poster": "https://image.tmdb.org/t/p/original/yKLBWj6KXJNgRQtzZ9aCgSxyYEC.jpg",
     "genre": "Gizem"
+  },
+  "ali g: ben kimim?|2026": {
+    "title": "Ali G: Ben Kimim?",
+    "year": "2026",
+    "tmdb_id": 1727734,
+    "imdb_id": "tt43655467",
+    "poster": "https://image.tmdb.org/t/p/original/fkuwBgjE2KjuBl2zgDFf4bPbgz1.jpg",
+    "genre": "Komedi"
+  },
+  "kırmızı bülten|2021": {
+    "title": "Kırmızı Bülten",
+    "year": "2021",
+    "tmdb_id": 512195,
+    "imdb_id": "tt7991608",
+    "poster": "https://image.tmdb.org/t/p/original/kXWDfaKuw7dIdTDH7rK3BWoAZ53.jpg",
+    "genre": "Aksiyon"
   }
 }
