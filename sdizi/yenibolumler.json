@@ -1,4 +1,16 @@
 {
+  "/diziler/tokyo-revengers.html": {
+    "group": "TOKYO REVENGERS",
+    "year": "2021",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg"
+  },
+  "/diziler/the-apothecary-diaries.html": {
+    "group": "THE APOTHECARY DIARIES",
+    "year": "2023",
+    "imdb": "8.6",
+    "poster": "https://image.tmdb.org/t/p/w500/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg"
+  },
   "/diziler/avatar-seven-havens.html": {
     "group": "AVATAR: SEVEN HAVENS",
     "year": "2026",
@@ -64,17 +76,5 @@
     "year": "2011",
     "imdb": "6.8",
     "poster": "https://image.tmdb.org/t/p/w500/AvbMRqe3wSe4DBzIYl56CBlcalw.jpg"
-  },
-  "/diziler/bleach-thousand-year-blood-war.html": {
-    "group": "BLEACH: THOUSAND-YEAR BLOOD WAR",
-    "year": "2022",
-    "imdb": "9.0",
-    "poster": "https://image.tmdb.org/t/p/w500/cR4P0EJrLX2bdWij1VYLf8VB78M.jpg"
-  },
-  "/diziler/youth.html": {
-    "group": "YOUTH",
-    "year": "2026",
-    "imdb": "6.8",
-    "poster": "https://image.tmdb.org/t/p/w500/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg"
   }
 }
