@@ -1,4 +1,34 @@
 {
+  "/diziler/avatar-seven-havens.html": {
+    "group": "AVATAR: SEVEN HAVENS",
+    "year": "2026",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg"
+  },
+  "/diziler/jojos-bizarre-adventure.html": {
+    "group": "JOJO'S BIZARRE ADVENTURE",
+    "year": "2012",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg"
+  },
+  "/diziler/dexter-resurrection.html": {
+    "group": "DEXTER: RESURRECTION",
+    "year": "2025",
+    "imdb": "9.2",
+    "poster": "https://image.tmdb.org/t/p/w500/kEHZfSZhZKDot4wqurgIzMUNq1W.jpg"
+  },
+  "/diziler/dark-matter.html": {
+    "group": "DARK MATTER",
+    "year": "2024",
+    "imdb": "7.7",
+    "poster": "https://image.tmdb.org/t/p/w500/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg"
+  },
+  "/diziler/american-horror-story.html": {
+    "group": "AMERICAN HORROR STORY",
+    "year": "2011",
+    "imdb": "7.9",
+    "poster": "https://image.tmdb.org/t/p/w500/x2c3AvZeTyNehRZXabTojAxfDuR.jpg"
+  },
   "/diziler/south-park.html": {
     "group": "SOUTH PARK",
     "year": "1997",
@@ -46,35 +76,5 @@
     "year": "2026",
     "imdb": "6.8",
     "poster": "https://image.tmdb.org/t/p/w500/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg"
-  },
-  "/diziler/blue-box.html": {
-    "group": "BLUE BOX",
-    "year": "2024",
-    "imdb": "7.8",
-    "poster": "https://image.tmdb.org/t/p/w500/mVAWCCNBxPX3EUf9XhcFff4wW5V.jpg"
-  },
-  "/diziler/black-clover.html": {
-    "group": "BLACK CLOVER",
-    "year": "2017",
-    "imdb": "8.3",
-    "poster": "https://image.tmdb.org/t/p/w500/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg"
-  },
-  "/diziler/mobland.html": {
-    "group": "MOBLAND",
-    "year": "2025",
-    "imdb": "8.5",
-    "poster": "https://image.tmdb.org/t/p/w500/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg"
-  },
-  "/diziler/tokyo-revengers.html": {
-    "group": "TOKYO REVENGERS",
-    "year": "2021",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg"
-  },
-  "/diziler/the-apothecary-diaries.html": {
-    "group": "THE APOTHECARY DIARIES",
-    "year": "2023",
-    "imdb": "8.6",
-    "poster": "https://image.tmdb.org/t/p/w500/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg"
   }
 }
