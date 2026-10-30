@@ -1,4 +1,10 @@
 {
+  "/diziler/regular-show-the-lost-tapes.html": {
+    "group": "REGULAR SHOW: THE LOST TAPES",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/jqY3dj70ffSqKpM8XVUEToOEeLG.jpg"
+  },
   "/diziler/tokyo-revengers.html": {
     "group": "TOKYO REVENGERS",
     "year": "2021",
@@ -70,11 +76,5 @@
     "year": "2026",
     "imdb": "8.8",
     "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg"
-  },
-  "/diziler/unforgettable.html": {
-    "group": "UNFORGETTABLE",
-    "year": "2011",
-    "imdb": "6.8",
-    "poster": "https://image.tmdb.org/t/p/w500/AvbMRqe3wSe4DBzIYl56CBlcalw.jpg"
   }
 }
