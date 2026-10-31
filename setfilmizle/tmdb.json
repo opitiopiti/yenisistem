@@ -24454,5 +24454,29 @@
     "imdb_id": "tt38504402",
     "poster": "https://image.tmdb.org/t/p/original/evkzTdUgwWkFCdfm3HzPh4nUBXS.jpg",
     "genre": "Dram"
+  },
+  "çarpışma anı|2026": {
+    "title": "Çarpışma Anı",
+    "year": "2026",
+    "tmdb_id": 1571955,
+    "imdb_id": "tt38793125",
+    "poster": "https://image.tmdb.org/t/p/original/bSIOfOCZD6BPV3WZkJwpwAHiLmI.jpg",
+    "genre": "Dram"
+  },
+  "doğum günü hediyesi|2026": {
+    "title": "Doğum Günü Hediyesi",
+    "year": "2026",
+    "tmdb_id": 1789549,
+    "imdb_id": "tt38999812",
+    "poster": "https://image.tmdb.org/t/p/original/c8XAY50zXRzxgR0XIzu1liB6lAP.jpg",
+    "genre": "Komedi"
+  },
+  "kıyamet z 2: yeni dünya|2026": {
+    "title": "Kıyamet Z 2: Yeni Dünya",
+    "year": "2026",
+    "tmdb_id": 1507696,
+    "imdb_id": "tt37522541",
+    "poster": "https://image.tmdb.org/t/p/original/mUcJtoyGnYbYNmeIuZASUJfyj3x.jpg",
+    "genre": "Aksiyon"
   }
 }
