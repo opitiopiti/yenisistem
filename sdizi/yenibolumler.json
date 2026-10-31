@@ -1,4 +1,22 @@
 {
+  "/diziler/dead-end-job.html": {
+    "group": "DEAD-END JOB",
+    "year": "2026",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/vrDDqk9PAkIs0PQAbW5G0yhPVS3.jpg"
+  },
+  "/diziler/a-couple-of-lies.html": {
+    "group": "A COUPLE OF LIES",
+    "year": "2026",
+    "imdb": "6.0",
+    "poster": "https://image.tmdb.org/t/p/w500/xJupFp4GS4sRwH5xTEJLvvnNqaq.jpg"
+  },
+  "/diziler/nocturne.html": {
+    "group": "NOCTURNE",
+    "year": "2026",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg"
+  },
   "/diziler/regular-show-the-lost-tapes.html": {
     "group": "REGULAR SHOW: THE LOST TAPES",
     "year": "2026",
@@ -64,17 +82,5 @@
     "year": "2026",
     "imdb": "6.9",
     "poster": "https://image.tmdb.org/t/p/w500/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg"
-  },
-  "/diziler/helluva-boss.html": {
-    "group": "HELLUVA BOSS",
-    "year": "2020",
-    "imdb": "7.5",
-    "poster": "https://image.tmdb.org/t/p/w500/bcrp2ovxirKH81XSMYQZ7eEunzX.jpg"
-  },
-  "/diziler/visionquest.html": {
-    "group": "VISIONQUEST",
-    "year": "2026",
-    "imdb": "8.8",
-    "poster": "https://image.tmdb.org/t/p/w500/WGyAyBPncfuu8MZhLY9RtfZPM0.jpg"
   }
 }

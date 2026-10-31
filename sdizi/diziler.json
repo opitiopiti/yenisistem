@@ -17398,5 +17398,23 @@
     "year": "2011",
     "imdb": "6.8",
     "poster": "https://image.tmdb.org/t/p/w500/AvbMRqe3wSe4DBzIYl56CBlcalw.jpg"
+  },
+  "/diziler/dead-end-job.html": {
+    "group": "DEAD-END JOB",
+    "year": "2026",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/vrDDqk9PAkIs0PQAbW5G0yhPVS3.jpg"
+  },
+  "/diziler/a-couple-of-lies.html": {
+    "group": "A COUPLE OF LIES",
+    "year": "2026",
+    "imdb": "6.0",
+    "poster": "https://image.tmdb.org/t/p/w500/xJupFp4GS4sRwH5xTEJLvvnNqaq.jpg"
+  },
+  "/diziler/nocturne.html": {
+    "group": "NOCTURNE",
+    "year": "2026",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg"
   }
 }
