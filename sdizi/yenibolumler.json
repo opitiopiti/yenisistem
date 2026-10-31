@@ -1,4 +1,10 @@
 {
+  "/diziler/black-clover.html": {
+    "group": "BLACK CLOVER",
+    "year": "2017",
+    "imdb": "8.3",
+    "poster": "https://image.tmdb.org/t/p/w500/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg"
+  },
   "/diziler/dead-end-job.html": {
     "group": "DEAD-END JOB",
     "year": "2026",
@@ -76,11 +82,5 @@
     "year": "2026",
     "imdb": "8.1",
     "poster": "https://image.tmdb.org/t/p/w500/39pC4gr8GTD7dDcuoGLbbyZSyTk.jpg"
-  },
-  "/diziler/brothers.html": {
-    "group": "BROTHERS",
-    "year": "2026",
-    "imdb": "6.9",
-    "poster": "https://image.tmdb.org/t/p/w500/jD7ZQpDEZzAVReJzkOtmuFoIl2m.jpg"
   }
 }
