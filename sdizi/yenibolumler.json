@@ -1,4 +1,10 @@
 {
+  "/diziler/it-welcome-to-derry.html": {
+    "group": "IT: WELCOME TO DERRY",
+    "year": "2025",
+    "imdb": "8.3",
+    "poster": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg"
+  },
   "/diziler/mobland.html": {
     "group": "MOBLAND",
     "year": "2025",
@@ -76,11 +82,5 @@
     "year": "2011",
     "imdb": "7.9",
     "poster": "https://image.tmdb.org/t/p/w500/x2c3AvZeTyNehRZXabTojAxfDuR.jpg"
-  },
-  "/diziler/south-park.html": {
-    "group": "SOUTH PARK",
-    "year": "1997",
-    "imdb": "8.7",
-    "poster": "https://image.tmdb.org/t/p/w500/1CGwZCFX2qerXaXQJJUB3qUvxq7.jpg"
   }
 }
