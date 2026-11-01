@@ -1,4 +1,10 @@
 {
+  "/diziler/mobland.html": {
+    "group": "MOBLAND",
+    "year": "2025",
+    "imdb": "8.5",
+    "poster": "https://image.tmdb.org/t/p/w500/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg"
+  },
   "/diziler/black-clover.html": {
     "group": "BLACK CLOVER",
     "year": "2017",
@@ -76,11 +82,5 @@
     "year": "1997",
     "imdb": "8.7",
     "poster": "https://image.tmdb.org/t/p/w500/1CGwZCFX2qerXaXQJJUB3qUvxq7.jpg"
-  },
-  "/diziler/small-prophets.html": {
-    "group": "SMALL PROPHETS",
-    "year": "2026",
-    "imdb": "8.1",
-    "poster": "https://image.tmdb.org/t/p/w500/39pC4gr8GTD7dDcuoGLbbyZSyTk.jpg"
   }
 }
