@@ -24478,5 +24478,37 @@
     "imdb_id": "tt37522541",
     "poster": "https://image.tmdb.org/t/p/original/mUcJtoyGnYbYNmeIuZASUJfyj3x.jpg",
     "genre": "Aksiyon"
+  },
+  "kneecap|2024": {
+    "title": "Kneecap",
+    "year": "2024",
+    "tmdb_id": 1180629,
+    "imdb_id": "tt27367464",
+    "poster": "https://image.tmdb.org/t/p/original/gEbQi5QWUg3CQ9R5dwvPBvbOX17.jpg",
+    "genre": "Müzik"
+  },
+  "paramparça aşklar köpekler|2000": {
+    "title": "Paramparça Aşklar Köpekler",
+    "year": "2000",
+    "tmdb_id": 55,
+    "imdb_id": "tt0245712",
+    "poster": "https://image.tmdb.org/t/p/original/seB5OVzZ0wmNZ7Jk2AzNeWIT7Bu.jpg",
+    "genre": "Dram"
+  },
+  "neredesin be birader?|2000": {
+    "title": "Neredesin Be Birader?",
+    "year": "2000",
+    "tmdb_id": 134,
+    "imdb_id": "tt0190590",
+    "poster": "https://image.tmdb.org/t/p/original/5M2NgHd27Ba49GNQeADvsaFuHkk.jpg",
+    "genre": "Macera"
+  },
+  "kefaret|2007": {
+    "title": "Kefaret",
+    "year": "2007",
+    "tmdb_id": 4347,
+    "imdb_id": "tt0783233",
+    "poster": "https://image.tmdb.org/t/p/original/obvkP0iqymrk5fyAbE6PHXGbudb.jpg",
+    "genre": "Dram"
   }
 }
