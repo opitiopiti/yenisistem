@@ -4826,8 +4826,8 @@
   "1805": {
     "name": "IT: WELCOME TO DERRY (2025)",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1783174642
+    "last_episode": 9,
+    "last_modified": 1793619122
   },
   "1806": {
     "name": "BERLÍN Y LA DAMA DEL ARMIÑO (2026)",
@@ -49028,8 +49028,8 @@
   "9215": {
     "name": "TULSA KING (2022)",
     "last_season": 4,
-    "last_episode": 2,
-    "last_modified": 1793047866
+    "last_episode": 3,
+    "last_modified": 1793619122
   },
   "9216": {
     "name": "TYST I KLASSEN (2025)",
@@ -76646,8 +76646,8 @@
   "16735": {
     "name": "MAGICAL SISTERS LULUTTO LILLY: PART II (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1793062345
+    "last_episode": 5,
+    "last_modified": 1793619122
   },
   "16736": {
     "name": "PSYREN (2026) İNGİLİZCE",
@@ -81466,5 +81466,11 @@
     "last_season": 1,
     "last_episode": 4,
     "last_modified": 1793451432
+  },
+  "18955": {
+    "name": "SERAP - SARAB (2026)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1793619122
   }
 }
