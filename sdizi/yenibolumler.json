@@ -1,4 +1,10 @@
 {
+  "/diziler/youth.html": {
+    "group": "YOUTH",
+    "year": "2026",
+    "imdb": "6.8",
+    "poster": "https://image.tmdb.org/t/p/w500/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg"
+  },
   "/diziler/the-nanny.html": {
     "group": "THE NANNY",
     "year": "1993",
@@ -76,11 +82,5 @@
     "year": "2025",
     "imdb": "9.2",
     "poster": "https://image.tmdb.org/t/p/w500/kEHZfSZhZKDot4wqurgIzMUNq1W.jpg"
-  },
-  "/diziler/dark-matter.html": {
-    "group": "DARK MATTER",
-    "year": "2024",
-    "imdb": "7.7",
-    "poster": "https://image.tmdb.org/t/p/w500/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg"
   }
 }
