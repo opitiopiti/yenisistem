@@ -1,4 +1,10 @@
 {
+  "/diziler/the-gilded-age.html": {
+    "group": "THE GILDED AGE",
+    "year": "2022",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/4zXlBCc1rNTDtrfMCBFIGKWlwnC.jpg"
+  },
   "/diziler/youth.html": {
     "group": "YOUTH",
     "year": "2026",
@@ -76,11 +82,5 @@
     "year": "2012",
     "imdb": "8.4",
     "poster": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg"
-  },
-  "/diziler/dexter-resurrection.html": {
-    "group": "DEXTER: RESURRECTION",
-    "year": "2025",
-    "imdb": "9.2",
-    "poster": "https://image.tmdb.org/t/p/w500/kEHZfSZhZKDot4wqurgIzMUNq1W.jpg"
   }
 }
