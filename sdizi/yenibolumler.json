@@ -1,4 +1,16 @@
 {
+  "/diziler/unforgotten.html": {
+    "group": "UNFORGOTTEN",
+    "year": "2015",
+    "imdb": "8.3",
+    "poster": "https://image.tmdb.org/t/p/w500/bfysfq7JDBWKLpkKPaOU2FpfmB.jpg"
+  },
+  "/diziler/babylon-berlin.html": {
+    "group": "BABYLON BERLIN",
+    "year": "2017",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/om7Ri353ddUsg0gDJsOZIQJBRwL.jpg"
+  },
   "/diziler/the-gilded-age.html": {
     "group": "THE GILDED AGE",
     "year": "2022",
@@ -70,17 +82,5 @@
     "year": "2023",
     "imdb": "8.6",
     "poster": "https://image.tmdb.org/t/p/w500/e3ojpANrFnmJCyeBNTinYwyBCIN.jpg"
-  },
-  "/diziler/avatar-seven-havens.html": {
-    "group": "AVATAR: SEVEN HAVENS",
-    "year": "2026",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/u62d0BPqsdv2TUDifcMmoePbHPL.jpg"
-  },
-  "/diziler/jojos-bizarre-adventure.html": {
-    "group": "JOJO'S BIZARRE ADVENTURE",
-    "year": "2012",
-    "imdb": "8.4",
-    "poster": "https://image.tmdb.org/t/p/w500/ogAWwbh3frWtiTyyXrZaVFtqCgp.jpg"
   }
 }
