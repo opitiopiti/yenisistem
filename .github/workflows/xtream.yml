@@ -215,6 +215,7 @@ jobs:
           git push origin main
    
  
+
   part6:
     name: VPS M3U Sistemi
     runs-on: ubuntu-latest
@@ -225,8 +226,6 @@ jobs:
         env:
           DAILY_M3U_LINK: ${{ secrets.DAILY_M3U_LINK }}
         run: |
-          echo "VPS M3U sistemi tetikleniyor..."
-
           python3 - <<'PY'
           import os
           import sys
@@ -235,11 +234,8 @@ jobs:
 
           url = os.environ.get("DAILY_M3U_LINK", "").strip()
 
-          if not url:
-              sys.exit("HATA: DAILY_M3U_LINK secret boş!")
-
           if not url.startswith(("http://", "https://")):
-              sys.exit("HATA: Secret geçerli bir HTTP URL içermiyor!")
+              sys.exit("HATA: DAILY_M3U_LINK geçersiz veya boş!")
 
           try:
               request = urllib.request.Request(
@@ -249,18 +245,16 @@ jobs:
               )
 
               with urllib.request.urlopen(request, timeout=60) as response:
-                  print("HTTP STATUS:", response.status)
-                  print(response.read().decode("utf-8"))
-
-              print("M3U isteği başarıyla gönderildi.")
+                  if response.status == 202:
+                      print("✅ M3U isteği VPS tarafından kabul edildi.")
+                  else:
+                      print(f"✅ VPS yanıt verdi: HTTP {response.status}")
 
           except urllib.error.HTTPError as e:
-              print("HTTP HATA:", e.code)
-              sys.exit(1)
+              sys.exit(f"❌ VPS HTTP hatası: {e.code}")
 
           except Exception as e:
-              print("İstek başarısız:", type(e).__name__)
-              sys.exit(1)
+              sys.exit(f"❌ Bağlantı hatası: {type(e).__name__}")
           PY
           
   part20:
