@@ -1,5 +1,5 @@
 
-name: Sadece Günde Bir Defa Güncelleme Alan M3U Dosyaları
+name: GÜNLÜK BİR DEFA XTREAM
 
 on:
   workflow_dispatch:
