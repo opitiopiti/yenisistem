@@ -213,14 +213,10 @@ jobs:
           git add . || echo "No files"
           git commit -m "Sezonlukdizi çıktı güncellendi [auto]" || echo "No changes"
           git push origin main
-  
-  
-
+   
   part6:
     name: VPS M3U Sistemi
     runs-on: ubuntu-latest
-    needs: part3
-
     env:
       DAILY_M3U_LINK: ${{ secrets.DAILY_M3U_LINK }}
 
