@@ -224,7 +224,7 @@ jobs:
       - name: VPS M3U GET İsteği Gönder
         shell: bash
         env:
-          DAILY_M3U_LINK: ${{ secrets.DAILY_M3U_LINK }}
+          DAILY_M3U_LINK_DIZI: ${{ secrets.DAILY_M3U_LINK_DIZI }}
         run: |
           python3 - <<'PY'
           import os
@@ -232,10 +232,10 @@ jobs:
           import urllib.request
           import urllib.error
 
-          url = os.environ.get("DAILY_M3U_LINK", "").strip()
+          url = os.environ.get("DAILY_M3U_LINK_DIZI", "").strip()
 
           if not url.startswith(("http://", "https://")):
-              sys.exit("HATA: DAILY_M3U_LINK geçersiz veya boş!")
+              sys.exit("HATA: DAILY_M3U_LINK_DIZI geçersiz veya boş!")
 
           try:
               request = urllib.request.Request(
