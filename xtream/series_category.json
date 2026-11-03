@@ -11935,6 +11935,34 @@
     {
       "name": "Bass X Machina",
       "year": "2026"
+    },
+    {
+      "name": "THE TRAUMA CODE: HEROES ON CALL - ÇILGIN DOKTORUN GELİŞİ",
+      "year": "2025"
+    },
+    {
+      "name": "DEDEKTIF FORST",
+      "year": "2024"
+    },
+    {
+      "name": "BLUE EYE SAMURAI - KUSUR",
+      "year": "2023"
+    },
+    {
+      "name": "I AM A STALKER - DAVRANIŞ KALIBI",
+      "year": "2022"
+    },
+    {
+      "name": "THE PLAYLIST - VIZYON",
+      "year": "2022"
+    },
+    {
+      "name": "ALMA - SIS",
+      "year": "2022"
+    },
+    {
+      "name": "BALARAW",
+      "year": "2026"
     }
   ],
   "HBO DİZİLERİ": [
@@ -16627,6 +16655,10 @@
     {
       "name": "ANKARA HAVASI",
       "year": "2020"
+    },
+    {
+      "name": "KAN SAHILI",
+      "year": "2023"
     }
   ],
   "JTBC DİZİLERİ": [
@@ -20565,6 +20597,14 @@
     {
       "name": "THE REMARRIED EMPRESS",
       "year": "2026"
+    },
+    {
+      "name": "HATIRLA",
+      "year": "2023"
+    },
+    {
+      "name": "MARVEL - PELERİN & HANÇER",
+      "year": "2018"
     }
   ],
   "HUNAN TV DİZİLERİ": [
@@ -21860,6 +21900,10 @@
     },
     {
       "name": "KILIK DEĞIŞTIREN AŞK",
+      "year": "2026"
+    },
+    {
+      "name": "KILIK DEĞİŞTİREN AŞK",
       "year": "2026"
     }
   ],
@@ -23473,6 +23517,10 @@
     {
       "name": "BLUE MOUNTAIN STATE",
       "year": "1978"
+    },
+    {
+      "name": "SUPER PUMPED",
+      "year": "2022"
     }
   ],
   "TBS DİZİLERİ": [
@@ -30187,6 +30235,10 @@
     {
       "name": "NO ANGEL",
       "year": "2023"
+    },
+    {
+      "name": "ÜTOPYA",
+      "year": "2020"
     }
   ],
   "FRANCE 2 DİZİLERİ": [
@@ -37279,6 +37331,10 @@
     {
       "name": "KEEPING UP WITH THE KARDASHIANS",
       "year": "2007"
+    },
+    {
+      "name": "ÇAKALLAR",
+      "year": "2021"
     }
   ],
   "REELZ DİZİLERİ": [
@@ -44465,6 +44521,18 @@
     {
       "name": "FAZİLET HANIM VE KIZLARI",
       "year": "2017"
+    },
+    {
+      "name": "YABANCILAR",
+      "year": "2024"
+    },
+    {
+      "name": "ANNE",
+      "year": "2016"
+    },
+    {
+      "name": "YÜKSEK SOSYETE",
+      "year": "2016"
     }
   ],
   "KANAL D DİZİLERİ": [
@@ -44591,6 +44659,10 @@
     {
       "name": "KOCA KOCA YALANLAR",
       "year": "2018"
+    },
+    {
+      "name": "AİLE BABASI",
+      "year": "2019"
     }
   ],
   "GAIN DİZİLERİ": [
@@ -46105,6 +46177,10 @@
     {
       "name": "FACE TO FACE",
       "year": "1946"
+    },
+    {
+      "name": "FACE TO FACE",
+      "year": "2019"
     }
   ],
   "VICE TV DİZİLERİ": [
@@ -51827,6 +51903,12 @@
     {
       "name": "RE: MIND",
       "year": "2017"
+    }
+  ],
+  "WHAKAATA MĀORI DİZİLERİ": [
+    {
+      "name": "SON MASA",
+      "year": "2026"
     }
   ]
 }
