@@ -11,59 +11,6 @@ concurrency:
 
 jobs:
   part1:
-    name: setfilmizle filmler generator
-    runs-on: ubuntu-latest
-    env:
-      M3U_REPO_TOKEN: ${{ secrets.M3U_REPO_TOKEN }}
-
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-
-      - name: Clone scripts repo
-        run: |
-          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/tumsistem.git private_py
-
-      - name: Install dependencies
-        run: |
-          pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml aiohttp aiofiles python-dotenv httpx
-
-      - name: Run setfilmizle scripts
-        run: |
-          python private_py/setfilmizle/filmler.py || true
-
-      - name: Commit tmdb.json result
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-
-          git add setfilmizle/tmdb.json || true
-          git commit -m "SetFilmİzle Tmdb Json Update [auto]" || exit 0
-
-          git fetch origin main
-          git rebase origin/main
-
-          git push origin main
-
-      - name: Sync outputs
-        run: |
-          git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/daily_m3u.git oout_repo
-
-          cp *.m3u oout_repo/ || true
-
-          cd oout_repo
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
-
-          git add .
-          git commit -m "Auto Setfilmizle Filmler update" || exit 0
-          git push origin main
-
-  part2:
     name: VPS M3U Sistemi
     runs-on: ubuntu-latest
 
