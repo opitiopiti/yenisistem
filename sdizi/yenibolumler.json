@@ -1,4 +1,10 @@
 {
+  "/diziler/bass-x-machina.html": {
+    "group": "BASS X MACHINA",
+    "year": null,
+    "imdb": null,
+    "poster": null
+  },
   "/diziler/king-of-the-hill.html": {
     "group": "KING OF THE HILL",
     "year": "1997",
@@ -76,11 +82,5 @@
     "year": "2026",
     "imdb": "0.0",
     "poster": "https://image.tmdb.org/t/p/w500/jqY3dj70ffSqKpM8XVUEToOEeLG.jpg"
-  },
-  "/diziler/tokyo-revengers.html": {
-    "group": "TOKYO REVENGERS",
-    "year": "2021",
-    "imdb": "8.0",
-    "poster": "https://image.tmdb.org/t/p/w500/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg"
   }
 }
