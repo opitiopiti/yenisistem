@@ -69,7 +69,7 @@
 
   "dosyaload": { 
     "priority": 17, 
-    "enabled": true },
+    "enabled": false },
 
   "videopark": { 
     "priority": 18, 
