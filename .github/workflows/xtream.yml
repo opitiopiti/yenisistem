@@ -218,7 +218,6 @@ jobs:
   part6:
     name: VPS M3U Sistemi
     runs-on: ubuntu-latest
-    needs: part3
 
     steps:
       - name: VPS M3U GET İsteği Gönder
