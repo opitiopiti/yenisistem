@@ -306,7 +306,7 @@ jobs:
           git clone https://x-access-token:${{ secrets.M3U_REPO_TOKEN }}@github.com/opitiopiti/m3ufile.git privaate_m3ufilee
           
           cp sezonlukdizi.m3u privaate_m3ufilee/sezonlukdizi.m3u || echo "sezonlukdizi.m3u bulunamadı"
-          cp tümdiziler.m3u privaate_m3ufilee/tümdiziler.m3u|| echo "tümdiziler.m3u bulunamadı"
+          cp tumdiziler.m3u privaate_m3ufilee/tumdiziler.m3u|| echo "tumdiziler.m3u bulunamadı"
           
           cd privaate_m3ufilee
           git config user.name "GitHub Actions"
