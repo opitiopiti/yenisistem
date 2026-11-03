@@ -72,6 +72,7 @@ jobs:
         shell: bash
         env:
           GUNLUK_M3U_LINK_DIZI: ${{ secrets.GUNLUK_M3U_LINK_DIZI }}
+          GUNLUK_M3U_LINK_DIZI2: ${{ secrets.GUNLUK_M3U_LINK_DIZI2 }}
           GUNLUK_M3U_LINK_FILM: ${{ secrets.GUNLUK_M3U_LINK_FILM }}
         run: |
           python3 - <<'PY'
@@ -82,6 +83,7 @@ jobs:
 
           links = {
               "Dizi": os.environ.get("GUNLUK_M3U_LINK_DIZI", "").strip(),
+              "Dizi2": os.environ.get("GUNLUK_M3U_LINK_DIZI2", "").strip(),
               "Film": os.environ.get("GUNLUK_M3U_LINK_FILM", "").strip()
           }
 
