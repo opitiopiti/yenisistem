@@ -215,6 +215,7 @@ jobs:
           git push origin main
   
   
+
   part6:
     name: VPS M3U Sistemi
     runs-on: ubuntu-latest
@@ -225,8 +226,14 @@ jobs:
 
     steps:
       - name: VPS M3U GET İsteği Gönder
+        shell: bash
         run: |
           echo "VPS M3U sistemi tetikleniyor..."
+
+          if [ -z "$DAILY_M3U_LINK" ]; then
+            echo "::error::DAILY_M3U_LINK secret boş veya tanımlanmamış!"
+            exit 1
+          fi
 
           curl --fail-with-body \
                --silent \
@@ -234,12 +241,10 @@ jobs:
                --max-time 60 \
                --retry 3 \
                --retry-delay 5 \
-               --get \
                "$DAILY_M3U_LINK"
 
           echo ""
-          echo "M3U isteği VPS'ye gönderildi."
-
+          echo "M3U isteği başarıyla gönderildi."
           
   part20:
     name: xtreamsistemigecis
