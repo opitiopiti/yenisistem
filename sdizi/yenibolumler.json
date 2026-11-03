@@ -1,1 +1,86 @@
-{}
+{
+  "/diziler/king-of-the-hill.html": {
+    "group": "KING OF THE HILL",
+    "year": "1997",
+    "imdb": "7.5",
+    "poster": "https://image.tmdb.org/t/p/w500/e2xyMapmYgv4AuSoSDv9Y4pQlD6.jpg"
+  },
+  "/diziler/unforgotten.html": {
+    "group": "UNFORGOTTEN",
+    "year": "2015",
+    "imdb": "8.3",
+    "poster": "https://image.tmdb.org/t/p/w500/bfysfq7JDBWKLpkKPaOU2FpfmB.jpg"
+  },
+  "/diziler/babylon-berlin.html": {
+    "group": "BABYLON BERLIN",
+    "year": "2017",
+    "imdb": "8.4",
+    "poster": "https://image.tmdb.org/t/p/w500/om7Ri353ddUsg0gDJsOZIQJBRwL.jpg"
+  },
+  "/diziler/the-gilded-age.html": {
+    "group": "THE GILDED AGE",
+    "year": "2022",
+    "imdb": "8.1",
+    "poster": "https://image.tmdb.org/t/p/w500/4zXlBCc1rNTDtrfMCBFIGKWlwnC.jpg"
+  },
+  "/diziler/youth.html": {
+    "group": "YOUTH",
+    "year": "2026",
+    "imdb": "6.8",
+    "poster": "https://image.tmdb.org/t/p/w500/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg"
+  },
+  "/diziler/the-nanny.html": {
+    "group": "THE NANNY",
+    "year": "1993",
+    "imdb": "7.2",
+    "poster": "https://image.tmdb.org/t/p/w500/4syShXMjaPAP3mG81ekhruv94sd.jpg"
+  },
+  "/diziler/it-welcome-to-derry.html": {
+    "group": "IT: WELCOME TO DERRY",
+    "year": "2025",
+    "imdb": "8.3",
+    "poster": "https://image.tmdb.org/t/p/w500/nyy3BITeIjviv6PFIXtqvc8i6xi.jpg"
+  },
+  "/diziler/mobland.html": {
+    "group": "MOBLAND",
+    "year": "2025",
+    "imdb": "8.5",
+    "poster": "https://image.tmdb.org/t/p/w500/abeH7n5pcuQcwYcTxG6DTZvXLP1.jpg"
+  },
+  "/diziler/black-clover.html": {
+    "group": "BLACK CLOVER",
+    "year": "2017",
+    "imdb": "8.3",
+    "poster": "https://image.tmdb.org/t/p/w500/kaMisKeOoTBPxPkbC3OW7Wgt6ON.jpg"
+  },
+  "/diziler/dead-end-job.html": {
+    "group": "DEAD-END JOB",
+    "year": "2026",
+    "imdb": "7.6",
+    "poster": "https://image.tmdb.org/t/p/w500/vrDDqk9PAkIs0PQAbW5G0yhPVS3.jpg"
+  },
+  "/diziler/a-couple-of-lies.html": {
+    "group": "A COUPLE OF LIES",
+    "year": "2026",
+    "imdb": "6.0",
+    "poster": "https://image.tmdb.org/t/p/w500/xJupFp4GS4sRwH5xTEJLvvnNqaq.jpg"
+  },
+  "/diziler/nocturne.html": {
+    "group": "NOCTURNE",
+    "year": "2026",
+    "imdb": "7.8",
+    "poster": "https://image.tmdb.org/t/p/w500/nyvXVcPnHEwVmqCdzjjCsu1jqhm.jpg"
+  },
+  "/diziler/regular-show-the-lost-tapes.html": {
+    "group": "REGULAR SHOW: THE LOST TAPES",
+    "year": "2026",
+    "imdb": "0.0",
+    "poster": "https://image.tmdb.org/t/p/w500/jqY3dj70ffSqKpM8XVUEToOEeLG.jpg"
+  },
+  "/diziler/tokyo-revengers.html": {
+    "group": "TOKYO REVENGERS",
+    "year": "2021",
+    "imdb": "8.0",
+    "poster": "https://image.tmdb.org/t/p/w500/arB3L9pZZBSzUPSC8BEv8c3X0bF.jpg"
+  }
+}
