@@ -77696,8 +77696,8 @@
   "17619": {
     "name": "LOVE IN DISGUISE (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1793581688
+    "last_episode": 6,
+    "last_modified": 1793689894
   },
   "17644": {
     "name": "KILIK DEĞIŞTIREN AŞK (2026)",
@@ -77708,8 +77708,8 @@
   "17669": {
     "name": "PHONY (2026)",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1793115975
+    "last_episode": 4,
+    "last_modified": 1793689894
   },
   "17693": {
     "name": "CYBERPUNK: EDGERUNNERS 2 (2026) İNGİLİZCE",
@@ -81472,5 +81472,11 @@
     "last_season": 1,
     "last_episode": 10,
     "last_modified": 1793619122
+  },
+  "18979": {
+    "name": "BASS X MACHINA (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1793689894
   }
 }
