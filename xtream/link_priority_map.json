@@ -7,7 +7,7 @@
     "priority": 3, 
     "enabled": true },
 
-  "vavoo_live": { 
+  "api/vavoo": { 
     "priority": 2, 
     "enabled": true },
 
