@@ -5,10 +5,6 @@ on:
   schedule:
     - cron: '18 1 * * *'
 
-concurrency:
-  group: xtream-system
-  cancel-in-progress: false
-
 jobs:
   part1:
     name: VPS M3U Sistemi
