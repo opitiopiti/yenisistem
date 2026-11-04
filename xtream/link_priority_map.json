@@ -25,5 +25,13 @@
 
   "giniko": { 
     "priority": 7, 
-    "enabled": true }
+    "enabled": true },
+  
+  "sinewix": { 
+    "priority": 8, 
+    "enabled": true },
+  
+  "videopark": { 
+    "priority": 9, 
+    "enabled": true },
 }
