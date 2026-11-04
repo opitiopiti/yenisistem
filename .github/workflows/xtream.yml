@@ -182,8 +182,8 @@ jobs:
     steps:
       - name: Wait and Transition to Python Code
         run: |
-          echo "Waiting for 10 minutes..."
-          sleep 600
+          echo "Waiting for 15 minutes..."
+          sleep 900
           echo "Xtream sistem python kodlarına geçiş yapılıyor"
           
   part21:
