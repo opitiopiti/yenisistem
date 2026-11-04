@@ -7,7 +7,7 @@
     "priority": 3, 
     "enabled": true },
 
-  "api/vavoo": { 
+  "vavoo": { 
     "priority": 2, 
     "enabled": true },
 
