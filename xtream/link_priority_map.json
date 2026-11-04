@@ -30,8 +30,76 @@
   "sinewix": { 
     "priority": 8, 
     "enabled": true },
-  
-  "videopark": { 
+
+  "animeheavenme": { 
     "priority": 9, 
+    "enabled": true },
+
+  "rectv": { 
+    "priority": 10, 
+    "enabled": true },
+
+  "dizipod": { 
+    "priority": 11, 
+    "enabled": true },
+
+  "cortinaeaccoladed": { 
+    "priority": 12, 
+    "enabled": true },
+
+  "hlszone": { 
+    "priority": 13, 
+    "enabled": true },
+
+  "imagestoo": { 
+    "priority": 14, 
+    "enabled": true },
+
+  "diziroom": { 
+    "priority": 15, 
+    "enabled": true },
+
+  "vidmixi": { 
+    "priority": 16, 
+    "enabled": true },
+  
+  "filmekseni": { 
+    "priority": 17, 
+    "enabled": true },
+
+  "videoplays": { 
+    "priority": 18, 
+    "enabled": true },
+
+  "okru": { 
+    "priority": 19, 
+    "enabled": true },
+
+  "diziyou": { 
+    "priority": 20, 
+    "enabled": true },
+
+  "videopark": { 
+    "priority": 21, 
     "enabled": true }
+  
+  "dosyaload": { 
+    "priority": 995, 
+    "enabled": false },
+
+  "hdplayersystem": { 
+    "priority": 996, 
+    "enabled": false },
+  
+  "canlidizi": { 
+    "priority": 997, 
+    "enabled": false },
+
+  "mediafire": { 
+    "priority": 998, 
+    "enabled": false },
+  
+  "sibnet": { 
+    "priority": 999, 
+    "enabled": false },
 }
