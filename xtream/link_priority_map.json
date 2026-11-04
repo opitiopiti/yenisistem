@@ -87,6 +87,10 @@
     "priority": 21, 
     "enabled": true },
 
+  "diziroom": { 
+    "priority": 22, 
+    "enabled": true },
+
 
   "dizimor": { 
     "priority": 92, 
