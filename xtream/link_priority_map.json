@@ -3,124 +3,27 @@
     "priority": 1, 
     "enabled": true },
 
-  "vavooapp": { 
-    "priority": 3, 
-    "enabled": true },
-
   "vavoo": { 
     "priority": 2, 
     "enabled": true },
 
-  "atomtv": { 
+  "freeshot": { 
+    "priority": 3, 
+    "enabled": true },
+
+  "tabiyayinlari": { 
     "priority": 4, 
     "enabled": true },
 
-  "giniko": { 
-    "priority": 4, 
-    "enabled": true },
-
-  "animeheaven": { 
+  "justintv": { 
     "priority": 5, 
     "enabled": true },
 
-  "sinewix": { 
+  "atomtv": { 
     "priority": 6, 
     "enabled": true },
 
-  "rectv": { 
+  "giniko": { 
     "priority": 7, 
-    "enabled": true },
-
-  "dizipod": { 
-    "priority": 8, 
-    "enabled": true },
-
-  "cortinaeaccoladed": { 
-    "priority": 9, 
-    "enabled": true },
-
-  "hdplayersystem": { 
-    "priority": 10, 
-    "enabled": false },
-
-  "canlidizi": { 
-    "priority": 11, 
-    "enabled": true }, 
-  
-  "hlszone": { 
-    "priority": 12, 
-    "enabled": true }, 
-
-  "imagestoo": { 
-    "priority": 13, 
-    "enabled": true },
-
-  "vidmixi": { 
-    "priority": 14, 
-    "enabled": true },
-
-  "sibnet": {
-    "priority": 15, 
-    "enabled": false },
-
-  "okru": { 
-    "priority": 16, 
-    "enabled": true },
-
-  "dosyaload": { 
-    "priority": 17, 
-    "enabled": false },
-
-  "videopark": { 
-    "priority": 18, 
-    "enabled": true },
-
-  "diziyou": { 
-    "priority": 19, 
-    "enabled": true },
-
-  "setfilmizle": { 
-    "priority": 20, 
-    "enabled": true },
-
-  "filmekseni": { 
-    "priority": 21, 
-    "enabled": true },
-
-  "diziroom": { 
-    "priority": 22, 
-    "enabled": true },
-
-
-  "dizimor": { 
-    "priority": 92, 
-    "enabled": false },
-
-  "dizibol": { 
-    "priority": 93, 
-    "enabled": false },  
-
-  "diziyo": { 
-    "priority": 94, 
-    "enabled": false },
-
-  "dizigom": { 
-    "priority": 95, 
-    "enabled": false },
-
-  "mediafire": { 
-    "priority": 96, 
-    "enabled": false },
-
-  "vidlop": { 
-    "priority": 97, 
-    "enabled": false },
-
-  "vidmoly": { 
-    "priority": 98,     
-    "enabled": false },
-
-  "deneme": { 
-    "priority": 99, 
     "enabled": true }
 }
