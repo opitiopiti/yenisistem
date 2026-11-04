@@ -101,5 +101,5 @@
   
   "sibnet": { 
     "priority": 999, 
-    "enabled": false },
+    "enabled": false }
 }
