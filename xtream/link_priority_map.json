@@ -54,37 +54,41 @@
   "dizilab": { 
     "priority": 14, 
     "enabled": true },
-
-  "imagestoo": { 
+  
+  "videoplays": { 
     "priority": 15, 
     "enabled": true },
-
-  "diziroom": { 
+  
+  "imagestoo": { 
     "priority": 16, 
     "enabled": true },
 
-  "vidmixi": { 
+  "diziroom": { 
     "priority": 17, 
+    "enabled": true },
+
+  "vidmixi": { 
+    "priority": 18, 
     "enabled": true },
   
   "filmekseni": { 
-    "priority": 18, 
-    "enabled": true },
-
-  "videoplays": { 
     "priority": 19, 
     "enabled": true },
 
-  "okru": { 
+  "videoplays": { 
     "priority": 20, 
     "enabled": true },
 
-  "diziyou": { 
+  "okru": { 
     "priority": 21, 
     "enabled": true },
 
-  "videopark": { 
+  "diziyou": { 
     "priority": 22, 
+    "enabled": true },
+
+  "videopark": { 
+    "priority": 23, 
     "enabled": true },
   
   
