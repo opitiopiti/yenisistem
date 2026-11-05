@@ -82,6 +82,13 @@
   "videopark": { 
     "priority": 21, 
     "enabled": true },
+
+  "dizilab": { 
+    "priority": 22, 
+    "enabled": true },
+
+
+  
   
   "dosyaload": { 
     "priority": 995, 
