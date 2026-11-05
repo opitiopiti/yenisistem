@@ -5726,8 +5726,8 @@
   "1958": {
     "name": "MOBLAND (2025)",
     "last_season": 2,
-    "last_episode": 7,
-    "last_modified": 1793263671
+    "last_episode": 8,
+    "last_modified": 1793881177
   },
   "1959": {
     "name": "MAD MEN (2007)",
@@ -8102,8 +8102,8 @@
   "2360": {
     "name": "THE LOWDOWN (2025)",
     "last_season": 2,
-    "last_episode": 4,
-    "last_modified": 1793263671
+    "last_episode": 5,
+    "last_modified": 1793881177
   },
   "2361": {
     "name": "SNEAKY PETE (2015)",
@@ -19687,9 +19687,9 @@
   },
   "4304": {
     "name": "NORTH OF NORTH (2025)",
-    "last_season": 1,
+    "last_season": 2,
     "last_episode": 8,
-    "last_modified": 1783174642
+    "last_modified": 1793881177
   },
   "4305": {
     "name": "쇼핑왕 루이 (2016)",
@@ -35245,9 +35245,9 @@
   },
   "6914": {
     "name": "BLACK DOVES (2024)",
-    "last_season": 1,
+    "last_season": 2,
     "last_episode": 6,
-    "last_modified": 1783174642
+    "last_modified": 1793881177
   },
   "6915": {
     "name": "LA PALMA (2024)",
@@ -43471,9 +43471,9 @@
   },
   "8289": {
     "name": "BLUE SKIES (2026)",
-    "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1783174642
+    "last_season": 2,
+    "last_episode": 6,
+    "last_modified": 1793881177
   },
   "8290": {
     "name": "BREATHTAKING (2024)",
@@ -82064,8 +82064,8 @@
   "19299": {
     "name": "WHEN THE LIGHTS RISE (2026)",
     "last_season": 1,
-    "last_episode": 19,
-    "last_modified": 1793872401
+    "last_episode": 20,
+    "last_modified": 1793881177
   },
   "19300": {
     "name": "THE RULES (2026)",
@@ -82076,20 +82076,20 @@
   "19301": {
     "name": "OVERSEAS SECURITY GUARD (2026)",
     "last_season": 1,
-    "last_episode": 29,
-    "last_modified": 1793872401
+    "last_episode": 30,
+    "last_modified": 1793881177
   },
   "19302": {
     "name": "MY LOONG (2026)",
     "last_season": 1,
-    "last_episode": 22,
-    "last_modified": 1793872401
+    "last_episode": 23,
+    "last_modified": 1793881177
   },
   "19303": {
     "name": "LET’S GO (2026)",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1793872401
+    "last_episode": 9,
+    "last_modified": 1793881177
   },
   "19304": {
     "name": "BUILT IN LOVE (2026)",
@@ -82106,8 +82106,8 @@
   "19306": {
     "name": "YOU ALONE KNOW ME (2026)",
     "last_season": 1,
-    "last_episode": 24,
-    "last_modified": 1793872401
+    "last_episode": 26,
+    "last_modified": 1793881177
   },
   "19307": {
     "name": "GOOD BOY (2026)",
@@ -82124,8 +82124,8 @@
   "19309": {
     "name": "IDOL’S TABLE (2026)",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1793872401
+    "last_episode": 5,
+    "last_modified": 1793881177
   },
   "19310": {
     "name": "THE FORGOTTEN CONCUBINE’S REVENGE (2026)",
@@ -82156,5 +82156,29 @@
     "last_season": 1,
     "last_episode": 2,
     "last_modified": 1793872401
+  },
+  "19357": {
+    "name": "SOR (2026)",
+    "last_season": 1,
+    "last_episode": 12,
+    "last_modified": 1793881177
+  },
+  "19358": {
+    "name": "TWISTED TIE (2026)",
+    "last_season": 1,
+    "last_episode": 5,
+    "last_modified": 1793881177
+  },
+  "19359": {
+    "name": "TEACH ME, TOUCH ME (2026)",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1793881177
+  },
+  "19360": {
+    "name": "MISSION: MOMPOSSIBLE (2026)",
+    "last_season": 1,
+    "last_episode": 28,
+    "last_modified": 1793881177
   }
 }
