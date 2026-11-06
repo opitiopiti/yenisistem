@@ -11983,6 +11983,10 @@
     {
       "name": "TAKEN: NATALEE HOLLOWAY",
       "year": "2026"
+    },
+    {
+      "name": "STREET FOOD: LATIN AMERIKA",
+      "year": "2020"
     }
   ],
   "HBO DİZİLERİ": [
@@ -13412,6 +13416,14 @@
     },
     {
       "name": "CANNIBAL POET",
+      "year": "2026"
+    },
+    {
+      "name": "MELANIA REA",
+      "year": "2026"
+    },
+    {
+      "name": "THE PRODUCER",
       "year": "2026"
     }
   ],
@@ -15603,6 +15615,10 @@
     {
       "name": "CAMPUS DRIVERS",
       "year": "2026"
+    },
+    {
+      "name": "IMMATURE",
+      "year": "2019"
     }
   ],
   "APPLE TV+ DİZİLERİ": [
@@ -20687,6 +20703,10 @@
     {
       "name": "NICE TO MEET YOU",
       "year": "2025"
+    },
+    {
+      "name": "PALACE",
+      "year": "2026"
     }
   ],
   "TVN DİZİLERİ": [
@@ -24635,6 +24655,14 @@
     {
       "name": "MATLOCK",
       "year": "1986"
+    },
+    {
+      "name": "CUPERTINO",
+      "year": "2026"
+    },
+    {
+      "name": "ETERNALLY YOURS",
+      "year": "2026"
     }
   ],
   "STAN DİZİLERİ": [
@@ -30563,6 +30591,10 @@
     {
       "name": "BIONIC TRACE",
       "year": "2026"
+    },
+    {
+      "name": "NORTHERN STORM",
+      "year": "2026"
     }
   ],
   "WAVVE DİZİLERİ": [
@@ -30680,6 +30712,10 @@
     },
     {
       "name": "THE SOUND OF SUGAR CUBES",
+      "year": "2026"
+    },
+    {
+      "name": "FRANCESCA NEXT DOOR",
       "year": "2026"
     }
   ],
@@ -31955,6 +31991,10 @@
     {
       "name": "FURY",
       "year": "1955"
+    },
+    {
+      "name": "ANESTESIA",
+      "year": "2026"
     }
   ],
   "THE CW DİZİLERİ": [
@@ -36045,6 +36085,10 @@
     {
       "name": "THE LAMENT OF AUTUMN",
       "year": "2026"
+    },
+    {
+      "name": "SUNSHINE THROUGH THE RAIN",
+      "year": "2026"
     }
   ],
   "ITV1 DİZİLERİ": [
@@ -36503,6 +36547,10 @@
     {
       "name": "UFO",
       "year": "2021"
+    },
+    {
+      "name": "THE CURSE",
+      "year": "2022"
     }
   ],
   "RTÉ PLAYER DİZİLERİ": [
@@ -41822,6 +41870,10 @@
     },
     {
       "name": "YAGA",
+      "year": "2026"
+    },
+    {
+      "name": "I KILL THE BEAR",
       "year": "2026"
     }
   ],
@@ -51973,6 +52025,10 @@
     {
       "name": "THE ROSE OF VERSAILLES MOVIE",
       "year": "2025"
+    },
+    {
+      "name": "DEMONS' CREST",
+      "year": "2026"
     }
   ],
   "EXTRA DİZİLER": [
@@ -52085,6 +52141,10 @@
     {
       "name": "AWKWAFINA: THE UNLIKELY COOK",
       "year": "2026"
+    },
+    {
+      "name": "KNIFE EDGE CHASING MICHELIN STARS",
+      "year": "2025"
     }
   ],
   "ICI RADIO-CANADA TÉLÉ DİZİLERİ": [
@@ -52108,6 +52168,12 @@
   "WHAKAATA MĀORI DİZİLERİ": [
     {
       "name": "SON MASA",
+      "year": "2026"
+    }
+  ],
+  "FXNETWORKS DİZİLERİ": [
+    {
+      "name": "UNDER SIEGE",
       "year": "2026"
     }
   ]
