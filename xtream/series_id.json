@@ -6727,9 +6727,9 @@
   },
   "2129": {
     "name": "ALL'S FAIR (2025)",
-    "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1783174642
+    "last_season": 2,
+    "last_episode": 3,
+    "last_modified": 1793948194
   },
   "2130": {
     "name": "FALLING SKIES (2011)",
@@ -8024,8 +8024,8 @@
   "2347": {
     "name": "ABBOTT ELEMENTARY (2021)",
     "last_season": 6,
-    "last_episode": 4,
-    "last_modified": 1793263671
+    "last_episode": 5,
+    "last_modified": 1793948194
   },
   "2348": {
     "name": "뉴토피아 (2025)",
@@ -44708,8 +44708,8 @@
   "8495": {
     "name": "WHERE'S WANDA? (2024)",
     "last_season": 2,
-    "last_episode": 2,
-    "last_modified": 1793736372
+    "last_episode": 3,
+    "last_modified": 1793948194
   },
   "8496": {
     "name": "WHITE FEVER (2024)",
@@ -46447,9 +46447,9 @@
   },
   "8785": {
     "name": "THE ASSASSIN (2025)",
-    "last_season": 1,
+    "last_season": 2,
     "last_episode": 6,
-    "last_modified": 1783174642
+    "last_modified": 1793948194
   },
   "8786": {
     "name": "THE BEAST MUST DIE (2021)",
@@ -73922,8 +73922,8 @@
   "15653": {
     "name": "THE RAMPARTS OF ICE (2026)",
     "last_season": 2,
-    "last_episode": 5,
-    "last_modified": 1793263671
+    "last_episode": 6,
+    "last_modified": 1793948194
   },
   "15654": {
     "name": "İSTANBUL ANSIKLOPEDISI (2025)",
@@ -74402,8 +74402,8 @@
   "16072": {
     "name": "WAR (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1793323378
+    "last_episode": 6,
+    "last_modified": 1793948194
   },
   "16099": {
     "name": "THE APOTHECARY DIARIES 2ND SEASON (2025) İNGİLİZCE",
@@ -76922,8 +76922,8 @@
   "17020": {
     "name": "KARMA EXXEN (2025)",
     "last_season": 2,
-    "last_episode": 4,
-    "last_modified": 1793318131
+    "last_episode": 5,
+    "last_modified": 1793948194
   },
   "17021": {
     "name": "TAKE CHARGE OF MY HEART (2026)",
@@ -81428,8 +81428,8 @@
   "18847": {
     "name": "NOCTURNE (2026)",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1793323378
+    "last_episode": 3,
+    "last_modified": 1793948194
   },
   "18871": {
     "name": "A COUPLE OF LIES (2026)",
@@ -82088,8 +82088,8 @@
   "19303": {
     "name": "LET’S GO (2026)",
     "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1793881177
+    "last_episode": 10,
+    "last_modified": 1793948194
   },
   "19304": {
     "name": "BUILT IN LOVE (2026)",
@@ -82100,8 +82100,8 @@
   "19305": {
     "name": "A TRAP CALLED DESIRE (2026)",
     "last_season": 1,
-    "last_episode": 51,
-    "last_modified": 1793872401
+    "last_episode": 52,
+    "last_modified": 1793948194
   },
   "19306": {
     "name": "YOU ALONE KNOW ME (2026)",
@@ -82136,8 +82136,8 @@
   "19311": {
     "name": "SCARLET HEART ULLAVEE (2026)",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1793872401
+    "last_episode": 2,
+    "last_modified": 1793948194
   },
   "19312": {
     "name": "ANAESTHESIA (2026)",
@@ -82178,8 +82178,8 @@
   "19360": {
     "name": "MISSION: MOMPOSSIBLE (2026)",
     "last_season": 1,
-    "last_episode": 28,
-    "last_modified": 1793881177
+    "last_episode": 29,
+    "last_modified": 1793948194
   },
   "19403": {
     "name": "PRIVATE EYES WEST COAST (2026)",
@@ -82210,5 +82210,59 @@
     "last_season": 1,
     "last_episode": 9,
     "last_modified": 1793900690
+  },
+  "19450": {
+    "name": "WELCOME BACK, FIRST LOVE. (2026)",
+    "last_season": 1,
+    "last_episode": 5,
+    "last_modified": 1793948194
+  },
+  "19451": {
+    "name": "THE CHEMISTRY (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1793948194
+  },
+  "19452": {
+    "name": "LOVE ON HIRE (2026)",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1793948194
+  },
+  "19453": {
+    "name": "FOOL IN LOVE (2026)",
+    "last_season": 1,
+    "last_episode": 9,
+    "last_modified": 1793948194
+  },
+  "19454": {
+    "name": "FAMILY REGISTER (2026)",
+    "last_season": 1,
+    "last_episode": 74,
+    "last_modified": 1793948194
+  },
+  "19455": {
+    "name": "THE SOUND OF SUGAR CUBES (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1793948194
+  },
+  "19456": {
+    "name": "BIONIC TRACE (2026)",
+    "last_season": 1,
+    "last_episode": 21,
+    "last_modified": 1793948194
+  },
+  "19457": {
+    "name": "CAMPUS DRIVERS (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1793948194
+  },
+  "19458": {
+    "name": "AWKWAFINA: THE UNLIKELY COOK (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1793948194
   }
 }
