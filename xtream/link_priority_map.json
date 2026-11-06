@@ -93,7 +93,7 @@
     
   "dosyaload": { 
     "priority": 24, 
-    "enabled": true },
+    "enabled": false },
 
   "hdplayersystem": { 
     "priority": 25, 
