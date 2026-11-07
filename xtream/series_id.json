@@ -76466,8 +76466,8 @@
   "16519": {
     "name": "SGT. FROG (2026) (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1793426780
+    "last_episode": 6,
+    "last_modified": 1794032836
   },
   "16543": {
     "name": "A TALE OF THE SECRET SAINT (2026) İNGİLİZCE",
@@ -82426,5 +82426,11 @@
     "last_season": 1,
     "last_episode": 10,
     "last_modified": 1794008276
+  },
+  "19618": {
+    "name": "THE MADAME BLANC MYSTERIES (2021)",
+    "last_season": 5,
+    "last_episode": 2,
+    "last_modified": 1794032836
   }
 }
