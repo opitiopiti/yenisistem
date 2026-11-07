@@ -1,5 +1,13 @@
 [
   {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/tumdiziler.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/tumdiziler2.m3u",
+    "enabled": true
+  },
+  {
     "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/sabitm3u/denemeseries.m3u",
     "enabled": true
   },
@@ -13,10 +21,6 @@
   },
   {
     "url": "https://raw.githubusercontent.com/opitiopiti/daily_m3u/main/sinewix_diziler.m3u",
-    "enabled": true
-  },
-  {
-    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/tumdiziler.m3u",
     "enabled": true
   },
   {
