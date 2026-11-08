@@ -90,24 +90,31 @@
   "videopark": { 
     "priority": 23, 
     "enabled": true },
+
+  "setfilmizle": { 
+    "priority": 24, 
+    "enabled": true },
     
   "dosyaload": { 
-    "priority": 24, 
-    "enabled": false },
+    "priority": 25, 
+    "enabled": true },
+
+
+  
 
   "hdplayersystem": { 
-    "priority": 25, 
+    "priority": 99, 
     "enabled": false },
   
   "canlidizi": { 
-    "priority": 26, 
+    "priority": 98, 
     "enabled": false },
 
   "mediafire": { 
-    "priority": 27, 
+    "priority": 10101, 
     "enabled": false },
   
   "sibnet": { 
-    "priority": 28, 
+    "priority": 545454, 
     "enabled": false }
 }
