@@ -221,9 +221,9 @@ jobs:
           
           cp tumdiziler.m3u privaate_m3ufilee/tumdiziler.m3u|| echo "tumdiziler.m3u bulunamadı"
           cp tumdiziler2.m3u privaate_m3ufilee/tumdiziler2.m3u|| echo "tumdiziler2.m3u bulunamadı"
-          cp tumdiziler3.m3u privaate_m3ufilee/tumdiziler2.m3u|| echo "tumdiziler3.m3u bulunamadı"
-          cp tumdiziler4.m3u privaate_m3ufilee/tumdiziler2.m3u|| echo "tumdiziler4.m3u bulunamadı"
-          cp tumdiziler5.m3u privaate_m3ufilee/tumdiziler2.m3u|| echo "tumdiziler5.m3u bulunamadı"
+          cp tumdiziler3.m3u privaate_m3ufilee/tumdiziler3.m3u|| echo "tumdiziler3.m3u bulunamadı"
+          cp tumdiziler4.m3u privaate_m3ufilee/tumdiziler4.m3u|| echo "tumdiziler4.m3u bulunamadı"
+          cp tumdiziler5.m3u privaate_m3ufilee/tumdiziler5.m3u|| echo "tumdiziler5.m3u bulunamadı"
           cp tumfilmler.m3u privaate_m3ufilee/tumfilmler.m3u|| echo "tumfilmer.m3u bulunamadı"
           
           cd privaate_m3ufilee
