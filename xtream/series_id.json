@@ -8239,9 +8239,9 @@
   },
   "2383": {
     "name": "FIRE COUNTRY (2022)",
-    "last_season": 4,
-    "last_episode": 20,
-    "last_modified": 1794256970
+    "last_season": 5,
+    "last_episode": 1,
+    "last_modified": 1794263233
   },
   "2384": {
     "name": "OUTLAST: THE JUNGLE (2026)",
@@ -82654,5 +82654,11 @@
     "last_season": 1,
     "last_episode": 7,
     "last_modified": 1794256970
+  },
+  "19942": {
+    "name": "DOOZIE'S DOGHOUSE (2026)",
+    "last_season": 1,
+    "last_episode": 7,
+    "last_modified": 1794263233
   }
 }
