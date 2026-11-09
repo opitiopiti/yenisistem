@@ -6806,8 +6806,8 @@
   "2142": {
     "name": "THE GILDED AGE (2022)",
     "last_season": 4,
-    "last_episode": 1,
-    "last_modified": 1793634440
+    "last_episode": 2,
+    "last_modified": 1794207507
   },
   "2143": {
     "name": "HOME IMPROVEMENT (1991)",
@@ -41696,8 +41696,8 @@
   "7993": {
     "name": "MAIGRET (2025)",
     "last_season": 2,
-    "last_episode": 3,
-    "last_modified": 1793736372
+    "last_episode": 4,
+    "last_modified": 1794207507
   },
   "7994": {
     "name": "MARRY MY HUSBAND: JAPAN (2025)",
@@ -81278,8 +81278,8 @@
   "18653": {
     "name": "THE MOB (2026)",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1793634440
+    "last_episode": 6,
+    "last_modified": 1794207507
   },
   "18658": {
     "name": "SEVDİĞİM SENSİN (2026) TR",
@@ -82292,8 +82292,8 @@
   "19505": {
     "name": "CUPERTINO (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1793985291
+    "last_episode": 6,
+    "last_modified": 1794207507
   },
   "19506": {
     "name": "KNIFE EDGE CHASING MICHELIN STARS (2025)",
@@ -82630,5 +82630,11 @@
     "last_season": 1,
     "last_episode": 6,
     "last_modified": 1794188453
+  },
+  "19827": {
+    "name": "STOKES TWINS (2026)",
+    "last_season": 2,
+    "last_episode": 9,
+    "last_modified": 1794207507
   }
 }
