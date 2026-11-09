@@ -8,6 +8,18 @@
     "enabled": true
   },
   {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/tumdiziler3.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/tumdiziler4.m3u",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/tumdiziler5.m3u",
+    "enabled": true
+  },
+  {
     "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/sabitm3u/denemeseries.m3u",
     "enabled": true
   },
