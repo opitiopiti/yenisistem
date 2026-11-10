@@ -24,10 +24,6 @@
     "enabled": true
   },
   {
-    "url": "https://raw.githubusercontent.com/opitiopiti/m3ufile/main/sezonlukdizi.m3u",
-    "enabled": true
-  },
-  {
     "url": "https://raw.githubusercontent.com/opitiopiti/daily_m3u/main/sinewix_animeler.m3u",
     "enabled": true
   },
