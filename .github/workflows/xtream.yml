@@ -44,20 +44,23 @@ jobs:
         run: python private_py/vavoosistemleri/vavooapp.py || true
   
       # PNG ve JSON dosyalarini mevcut normal repoya kaydet
+
       - name: Commit and Push Vavoo Logos
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
   
-          git add -A -- ':(glob)v/**/*.png' ':(glob)v/**/*.json'
+          git add -A v/
+          git reset -q -- ':(glob)v/**/*.m3u' ':(glob)v/*.m3u' || true
   
           if ! git diff --cached --quiet; then
             git commit -m "Update Vavoo logos"
             git push origin HEAD:main
-            echo "PNG ve JSON dosyalari basariyla push edildi."
+            echo "v klasoru GitHub'a yuklendi (M3U haric)."
           else
-            echo "PNG veya JSON degisikligi bulunamadi."
+            echo "Degisiklik bulunamadi."
           fi
+
   
       # M3U dosyalarini gizli repoya gonder
       - name: Sync M3U outputs to private repo
