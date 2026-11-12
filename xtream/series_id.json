@@ -5726,8 +5726,8 @@
   "1958": {
     "name": "MOBLAND (2025)",
     "last_season": 2,
-    "last_episode": 8,
-    "last_modified": 1794148884
+    "last_episode": 9,
+    "last_modified": 1794499637
   },
   "1959": {
     "name": "MAD MEN (2007)",
@@ -8024,8 +8024,8 @@
   "2347": {
     "name": "ABBOTT ELEMENTARY (2021)",
     "last_season": 6,
-    "last_episode": 5,
-    "last_modified": 1794266552
+    "last_episode": 6,
+    "last_modified": 1794499637
   },
   "2348": {
     "name": "뉴토피아 (2025)",
@@ -8372,8 +8372,8 @@
   "2405": {
     "name": "THE KARDASHIANS (2022)",
     "last_season": 8,
-    "last_episode": 5,
-    "last_modified": 1794266552
+    "last_episode": 6,
+    "last_modified": 1794499637
   },
   "2406": {
     "name": "HACKS (2021)",
@@ -50767,9 +50767,9 @@
   },
   "9511": {
     "name": "THE EMPRESS (2022)",
-    "last_season": 2,
+    "last_season": 3,
     "last_episode": 6,
-    "last_modified": 1783174642
+    "last_modified": 1794499637
   },
   "9512": {
     "name": "THE FILES OF YOUNG KINDAICHI (1995)",
@@ -71269,9 +71269,9 @@
   },
   "14602": {
     "name": "ETHOS (2020) TR",
-    "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1784620867
+    "last_season": 2,
+    "last_episode": 1,
+    "last_modified": 1794499637
   },
   "14603": {
     "name": "RESPECT (2020) TR",
@@ -73387,9 +73387,9 @@
   },
   "15538": {
     "name": "BIR BAŞKADIR (2020)",
-    "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1789905906
+    "last_season": 2,
+    "last_episode": 4,
+    "last_modified": 1794499637
   },
   "15539": {
     "name": "BIR YERALTI SIT-COM'U (2021)",
@@ -74336,8 +74336,8 @@
   "16009": {
     "name": "FX FIGHTER KURUMI-CHAN (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1794266552
+    "last_episode": 7,
+    "last_modified": 1794499637
   },
   "16010": {
     "name": "GHOST MEETS GAL! (2026) İNGİLİZCE",
@@ -82532,8 +82532,8 @@
   "19678": {
     "name": "THE SILENT STORM (2026)",
     "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1794188453
+    "last_episode": 12,
+    "last_modified": 1794499637
   },
   "19679": {
     "name": "CITY OF GOD: THE FIGHT RAGES ON (2024)",
@@ -82804,5 +82804,29 @@
     "last_season": 1,
     "last_episode": 10,
     "last_modified": 1794418091
+  },
+  "20187": {
+    "name": "MIRACLES OF THE ER (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1794499637
+  },
+  "20188": {
+    "name": "GET HUGE: LOOKSMAXXING TO DEATH (2026)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1794499637
+  },
+  "20189": {
+    "name": "WHAT A BOSS WANTS (0000)",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1794499637
+  },
+  "20190": {
+    "name": "SALTY COFFEE (2026)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1794499637
   }
 }
