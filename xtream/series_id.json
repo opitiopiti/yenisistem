@@ -76898,8 +76898,8 @@
   "16993": {
     "name": "THE ICEBLADE SORCERER SHALL RULE THE WORLD II (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1794266552
+    "last_episode": 6,
+    "last_modified": 1794519056
   },
   "16994": {
     "name": "BELOW (2026)",
@@ -76958,8 +76958,8 @@
   "17050": {
     "name": "WELSH & SHEDAR (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1794266552
+    "last_episode": 3,
+    "last_modified": 1794519056
   },
   "17052": {
     "name": "TAKE CHARGE OF MY HEART (0000)",
@@ -82820,13 +82820,25 @@
   "20189": {
     "name": "WHAT A BOSS WANTS (0000)",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1794499637
+    "last_episode": 2,
+    "last_modified": 1794519056
   },
   "20190": {
     "name": "SALTY COFFEE (2026)",
     "last_season": 1,
     "last_episode": 10,
     "last_modified": 1794499637
+  },
+  "20235": {
+    "name": "ALICIAS LAW (2026)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1794519056
+  },
+  "20236": {
+    "name": "IMAM AL‑GHAZALI, THE PROOF OF ISLAM (2026)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1794519056
   }
 }
