@@ -77473,9 +77473,9 @@
   },
   "17536": {
     "name": "NCIS: ORIGINS (1991)",
-    "last_season": 2,
-    "last_episode": 12,
-    "last_modified": 1792340245
+    "last_season": 3,
+    "last_episode": 2,
+    "last_modified": 1794562176
   },
   "17537": {
     "name": "NIPPON SANGOKU: KIZIL GÜNEŞIN ÜÇ ULUSU (2026)",
@@ -77678,8 +77678,8 @@
   "17593": {
     "name": "SEVDAN BIR ATEŞ (2026) TR",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1792357865
+    "last_episode": 10,
+    "last_modified": 1794562176
   },
   "17617": {
     "name": "YOUR LETTER (2025) İNGİLİZCE",
@@ -77702,8 +77702,8 @@
   "17644": {
     "name": "KILIK DEĞIŞTIREN AŞK (2026)",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1792489677
+    "last_episode": 4,
+    "last_modified": 1794562176
   },
   "17669": {
     "name": "PHONY (2026)",
@@ -82900,5 +82900,23 @@
     "last_season": 1,
     "last_episode": 8,
     "last_modified": 1794547765
+  },
+  "20379": {
+    "name": "DOOZIE'NIN KÖPEK EVI (2026)",
+    "last_season": 1,
+    "last_episode": 7,
+    "last_modified": 1794562176
+  },
+  "20380": {
+    "name": "MATTHEW PERRY'NIN SON YILLARI (2026)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1794562176
+  },
+  "20381": {
+    "name": "RÜZGARIN HIKAYESI (2026)",
+    "last_season": 1,
+    "last_episode": 13,
+    "last_modified": 1794562176
   }
 }
