@@ -36223,9 +36223,9 @@
   },
   "7077": {
     "name": "ŞEYTANIN AKLINA GELMEZ (2023)",
-    "last_season": 2,
-    "last_episode": 12,
-    "last_modified": 1783174642
+    "last_season": 3,
+    "last_episode": 5,
+    "last_modified": 1794547765
   },
   "7078": {
     "name": "GAUS ELECTRONICS (2022)",
@@ -47066,8 +47066,8 @@
   "8888": {
     "name": "BROS (2024)",
     "last_season": 2,
-    "last_episode": 8,
-    "last_modified": 1794504745
+    "last_episode": 9,
+    "last_modified": 1794547765
   },
   "8889": {
     "name": "BUPKIS (2023)",
@@ -49580,8 +49580,8 @@
   "9308": {
     "name": "YERALTI (2026)",
     "last_season": 2,
-    "last_episode": 5,
-    "last_modified": 1794148884
+    "last_episode": 6,
+    "last_modified": 1794547765
   },
   "9309": {
     "name": "HEPSI ONUN SUÇU (2025)",
@@ -71270,8 +71270,8 @@
   "14602": {
     "name": "ETHOS (2020) TR",
     "last_season": 2,
-    "last_episode": 1,
-    "last_modified": 1794499637
+    "last_episode": 4,
+    "last_modified": 1794547765
   },
   "14603": {
     "name": "RESPECT (2020) TR",
@@ -76862,8 +76862,8 @@
   "16941": {
     "name": "TUZLU KAHVE (2026) TR",
     "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1794264438
+    "last_episode": 10,
+    "last_modified": 1794547765
   },
   "16965": {
     "name": "ONE OUTS (2008) İNGİLİZCE",
@@ -76880,8 +76880,8 @@
   "16967": {
     "name": "HAYSIYET (2026) TR",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1794266552
+    "last_episode": 9,
+    "last_modified": 1794547765
   },
   "16968": {
     "name": "KÜÇÜK MUCIZELER (2026)",
@@ -77840,8 +77840,8 @@
   "18043": {
     "name": "KILIK DEĞİŞTİREN AŞK (2026)",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1794324151
+    "last_episode": 8,
+    "last_modified": 1794547765
   },
   "18044": {
     "name": "SENDEN BAŞKA BİR AŞK (2026)",
@@ -78524,8 +78524,8 @@
   "18157": {
     "name": "OYUNA DEVAM (2025)",
     "last_season": 2,
-    "last_episode": 2,
-    "last_modified": 1793813710
+    "last_episode": 3,
+    "last_modified": 1794547765
   },
   "18158": {
     "name": "GENÇ MİLYONERLER (2025)",
@@ -79543,9 +79543,9 @@
   },
   "18328": {
     "name": "YÜZÜKLERİN EFENDİSİ: GÜÇ YÜZÜKLERİ (2022)",
-    "last_season": 2,
-    "last_episode": 8,
-    "last_modified": 1793047866
+    "last_season": 3,
+    "last_episode": 4,
+    "last_modified": 1794547765
   },
   "18329": {
     "name": "GÜNEŞİN KARANLIĞINDA (2022)",
@@ -79951,9 +79951,9 @@
   },
   "18399": {
     "name": "BİR BAŞKADIR (2020)",
-    "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1793047866
+    "last_season": 2,
+    "last_episode": 4,
+    "last_modified": 1794547765
   },
   "18400": {
     "name": "DİJİTAL FLÖRTLEŞME (2020) TR",
@@ -81997,9 +81997,9 @@
   },
   "19204": {
     "name": "İYİ GÜNDE, KÖTÜ GÜNDE (2024) TR",
-    "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1793813710
+    "last_season": 2,
+    "last_episode": 9,
+    "last_modified": 1794547765
   },
   "19205": {
     "name": "ANDY WARHOL GÜNLÜKLERİ (2022)",
@@ -82882,5 +82882,23 @@
     "last_season": 1,
     "last_episode": 5,
     "last_modified": 1794533376
+  },
+  "20332": {
+    "name": "DOOZİE'NİN KÖPEK EVİ (2026)",
+    "last_season": 1,
+    "last_episode": 7,
+    "last_modified": 1794547765
+  },
+  "20333": {
+    "name": "ALİCİA'NIN KANUNLARI (2026)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1794547765
+  },
+  "20334": {
+    "name": "IŞIK VE GÖLGE (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1794547765
   }
 }
