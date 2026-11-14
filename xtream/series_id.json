@@ -76466,8 +76466,8 @@
   "16519": {
     "name": "SGT. FROG (2026) (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1794266552
+    "last_episode": 7,
+    "last_modified": 1794636074
   },
   "16543": {
     "name": "A TALE OF THE SECRET SAINT (2026) İNGİLİZCE",
@@ -77414,8 +77414,8 @@
   "17526": {
     "name": "L'ARÈNE (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1792340245
+    "last_episode": 10,
+    "last_modified": 1794636074
   },
   "17527": {
     "name": "LES DISPARUES DE LA GARE (1995)",
@@ -80858,8 +80858,8 @@
   "18554": {
     "name": "닥터X: 하얀 마피아의 시대 (2026)",
     "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1794148884
+    "last_episode": 11,
+    "last_modified": 1794636074
   },
   "18555": {
     "name": "EVLİLİK GÜZELDİR (2026)",
@@ -82978,5 +82978,11 @@
     "last_season": 1,
     "last_episode": 3,
     "last_modified": 1794621703
+  },
+  "20571": {
+    "name": "GALİÇYA'DA CİNAYET (2026)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1794636074
   }
 }
