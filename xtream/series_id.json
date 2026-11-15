@@ -2780,8 +2780,8 @@
   "1464": {
     "name": "BLUE BOX (2024)",
     "last_season": 2,
-    "last_episode": 5,
-    "last_modified": 1794162243
+    "last_episode": 6,
+    "last_modified": 1794749648
   },
   "1465": {
     "name": "SAKAMOTO DAYS (2025)",
@@ -74366,8 +74366,8 @@
   "16040": {
     "name": "UMAYURU: FULL GATE! (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1794461372
+    "last_episode": 8,
+    "last_modified": 1794749648
   },
   "16041": {
     "name": "UMAYURU: PRETTY GRAY (2025) İNGİLİZCE",
@@ -76550,14 +76550,14 @@
   "16648": {
     "name": "AOASHI SEASON 2 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1794148884
+    "last_episode": 7,
+    "last_modified": 1794749648
   },
   "16649": {
     "name": "BLUE BOX SEASON 2 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1794162243
+    "last_episode": 6,
+    "last_modified": 1794749648
   },
   "16650": {
     "name": "HOTEL INHUMANS (2025) İNGİLİZCE",
@@ -76634,8 +76634,8 @@
   "16710": {
     "name": "GET JIRO (2026)",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1794162243
+    "last_episode": 8,
+    "last_modified": 1794749648
   },
   "16734": {
     "name": "HI, I'M A WITCH, AND MY CRUSH WANTS ME TO MAKE A LOVE POTION (2026) İNGİLİZCE",
@@ -77012,14 +77012,14 @@
   "17152": {
     "name": "ACE OF THE DIAMOND: ACT II 2ND SEASON - PART II (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1794148884
+    "last_episode": 6,
+    "last_modified": 1794749648
   },
   "17153": {
     "name": "MISSION: YOZAKURA FAMILY SEASON 2 - PART II (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1794162243
+    "last_episode": 6,
+    "last_modified": 1794749648
   },
   "17177": {
     "name": "DRAGON BALL SUPER: BEERUS (2026) İNGİLİZCE",
@@ -82538,8 +82538,8 @@
   "19679": {
     "name": "CITY OF GOD: THE FIGHT RAGES ON (2024)",
     "last_season": 2,
-    "last_episode": 1,
-    "last_modified": 1794148884
+    "last_episode": 2,
+    "last_modified": 1794749648
   },
   "19680": {
     "name": "TREASURE ISLAND (2026)",
@@ -83008,5 +83008,23 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1794691746
+  },
+  "20760": {
+    "name": "ALAN’S UNIVERSE (2026)",
+    "last_season": 1,
+    "last_episode": 32,
+    "last_modified": 1794749648
+  },
+  "20761": {
+    "name": "BLOSSOM IN DARKNESS (2026)",
+    "last_season": 1,
+    "last_episode": 5,
+    "last_modified": 1794749648
+  },
+  "20762": {
+    "name": "GIFT (2026)",
+    "last_season": 1,
+    "last_episode": 1,
+    "last_modified": 1794749648
   }
 }
