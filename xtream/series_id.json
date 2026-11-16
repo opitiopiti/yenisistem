@@ -74899,9 +74899,9 @@
   },
   "16232": {
     "name": "THE CHOSEN (2019)",
-    "last_season": 5,
-    "last_episode": 8,
-    "last_modified": 1790989296
+    "last_season": 6,
+    "last_episode": 3,
+    "last_modified": 1794792550
   },
   "16233": {
     "name": "CARL WEBER'S THE FAMILY BUSINESS (2018)",
@@ -82202,8 +82202,8 @@
   "19406": {
     "name": "WHEN I MEET THE MOON (2026)",
     "last_season": 1,
-    "last_episode": 25,
-    "last_modified": 1794778163
+    "last_episode": 27,
+    "last_modified": 1794792550
   },
   "19407": {
     "name": "LOVE IN THE ASHES (2026)",
@@ -82688,8 +82688,8 @@
   "19991": {
     "name": "THIRTY-SIX STRATAGEMS: SLAY (2026)",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1794346773
+    "last_episode": 15,
+    "last_modified": 1794792550
   },
   "19992": {
     "name": "THIRTEEN TYPES OF LOVE (2026)",
@@ -83000,14 +83000,14 @@
   "20666": {
     "name": "FACES REBORN (2026)",
     "last_season": 1,
-    "last_episode": 13,
-    "last_modified": 1794778163
+    "last_episode": 14,
+    "last_modified": 1794792550
   },
   "20713": {
     "name": "SWORD & SILENCE (2026)",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1794691746
+    "last_episode": 2,
+    "last_modified": 1794792550
   },
   "20760": {
     "name": "ALAN’S UNIVERSE (2026)",
@@ -83026,5 +83026,17 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1794749648
+  },
+  "20809": {
+    "name": "THE LEFTOVERS (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1794792550
+  },
+  "20810": {
+    "name": "THE HUSTLER’S GAMBIT (2026)",
+    "last_season": 1,
+    "last_episode": 24,
+    "last_modified": 1794792550
   }
 }
