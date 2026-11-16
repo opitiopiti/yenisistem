@@ -5780,8 +5780,8 @@
   "1967": {
     "name": "TRACKER (2024)",
     "last_season": 4,
-    "last_episode": 5,
-    "last_modified": 1793581688
+    "last_episode": 6,
+    "last_modified": 1794835799
   },
   "1968": {
     "name": "PEACEMAKER (2022)",
@@ -6806,8 +6806,8 @@
   "2142": {
     "name": "THE GILDED AGE (2022)",
     "last_season": 4,
-    "last_episode": 2,
-    "last_modified": 1794207507
+    "last_episode": 3,
+    "last_modified": 1794835799
   },
   "2143": {
     "name": "HOME IMPROVEMENT (1991)",
@@ -37976,8 +37976,8 @@
   "7370": {
     "name": "MARSHALS (2026)",
     "last_season": 2,
-    "last_episode": 5,
-    "last_modified": 1793581688
+    "last_episode": 6,
+    "last_modified": 1794835799
   },
   "7371": {
     "name": "MAXIMUM PLEASURE GUARANTEED (2026)",
@@ -41696,8 +41696,8 @@
   "7993": {
     "name": "MAIGRET (2025)",
     "last_season": 2,
-    "last_episode": 4,
-    "last_modified": 1794207507
+    "last_episode": 5,
+    "last_modified": 1794835799
   },
   "7994": {
     "name": "MARRY MY HUSBAND: JAPAN (2025)",
@@ -76640,8 +76640,8 @@
   "16734": {
     "name": "HI, I'M A WITCH, AND MY CRUSH WANTS ME TO MAKE A LOVE POTION (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1794235993
+    "last_episode": 7,
+    "last_modified": 1794835799
   },
   "16735": {
     "name": "MAGICAL SISTERS LULUTTO LILLY: PART II (2026) İNGİLİZCE",
@@ -81278,8 +81278,8 @@
   "18653": {
     "name": "THE MOB (2026)",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1794207507
+    "last_episode": 8,
+    "last_modified": 1794835799
   },
   "18658": {
     "name": "SEVDİĞİM SENSİN (2026) TR",
@@ -82088,8 +82088,8 @@
   "19303": {
     "name": "LET’S GO (2026)",
     "last_season": 1,
-    "last_episode": 28,
-    "last_modified": 1794691746
+    "last_episode": 31,
+    "last_modified": 1794835799
   },
   "19304": {
     "name": "BUILT IN LOVE (2026)",
@@ -82130,8 +82130,8 @@
   "19310": {
     "name": "THE FORGOTTEN CONCUBINE’S REVENGE (2026)",
     "last_season": 1,
-    "last_episode": 21,
-    "last_modified": 1794607028
+    "last_episode": 24,
+    "last_modified": 1794835799
   },
   "19311": {
     "name": "SCARLET HEART ULLAVEE (2026)",
@@ -82334,8 +82334,8 @@
   "19512": {
     "name": "SUNSHINE THROUGH THE RAIN (2026)",
     "last_season": 1,
-    "last_episode": 19,
-    "last_modified": 1794778163
+    "last_episode": 20,
+    "last_modified": 1794835799
   },
   "19513": {
     "name": "PALACE (2026)",
@@ -82616,8 +82616,8 @@
   "19780": {
     "name": "LOVE ON THE MENU (2026)",
     "last_season": 1,
-    "last_episode": 30,
-    "last_modified": 1794778163
+    "last_episode": 31,
+    "last_modified": 1794835799
   },
   "19781": {
     "name": "DECODING YOU (2026)",
@@ -82640,8 +82640,8 @@
   "19865": {
     "name": "THE GALWAY BAY MURDERS (2026)",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1794235993
+    "last_episode": 2,
+    "last_modified": 1794835799
   },
   "19903": {
     "name": "HOUSE M.D. (2004)",
@@ -82694,8 +82694,8 @@
   "19992": {
     "name": "THIRTEEN TYPES OF LOVE (2026)",
     "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1794346773
+    "last_episode": 18,
+    "last_modified": 1794835799
   },
   "19993": {
     "name": "YOU SHOULD BE THE ONE TO COME KISS ME (2026)",
@@ -83000,8 +83000,8 @@
   "20666": {
     "name": "FACES REBORN (2026)",
     "last_season": 1,
-    "last_episode": 14,
-    "last_modified": 1794792550
+    "last_episode": 16,
+    "last_modified": 1794835799
   },
   "20713": {
     "name": "SWORD & SILENCE (2026)",
@@ -83018,8 +83018,8 @@
   "20761": {
     "name": "BLOSSOM IN DARKNESS (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1794749648
+    "last_episode": 7,
+    "last_modified": 1794835799
   },
   "20762": {
     "name": "GIFT (2026)",
@@ -83038,5 +83038,11 @@
     "last_season": 1,
     "last_episode": 24,
     "last_modified": 1794792550
+  },
+  "20857": {
+    "name": "ARCTIC SECRETS (2016)",
+    "last_season": 2,
+    "last_episode": 3,
+    "last_modified": 1794835799
   }
 }
