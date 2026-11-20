@@ -5329,9 +5329,9 @@
   },
   "1892": {
     "name": "PERCY JACKSON AND THE OLYMPIANS (2023)",
-    "last_season": 2,
-    "last_episode": 8,
-    "last_modified": 1783174642
+    "last_season": 3,
+    "last_episode": 2,
+    "last_modified": 1795181324
   },
   "1893": {
     "name": "ABSENTIA (2017)",
@@ -7322,8 +7322,8 @@
   "2228": {
     "name": "DEXTER: RESURRECTION (2025)",
     "last_season": 2,
-    "last_episode": 3,
-    "last_modified": 1795123933
+    "last_episode": 4,
+    "last_modified": 1795181324
   },
   "2229": {
     "name": "NIP/TUCK (2003)",
@@ -9944,8 +9944,8 @@
   "2670": {
     "name": "OUTLANDER: BLOOD OF MY BLOOD (2025)",
     "last_season": 2,
-    "last_episode": 8,
-    "last_modified": 1794148884
+    "last_episode": 9,
+    "last_modified": 1795181324
   },
   "2671": {
     "name": "ALL RISE (2019)",
@@ -49028,8 +49028,8 @@
   "9215": {
     "name": "TULSA KING (2022)",
     "last_season": 4,
-    "last_episode": 5,
-    "last_modified": 1795123933
+    "last_episode": 6,
+    "last_modified": 1795181324
   },
   "9216": {
     "name": "TYST I KLASSEN (2025)",
@@ -59450,8 +59450,8 @@
   "10978": {
     "name": "RAGE (2025)",
     "last_season": 2,
-    "last_episode": 6,
-    "last_modified": 1795123933
+    "last_episode": 7,
+    "last_modified": 1795181324
   },
   "10979": {
     "name": "RANGEEN (2025)",
@@ -74402,8 +74402,8 @@
   "16072": {
     "name": "WAR (2026)",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1795123933
+    "last_episode": 8,
+    "last_modified": 1795181324
   },
   "16099": {
     "name": "THE APOTHECARY DIARIES 2ND SEASON (2025) İNGİLİZCE",
@@ -77756,8 +77756,8 @@
   "17853": {
     "name": "YAGA (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1795123933
+    "last_episode": 6,
+    "last_modified": 1795181324
   },
   "17878": {
     "name": "POLITICAL LUPIN (2026)",
@@ -77822,8 +77822,8 @@
   "18035": {
     "name": "RAGE (FURIA) (2025)",
     "last_season": 2,
-    "last_episode": 6,
-    "last_modified": 1795123933
+    "last_episode": 7,
+    "last_modified": 1795181324
   },
   "18041": {
     "name": "RÜZGARIN HİKAYESİ (2026)",
@@ -81428,8 +81428,8 @@
   "18847": {
     "name": "NOCTURNE (2026)",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1795123933
+    "last_episode": 5,
+    "last_modified": 1795181324
   },
   "18871": {
     "name": "A COUPLE OF LIES (2026)",
@@ -82262,14 +82262,14 @@
   "19458": {
     "name": "AWKWAFINA: THE UNLIKELY COOK (2026)",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1795123933
+    "last_episode": 4,
+    "last_modified": 1795181324
   },
   "19501": {
     "name": "MELANIA REA (2026)",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1795123933
+    "last_episode": 3,
+    "last_modified": 1795181324
   },
   "19502": {
     "name": "SUNSHINE THROUGH THE RAIN (0000)",
@@ -82928,8 +82928,8 @@
   "20427": {
     "name": "SILENT NIGHT (2026)",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1794576674
+    "last_episode": 2,
+    "last_modified": 1795181324
   },
   "20428": {
     "name": "CLANGOLD (2026)",
@@ -82946,8 +82946,8 @@
   "20430": {
     "name": "12 12 12 (2026)",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1794576674
+    "last_episode": 3,
+    "last_modified": 1795181324
   },
   "20475": {
     "name": "LOST10 (2026)",
@@ -83434,5 +83434,11 @@
     "last_season": 1,
     "last_episode": 6,
     "last_modified": 1795138247
+  },
+  "21475": {
+    "name": "PERCY JACKSON VE OLIMPOSLULAR (2023)",
+    "last_season": 3,
+    "last_episode": 2,
+    "last_modified": 1795181324
   }
 }
