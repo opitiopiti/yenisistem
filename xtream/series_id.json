@@ -48379,9 +48379,9 @@
   },
   "9107": {
     "name": "GASSAL (2024)",
-    "last_season": 3,
+    "last_season": 4,
     "last_episode": 10,
-    "last_modified": 1783174642
+    "last_modified": 1795138247
   },
   "9108": {
     "name": "GAİN AÇIK MIKROFON (2022)",
@@ -82100,8 +82100,8 @@
   "19305": {
     "name": "A TRAP CALLED DESIRE (2026)",
     "last_season": 1,
-    "last_episode": 60,
-    "last_modified": 1795123933
+    "last_episode": 61,
+    "last_modified": 1795138247
   },
   "19306": {
     "name": "YOU ALONE KNOW ME (2026)",
@@ -82178,8 +82178,8 @@
   "19360": {
     "name": "MISSION: MOMPOSSIBLE (2026)",
     "last_season": 1,
-    "last_episode": 38,
-    "last_modified": 1795123933
+    "last_episode": 39,
+    "last_modified": 1795138247
   },
   "19403": {
     "name": "PRIVATE EYES WEST COAST (2026)",
@@ -82214,8 +82214,8 @@
   "19450": {
     "name": "WELCOME BACK, FIRST LOVE. (2026)",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1795123933
+    "last_episode": 7,
+    "last_modified": 1795138247
   },
   "19451": {
     "name": "THE CHEMISTRY (2026)",
@@ -82238,8 +82238,8 @@
   "19454": {
     "name": "FAMILY REGISTER (2026)",
     "last_season": 1,
-    "last_episode": 83,
-    "last_modified": 1795123933
+    "last_episode": 84,
+    "last_modified": 1795138247
   },
   "19455": {
     "name": "THE SOUND OF SUGAR CUBES (2026)",
@@ -83360,8 +83360,8 @@
   "21232": {
     "name": "HER WILLING SUBJECT (2026)",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1795037345
+    "last_episode": 6,
+    "last_modified": 1795138247
   },
   "21279": {
     "name": "ÇIÇEKÇI KIZ (2026)",
@@ -83422,5 +83422,17 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1795095042
+  },
+  "21427": {
+    "name": "DEVIL’S CREST (2026)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1795138247
+  },
+  "21428": {
+    "name": "ADULTERY (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1795138247
   }
 }
