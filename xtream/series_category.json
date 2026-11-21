@@ -2,6 +2,9 @@
   "1+1 DİZİLERİ": [
     {"name": "SERVANT OF THE PEOPLE", "year": "2015"}
   ],
+  "3CAT DİZİLERİ": [
+    {"name": "GÈNESI", "year": "2026"}
+  ],
   "5 DİZİLERİ": [
     {"name": "ALL CREATURES GREAT AND SMALL", "year": "2020"},
     {"name": "ANNE BOLEYN", "year": "2021"},
@@ -1734,6 +1737,7 @@
     {"name": "THE MYSTERY OF EDWIN DROOD", "year": "2012"},
     {"name": "THE NIGHT MANAGER", "year": "2016"},
     {"name": "THE NORTH WATER", "year": "2021"},
+    {"name": "THE NORTHUMBRIA MYSTERIES", "year": "2026"},
     {"name": "THE OTHER BENNET SISTER", "year": "2026"},
     {"name": "THE OTTOMANS: EUROPE’S MUSLIM EMPERORS", "year": "2013"},
     {"name": "THE OUTCAST", "year": "2015"},
@@ -2105,6 +2109,9 @@
     {"name": "WORST WEEK", "year": "2008"},
     {"name": "YOUNG SHELDON", "year": "2017"},
     {"name": "ZOO", "year": "2015"}
+  ],
+  "CCTV-8 DİZİLERİ": [
+    {"name": "RIVER OF NO RETURN", "year": "2026"}
   ],
   "CH3+ DİZİLERİ": [
     {"name": "DECODING YOU", "year": "2026"}
@@ -7040,6 +7047,7 @@
     {"name": "THE DAYS", "year": "2023"},
     {"name": "THE DECAMERON", "year": "2024"},
     {"name": "THE DEGENERATES", "year": "2018"},
+    {"name": "THE DETOX PROJECT", "year": "2026"},
     {"name": "THE DEVIL NEXT DOOR", "year": "2019"},
     {"name": "THE DEVIL'S PLAN", "year": "2023"},
     {"name": "The Devils Plan", "year": "2023"},
@@ -7715,6 +7723,9 @@
     {"name": "YERALTI", "year": "2026"},
     {"name": "ÖMÜR USTA", "year": "2026"},
     {"name": "ŞAHANE HAYATIM", "year": "2023"}
+  ],
+  "NPO 1 DİZİLERİ": [
+    {"name": "PLEIN", "year": "2026"}
   ],
   "NPO 3 DİZİLERİ": [
     {"name": "GECENIN KADINLARI - WOMEN OF THE NIGHT", "year": "2019"},
