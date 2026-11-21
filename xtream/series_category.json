@@ -375,6 +375,7 @@
     {"name": "DEUTSCHLAND", "year": "2015"},
     {"name": "DEUTSCHLAND 83", "year": "2015"},
     {"name": "DEUTSCHLAND 86", "year": "2018"},
+    {"name": "DEVILS CREST", "year": "2026"},
     {"name": "DEVILS’ CREST", "year": "2026"},
     {"name": "DEVIL’S CREST", "year": "2026"},
     {"name": "DHOOTHA", "year": "2023"},
@@ -3572,6 +3573,9 @@
     {"name": "VIKINGLER", "year": "2013"},
     {"name": "VIKINGS", "year": "2013"}
   ],
+  "HOICHOI DİZİLERİ": [
+    {"name": "MANGOLIK", "year": "2026"}
+  ],
   "HOME NETWORK DİZİLERİ": [
     {"name": "BACKED BY THE BROS", "year": "2024"}
   ],
@@ -6633,6 +6637,7 @@
     {"name": "PSSICA", "year": "2025"},
     {"name": "PUBLIC DISORDER", "year": "2025"},
     {"name": "PUERTA 7", "year": "2020"},
+    {"name": "PULEUNGIL", "year": "2026"},
     {"name": "PULSE", "year": "2025"},
     {"name": "PÁLPITO", "year": "2022"},
     {"name": "Q-FORCE", "year": "2021"},
@@ -9985,6 +9990,9 @@
   "VIU DİZİLERİ": [
     {"name": "THE RULES", "year": "2026"}
   ],
+  "VIVA ONE DİZİLERİ": [
+    {"name": "FIGHT FOR MY WAY", "year": "2026"}
+  ],
   "VIVAONE DİZİLERİ": [
     {"name": "ANG MUTYA NG SECTION E", "year": "2025"}
   ],
@@ -10233,6 +10241,7 @@
   "YOUTUBE DİZİLERİ": [
     {"name": "AŞKIN GÜCÜ", "year": "2022"},
     {"name": "CLAIREBELL", "year": "2025"},
+    {"name": "DHINDORA", "year": "2021"},
     {"name": "I HATE CHRISTMAS", "year": "2022"},
     {"name": "IMPULSE", "year": "2018"},
     {"name": "KINGPIN KATIE", "year": "2019"},
