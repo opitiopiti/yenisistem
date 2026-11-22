@@ -2780,8 +2780,8 @@
   "1464": {
     "name": "BLUE BOX (2024)",
     "last_season": 2,
-    "last_episode": 6,
-    "last_modified": 1795123933
+    "last_episode": 7,
+    "last_modified": 1795354069
   },
   "1465": {
     "name": "SAKAMOTO DAYS (2025)",
@@ -76550,14 +76550,14 @@
   "16648": {
     "name": "AOASHI SEASON 2 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1795123933
+    "last_episode": 8,
+    "last_modified": 1795354069
   },
   "16649": {
     "name": "BLUE BOX SEASON 2 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1795123933
+    "last_episode": 7,
+    "last_modified": 1795354069
   },
   "16650": {
     "name": "HOTEL INHUMANS (2025) İNGİLİZCE",
@@ -76634,8 +76634,8 @@
   "16710": {
     "name": "GET JIRO (2026)",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1795123933
+    "last_episode": 9,
+    "last_modified": 1795354069
   },
   "16734": {
     "name": "HI, I'M A WITCH, AND MY CRUSH WANTS ME TO MAKE A LOVE POTION (2026) İNGİLİZCE",
@@ -77012,8 +77012,8 @@
   "17152": {
     "name": "ACE OF THE DIAMOND: ACT II 2ND SEASON - PART II (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1795123933
+    "last_episode": 7,
+    "last_modified": 1795354069
   },
   "17153": {
     "name": "MISSION: YOZAKURA FAMILY SEASON 2 - PART II (2026) İNGİLİZCE",
@@ -82538,8 +82538,8 @@
   "19679": {
     "name": "CITY OF GOD: THE FIGHT RAGES ON (2024)",
     "last_season": 2,
-    "last_episode": 2,
-    "last_modified": 1795123933
+    "last_episode": 3,
+    "last_modified": 1795354069
   },
   "19680": {
     "name": "TREASURE ISLAND (2026)",
@@ -83530,5 +83530,11 @@
     "last_season": 1,
     "last_episode": 4,
     "last_modified": 1795325363
+  },
+  "21767": {
+    "name": "THE EIGHTH FAMILY (2025)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1795354069
   }
 }
