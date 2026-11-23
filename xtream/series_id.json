@@ -75758,8 +75758,8 @@
   "16376": {
     "name": "GÖNÜL DAĞI (2020)",
     "last_season": 7,
-    "last_episode": 11,
-    "last_modified": 1794893370
+    "last_episode": 12,
+    "last_modified": 1795411715
   },
   "16377": {
     "name": "O KIZ (2022) TR",
@@ -76760,8 +76760,8 @@
   "16873": {
     "name": "BAŞKALARININ HAYATI (2026) TR",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1795123933
+    "last_episode": 8,
+    "last_modified": 1795411715
   },
   "16897": {
     "name": "SASAKI AND PEEPS SEASON 2 (2026) İNGİLİZCE",
@@ -77162,7 +77162,7 @@
   "17366": {
     "name": "YÜZÜKLERIN EFENDISI: GÜÇ YÜZÜKLERI - THE LORD OF THE RINGS: THE RINGS OF POWER (2022)",
     "last_season": 3,
-    "last_episode": 7,
+    "last_episode": 6,
     "last_modified": 1795066119
   },
   "17390": {
@@ -80852,8 +80852,8 @@
   "18553": {
     "name": "100일의 거짓말 (2026)",
     "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1795123933
+    "last_episode": 13,
+    "last_modified": 1795411715
   },
   "18554": {
     "name": "닥터X: 하얀 마피아의 시대 (2026)",
@@ -81488,8 +81488,8 @@
   "19032": {
     "name": "SON MASA (2026)",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1795123933
+    "last_episode": 9,
+    "last_modified": 1795411715
   },
   "19033": {
     "name": "MUHAFIZLAR: GİZLİ PROJE (2025)",
@@ -83554,5 +83554,11 @@
     "last_season": 1,
     "last_episode": 2,
     "last_modified": 1795397270
+  },
+  "21909": {
+    "name": "THE PARTY (2026)",
+    "last_season": 1,
+    "last_episode": 5,
+    "last_modified": 1795411715
   }
 }
