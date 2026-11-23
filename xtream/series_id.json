@@ -74366,8 +74366,8 @@
   "16040": {
     "name": "UMAYURU: FULL GATE! (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1795123933
+    "last_episode": 9,
+    "last_modified": 1795426115
   },
   "16041": {
     "name": "UMAYURU: PRETTY GRAY (2025) İNGİLİZCE",
@@ -83560,5 +83560,17 @@
     "last_season": 1,
     "last_episode": 5,
     "last_modified": 1795411715
+  },
+  "21956": {
+    "name": "KIZILCIK ŞERBETI (2022) TR",
+    "last_season": 5,
+    "last_episode": 147,
+    "last_modified": 1795426115
+  },
+  "21957": {
+    "name": "PLATONIC (2025)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1795426115
   }
 }
