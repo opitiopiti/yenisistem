@@ -94,12 +94,14 @@
   "setfilmizle": { 
     "priority": 24, 
     "enabled": true },
-    
-  "dosyaload": { 
+
+  "dizilab2": { 
     "priority": 25, 
     "enabled": true },
 
-
+  "dosyaload": { 
+    "priority": 26, 
+    "enabled": true },
   
 
   "hdplayersystem": { 
