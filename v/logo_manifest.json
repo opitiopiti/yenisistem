@@ -4579,6 +4579,7 @@
   "italy:bianconerajuventustv": "it/bianconerajuventustv.png",
   "italy:blaze": "it/blaze.png",
   "italy:bloombergtv": "it/bloombergtv.png",
+  "italy:bloombergtv4k": "it/bloombergtv4k.png",
   "italy:bloombergtvemealiveevent": "it/bloombergtvemealiveevent.png",
   "italy:boing": "it/boing.png",
   "italy:boingplus": "it/boingplus.png",
@@ -6037,6 +6038,7 @@
   "romania:trinitas": "ro/trinitas.png",
   "romania:truecinema": "ro/truecinema.png",
   "romania:tv1000": "ro/tv1000.png",
+  "romania:tv5monde": "ro/tv5monde.png",
   "romania:tvr1": "ro/tvr1.png",
   "romania:tvr2": "ro/tvr2.png",
   "romania:tvr3": "ro/tvr3.png",
@@ -6716,6 +6718,7 @@
   "turkey:beinboxoffice2": "tr/beinboxoffice2.png",
   "turkey:beinboxoffice3": "tr/beinboxoffice3.png",
   "turkey:beingurme": "tr/beingurme.png",
+  "turkey:beingurmehd": "tr/beingurme.png",
   "turkey:beiniz": "tr/beiniz.png",
   "turkey:beiniztv": "tr/beiniztv.png",
   "turkey:beinmoviesaction": "tr/beinmoviesaction.png",
@@ -8004,6 +8007,7 @@
   "unitedkingdom:laserfilmshistory": "gb/laserfilmshistory.png",
   "unitedkingdom:laserilmscrime": "gb/laserilmscrime.png",
   "unitedkingdom:legendxtra": "gb/legendxtra.png",
+  "unitedkingdom:lfctv": "gb/lfctv.png",
   "unitedkingdom:lincolncityfc": "gb/lincolncityfc.png",
   "unitedkingdom:live360": "gb/live360.png",
   "unitedkingdom:liverpoolfc": "gb/liverpoolfc.png",
@@ -8322,5 +8326,6 @@
   "unitedkingdom:xmastv": "gb/xmastv.png",
   "unitedkingdom:yellowstone": "gb/yellowstone.png",
   "unitedkingdom:yesterday": "gb/yesterday.png",
-  "unitedkingdom:yesterday1": "gb/yesterday1.png"
+  "unitedkingdom:yesterday1": "gb/yesterday1.png",
+  "unitedkingdom:zeetvindia": "gb/zeetvindia.png"
 }
