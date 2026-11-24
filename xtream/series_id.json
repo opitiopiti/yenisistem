@@ -75254,8 +75254,8 @@
   "16292": {
     "name": "UZAK ŞEHIR (2024) TR",
     "last_season": 3,
-    "last_episode": 10,
-    "last_modified": 1794979727
+    "last_episode": 74,
+    "last_modified": 1795498118
   },
   "16293": {
     "name": "DEHA (2024) TR",
@@ -77840,8 +77840,8 @@
   "18043": {
     "name": "KILIK DEĞİŞTİREN AŞK (2026)",
     "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1795123933
+    "last_episode": 11,
+    "last_modified": 1795498118
   },
   "18044": {
     "name": "SENDEN BAŞKA BİR AŞK (2026)",
@@ -78914,8 +78914,8 @@
   "18223": {
     "name": "CİTY OF GOD: SAVAŞ DEVAM EDİYOR (2024)",
     "last_season": 2,
-    "last_episode": 2,
-    "last_modified": 1795123933
+    "last_episode": 3,
+    "last_modified": 1795498118
   },
   "18224": {
     "name": "GELMİŞ GEÇMİŞ EN KÖTÜ PARTNER (2024)",
@@ -81488,8 +81488,8 @@
   "19032": {
     "name": "SON MASA (2026)",
     "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1795411715
+    "last_episode": 10,
+    "last_modified": 1795498118
   },
   "19033": {
     "name": "MUHAFIZLAR: GİZLİ PROJE (2025)",
@@ -83602,5 +83602,29 @@
     "last_season": 1,
     "last_episode": 3,
     "last_modified": 1795469300
+  },
+  "22055": {
+    "name": "PHOENIX (2024)",
+    "last_season": 1,
+    "last_episode": 7,
+    "last_modified": 1795498118
+  },
+  "22056": {
+    "name": "THE EMPEROR OF TASTE (2008)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1795498118
+  },
+  "22057": {
+    "name": "HEIN (2024)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1795498118
+  },
+  "22058": {
+    "name": "DIG (2026)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1795498118
   }
 }
