@@ -7746,6 +7746,9 @@
     {"name": "GECENIN KADINLARI - WOMEN OF THE NIGHT", "year": "2019"},
     {"name": "WOMEN OF THE NIGHT", "year": "2019"}
   ],
+  "NPO START DİZİLERİ": [
+    {"name": "HEIN", "year": "2024"}
+  ],
   "NRK DİZİLERİ": [
     {"name": "ELFLER", "year": "2021"},
     {"name": "EXIT", "year": "2019"},
@@ -8044,6 +8047,7 @@
     {"name": "DAN BROWN’S THE LOST SYMBOL", "year": "2021"},
     {"name": "DEPARTURE", "year": "2019"},
     {"name": "DEVIL IN DISGUISE: JOHN WAYNE GACY", "year": "2025"},
+    {"name": "DIG", "year": "2026"},
     {"name": "DR. DEATH", "year": "2021"},
     {"name": "FIGHT NIGHT: THE MILLION DOLLAR HEIST", "year": "2024"},
     {"name": "GIZEMLI YÜZ", "year": "2023"},
@@ -10021,6 +10025,7 @@
     {"name": "LOS ZAND", "year": "2009"},
     {"name": "STILL WATERS", "year": "2025"},
     {"name": "TABULA RASA", "year": "2017"},
+    {"name": "THE EMPEROR OF TASTE", "year": "2008"},
     {"name": "TWEE ZOMERS", "year": "2022"},
     {"name": "TWO SUMMERS", "year": "2022"},
     {"name": "UNDERCOVER", "year": "2019"}
