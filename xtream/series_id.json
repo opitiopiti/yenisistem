@@ -4430,8 +4430,8 @@
   "1739": {
     "name": "THE SIMPSONS (1989)",
     "last_season": 38,
-    "last_episode": 7,
-    "last_modified": 1795123933
+    "last_episode": 8,
+    "last_modified": 1795584466
   },
   "1740": {
     "name": "AKAME GA KILL! (2014)",
@@ -36224,8 +36224,8 @@
   "7077": {
     "name": "ŞEYTANIN AKLINA GELMEZ (2023)",
     "last_season": 3,
-    "last_episode": 5,
-    "last_modified": 1795123933
+    "last_episode": 14,
+    "last_modified": 1795584466
   },
   "7078": {
     "name": "GAUS ELECTRONICS (2022)",
@@ -43010,8 +43010,8 @@
   "8212": {
     "name": "STICK (2025)",
     "last_season": 2,
-    "last_episode": 4,
-    "last_modified": 1795123933
+    "last_episode": 5,
+    "last_modified": 1795584466
   },
   "8213": {
     "name": "STRANGE HEROES (2009)",
@@ -44708,8 +44708,8 @@
   "8495": {
     "name": "WHERE'S WANDA? (2024)",
     "last_season": 2,
-    "last_episode": 5,
-    "last_modified": 1795123933
+    "last_episode": 6,
+    "last_modified": 1795584466
   },
   "8496": {
     "name": "WHITE FEVER (2024)",
@@ -77840,8 +77840,8 @@
   "18043": {
     "name": "KILIK DEĞİŞTİREN AŞK (2026)",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1795498118
+    "last_episode": 12,
+    "last_modified": 1795584466
   },
   "18044": {
     "name": "SENDEN BAŞKA BİR AŞK (2026)",
@@ -81428,8 +81428,8 @@
   "18847": {
     "name": "NOCTURNE (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1795181324
+    "last_episode": 6,
+    "last_modified": 1795584466
   },
   "18871": {
     "name": "A COUPLE OF LIES (2026)",
@@ -83632,5 +83632,23 @@
     "last_season": 1,
     "last_episode": 1,
     "last_modified": 1795570075
+  },
+  "22152": {
+    "name": "THE GIRLS: A KHLOÉ KARDASHIAN PROJECT (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1795584466
+  },
+  "22153": {
+    "name": "REWARDING (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1795584466
+  },
+  "22154": {
+    "name": "I REALLY REALLY LIKE YOU (2006)",
+    "last_season": 1,
+    "last_episode": 34,
+    "last_modified": 1795584466
   }
 }
