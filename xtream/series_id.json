@@ -63440,8 +63440,8 @@
   "11647": {
     "name": "WHERE’S WANDA? (2024)",
     "last_season": 2,
-    "last_episode": 5,
-    "last_modified": 1795123933
+    "last_episode": 6,
+    "last_modified": 1795600723
   },
   "11648": {
     "name": "WHITE CHRISTMAS (2011)",
@@ -65582,8 +65582,8 @@
   "12006": {
     "name": "YÜZÜKLERIN EFENDISI: GÜÇ YÜZÜKLERI (2022)",
     "last_season": 3,
-    "last_episode": 6,
-    "last_modified": 1795123933
+    "last_episode": 8,
+    "last_modified": 1795600723
   },
   "12007": {
     "name": "ZAMAN ÇARKI (2021)",
@@ -82262,8 +82262,8 @@
   "19458": {
     "name": "AWKWAFINA: THE UNLIKELY COOK (2026)",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1795181324
+    "last_episode": 5,
+    "last_modified": 1795600723
   },
   "19501": {
     "name": "MELANIA REA (2026)",
@@ -83650,5 +83650,11 @@
     "last_season": 1,
     "last_episode": 34,
     "last_modified": 1795584466
+  },
+  "22201": {
+    "name": "BLADE RUNNER 2099 (2026)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1795600723
   }
 }
