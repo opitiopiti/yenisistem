@@ -49988,7 +49988,7 @@
   "9378": {
     "name": "ONLY FOR LOVE (2023)",
     "last_season": 1,
-    "last_episode": 36,
+    "last_episode": 6,
     "last_modified": 1783174642
   },
   "9379": {
@@ -78524,8 +78524,8 @@
   "18157": {
     "name": "OYUNA DEVAM (2025)",
     "last_season": 2,
-    "last_episode": 4,
-    "last_modified": 1795123933
+    "last_episode": 5,
+    "last_modified": 1795670858
   },
   "18158": {
     "name": "GENÇ MİLYONERLER (2025)",
@@ -79544,8 +79544,8 @@
   "18328": {
     "name": "YÜZÜKLERİN EFENDİSİ: GÜÇ YÜZÜKLERİ (2022)",
     "last_season": 3,
-    "last_episode": 6,
-    "last_modified": 1795123933
+    "last_episode": 8,
+    "last_modified": 1795670858
   },
   "18329": {
     "name": "GÜNEŞİN KARANLIĞINDA (2022)",
@@ -83686,5 +83686,53 @@
     "last_season": 1,
     "last_episode": 2,
     "last_modified": 1795642076
+  },
+  "22345": {
+    "name": "THE DUKE'S SON CLAIMS HE WON'T LOVE ME YET SHOWERS ME WITH ADORATION (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1795670858
+  },
+  "22346": {
+    "name": "SPRING FEVER (2025)",
+    "last_season": 1,
+    "last_episode": 12,
+    "last_modified": 1795670858
+  },
+  "22347": {
+    "name": "THE MIDNIGHT ROMANCE IN HAGWON (2024)",
+    "last_season": 1,
+    "last_episode": 16,
+    "last_modified": 1795670858
+  },
+  "22348": {
+    "name": "YOUR HONOR (2024)",
+    "last_season": 2,
+    "last_episode": 9,
+    "last_modified": 1795670858
+  },
+  "22349": {
+    "name": "SABIKUI BISCO (2022)",
+    "last_season": 1,
+    "last_episode": 12,
+    "last_modified": 1795670858
+  },
+  "22350": {
+    "name": "4 REASONS WHY I HATE X-MAS (2019)",
+    "last_season": 2,
+    "last_episode": 6,
+    "last_modified": 1795670858
+  },
+  "22351": {
+    "name": "TOMORROW, I'LL SURELY LOVE YOU AGAIN (2016)",
+    "last_season": 1,
+    "last_episode": 12,
+    "last_modified": 1795670858
+  },
+  "22352": {
+    "name": "SOIL (2010)",
+    "last_season": 1,
+    "last_episode": 8,
+    "last_modified": 1795670858
   }
 }
