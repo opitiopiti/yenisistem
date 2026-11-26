@@ -34532,8 +34532,8 @@
   "6792": {
     "name": "Fx Fighter Kurumi-Chan (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1795688972
+    "last_episode": 9,
+    "last_modified": 1795699380
   },
   "6793": {
     "name": "Gensou Suikoden (2026) İNGİLİZCE",
@@ -46502,8 +46502,8 @@
   "8814": {
     "name": "Love in the Ashes (2026) TR",
     "last_season": 1,
-    "last_episode": 11,
-    "last_modified": 1795688972
+    "last_episode": 12,
+    "last_modified": 1795699380
   },
   "8815": {
     "name": "Welcome Back, First Love. (2026)",
@@ -55666,5 +55666,17 @@
     "last_season": 1,
     "last_episode": 10,
     "last_modified": 1795688972
+  },
+  "10426": {
+    "name": "Fool Night (2026) İNGİLİZCE",
+    "last_season": 1,
+    "last_episode": 5,
+    "last_modified": 1795699380
+  },
+  "10427": {
+    "name": "Toos: the Van Der Valk Kidnapping (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1795699380
   }
 }
