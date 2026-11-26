@@ -34712,8 +34712,8 @@
   "6822": {
     "name": "Tetsuryo! Meet With Tetsudou Musume (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1795688972
+    "last_episode": 8,
+    "last_modified": 1795713848
   },
   "6823": {
     "name": "The Apothecary Diaries 3Rd Season (2026) İNGİLİZCE",
@@ -34736,8 +34736,8 @@
   "6826": {
     "name": "The Exiled Heavy Knight Knows How to Game the System (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 21,
-    "last_modified": 1795688972
+    "last_episode": 22,
+    "last_modified": 1795713848
   },
   "6827": {
     "name": "The Iceblade Sorcerer Shall Rule the World II (2026) İNGİLİZCE",
@@ -34760,8 +34760,8 @@
   "6830": {
     "name": "The Ramparts of Ice Season 2 (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1795688972
+    "last_episode": 9,
+    "last_modified": 1795713848
   },
   "6831": {
     "name": "The Seven Knights of the Marronnier Kingdom (2026) İNGİLİZCE",
@@ -49928,8 +49928,8 @@
   "9392": {
     "name": "What A Boss Wants (2026)",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1795688972
+    "last_episode": 6,
+    "last_modified": 1795713848
   },
   "9393": {
     "name": "My Secret Boyfriends (2026)",
@@ -50516,8 +50516,8 @@
   "9491": {
     "name": "Nine to Six (2026)",
     "last_season": 1,
-    "last_episode": 1,
-    "last_modified": 1795688972
+    "last_episode": 2,
+    "last_modified": 1795713848
   },
   "9492": {
     "name": "Shinji: Double Shuffle (2026)",
@@ -55670,13 +55670,19 @@
   "10426": {
     "name": "Fool Night (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 5,
-    "last_modified": 1795699380
+    "last_episode": 12,
+    "last_modified": 1795713848
   },
   "10427": {
     "name": "Toos: the Van Der Valk Kidnapping (2026)",
     "last_season": 1,
     "last_episode": 6,
     "last_modified": 1795699380
+  },
+  "10499": {
+    "name": "Always on Call (2026)",
+    "last_season": 1,
+    "last_episode": 7,
+    "last_modified": 1795713848
   }
 }
