@@ -2776,6 +2776,7 @@
     {"name": "LIKE FLOWERS IN SAND", "year": "2023"},
     {"name": "MOON IN THE DAY", "year": "2023"},
     {"name": "TASTEFULLY YOURS", "year": "2025"},
+    {"name": "YOUR HONOR", "year": "2024"},
     {"name": "유어 아너", "year": "2024"}
   ],
   "EROS NOW DİZİLERİ": [
@@ -3081,6 +3082,7 @@
     {"name": "THE GHOST IN THE SHELL - BÖLÜM 01: GİRİŞ + SÜPER SPARTALI İ", "year": "2026"},
     {"name": "THE PROMISED NEVERLAND", "year": "2019"},
     {"name": "Thunder 3", "year": "2026"},
+    {"name": "TOMORROW, I'LL SURELY LOVE YOU AGAIN", "year": "2016"},
     {"name": "WHAT WE LOSE TO LOVE", "year": "2022"},
     {"name": "YAKUSOKU NO NEVERLAND", "year": "2019"},
     {"name": "YOU SHOULD BE THE ONE TO COME KISS ME", "year": "2026"},
@@ -4458,6 +4460,7 @@
     {"name": "FATE BEYOND SCRIPT", "year": "2026"},
     {"name": "FIREWORKS OF MY HEART", "year": "2023"},
     {"name": "ONLY FOR LOVE", "year": "2022"},
+    {"name": "ONLY FOR LOVE", "year": "2023"},
     {"name": "PERFECT MATCH", "year": "2025"},
     {"name": "SUNSHINE THROUGH THE RAIN", "year": "2026"},
     {"name": "TAMING THE HUSBAND", "year": "2026"},
@@ -4743,6 +4746,7 @@
     {"name": "THE MIRACLE", "year": "2016"},
     {"name": "THE OUTSTANDING WOMAN", "year": "2014"},
     {"name": "THE SOUND OF YOUR HEART", "year": "2016"},
+    {"name": "THE SWEET BLOOD", "year": "2021"},
     {"name": "달달한 그놈", "year": "2021"}
   ],
   "NBC DİZİLERİ": [
@@ -9223,6 +9227,9 @@
     {"name": "YOU ALONE KNOW ME", "year": "2026"},
     {"name": "暗渡春华", "year": "2025"}
   ],
+  "TENCENT VIDEO DİZİLERİ": [
+    {"name": "SPRING FEVER", "year": "2025"}
+  ],
   "TF1 DİZİLERİ": [
     {"name": "JO-GAK-DO-SI", "year": "2025"},
     {"name": "LE BAZAR DE LA CHARITÉ", "year": "2019"},
@@ -9433,6 +9440,7 @@
     {"name": "NIPPON SANGOKU: KIZIL GÜNEŞIN ÜÇ ULUSU - NIPPON SANGOKU: THE THREE NATIONS OF THE CRIMSON SUN", "year": "2026"},
     {"name": "NORAGAMI", "year": "2014"},
     {"name": "OSHI NO KO", "year": "2023"},
+    {"name": "SABIKUI BISCO", "year": "2022"},
     {"name": "SERAPH OF THE END", "year": "2015"},
     {"name": "SOLO LEVELING", "year": "2024"},
     {"name": "SPARKS OF TOMORROW", "year": "2026"},
@@ -9552,6 +9560,7 @@
     {"name": "SILENT TRUTH", "year": "2026"},
     {"name": "SLAM DUNK", "year": "1993"},
     {"name": "THE DANGERS IN MY HEART", "year": "2023"},
+    {"name": "THE DUKE'S SON CLAIMS HE WON'T LOVE ME YET SHOWERS ME WITH ADORATION", "year": "2026"},
     {"name": "THE END OF THE WORLD WITH YOU", "year": "2023"},
     {"name": "THEIR MARRIAGE", "year": "2025"},
     {"name": "「きみを愛する気はない」と言った次期公爵様がなぜか溺愛してきます", "year": "2026"}
@@ -9835,6 +9844,7 @@
     {"name": "THE GREAT SHOW", "year": "2019"},
     {"name": "THE K2", "year": "2016"},
     {"name": "THE LIAR AND HIS LOVER", "year": "2017"},
+    {"name": "THE MIDNIGHT ROMANCE IN HAGWON", "year": "2024"},
     {"name": "THE POTATO LAB", "year": "2025"},
     {"name": "THE ROAD: THE TRAGEDY OF ONE", "year": "2021"},
     {"name": "THE SMILE HAS LEFT YOUR EYES", "year": "2018"},
@@ -10109,6 +10119,7 @@
   ],
   "WOWOW PRIME DİZİLERİ": [
     {"name": "GOLDEN KAMUY – THE HUNT OF PRISONERS IN HOKKAIDO", "year": "2024"},
+    {"name": "SOIL", "year": "2010"},
     {"name": "SOIL ソイル", "year": "2010"}
   ],
   "XTVN DİZİLERİ": [
@@ -10268,6 +10279,7 @@
     {"name": "无可替代", "year": "2026"}
   ],
   "YOUTUBE DİZİLERİ": [
+    {"name": "4 REASONS WHY I HATE X-MAS", "year": "2019"},
     {"name": "AŞKIN GÜCÜ", "year": "2022"},
     {"name": "CLAIREBELL", "year": "2025"},
     {"name": "DHINDORA", "year": "2021"},
