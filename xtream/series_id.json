@@ -1964,8 +1964,8 @@
   "1329": {
     "name": "Dexter: Resurrection (2025)",
     "last_season": 2,
-    "last_episode": 4,
-    "last_modified": 1795688972
+    "last_episode": 5,
+    "last_modified": 1795800203
   },
   "1330": {
     "name": "Dexter (2006)",
@@ -5180,8 +5180,8 @@
   "1867": {
     "name": "Percy Jackson and the Olympians (2023)",
     "last_season": 3,
-    "last_episode": 2,
-    "last_modified": 1795688972
+    "last_episode": 4,
+    "last_modified": 1795800203
   },
   "1868": {
     "name": "Perşembe Dulları (2023)",
@@ -8082,7 +8082,7 @@
     "last_modified": 1795688972
   },
   "2352": {
-    "name": "Widow'S Bay (2026)",
+    "name": "Widow’S Bay (2026)",
     "last_season": 1,
     "last_episode": 10,
     "last_modified": 1795688972
@@ -34418,8 +34418,8 @@
   "6773": {
     "name": "A Certain Dark Side'S Item (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1795688972
+    "last_episode": 8,
+    "last_modified": 1795800203
   },
   "6774": {
     "name": "A Returner'S Magic Should Be Special Season 2 (2026) İNGİLİZCE",
@@ -34514,8 +34514,8 @@
   "6789": {
     "name": "Firefly Wedding (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 7,
-    "last_modified": 1795688972
+    "last_episode": 8,
+    "last_modified": 1795800203
   },
   "6790": {
     "name": "From Far Away (2026) İNGİLİZCE",
@@ -34688,8 +34688,8 @@
   "6818": {
     "name": "Sorry About My Little Brothers (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 20,
-    "last_modified": 1795688972
+    "last_episode": 21,
+    "last_modified": 1795800203
   },
   "6819": {
     "name": "So What'S Wrong With Getting Reborn As A Goblin? (2026) İNGİLİZCE",
@@ -34718,8 +34718,8 @@
   "6823": {
     "name": "The Apothecary Diaries 3Rd Season (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1795688972
+    "last_episode": 9,
+    "last_modified": 1795800203
   },
   "6824": {
     "name": "The Cold Sato-San Is Only Sweet to Me (2026) İNGİLİZCE",
@@ -34790,8 +34790,8 @@
   "6835": {
     "name": "Tougen Anki: Nikko Kegon Falls Arc (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1795688972
+    "last_episode": 9,
+    "last_modified": 1795800203
   },
   "6836": {
     "name": "Umayuru: Full Gate! (2026) İNGİLİZCE",
@@ -34940,8 +34940,8 @@
   "6860": {
     "name": "Rage (Furia) (2025)",
     "last_season": 2,
-    "last_episode": 7,
-    "last_modified": 1795688972
+    "last_episode": 8,
+    "last_modified": 1795800203
   },
   "6862": {
     "name": "The Lament of Autumn (2026)",
@@ -34976,8 +34976,8 @@
   "6868": {
     "name": "Yaga (2026)",
     "last_season": 1,
-    "last_episode": 6,
-    "last_modified": 1795688972
+    "last_episode": 8,
+    "last_modified": 1795800203
   },
   "6869": {
     "name": "Youth (2026)",
@@ -46568,8 +46568,8 @@
   "8825": {
     "name": "Melania Rea (2026)",
     "last_season": 1,
-    "last_episode": 3,
-    "last_modified": 1795688972
+    "last_episode": 4,
+    "last_modified": 1795800203
   },
   "8826": {
     "name": "Sunshine Through the Rain (0000)",
@@ -47036,8 +47036,8 @@
   "8906": {
     "name": "Demons' Crest (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1795688972
+    "last_episode": 5,
+    "last_modified": 1795800203
   },
   "8907": {
     "name": "Love Me to Hurt Me (2026)",
@@ -50042,8 +50042,8 @@
   "9411": {
     "name": "Silent Night (2026)",
     "last_season": 1,
-    "last_episode": 2,
-    "last_modified": 1795688972
+    "last_episode": 3,
+    "last_modified": 1795800203
   },
   "9412": {
     "name": "Clangold (2026)",
@@ -57862,5 +57862,11 @@
     "last_season": 1,
     "last_episode": 4,
     "last_modified": 1795771621
+  },
+  "11262": {
+    "name": "The Art of Deception (0000)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1795800203
   }
 }
