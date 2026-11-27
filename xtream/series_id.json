@@ -34574,8 +34574,8 @@
   "6799": {
     "name": "Jojo'S Bizarre Adventure: Steel Ball Run (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 10,
-    "last_modified": 1795688972
+    "last_episode": 11,
+    "last_modified": 1795771621
   },
   "6800": {
     "name": "Magical Explorer (2026) İNGİLİZCE",
@@ -34814,8 +34814,8 @@
   "6839": {
     "name": "Welsh & Shedar (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 4,
-    "last_modified": 1795688972
+    "last_episode": 5,
+    "last_modified": 1795771621
   },
   "6840": {
     "name": "100 Days of Deception (2026)",
@@ -38936,8 +38936,8 @@
   "7552": {
     "name": "Güneşin Doğduğu Yer (2026) TR",
     "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1795728184
+    "last_episode": 10,
+    "last_modified": 1795771621
   },
   "7553": {
     "name": "Happy'S Place (2024)",
@@ -50660,8 +50660,8 @@
   "9515": {
     "name": "Proxy Kontrol (2099) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 9,
-    "last_modified": 1795688972
+    "last_episode": 10,
+    "last_modified": 1795771621
   },
   "9516": {
     "name": "Mairimashita Iruma Kun Welcome to Demon School (2019)",
@@ -57850,5 +57850,17 @@
     "last_season": 1,
     "last_episode": 7,
     "last_modified": 1795757054
+  },
+  "11180": {
+    "name": "Style Wars (2026)",
+    "last_season": 1,
+    "last_episode": 6,
+    "last_modified": 1795771621
+  },
+  "11181": {
+    "name": "A Filipino Christmas (0000)",
+    "last_season": 1,
+    "last_episode": 4,
+    "last_modified": 1795771621
   }
 }
