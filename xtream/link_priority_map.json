@@ -99,8 +99,12 @@
     "priority": 25, 
     "enabled": true },
 
-  "dosyaload": { 
+  "dizibal": { 
     "priority": 26, 
+    "enabled": true },
+
+  "dosyaload": { 
+    "priority": 27, 
     "enabled": true },
   
 
