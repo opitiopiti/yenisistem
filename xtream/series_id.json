@@ -34682,8 +34682,8 @@
   "6817": {
     "name": "Sgt. Frog (2026) (2026) İNGİLİZCE",
     "last_season": 1,
-    "last_episode": 8,
-    "last_modified": 1795688972
+    "last_episode": 9,
+    "last_modified": 1795843399
   },
   "6818": {
     "name": "Sorry About My Little Brothers (2026) İNGİLİZCE",
@@ -57880,5 +57880,29 @@
     "last_season": 1,
     "last_episode": 2,
     "last_modified": 1795829008
+  },
+  "11425": {
+    "name": "The Art of Deception (2026)",
+    "last_season": 1,
+    "last_episode": 3,
+    "last_modified": 1795843399
+  },
+  "11426": {
+    "name": "The Cursed Zoo (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1795843399
+  },
+  "11427": {
+    "name": "Expediente Linares (2026)",
+    "last_season": 1,
+    "last_episode": 2,
+    "last_modified": 1795843399
+  },
+  "11428": {
+    "name": "The Real Rooneys (2026)",
+    "last_season": 1,
+    "last_episode": 10,
+    "last_modified": 1795843399
   }
 }
